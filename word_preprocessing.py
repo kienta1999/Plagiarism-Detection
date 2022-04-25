@@ -1,11 +1,13 @@
 import string
-import re
+import os
 import contractions
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+
+os.environ["PYTHONHASHSEED"] = '0'
 
 # https://analyticsindiamag.com/complete-tutorial-on-text-preprocessing-in-nlp/
 
@@ -40,6 +42,13 @@ class TextPresprocessing:
             lem = lemma.lemmatize(i, pos='v')
             lemmas.append(lem)
         self.text = lemmas  
-        
-y = TextPresprocessing("haha  hehe used using enjoying enjoyed")
-print(y.preprocess())
+    
+    def get_shingles(self, k=2):
+        hashed_shingles = []
+        for i in range(len(self.text) - k + 1):
+            hashed_shingles.append(hash(tuple(self.text[i:i+k])))
+        return hashed_shingles
+
+if __name__=='__main__':
+    y = TextPresprocessing("haha  hehe used using enjoying enjoyed enjoying enjoyed")
+    print(y.preprocess())
