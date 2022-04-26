@@ -1,0 +1,62 @@
+[
+    {
+        "name": "15.txt",
+        "copy_from": [
+            { "file": "11.txt", "num_sentence": 1 },
+            { "file": "10.txt", "num_sentence": 2 },
+            { "file": "9.txt", "num_sentence": 2 },
+            { "file": "1.txt", "num_sentence": 3 },
+            { "file": "12.txt", "num_sentence": 4 }
+        ]
+    },
+    {
+        "name": "16.txt",
+        "copy_from": [
+            { "file": "11.txt", "num_sentence": 2 },
+            { "file": "11.txt", "num_sentence": 3 },
+            { "file": "4.txt", "num_sentence": 4 },
+            { "file": "1.txt", "num_sentence": 4 },
+            { "file": "2.txt", "num_sentence": 5 }
+        ]
+    },
+    {
+        "name": "17.txt",
+        "copy_from": [
+            { "file": "5.txt", "num_sentence": 4 },
+            { "file": "2.txt", "num_sentence": 1 },
+            { "file": "3.txt", "num_sentence": 2 },
+            { "file": "6.txt", "num_sentence": 1 },
+            { "file": "2.txt", "num_sentence": 2 }
+        ]
+    },
+    {
+        "name": "18.txt",
+        "copy_from": [
+            { "file": "14.txt", "num_sentence": 1 },
+            { "file": "6.txt", "num_sentence": 1 },
+            { "file": "9.txt", "num_sentence": 5 },
+            { "file": "3.txt", "num_sentence": 5 },
+            { "file": "11.txt", "num_sentence": 3 }
+        ]
+    },
+    {
+        "name": "19.txt",
+        "copy_from": [
+            { "file": "8.txt", "num_sentence": 3 },
+            { "file": "13.txt", "num_sentence": 4 },
+            { "file": "7.txt", "num_sentence": 3 },
+            { "file": "1.txt", "num_sentence": 4 },
+            { "file": "0.txt", "num_sentence": 3 }
+        ]
+    },
+    {
+        "name": "20.txt",
+        "copy_from": [
+            { "file": "12.txt", "num_sentence": 1 },
+            { "file": "9.txt", "num_sentence": 1 },
+            { "file": "8.txt", "num_sentence": 4 },
+            { "file": "0.txt", "num_sentence": 5 },
+            { "file": "8.txt", "num_sentence": 1 }
+        ]
+    }
+]
