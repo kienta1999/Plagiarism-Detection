@@ -17,6 +17,9 @@ def get_random_text(database_file, num_sentence):
     f.close()
     return content[index:index+num_sentence]
 
+def word_count(text_from_db):
+    return sum([len(text.split()) for text in text_from_db])
+
 def mutate_origin_pattern(original_pattern_file):
     f = open(original_pattern_file, 'r')
     original_pattern = f.read().split('.')
@@ -28,7 +31,7 @@ def mutate_origin_pattern(original_pattern_file):
         database_file_path = os.path.join(PATH_TO_SAMPLE_DATABASE, database_file)
         num_sentence = random.randint(1, MAX_NUM_SENTENCE)
         text_from_db = get_random_text(database_file_path, num_sentence)
-        chosen_files.append({"file": database_file, "num_sentence": len(text_from_db)})
+        chosen_files.append({"file": database_file, "num_sentence": len(text_from_db), "word_count": word_count(text_from_db)})
         index_original_pattern = random.randint(0, len(original_pattern))
         # insert a random portion from db to the original pattern
         original_pattern[index_original_pattern:index_original_pattern] = text_from_db
