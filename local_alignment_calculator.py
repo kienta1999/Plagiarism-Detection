@@ -1,7 +1,7 @@
 def default_score(c1, c2):
     return 1 if c1 == c2 else -1
 class LocalAlignmentCalculator():
-    def __init__(self, S, T, g, score = default_score):
+    def __init__(self, S, T, g=1, score = default_score):
         self.S = S
         self.T = T
         self.g = g
@@ -19,11 +19,10 @@ class LocalAlignmentCalculator():
                     0
                 )
                 ans = max(ans, L[i][j])
-        print(L)
         return ans
 
 if __name__=='__main__':
-    cal = LocalAlignmentCalculator(["hi", "hello", "this", "is", "kien"], ["hi", "hello", "trin", "is", "kien"], 1)
+    cal = LocalAlignmentCalculator(["hi", "hello", "this", "is", "kien"], ["hi", "hello", "trin", "is", "kien"])
     print(cal.calculate())
     
     

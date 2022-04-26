@@ -35,6 +35,7 @@ def mutate_origin_pattern(original_pattern_file):
         index_original_pattern = random.randint(0, len(original_pattern))
         # insert a random portion from db to the original pattern
         original_pattern[index_original_pattern:index_original_pattern] = text_from_db
+    chosen_files.sort(key=lambda file: file["word_count"], reverse=True)
     return original_pattern, chosen_files
 
 if __name__=='__main__':
