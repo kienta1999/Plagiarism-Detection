@@ -1,5 +1,6 @@
 from word_preprocessing import TextPresprocessing
-from constant import NUM_SHINGLES
+from constant import NUM_SHINGLES, PATH_TO_SAMPLE_MODIFIED_PATTERN, NUM_DB_COPIED_TO_PATTERN, PATH_TO_SAMPLE_DATABASE
+import os
 
 def get_shingles(text, k=2):
     hashed_shingles = set()
@@ -10,10 +11,25 @@ def get_shingles(text, k=2):
 def jaccard_similarity(shingle1, shingle2):
     return len(shingle1 & shingle2) / len(shingle1 | shingle2)
 
-if __name__=='__main__':
-    processed = TextPresprocessing("haha  hehe used using enjoying enjoyed enjoying enjoyed").preprocess()
-    processed2 = TextPresprocessing("haha  hehe kaka keke ascasc used using enjoying enjoyed").preprocess()
+class TopSimilarityCalculator:
+    def __init__(self, pattern_path):
+        self.pattern_path = pattern_path
     
-    shingle1 = get_shingles(processed, k=NUM_SHINGLES)
-    shingle2 = get_shingles(processed2, k=NUM_SHINGLES)
-    print(jaccard_similarity(shingle1, shingle2))
+    def get_top_k_similar(self, k=NUM_DB_COPIED_TO_PATTERN):
+        processed_pattern = TextPresprocessing(open(self.pattern_path, 'r').read()).preprocess()
+        shingle_pattern = get_shingles(processed_pattern, k=NUM_SHINGLES)
+        jaccard_similarity_scores = []
+        for database_file in os.listdir(PATH_TO_SAMPLE_DATABASE):
+            database_file_path = os.path.join(PATH_TO_SAMPLE_DATABASE, database_file)
+            processed_database = TextPresprocessing(open(database_file_path, 'r').read()).preprocess()
+            shingle_database = get_shingles(processed_database, k=NUM_SHINGLES)
+            jaccard_similarity_score = {"file": database_file, "score": jaccard_similarity(shingle_pattern, shingle_database)}
+            jaccard_similarity_scores.append(jaccard_similarity_score)
+            jaccard_similarity_scores.sort(key = lambda js_score: js_score["score"], reverse=True)
+            if len(jaccard_similarity_scores) > k:
+                jaccard_similarity_scores = jaccard_similarity_scores[:k]
+        return jaccard_similarity_scores
+
+if __name__=='__main__':
+    cal = TopSimilarityCalculator("data_sample/raw_news_modified_pattern/15.txt")
+    print(cal.get_top_k_similar())
