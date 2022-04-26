@@ -42,7 +42,8 @@ if __name__=='__main__':
     for path in (PATH_TO_SAMPLE_DATABASE, PATH_TO_SAMPLE_ORIGINAL_PATTERN, PATH_TO_SAMPLE_MODIFIED_PATTERN):
         if not os.path.exists(path):
             os.makedirs(path)
-    records = []
+    json_file = open(os.path.join(PATH_TO_SAMPLE_MODIFIED_PATTERN, "data.json"), 'w')
+    json_file.write("[")
     for original_pattern_file in os.listdir(PATH_TO_SAMPLE_ORIGINAL_PATTERN):
         record = {"name": original_pattern_file}
         original_pattern_file_path = os.path.join(PATH_TO_SAMPLE_ORIGINAL_PATTERN, original_pattern_file)
@@ -52,9 +53,9 @@ if __name__=='__main__':
         f.write('.'.join(muatated_pattern))
         f.close()
         record["copy_from"] = chosen_files
-        records.append(record)
-    json_file = open(os.path.join(PATH_TO_SAMPLE_MODIFIED_PATTERN, "data.json"), 'w')
-    json.dump(records, json_file)
+        json.dump(record, json_file)
+        json_file.write(",")
+    json_file.write("]")
     json_file.close()
 
         
