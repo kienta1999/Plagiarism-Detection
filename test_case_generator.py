@@ -42,7 +42,15 @@ if __name__=='__main__':
     create_path(PATH_SAMPLE)
     json_file = open(os.path.join(PATH_SAMPLE["ROOT"], "data.json"), 'w')
     json_file.write("[")
-    for original_pattern_file in os.listdir(PATH_SAMPLE["ORIGINAL_PATTERN"]):
+    count_txt = 0
+    original_pattern_paths = os.listdir(PATH_SAMPLE["ORIGINAL_PATTERN"])
+    for original_pattern_file in original_pattern_paths:
+        if original_pattern_file.endswith(".txt"):
+            count_txt += 1
+    for original_pattern_file in original_pattern_paths:
+        if not original_pattern_file.endswith(".txt"):
+            continue
+        count_txt -= 1
         record = {"name": original_pattern_file}
         original_pattern_file_path = os.path.join(PATH_SAMPLE["ORIGINAL_PATTERN"], original_pattern_file)
         muatated_pattern, chosen_files = mutate_origin_pattern(original_pattern_file_path)
@@ -52,7 +60,8 @@ if __name__=='__main__':
         f.close()
         record["copy_from"] = chosen_files
         json.dump(record, json_file)
-        json_file.write(",")
+        if count_txt != 0:
+            json_file.write(",")
     json_file.write("]")
     json_file.close()
 

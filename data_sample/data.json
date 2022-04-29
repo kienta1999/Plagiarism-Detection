@@ -1,62 +1,72 @@
 [
     {
-        "name": "15.txt",
+        "name": "0.txt",
         "copy_from": [
-            { "file": "12.txt", "num_sentence": 4, "word_count": 81 },
-            { "file": "10.txt", "num_sentence": 2, "word_count": 48 },
-            { "file": "9.txt", "num_sentence": 2, "word_count": 32 },
-            { "file": "1.txt", "num_sentence": 3, "word_count": 32 },
-            { "file": "11.txt", "num_sentence": 1, "word_count": 16 }
+            { "file": "12.txt", "num_sentence": 4, "word_count": 65 },
+            { "file": "9.txt", "num_sentence": 2, "word_count": 42 },
+            { "file": "10.txt", "num_sentence": 2, "word_count": 27 },
+            { "file": "1.txt", "num_sentence": 3, "word_count": 23 },
+            { "file": "11.txt", "num_sentence": 1, "word_count": 20 }
         ]
     },
     {
-        "name": "16.txt",
+        "name": "1.txt",
         "copy_from": [
-            { "file": "2.txt", "num_sentence": 5, "word_count": 95 },
-            { "file": "4.txt", "num_sentence": 4, "word_count": 77 },
-            { "file": "11.txt", "num_sentence": 3, "word_count": 51 },
-            { "file": "11.txt", "num_sentence": 2, "word_count": 49 },
-            { "file": "1.txt", "num_sentence": 4, "word_count": 46 }
+            { "file": "4.txt", "num_sentence": 4, "word_count": 105 },
+            { "file": "4.txt", "num_sentence": 5, "word_count": 100 },
+            { "file": "5.txt", "num_sentence": 4, "word_count": 97 },
+            { "file": "2.txt", "num_sentence": 2, "word_count": 41 },
+            { "file": "11.txt", "num_sentence": 2, "word_count": 35 }
         ]
     },
     {
-        "name": "17.txt",
+        "name": "2.txt",
         "copy_from": [
-            { "file": "5.txt", "num_sentence": 4, "word_count": 95 },
-            { "file": "2.txt", "num_sentence": 2, "word_count": 34 },
-            { "file": "3.txt", "num_sentence": 2, "word_count": 26 },
-            { "file": "2.txt", "num_sentence": 1, "word_count": 12 },
-            { "file": "6.txt", "num_sentence": 1, "word_count": 0 }
+            { "file": "6.txt", "num_sentence": 3, "word_count": 72 },
+            { "file": "11.txt", "num_sentence": 2, "word_count": 54 },
+            { "file": "4.txt", "num_sentence": 2, "word_count": 34 },
+            { "file": "6.txt", "num_sentence": 1, "word_count": 26 },
+            { "file": "9.txt", "num_sentence": 1, "word_count": 13 }
         ]
     },
     {
-        "name": "18.txt",
+        "name": "3.txt",
         "copy_from": [
-            { "file": "3.txt", "num_sentence": 5, "word_count": 99 },
-            { "file": "9.txt", "num_sentence": 5, "word_count": 71 },
-            { "file": "11.txt", "num_sentence": 3, "word_count": 65 },
-            { "file": "14.txt", "num_sentence": 1, "word_count": 10 },
-            { "file": "6.txt", "num_sentence": 1, "word_count": 0 }
+            { "file": "12.txt", "num_sentence": 3, "word_count": 71 },
+            { "file": "8.txt", "num_sentence": 5, "word_count": 39 },
+            { "file": "5.txt", "num_sentence": 2, "word_count": 38 },
+            { "file": "5.txt", "num_sentence": 3, "word_count": 31 },
+            { "file": "3.txt", "num_sentence": 1, "word_count": 1 }
         ]
     },
     {
-        "name": "19.txt",
+        "name": "4.txt",
         "copy_from": [
-            { "file": "1.txt", "num_sentence": 4, "word_count": 77 },
-            { "file": "7.txt", "num_sentence": 3, "word_count": 54 },
-            { "file": "0.txt", "num_sentence": 3, "word_count": 42 },
-            { "file": "13.txt", "num_sentence": 4, "word_count": 34 },
-            { "file": "8.txt", "num_sentence": 3, "word_count": 28 }
+            { "file": "2.txt", "num_sentence": 4, "word_count": 104 },
+            { "file": "1.txt", "num_sentence": 3, "word_count": 76 },
+            { "file": "3.txt", "num_sentence": 1, "word_count": 26 },
+            { "file": "4.txt", "num_sentence": 1, "word_count": 25 },
+            { "file": "10.txt", "num_sentence": 1, "word_count": 11 }
         ]
     },
     {
-        "name": "20.txt",
+        "name": "5.txt",
         "copy_from": [
-            { "file": "0.txt", "num_sentence": 5, "word_count": 110 },
-            { "file": "8.txt", "num_sentence": 4, "word_count": 34 },
-            { "file": "9.txt", "num_sentence": 1, "word_count": 11 },
-            { "file": "8.txt", "num_sentence": 1, "word_count": 9 },
-            { "file": "12.txt", "num_sentence": 1, "word_count": 5 }
+            { "file": "4.txt", "num_sentence": 5, "word_count": 121 },
+            { "file": "1.txt", "num_sentence": 5, "word_count": 121 },
+            { "file": "0.txt", "num_sentence": 5, "word_count": 113 },
+            { "file": "9.txt", "num_sentence": 5, "word_count": 75 },
+            { "file": "4.txt", "num_sentence": 1, "word_count": 11 }
+        ]
+    },
+    {
+        "name": "6.txt",
+        "copy_from": [
+            { "file": "0.txt", "num_sentence": 5, "word_count": 114 },
+            { "file": "7.txt", "num_sentence": 4, "word_count": 76 },
+            { "file": "8.txt", "num_sentence": 3, "word_count": 65 },
+            { "file": "4.txt", "num_sentence": 3, "word_count": 42 },
+            { "file": "0.txt", "num_sentence": 1, "word_count": 26 }
         ]
     }
 ]
