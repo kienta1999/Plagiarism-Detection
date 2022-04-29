@@ -4,8 +4,10 @@ from local_alignment_calculator import LocalAlignmentCalculator
 from word_preprocessing import TextPresprocessing
 import os
 import json
+import time
 
 def main():
+    start_time = time.perf_counter()
     output_file = open(os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], "output.json"), 'w')
     output_file.write("{")
     output_file.write('"result": [')
@@ -14,7 +16,7 @@ def main():
     for modified_pattern_file in modified_pattern_paths:
         if modified_pattern_file.endswith(".txt"):
             count_txt += 1
-    for i, modified_pattern_file in enumerate(modified_pattern_paths):
+    for modified_pattern_file in modified_pattern_paths:
         if not modified_pattern_file.endswith(".txt"):
             continue
         count_txt -= 1
@@ -40,7 +42,9 @@ def main():
         if count_txt != 0:
             output_file.write(",")
     output_file.write("],")
-    output_file.write(f'"time": {2}')
+    duration = time.perf_counter() - start_time
+    output_file.write(f'"time_in_second": {duration},')
+    output_file.write(f'"time_in_hour": {duration / 3600}')
     output_file.write("}")
     output_file.close()
         
