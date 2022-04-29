@@ -7,12 +7,19 @@ import json
 
 def main():
     output_file = open(os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], "output.json"), 'w')
-    output_file.write("[")
-    for modified_pattern_file in os.listdir(PATH_SAMPLE["MODIFIED_PATTERN"]):
+    output_file.write("{")
+    output_file.write('"result": [')
+    modified_pattern_paths = os.listdir(PATH_SAMPLE["MODIFIED_PATTERN"])
+    count_txt = 0
+    for modified_pattern_file in modified_pattern_paths:
+        if modified_pattern_file.endswith(".txt"):
+            count_txt += 1
+    for i, modified_pattern_file in enumerate(modified_pattern_paths):
         if not modified_pattern_file.endswith(".txt"):
             continue
-        print('---------------------------------------------------------------')
-        print(f"Considering pattern {modified_pattern_file}")
+        count_txt -= 1
+        # print('---------------------------------------------------------------')
+        # print(f"Considering pattern {modified_pattern_file}")
         modified_pattern_file_path = os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], modified_pattern_file)
         pattern_content = TextPresprocessing(open(modified_pattern_file_path, "r").read()).preprocess()
         # Top 10? most similar
@@ -24,14 +31,17 @@ def main():
             database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
             database_content = TextPresprocessing(open(database_file_path, "r").read()).preprocess()
             local_alignment_cal = LocalAlignmentCalculator(pattern_content, database_content)
-            print(f"score between pattern {modified_pattern_file} and db file {database_file} is {local_alignment_cal.calculate()}")
+            # print(f"score between pattern {modified_pattern_file} and db file {database_file} is {local_alignment_cal.calculate()}")
             local_alignment_scores.append({"file": database_file, "score": local_alignment_cal.calculate()})
             local_alignment_scores.sort(key = lambda la_score: la_score["score"], reverse=True)
             if len(local_alignment_scores) > NUM_DB_COPIED_TO_PATTERN:
                 local_alignment_scores = local_alignment_scores[:NUM_DB_COPIED_TO_PATTERN]
         json.dump({"pattern": modified_pattern_file, "local_alignment_scores": local_alignment_scores}, output_file)
-        output_file.write(",")
-    output_file.write("]")
+        if count_txt != 0:
+            output_file.write(",")
+    output_file.write("],")
+    output_file.write(f'"time": {2}')
+    output_file.write("}")
     output_file.close()
         
 if __name__=='__main__':

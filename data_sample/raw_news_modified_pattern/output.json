@@ -1,62 +1,65 @@
-[
-    {
-        "pattern": "15.txt",
-        "local_alignment_scores": [
-            { "file": "12.txt", "score": 56 },
-            { "file": "10.txt", "score": 32 },
-            { "file": "1.txt", "score": 22 },
-            { "file": "9.txt", "score": 17 },
-            { "file": "11.txt", "score": 11 }
-        ]
-    },
-    {
-        "pattern": "16.txt",
-        "local_alignment_scores": [
-            { "file": "2.txt", "score": 61 },
-            { "file": "11.txt", "score": 34 },
-            { "file": "4.txt", "score": 30 },
-            { "file": "1.txt", "score": 30 },
-            { "file": "3.txt", "score": 3 }
-        ]
-    },
-    {
-        "pattern": "17.txt",
-        "local_alignment_scores": [
-            { "file": "5.txt", "score": 50 },
-            { "file": "2.txt", "score": 24 },
-            { "file": "3.txt", "score": 14 },
-            { "file": "12.txt", "score": 3 },
-            { "file": "14.txt", "score": 3 }
-        ]
-    },
-    {
-        "pattern": "18.txt",
-        "local_alignment_scores": [
-            { "file": "3.txt", "score": 62 },
-            { "file": "9.txt", "score": 53 },
-            { "file": "11.txt", "score": 45 },
-            { "file": "14.txt", "score": 7 },
-            { "file": "5.txt", "score": 3 }
-        ]
-    },
-    {
-        "pattern": "19.txt",
-        "local_alignment_scores": [
-            { "file": "1.txt", "score": 52 },
-            { "file": "0.txt", "score": 23 },
-            { "file": "8.txt", "score": 22 },
-            { "file": "13.txt", "score": 21 },
-            { "file": "7.txt", "score": 15 }
-        ]
-    },
-    {
-        "pattern": "20.txt",
-        "local_alignment_scores": [
-            { "file": "0.txt", "score": 66 },
-            { "file": "8.txt", "score": 23 },
-            { "file": "9.txt", "score": 8 },
-            { "file": "12.txt", "score": 3 },
-            { "file": "2.txt", "score": 2 }
-        ]
-    }
-]
+{
+    "result": [
+        {
+            "pattern": "15.txt",
+            "local_alignment_scores": [
+                { "file": "12.txt", "score": 56 },
+                { "file": "10.txt", "score": 32 },
+                { "file": "1.txt", "score": 22 },
+                { "file": "9.txt", "score": 17 },
+                { "file": "11.txt", "score": 11 }
+            ]
+        },
+        {
+            "pattern": "16.txt",
+            "local_alignment_scores": [
+                { "file": "2.txt", "score": 61 },
+                { "file": "11.txt", "score": 34 },
+                { "file": "4.txt", "score": 30 },
+                { "file": "1.txt", "score": 30 },
+                { "file": "3.txt", "score": 3 }
+            ]
+        },
+        {
+            "pattern": "17.txt",
+            "local_alignment_scores": [
+                { "file": "5.txt", "score": 50 },
+                { "file": "2.txt", "score": 24 },
+                { "file": "3.txt", "score": 14 },
+                { "file": "12.txt", "score": 3 },
+                { "file": "14.txt", "score": 3 }
+            ]
+        },
+        {
+            "pattern": "18.txt",
+            "local_alignment_scores": [
+                { "file": "3.txt", "score": 62 },
+                { "file": "9.txt", "score": 53 },
+                { "file": "11.txt", "score": 45 },
+                { "file": "14.txt", "score": 7 },
+                { "file": "5.txt", "score": 3 }
+            ]
+        },
+        {
+            "pattern": "19.txt",
+            "local_alignment_scores": [
+                { "file": "1.txt", "score": 52 },
+                { "file": "0.txt", "score": 23 },
+                { "file": "8.txt", "score": 22 },
+                { "file": "13.txt", "score": 21 },
+                { "file": "7.txt", "score": 15 }
+            ]
+        },
+        {
+            "pattern": "20.txt",
+            "local_alignment_scores": [
+                { "file": "0.txt", "score": 66 },
+                { "file": "8.txt", "score": 23 },
+                { "file": "9.txt", "score": 8 },
+                { "file": "12.txt", "score": 3 },
+                { "file": "2.txt", "score": 2 }
+            ]
+        }
+    ],
+    "time": 2
+}
