@@ -42,7 +42,7 @@ if __name__=='__main__':
     for path in (PATH_SAMPLE["DATABASE"], PATH_SAMPLE["ORIGINAL_PATTERN"], PATH_SAMPLE["MODIFIED_PATTERN"]):
         if not os.path.exists(path):
             os.makedirs(path)
-    json_file = open(os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], "data.json"), 'w')
+    json_file = open(os.path.join(PATH_SAMPLE["ROOT"], "data.json"), 'w')
     json_file.write("[")
     for original_pattern_file in os.listdir(PATH_SAMPLE["ORIGINAL_PATTERN"]):
         record = {"name": original_pattern_file}
