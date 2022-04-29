@@ -6,7 +6,7 @@ import json
 random.seed(15)
 
 def get_random_database_file():
-    database_file = random.choice(os.listdir(PATH_TO_SAMPLE_DATABASE))
+    database_file = random.choice(os.listdir(PATH_SAMPLE["DATABASE"]))
     return database_file
 
 # can mutate the sentence here
@@ -28,7 +28,7 @@ def mutate_origin_pattern(original_pattern_file):
     chosen_files = []
     for _ in range(NUM_DB_COPIED_TO_PATTERN):
         database_file = get_random_database_file()
-        database_file_path = os.path.join(PATH_TO_SAMPLE_DATABASE, database_file)
+        database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
         num_sentence = random.randint(1, MAX_NUM_SENTENCE)
         text_from_db = get_random_text(database_file_path, num_sentence)
         chosen_files.append({"file": database_file, "num_sentence": len(text_from_db), "word_count": word_count(text_from_db)})
@@ -39,16 +39,16 @@ def mutate_origin_pattern(original_pattern_file):
     return original_pattern, chosen_files
 
 if __name__=='__main__':
-    for path in (PATH_TO_SAMPLE_DATABASE, PATH_TO_SAMPLE_ORIGINAL_PATTERN, PATH_TO_SAMPLE_MODIFIED_PATTERN):
+    for path in (PATH_SAMPLE["DATABASE"], PATH_SAMPLE["ORIGINAL_PATTERN"], PATH_SAMPLE["MODIFIED_PATTERN"]):
         if not os.path.exists(path):
             os.makedirs(path)
-    json_file = open(os.path.join(PATH_TO_SAMPLE_MODIFIED_PATTERN, "data.json"), 'w')
+    json_file = open(os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], "data.json"), 'w')
     json_file.write("[")
-    for original_pattern_file in os.listdir(PATH_TO_SAMPLE_ORIGINAL_PATTERN):
+    for original_pattern_file in os.listdir(PATH_SAMPLE["ORIGINAL_PATTERN"]):
         record = {"name": original_pattern_file}
-        original_pattern_file_path = os.path.join(PATH_TO_SAMPLE_ORIGINAL_PATTERN, original_pattern_file)
+        original_pattern_file_path = os.path.join(PATH_SAMPLE["ORIGINAL_PATTERN"], original_pattern_file)
         muatated_pattern, chosen_files = mutate_origin_pattern(original_pattern_file_path)
-        muatated_pattern_file_path = os.path.join(PATH_TO_SAMPLE_MODIFIED_PATTERN, original_pattern_file)
+        muatated_pattern_file_path = os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], original_pattern_file)
         f = open(muatated_pattern_file_path, 'w')
         f.write('.'.join(muatated_pattern))
         f.close()

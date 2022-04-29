@@ -6,14 +6,14 @@ import os
 import json
 
 def main():
-    output_file = open(os.path.join(PATH_TO_SAMPLE_MODIFIED_PATTERN, "output.json"), 'w')
+    output_file = open(os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], "output.json"), 'w')
     output_file.write("[")
-    for modified_pattern_file in os.listdir(PATH_TO_SAMPLE_MODIFIED_PATTERN):
+    for modified_pattern_file in os.listdir(PATH_SAMPLE["MODIFIED_PATTERN"]):
         if not modified_pattern_file.endswith(".txt"):
             continue
         print('---------------------------------------------------------------')
         print(f"Considering pattern {modified_pattern_file}")
-        modified_pattern_file_path = os.path.join(PATH_TO_SAMPLE_MODIFIED_PATTERN, modified_pattern_file)
+        modified_pattern_file_path = os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], modified_pattern_file)
         pattern_content = TextPresprocessing(open(modified_pattern_file_path, "r").read()).preprocess()
         # Top 10? most similar
         top_similarity_calculator = TopSimilarityCalculator(modified_pattern_file_path)
@@ -21,7 +21,7 @@ def main():
         local_alignment_scores = []
         for db_infor in top_k:
             database_file = db_infor['file']
-            database_file_path = os.path.join(PATH_TO_SAMPLE_DATABASE, database_file)
+            database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
             database_content = TextPresprocessing(open(database_file_path, "r").read()).preprocess()
             local_alignment_cal = LocalAlignmentCalculator(pattern_content, database_content)
             print(f"score between pattern {modified_pattern_file} and db file {database_file} is {local_alignment_cal.calculate()}")

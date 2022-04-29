@@ -1,5 +1,5 @@
 from word_preprocessing import TextPresprocessing
-from constant import NUM_SHINGLES, PATH_TO_SAMPLE_MODIFIED_PATTERN, NUM_DB_COPIED_TO_PATTERN, PATH_TO_SAMPLE_DATABASE
+from constant import NUM_SHINGLES, PATH_SAMPLE, NUM_DB_COPIED_TO_PATTERN
 import os
 
 def get_shingles(text, k=2):
@@ -19,8 +19,8 @@ class TopSimilarityCalculator:
         processed_pattern = TextPresprocessing(open(self.pattern_path, 'r').read()).preprocess()
         shingle_pattern = get_shingles(processed_pattern, k=NUM_SHINGLES)
         jaccard_similarity_scores = []
-        for database_file in os.listdir(PATH_TO_SAMPLE_DATABASE):
-            database_file_path = os.path.join(PATH_TO_SAMPLE_DATABASE, database_file)
+        for database_file in os.listdir(PATH_SAMPLE["DATABASE"]):
+            database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
             processed_database = TextPresprocessing(open(database_file_path, 'r').read()).preprocess()
             shingle_database = get_shingles(processed_database, k=NUM_SHINGLES)
             jaccard_similarity_score = {"file": database_file, "score": jaccard_similarity(shingle_pattern, shingle_database)}
