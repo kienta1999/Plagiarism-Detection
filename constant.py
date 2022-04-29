@@ -21,6 +21,8 @@ PATH = {
 }
 
 DATABASE_WORD_COUNT = 10_000
+PATTERN_WORD_COUNT = 500
+PERCENTAGE_DATABASE = 95
 
 import os
 def create_path(paths):
