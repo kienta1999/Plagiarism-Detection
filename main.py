@@ -7,9 +7,7 @@ import json
 import time
 
 def main():
-    for path in (PATH_SAMPLE["DATABASE"], PATH_SAMPLE["ORIGINAL_PATTERN"], PATH_SAMPLE["MODIFIED_PATTERN"]):
-        if not os.path.exists(path):
-            os.makedirs(path)
+    create_path(PATH_SAMPLE)
     start_time = time.perf_counter()
     output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "output.json"), 'w')
     output_file.write("{")

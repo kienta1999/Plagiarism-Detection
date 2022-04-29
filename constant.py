@@ -19,3 +19,11 @@ PATH = {
     "ORIGINAL_PATTERN": './data/news_original_pattern',
     "MODIFIED_PATTERN": './data/news_modified_pattern'
 }
+
+DATABASE_WORD_COUNT = 10_000
+
+import os
+def create_path(paths):
+    for path in paths.values():
+        if not os.path.exists(path):
+            os.makedirs(path)
