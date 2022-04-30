@@ -5,9 +5,6 @@ from word_preprocessing import TextPresprocessing
 import os
 import json
 import time
-import multiprocessing as mp
-from multiprocessing.pool import ThreadPool as Pool
-
 
 def main():
     create_path(PATH_SAMPLE)
@@ -26,20 +23,11 @@ def main():
         # Top 10? most similar
         top_similarity_calculator = TopSimilarityCalculator(modified_pattern_file_path)
         top_k = top_similarity_calculator.get_top_k_similar(k=NUM_TOP_JACCARD_SIMILARITY)
-        json.dump({"pattern": modified_pattern_file, "js_scores": top_k}, js_output_file)
-        if count_txt != 0:
-            js_output_file.write(",")
         return top_k
 
     js_output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "js_output.json"), 'w')
     js_output_file.write("[")
     
-    TextPresprocessing("haha  hehe used using enjoying enjoyed enjoying enjoyed").preprocess()
-    pool = Pool(mp.cpu_count())
-    all_top_k = pool.map(get_top_k_js_similar_helper, [modified_pattern_file for modified_pattern_file in modified_pattern_paths if modified_pattern_file.endswith(".txt")])
-    pool.close()
-
-    count_pattern = 0
     for modified_pattern_file in modified_pattern_paths:
         if not modified_pattern_file.endswith(".txt"):
             continue
@@ -48,8 +36,10 @@ def main():
         # print(f"Considering pattern {modified_pattern_file}")
         modified_pattern_file_path = os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], modified_pattern_file)
         # Top 10? most similar
-        top_k = all_top_k[count_pattern]
-        count_pattern += 1
+        top_k = get_top_k_js_similar_helper(modified_pattern_file)
+        json.dump({"pattern": modified_pattern_file, "js_scores": top_k}, js_output_file)
+        if count_txt != 0:
+            js_output_file.write(",")
         json.dump({"pattern": modified_pattern_file, "js_scores": top_k}, js_output_file)
         if count_txt != 0:
             js_output_file.write(",")
