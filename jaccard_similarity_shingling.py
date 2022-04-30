@@ -34,7 +34,7 @@ class TopSimilarityCalculator:
         for database_file in os.listdir(PATH_SAMPLE["DATABASE"]):
             database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
             processed_database = TextPresprocessing(open(database_file_path, 'r').read()).preprocess()
-            shingle_database = get_shingles(processed_database, k=NUM_SHINGLES, sketch_size=DATABASE_WORD_COUNT / 4)
+            shingle_database = get_shingles(processed_database, k=NUM_SHINGLES)
             jaccard_similarity_score = {"file": database_file, "score": jaccard_similarity(shingle_pattern, shingle_database)}
             jaccard_similarity_scores.append(jaccard_similarity_score)
             jaccard_similarity_scores.sort(key = lambda js_score: js_score["score"], reverse=True)
