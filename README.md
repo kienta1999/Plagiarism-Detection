@@ -25,3 +25,5 @@
 <ul>
     <li>https://www.kaggle.com/datasets/rmisra/news-category-dataset</li>
 </ul>
+
+<h5>export LC_CTYPE="en_US.UTF-8"</h5>
