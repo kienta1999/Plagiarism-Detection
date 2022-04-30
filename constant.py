@@ -4,8 +4,6 @@ NUM_TOP_JACCARD_SIMILARITY = 10 # how many database text that is similar to the 
 
 NUM_DB_COPIED_TO_PATTERN = 5 # how many file from database we choose to insert into a text to form a pattern
 
-MAX_NUM_SENTENCE = 10 # maximum number of sentence from a file we choose to insert
-
 PATH_SAMPLE = {
     "ROOT": "./data_sample",
     "RAW": "./data_sample/raw_news",
@@ -32,4 +30,7 @@ def create_path(paths):
         if not os.path.exists(path):
             os.makedirs(path)
 
-PATH = PATH_SAMPLE
+PATH = PATH_MAIN
+
+MAX_NUM_SENTENCE = 20 if PATH == PATH_MAIN else 10 # maximum number of sentence from a file we choose to insert
+
