@@ -10,7 +10,7 @@ isExist = os.path.exists(path)
 if not isExist:
     os.makedirs(path)
 
-f = open("News_Category_Dataset_v2.json", "r")
+f = open("News_Category_Dataset_v2.json", "rb")
 for i, line in enumerate(f.readlines()):
     try:
         headline = json.loads(line)

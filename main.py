@@ -54,12 +54,12 @@ def main():
         if count_txt != 0:
             js_output_file.write(",")
         # how about clustering --> choose NUM_DB_COPIED_TO_PATTERN?
-        pattern_content = TextPresprocessing(open(modified_pattern_file_path, "r").read()).preprocess()
+        pattern_content = TextPresprocessing(open(modified_pattern_file_path, "rb").read().decode('utf-8')).preprocess()
         local_alignment_scores = []
         for db_infor in top_k:
             database_file = db_infor['file']
             database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
-            database_content = TextPresprocessing(open(database_file_path, "r").read()).preprocess()
+            database_content = TextPresprocessing(open(database_file_path, "rb").read().decode('utf-8')).preprocess()
             local_alignment_cal = LocalAlignmentCalculator(pattern_content, database_content)
             # print(f"score between pattern {modified_pattern_file} and db file {database_file} is {local_alignment_cal.calculate()}")
             local_alignment_scores.append({"file": database_file, "score": local_alignment_cal.calculate()})
