@@ -4,6 +4,7 @@ import contractions
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('punkt')
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
@@ -42,12 +43,6 @@ class TextPresprocessing:
             lem = lemma.lemmatize(i, pos='v')
             lemmas.append(lem)
         self.text = lemmas  
-    
-    def get_shingles(self, k=2):
-        hashed_shingles = []
-        for i in range(len(self.text) - k + 1):
-            hashed_shingles.append(hash(tuple(self.text[i:i+k])))
-        return hashed_shingles
 
 if __name__=='__main__':
     y = TextPresprocessing("haha  hehe used using enjoying enjoyed enjoying enjoyed")
