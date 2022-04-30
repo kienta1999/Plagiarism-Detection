@@ -9,7 +9,7 @@ import time
 def main():
     create_path(PATH_SAMPLE)
     start_time = time.perf_counter()
-    output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "output.json"), 'w')
+    output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "local_alignment_output.json"), 'w')
     output_file.write("{")
     output_file.write('"result": [')
     modified_pattern_paths = os.listdir(PATH_SAMPLE["MODIFIED_PATTERN"])
@@ -17,6 +17,8 @@ def main():
     for modified_pattern_file in modified_pattern_paths:
         if modified_pattern_file.endswith(".txt"):
             count_txt += 1
+    js_output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "js_output.json"), 'w')
+    js_output_file.write("[")
     for modified_pattern_file in modified_pattern_paths:
         if not modified_pattern_file.endswith(".txt"):
             continue
@@ -27,7 +29,11 @@ def main():
         pattern_content = TextPresprocessing(open(modified_pattern_file_path, "r").read()).preprocess()
         # Top 10? most similar
         top_similarity_calculator = TopSimilarityCalculator(modified_pattern_file_path)
-        top_k = top_similarity_calculator.get_top_k_similar(k=10)
+        top_k = top_similarity_calculator.get_top_k_similar(k=NUM_TOP_JACCARD_SIMILARITY)
+        json.dump({"pattern": modified_pattern_file, "js_scores": top_k}, js_output_file)
+        if count_txt != 0:
+            js_output_file.write(",")
+        # how about clustering --> choose NUM_DB_COPIED_TO_PATTERN?
         local_alignment_scores = []
         for db_infor in top_k:
             database_file = db_infor['file']
@@ -48,6 +54,9 @@ def main():
     output_file.write(f'"time_in_hour": {duration / 3600}')
     output_file.write("}")
     output_file.close()
+
+    js_output_file.write("]")
+    js_output_file.close()
         
 if __name__=='__main__':
     main()

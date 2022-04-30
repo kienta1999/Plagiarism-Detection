@@ -1,5 +1,5 @@
 from word_preprocessing import TextPresprocessing
-from constant import NUM_SHINGLES, PATH_SAMPLE, NUM_DB_COPIED_TO_PATTERN
+from constant import NUM_SHINGLES, PATH_SAMPLE, NUM_TOP_JACCARD_SIMILARITY
 import os
 
 def get_shingles(text, k=2):
@@ -15,7 +15,7 @@ class TopSimilarityCalculator:
     def __init__(self, pattern_path):
         self.pattern_path = pattern_path
     
-    def get_top_k_similar(self, k=NUM_DB_COPIED_TO_PATTERN):
+    def get_top_k_similar(self, k=NUM_TOP_JACCARD_SIMILARITY):
         processed_pattern = TextPresprocessing(open(self.pattern_path, 'r').read()).preprocess()
         shingle_pattern = get_shingles(processed_pattern, k=NUM_SHINGLES)
         jaccard_similarity_scores = []
