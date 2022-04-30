@@ -1,0 +1,77 @@
+{
+    "result": [
+        {
+            "pattern": "0.txt",
+            "local_alignment_scores": [
+                { "file": "12.txt", "score": 80 },
+                { "file": "1.txt", "score": 53 },
+                { "file": "10.txt", "score": 47 },
+                { "file": "9.txt", "score": 44 },
+                { "file": "11.txt", "score": 12 }
+            ]
+        },
+        {
+            "pattern": "1.txt",
+            "local_alignment_scores": [
+                { "file": "6.txt", "score": 106 },
+                { "file": "1.txt", "score": 98 },
+                { "file": "8.txt", "score": 71 },
+                { "file": "2.txt", "score": 53 },
+                { "file": "11.txt", "score": 51 }
+            ]
+        },
+        {
+            "pattern": "2.txt",
+            "local_alignment_scores": [
+                { "file": "6.txt", "score": 101 },
+                { "file": "11.txt", "score": 41 },
+                { "file": "4.txt", "score": 28 },
+                { "file": "1.txt", "score": 22 },
+                { "file": "0.txt", "score": 11 }
+            ]
+        },
+        {
+            "pattern": "3.txt",
+            "local_alignment_scores": [
+                { "file": "4.txt", "score": 132 },
+                { "file": "1.txt", "score": 96 },
+                { "file": "5.txt", "score": 60 },
+                { "file": "12.txt", "score": 53 },
+                { "file": "7.txt", "score": 15 }
+            ]
+        },
+        {
+            "pattern": "4.txt",
+            "local_alignment_scores": [
+                { "file": "3.txt", "score": 78 },
+                { "file": "1.txt", "score": 77 },
+                { "file": "9.txt", "score": 39 },
+                { "file": "10.txt", "score": 16 },
+                { "file": "8.txt", "score": 10 }
+            ]
+        },
+        {
+            "pattern": "5.txt",
+            "local_alignment_scores": [
+                { "file": "4.txt", "score": 162 },
+                { "file": "1.txt", "score": 110 },
+                { "file": "0.txt", "score": 104 },
+                { "file": "9.txt", "score": 99 },
+                { "file": "5.txt", "score": 6 }
+            ]
+        },
+        {
+            "pattern": "6.txt",
+            "local_alignment_scores": [
+                { "file": "0.txt", "score": 130 },
+                { "file": "2.txt", "score": 99 },
+                { "file": "4.txt", "score": 48 },
+                { "file": "7.txt", "score": 15 },
+                { "file": "10.txt", "score": 7 }
+            ]
+        }
+    ],
+    "time_in_second": 469.34618009999394,
+    "time_in_minute": 7.822436334999899,
+    "time_in_hour": 0.130373938916665
+}

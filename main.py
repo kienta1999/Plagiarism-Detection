@@ -10,8 +10,9 @@ def main():
     create_path(PATH_SAMPLE)
     start_time = time.perf_counter()
     output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "local_alignment_output.json"), 'w')
-    output_file.write("{")
-    output_file.write('"result": [')
+    output_file.write("{\n")
+    output_file.write('"result": [\n')
+    output_file.close()
     modified_pattern_paths = os.listdir(PATH_SAMPLE["MODIFIED_PATTERN"])
     count_txt = 0
     for modified_pattern_file in modified_pattern_paths:
@@ -26,12 +27,15 @@ def main():
         return top_k
 
     js_output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "js_output.json"), 'w')
-    js_output_file.write("[")
+    js_output_file.write("[\n")
+    js_output_file.close()
     
     for modified_pattern_file in modified_pattern_paths:
         if not modified_pattern_file.endswith(".txt"):
             continue
         count_txt -= 1
+        output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "local_alignment_output.json"), 'a')
+        js_output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "js_output.json"), 'a')
         # print('---------------------------------------------------------------')
         # print(f"Considering pattern {modified_pattern_file}")
         modified_pattern_file_path = os.path.join(PATH_SAMPLE["MODIFIED_PATTERN"], modified_pattern_file)
@@ -40,9 +44,8 @@ def main():
         json.dump({"pattern": modified_pattern_file, "js_scores": top_k}, js_output_file)
         if count_txt != 0:
             js_output_file.write(",")
-        json.dump({"pattern": modified_pattern_file, "js_scores": top_k}, js_output_file)
-        if count_txt != 0:
-            js_output_file.write(",")
+        js_output_file.write("\n")
+        js_output_file.close()
         # how about clustering --> choose NUM_DB_COPIED_TO_PATTERN?
         pattern_content = TextPresprocessing(open(modified_pattern_file_path, "rb").read().decode('utf-8')).preprocess()
         local_alignment_scores = []
@@ -59,14 +62,19 @@ def main():
         json.dump({"pattern": modified_pattern_file, "local_alignment_scores": local_alignment_scores}, output_file)
         if count_txt != 0:
             output_file.write(",")
-    output_file.write("],")
+        output_file.write("\n")
+        output_file.close()
+    
+    output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "local_alignment_output.json"), 'a')
+    output_file.write("],\n")
     duration = time.perf_counter() - start_time
-    output_file.write(f'"time_in_second": {duration},')
-    output_file.write(f'"time_in_minute": {duration / 60},')
-    output_file.write(f'"time_in_hour": {duration / 3600}')
+    output_file.write(f'"time_in_second": {duration},\n')
+    output_file.write(f'"time_in_minute": {duration / 60},\n')
+    output_file.write(f'"time_in_hour": {duration / 3600}\n')
     output_file.write("}")
     output_file.close()
 
+    js_output_file = open(os.path.join(PATH_SAMPLE["ROOT"], "js_output.json"), 'a')
     js_output_file.write("]")
     js_output_file.close()
         
