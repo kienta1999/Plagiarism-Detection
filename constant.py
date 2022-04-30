@@ -30,7 +30,7 @@ def create_path(paths):
         if not os.path.exists(path):
             os.makedirs(path)
 
-PATH = PATH_MAIN
+PATH = PATH_SAMPLE
 
-MAX_NUM_SENTENCE = 20 if PATH == PATH_MAIN else 10 # maximum number of sentence from a file we choose to insert
+MAX_NUM_SENTENCE = 20 if PATH == PATH_MAIN else 15 # maximum number of sentence from a file we choose to insert
 
