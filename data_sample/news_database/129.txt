@@ -1,0 +1,497 @@
+Elliott Broidy and his wife, Robin Rosenzweig, are suing the government of Qatar. Alex J. Berliner/BEI/REX/Shutterstock
+
+WASHINGTON — A top GOP fundraiser and his wife sued the government of Qatar, lobbyist and former Republican political adviser Nicolas Muzin, and Muzin’s lobbying firm Stonington Strategies on Monday for allegedly hacking their email accounts and distributing the stolen emails to various media organizations.
+
+The selectively leaked emails appear to show Elliott Broidy, a Los Angeles-based Republican National Committee deputy finance chair, using his proximity to Republican elected officials to influence foreign policy decisions and to boost his defense company’s business prospects. The anonymous leaker, which described itself as a group that exposes wrongdoing in Hollywood, has disseminated different tranches of hacked emails to reporters over the past several weeks, resulting in a trickle of negative news stories scrutinizing Broidy’s business practices and his communications with U.S. politicians and foreign governments.
+
+The New York Times, Wall Street Journal, Associated Press, Bloomberg, Al Jazeera, HuffPost and others have published stories that appear to be based on the leaked emails.
+
+Broidy, who has denied any wrongdoing, has for weeks accused Qatar of orchestrating the hack in retaliation for his outspoken criticism of the government there and his support for its regional rivals.
+
+“We believe the evidence is clear that a nation state is waging a sophisticated disinformation campaign against me in order to silence me, including hacking emails, forging documents, and engaging in espionage and numerous other illegal activities,” Broidy said in a statement. “We believe it is also clear that I have been targeted because of my strong political views against Qatar’s state sponsored terrorism and double dealing.”
+
+Qatar denies it was involved in the hack. “Mr. Broidy’s lawsuit is a transparent effort to divert attention from U.S. media reports about his activities,” Jassim Al-Thani, Qatar’s media attache in Washington, said in a statement. “His lawsuit is without merit of fact. It is Mr. Broidy, not Qatar, who orchestrated nefarious activities designed to influence Congress and American foreign policy. It does not matter how many venues Mr. Broidy publishes his false accusations in, they will not become truth.”
+
+The Qatari government has indicated in a past statement to HuffPost that it is considering a counter-lawsuit against Broidy for making “false statements.”
+
+On Monday, Broidy also accused Muzin, a lobbyist hired by Qatar, of helping to carry out the operation.
+
+Muzin dismissed the allegations. “Mr. Broidy’s lawsuit is an obvious attempt to draw attention away from his controversial work, and is as flimsy as the promises he reportedly made to his clients,” Muzin wrote in an email. “I am proud of the work my firm has conducted with Qatar and look forward to continuing to support peaceful dialogue and progress in the Middle East.”
+
+The hacking operation began around Dec. 27, 2017, when Broidy’s wife, Robin Rosenzweig, received a phishing email that appeared to be a Gmail security alert, according to the complaint filed in the U.S. District Court for the Central District of California on Monday. When Rosenzweig entered her login credentials, as prompted by the phishing email, hackers gained access to her account, which included login information for other email accounts, including Broidy’s.
+
+Broidy and Rosenzweig hired forensic analysts to track down the source of the hack. For weeks, Broidy’s team promised to soon release definitive evidence proving Qatar was responsible for stealing the emails. But the complaint filed on Monday offered little proof.
+
+According to the complaint, Broidy’s team initially traced the hacker to IP addresses in the United Kingdom and the Netherlands. But they later discovered that the attack originated in Qatar — the European IP addresses were meant to mask the real identity of the hacker, the complaint alleged.
+
+The complaint does not provide forensic evidence that the government of Qatar directed the hack. Instead, it provides a lengthy description of Qatar’s efforts to improve its reputation in Washington by hiring politically savvy lobbyists — and how Broidy worked to crush those efforts.
+
+The complaint pits Muzin and Broidy — two prominent Republican operatives who are active in the pro-Israel advocacy world — against each other.
+
+Muzin is one of several lobbyists Qatar hired to advocate for it in the U.S. as Washington mulled how to respond to a Saudi-led blockade against Qatar. Last September, Muzin’s lobbying firm Stonington Strategies registered as a foreign agent for Qatar. Initially retained at a rate of $50,000 per month, Qatar later increased the rate to $300,000 per month.
+
+As part of his effort to improve Qatar’s image, Muzin tried to get Jewish American leaders to meet with Qatar’s emir in New York during the United Nations General Assembly and to visit Qatar on an all-expense-paid trip, the complaint alleged. Broidy urged Jewish American leaders to turn down the invitation.
+
+As Broidy worked to block Qatar’s efforts to improve its image in the U.S., his defense firm inked lucrative deals with Qatar’s regional rivals. In 2017 he finalized more than $200 million worth of contracts with the United Arab Emirates to develop its defense and counterterrorism ties, the complaint stated. Broidy is in discussions to do similar work with the government of Saudi Arabia.
+
+The complaint provides no conclusive evidence that Muzin was involved in distributing the stolen emails to reporters. According to the complaint, Muzin indicated he was aware of the operation by stating, “I did not cause the Broidy stuff, just because I have information” and “I don’t know all the details, but I know that I am hearing repeatedly that there’s a lot more coming.” It is not clear to whom those comments were directed.
+
+Muzin did not respond to a question about those comments.
+
+Broidy and Rosenzweig are asking the court to order injunctive relief to prevent access to and use of the stolen emails and to award monetary damages.
+
+Broidy made headlines in 2009, when he pleaded guilty to giving New York state officials almost $1 million worth of gifts to help his company win a lucrative contract with the state’s pension fund. But since then, he has largely operated behind the scenes. That changed after reporters started receiving his and his wife’s internal emails, offering a glimpse at how the well-connected fundraiser’s political and business activities intersected.
+
+On Feb. 28, HuffPost received the first batch of Broidy’s emails from a group that called itself L.A. Confidential. The emails appeared to show Rosenzweig, asking for more than $80 million to scuttle a Justice Department investigation into a corruption scandal implicating a Malaysian businessman — and Broidy using his ties to the Trump administration to help.
+
+The next round of emails showed Broidy directly pitching President Donald Trump on a plan to recruit an international army “of Muslim soldiers recruited from Arab and Islamic nations” to fight the Taliban and the Islamic State group in Afghanistan.
+
+The most recent round of emails sent to HuffPost came from a group that called itself Hollywood 2018 and used ProtonMail, an encrypted email service. When HuffPost tried to ask Hollywood 2018 if it was the same group that was behind L.A. Confidential, the email bounced back, indicating the account had been deactivated.
+
+The leaker was strategic, providing different news outlets with different documents, ensuring that each outlet would feel it had newsworthy material.
+
+The New York Times reported that Broidy offered access to Trump as part of an effort to get foreign leaders to sign contracts with his defense firm Circinus. The Times also detailed how George Nader, a political adviser to the UAE who is reportedly now cooperating with special counsel Robert Mueller, cultivated Broidy to gain influence with the Trump administration.
+
+The Associated Press reported that Nader wired Broidy millions of dollars to fund an effort to convince U.S. lawmakers to pass legislation that would label Qatar as a state sponsor of terrorism.
+
+Broidy’s team has confirmed the authenticity of several of the leaked emails — but it also accused the Qatari government and Muzin of sending around doctored or forged documents that appeared to show Broidy was involved with a sanctioned Russian bank.
+
+Unlike Russia, Qatar is not known for its cyberattacks. But there are signs that the small, wealthy Gulf state is building up its capabilities. In 2015, an intermediary with ties to Qatar gave the Times internal emails from the UAE’s foreign ministry in which an Emirati official admitted the UAE was violating a United Nations resolution by sending weapons to Libyan militias.
+
+Last year, a group that called itself GlobalLeaks sent reporters damaging emails stolen from Yousef al-Otaiba, the UAE’s ambassador to the U.S. Independent cybersecurity researchers identified a hacker-for-hire group working for several Gulf states that used tactics that resembled those used against Otaiba.
+
+Read the complaint below:
+
+Broidy Complaint by Jessica Schulberg on ScribdBelsy Garcia Manrique and her father, Felix Garcia, at her college graduation. Courtesy of Belsy Garcia Manrique
+
+Felix Garcia pleaded with the Immigrations and Customs Enforcement officer to give him just a little more time.
+
+The 51-year-old father of three had been regularly checking in with the agency for seven years without a problem. But when Garcia arrived for his most recent appointment in Atlanta, in January, the agency detained him.
+
+Garcia told the officer he wanted to stay in the U.S. until at least May 2019, when his eldest daughter will graduate from medical school. He hoped to watch her walk across the stage at Loyola University Chicago Stritch School of Medicine and accept her diploma. If he could just be present for that moment, he’d buy his own ticket to Guatemala, the country he left 23 years ago to seek asylum in the U.S.
+
+The officer said no.
+
+Garcia’s been locked up in detention ever since. His daughters are now petitioning the Trump administration for his release and hope to have his removal order overturned in court. He is scheduled for deportation on April 4.
+
+Garcia is one of a growing number of undocumented immigrants being detained during periodic check-ins with ICE as part of President Donald Trump’s efforts to increase deportations. Like many of them, he was ordered removed by a judge but was allowed to stay in the U.S. for years as long as he appeared at appointments and otherwise kept out of trouble.
+
+Now, these immigrants are easy pickings for removal — they walk into ICE offices for check-ins and aren’t allowed out, based on orders from years back that they can’t easily fight.
+
+Detaining people like Garcia at check-ins is an increasingly common tactic to “rack up numbers of deportations without needing to go back into the immigration court system,” according to Charles Roth, director of litigation of the National Immigrant Justice Center, who is not representing Garcia but is familiar with his case. “What the immigration authorities tend to do is to go after the low-hanging fruit.”
+
+ICE spokeswoman Tammy Spicer confirmed that Garcia was detained on Jan. 23 because of his final order of removal. The agency “takes seriously its obligation to enforce the nation’s immigration laws, and the enforcement actions ICE employs are intended to accomplish this fairly and efficiently,” she said in a statement.
+
+“ICE does not exempt classes or categories of removable aliens from potential enforcement,” she said. “All of those in violation of the immigration laws may be subject to immigration arrest, detention and, if found removable by final order, removal from the United States.
+
+Garcia’s deportation is now just a week away. That means he could soon be separated from his family, including three daughters: one a U.S. citizen, one a green-card holder, and one who has temporary protections under the Deferred Action for Childhood Arrivals program, or DACA. That daughter, Belsy Garcia Manrique, is in her third year at Stritch School of Medicine, which has made a concerted effort to enroll DACA holders and rally behind them.
+
+For now, Garcia is at Stewart Detention Center in Lumpkin, Georgia, where he sleeps in a room with 60 other men. Many of the other men he’s talked to have also been in the U.S. for years and have clean criminal records.
+
+“They are not sending only people that deserve to be sent,” Garcia said. “They are sending everybody.”
+
+Garcia came to the U.S. in 1995 seeking asylum. In Guatemala, he was studying to be an accountant and was in a leadership position at school when he began to receive threats, so he decided to go to the U.S. for safety and a better future. His case moved quickly through the court process — unusually quickly compared to most nationwide, Roth said. Garcia didn’t have an attorney and was given only weeks to find one. He didn’t, and ultimately was ordered deported. That year, 88 percent of unrepresented asylum seekers were denied in court, versus 66 percent of those with lawyers.
+
+Garcia didn’t know that he could appeal, and because he didn’t do so at the time, it will be more difficult to have the removal overturned now. He stayed in the U.S. without documents and began to learn English by writing down every word he saw on the street and then looking them up later in a dictionary. He moved to Calhoun, Georgia, worked two jobs, finished his GED and studied for a certification in accounting.
+
+In 2011, ICE appeared at Garcia’s home and detained him. But an officer told him he could be released if he answered questions about his employer for an investigation into the employer’s hiring practices, and he did. ICE gave him a stay of removal, which is not legal status but allowed him to remain if he checked in periodically.
+
+While President Barack Obama was in office, Garcia felt mostly safe. He started to buy houses, repair them and sell them, and then to buy land and build the houses from the ground up, teaching himself methods on YouTube and employing workers.
+
+But when Trump was elected, Garcia began to worry, and talked to his wife about finding another solution, like moving to Canada. The family talked over the holidays about what was happening with ICE, and knew it was possible he could be detained at his Jan. 23 check-in.
+
+Garcia wants to do the right thing. He pays taxes, employs contractors and has a family in the U.S. he wants to be with. He fears going back to Guatemala, where he is worried he could be targeted for extortion because of his ties to the U.S. He has no pathway to become a citizen. But he also believes he’s already achieved his American dream by helping his daughters succeed.
+
+So Garcia went to the appointment in Atlanta with his two youngest daughters, who weren’t allowed in, even though family members had accompanied him on previous visits.
+
+Inside the ICE facility, Garcia begged the officer to let him stay. But the man said his hands were tied.
+
+Garcia texted his eldest daughter, the doctor-in-training.
+
+“They are going to detain me my child,” he wrote. “Keep going my child, you can do it.”
+
+Then the officers took him away.Josh Feldman wanted to create a series he’d like to watch as a gay, deaf man. He wound up setting a mainstream television precedent.
+
+LGBTQ people have, of course, taken center stage on “Empire,” “How to Get Away with Murder” and even “Andi Mack” as of late. But Feldman felt a queer protagonist with intersectional identities like himself ― someone who would embrace both his sexuality and hearing loss ― was missing from the TV landscape.
+
+“It’s so easy for characters to be just one thing. In real life, people are many things at the same time,” the Los Angeles-based actor and writer told HuffPost. “I never saw myself on TV or in movies, so I never thought I could write about myself. I never wrote about deaf people because I didn’t think people would be receptive or interested.”
+
+Feldman’s reluctance has been proved wrong with “This Close,” the six-episode dramedy he created with pal Shoshannah Stern. The new series, which is available in its entirety on the Sundance Now streaming platform, follows the adventures of two 20-something urbanites, Michael (Feldman) and Kate (Stern), as they navigate life and love in Los Angeles. (Check out the series trailer above.)
+
+With "This Close," Josh Feldman, who plays the character Michael, aimed to create a series he’d want to watch as a gay, deaf man. Sundance Now
+
+Like HBO’s “Girls” and “Looking,” “This Close” boasts a subdued, slice-of-life feel. Each half-hour episode is at once funny, sexy and heartbreaking. The show’s binge-worthiness, however, makes it easy to overlook the fact that it’s the first series written, created by and starring deaf artists for a mainstream audience.
+
+Kate and Michael communicate with each other using sign language, though both are in varying stages of romantic involvement with hearing partners who provide much of the show’s spoken dialogue. As is the case for many straight women and gay men, the pair’s bond is intense and, at times, codependent.
+
+But “Will & Grace” this is not: Michael, a novelist, seeks to escape the deterioration of his engagement to Ryan (Colt Prattes) and a case of writer’s block through drugs, alcohol and casual sex, while Kate feels less than fulfilled in both her public relations career and her relationship with her fiancé, Danny (Zach Gilford).
+
+As the series progresses, Michael, left, tries to escape the pain of his breakup with fiancé Ryan (Colt Prattes) through drugs, alcohol and casual sex. Sundance Now
+
+“This Close,” which debuted on Valentine’s Day, began its life in 2015 as a comic web series called “Fridays,” in which Feldman and Stern played less-developed versions of Michael and Kate. A second, five-episode version of the show called “The Chances” premiered at the 2017 Sundance Film Festival.
+
+To re-adapt “The Chances” as “This Close” for Sundance Now, the pair tapped director Andrew Ahn. No stranger to intersectional storytelling, Ahn drew on his own experiences as a queer Asian-American for 2016’s “Spa Night.” Still, he was surprised to feel “an intense sense of community” on the “This Close” set.
+
+“Whether we’re deaf or hearing, gay or straight, man or woman or somewhere in between, we are connected,” he told HuffPost last month.
+
+While many viewers see Feldman as playing himself on the series, the Maryland native said he and Michael have “zero percent” in common aside from being deaf and gay. In fact, he had no intention of stepping in front of the camera when he began writing the show. Stern, he said, convinced him otherwise, and he’s grateful for her intervention.
+
+“There are so many other types of deaf stories that we’re hoping to add to the mix,” said Feldman (shown with "This Close" co-creator and star Shoshannah Stern). Sundance Now
+
+As proud as Feldman is to have “full ownership” of Michael as a character, shooting “This Close” was “very difficult,” he said. The show’s third episode, for instance, required him to strip nude for a sex scene involving three other actors.
+
+“I didn’t want people to see Michael as a role model,” he explained. “It took me a few months to recover and find my happy place again, because my character went through so much shit. Michael is a hot mess ― definitely not me! He’s a very dark person, and I’m much lighter than that.”
+
+“This Close” may not have generated the buzz of a primetime series, but has received ample critical acclaim. For Feldman, such praise is encouraging as he and Stern wait to find out if “This Close” will be renewed for a second season; they have their characters’ respective trajectories sketched out over five seasons in total.
+
+Marlee Matlin, who is the only deaf actress in history to win an Oscar, guest stars as Michael's mother on "This Close." Sundance Now
+
+“We know exactly how everything is going to end,” he said. As for Michael, he added that the character “is still a child on the inside, and we want to see him go from a boy to a man. He has to take responsibility for his own life.”
+
+Character development aside, Feldman said the deaf community’s reaction is paramount ― and, fortunately, feedback from those viewers has been “fantastic” thus far. Ultimately, he’ll be happy if “This Close” inspires Hollywood to tackle additional projects involving deaf creators, actors and storylines. As for him and Stern, the pair has hopes of one day producing a period drama featuring deaf characters.Melania Trump was not with him.
+
+“The first lady will be staying in Florida as is their tradition for spring break,” deputy press secretary Lindsay Walters said in a statement cited by The Hill.
+
+It’s not clear if Trump watched the interview. In it, Daniels described a 2006 affair with the future president, which allegedly took place while his wife was caring for the couple’s then-infant son, Barron.
+
+Representatives for the president have denied the allegations.
+
+Footage of Trump’s return to the White House showed him walking alone as reporters shouted questions about the “60 Minutes” interview and other topics. He waved but did not speak.Bishop Michael Curry (C) leaves the National City Christian Church to march to the White House for a vigil on May 24, 2018. BRENDAN SMIALOWSKI via Getty Images
+
+Bishop Michael Curry, the Christian leader who emerged as an unexpected star last Saturday during Prince Harry and Meghan Markle’s royal wedding, is taking his message of love to the streets.
+
+Curry joined dozens of other progressive Christian leaders in Washington, D.C., on Thursday night for a candle-lit vigil and march to the White House that aimed to “reclaim” Christianity. An organizer told HuffPost that up to 2,000 people packed into the National City Christian Church to hear Curry and other prominent Christians preach before the march.
+
+Curry, a Chicago native and the presiding bishop of the Episcopal Church, emphasized the importance of love in a time when he believes the integrity of the Christian faith is at stake.
+
+“Love your neighbor,” Curry said during the service. “Love the neighbor you like and the neighbor you don’t like. Love the neighbor you agree with and the neighbor you don’t agree with. Love your Democrat neighbor, your Republican neighbor, your black neighbor, your white neighbor, your Anglo neighbor, your Latino neighbor and your LGBTQ neighbor. Love your neighbor! That’s why we’re here!”
+
+Bishop Michael Curry, presiding bishop of the Episcopal Church, preaches at the National City Christian Church in Washington, D.C., before a march to the White House. Rebekah Fulton/Sojourners
+
+The event had been planned for weeks before Curry gave his impassioned sermon about love during the Duke and Duchess of Sussex’s wedding on May 19. But some Christians are hoping that the bishop’s newfound popularity will help highlight the progressive faith movement ― and prove that conservative evangelicals don’t have an exclusive claim on interpreting Christianity.
+
+For Curry and others involved in the march, being Christian means rejecting white nationalism and misogyny; it means protecting immigrants, refugees and the poor.
+
+The speakers did not mention President Donald Trump directly during the service on Thursday night. Curry himself insisted that “we are not a left-wing group; we are not a right-wing group. We are a Jesus movement.”
+
+People participate in a march to "reclaim Jesus" in Washington, D.C. Rebekah Fulton/Sojourners
+
+However, the leaders signed a declaration that contained references to the Trump administration’s actions and policies.
+
+Curry said that he and other Christian leaders from various denominations had gathered for a Lenten retreat this year to talk about the state of Christianity in an increasingly polarized nation. Curry said the result of that meeting was a declaration calling on other Christians to “reclaim Jesus.”
+
+Bishop Michael Curry (C) waits to speak during a vigil outside the White House on May 24, 2018 in Washington, D.C. BRENDAN SMIALOWSKI via Getty Images
+
+In the declaration, the leaders rejected Trump’s “America First” philosophy, which purports to put the interests and security needs of the American people first, as “theological heresy for followers of Christ.”
+
+“While we share a patriotic love for our country, we reject xenophobic or ethnic nationalism that places one nation over others as a political goal,” the leaders wrote in the statement. “Serving our own communities is essential, but the global connections between us are undeniable. Global poverty, environmental damage, violent conflict, weapons of mass destruction, and deadly diseases in some places ultimately affect all places, and we need wise political leadership to deal with each of these.”
+
+Episcopal Church Presiding Bishop Michael Curry (L) and Sojourners President and Founder Rev. Jim Wallis (R) lead fellow clergy in a vigil. Jonathan Ernst / Reuters
+
+The leaders also condemned the “normalization of lying” and politicians who neglect the ethic of public service and accountability “in favor of personal recognition and gain often characterized by offensive arrogance.”
+
+“We are deeply concerned for the soul of our nation, but also for our churches and the integrity of our faith,” the leaders wrote.
+
+The White House did not respond to HuffPost’s request for comment.
+
+Watch a livestream of the service below.
+
+The declaration was co-signed by Rev. Jim Wallis, president of the progressive Christian organization Sojourners, which helped organize Thursday’s vigil.
+
+Signatories included Bishop Vashti Murphy McKenzie, the first female bishop in the African Methodist Episcopal Church, and Rev. Dr. Joel C. Hunter, a former megachurch pastor from Florida who served as one of former President Barack Obama’s spiritual advisers. It also featured other prominent black Protestant, mainline Protestant, Catholic and evangelical leaders.
+
+Following the service, the crowd participated in a silent march to Lafayette Square, a park facing the White House. There, leaders of the movement took turns reading out the declaration, The Guardian reports.
+
+“Jesus is Lord. That is our foundational confession,” the declaration states. “It was central for the early church and needs to again become central to us. If Jesus is Lord, then Caesar was not—nor any other political ruler since.”
+
+Watch a video by Sojourners about the Reclaiming Jesus declaration.An investigation into President Donald Trump's potential obstruction of the special counsel's Russia investigation is expected to wrap up by September, his lawyer Rudy Giuliani said. Pool via Getty Images
+
+President Donald Trump’s lawyer Rudy Giuliani said that special counsel Robert Mueller expects to wrap up the portion of his Russia probe focusing on the president’s potential obstruction by Sept. 1, The New York Times reported Sunday.
+
+The former New York City mayor told the Times that Mueller’s office gave the Trump team that timeline two weeks ago, amid negotiations on whether Trump would be willing to be interviewed by Mueller’s team, Giuliani said.
+
+The Times’ report suggested that Giuliani may be trying to put public pressure on Mueller by sharing that end date. Giuliani also urged that the larger investigation into Russian meddling in the 2016 election wrap up soon, warning that prolonging the probe risks influencing voters in the midterm elections in November.
+
+He reportedly cited former FBI Director James Comey as an example, pointing to Comey’s announcement, just days before the 2016 election, that he would reopen an investigation into Hillary Clinton’s use of a private server, and how that act was blamed for her losing the White House.
+
+Rudy Giuliani, former mayor of New York, has made conflicting statements since joining Trump's legal team last month. Joshua Roberts / Reuters
+
+The investigation into obstruction is only one part of Mueller’s probe, however, meaning the case wouldn’t necessarily end with its completion.
+
+A spokesman for the special counsel’s office declined to comment when reached by the Times.
+
+AdvertisementIt’s always been clear that President Donald Trump views women as commodities, pretty objects to be bought and sold. After all, this is a man who owned a beauty contest, openly rates women by their looks, and feels empowered enough by his fame and wealth that he’s allegedly committed, and openly bragged of, sexual assault.
+
+Still, the revelations around his alleged affairs with adult film star Stormy Daniels, who told her story in explicit detail on “60 Minutes” Sunday night, and former model Karen McDougal are instructive. In their broadest outlines, the affairs actually look a lot like workplace sexual harassment: Men leverage their power to get sex, manipulating women who are looking for opportunities and advancement.
+
+In addition to some outrageous strong-arm tactics and possible violations of federal election law, Daniels and McDougal’s stories ― as well as that of former “Apprentice” contestant Summer Zervos ― are classic examples of sexual harassment.
+
+Donald Trump at the Miss USA pageant in 2013. The president has a passion for beauty contests. Michael Stewart via Getty Images
+
+Daniels, whose real name is Stephanie Clifford, fell into a “casting couch” harassment trap, the outlines of which resemble tactics used by so many of the men recently exposed by the Me Too movement.
+
+The move isn’t terribly original: A powerful (and typically older) man uses the possibility of a new job or acting role to get sex. It’s a sexual harassment play out of Hollywood’s Golden Era, long solidified in the workplace. Though exposed and condemned by the Me Too era, it has hardly gone out of fashion.
+
+According to Daniels’ account, Trump invited her to dinner ― without mentioning that they’d be eating alone in his private hotel room. She was just 27 years old and, by all accounts, extremely bright and ambitious. He was 60 years old, married with a new baby at home and a lot of money.
+
+Trump then went about using his more powerful position to seduce Daniels with a career opportunity ― a role on his show “The Celebrity Apprentice.”
+
+Unlike disgraced Hollywood producer Harvey Weinstein, whose tactics allegedly included physical assault, Trump didn’t force Daniels. She submitted to sex with him because, she told Cooper on “60 Minutes,” she felt she had no real choice in the matter.
+
+“I realized exactly what I’d gotten myself into,” she said. “I had it coming for making a bad decision for going to someone’s room alone.”
+
+Stormy Daniels sat down with Anderson Cooper on Sunday night to talk about an affair she says she had with Trump. She says Trump invited her to dinner, not mentioning they'd be dining alone in a hotel room. CBS Photo Archive via Getty Images
+
+Daniels insisted on Sunday night that her encounter with Trump was consensual, but it’s clear who had the upper hand.
+
+In the months and weeks following their original meeting, Trump continued to dangle a slot on the TV show in order to get Daniels to meet up with him again, according to Daniels’ account. (Trump, through spokespeople, has repeatedly denied the affair.)
+
+When she finally did ― showing up to his private bungalow at the Beverly Hills hotel ― she did not sleep with him again. The next month, he called to let her know the TV show thing wasn’t happening.
+
+One wonders if she would have nabbed the role if she had succumbed to sex again.
+
+Trump unleashed a similar play on Summer Zervos, according to a lawsuit filed by the former “Apprentice” contestant. Zervos was also looking for a career opportunity and gladly accepted Trump’s dinner invitation in 2007.
+
+But when she arrived at the restaurant of the Beverly Hills hotel, she was directed to Trump’s private bungalow, according to her complaint. When she got there, she says Trump kissed her and placed his hand on her breast. She declined his advances, pushing him away. But after that, she says she kept seeking Trump out for advice and job opportunities.
+
+Zervos is now suing the president for defamation ― after he called her a liar.
+
+Summer Zervos appears in court during a hearing for her defamation case against Trump. She says she was looking to Trump for career advice. POOL New / Reuters
+
+These stories recall so many Me Too tales: the young woman who says she showed up at Charlie Rose’s home to talk about a job and was greeted by the elderly TV host wearing a robe with nothing underneath. Or venture capitalist Justin Caldbeck, who allegedly propositioned women who were looking to him to invest in their startups.
+
+Karen McDougal says she was manipulated in a similar fashion. In order to get her to sign away the right to tell the story of her alleged affair with Trump, American Media Inc. promised the former model essentially a fresh start in her career, according to the lawsuit she filed against AMI. (The White House has denied that the affair happened.)
+
+AMI owns The National Enquirer, along with Star and OK magazines. According to McDougal’s lawsuit, AMI representatives told her she’d have the opportunity to write several columns each month on health and beauty for the publications, and could also appear on magazine covers.
+
+“What model wouldn’t want that,” McDougal told Anderson Cooper in an interview last week. “Especially as an older model like, you’re like, ‘Oh, this is great right?’”
+
+Not exactly. The columns and covers didn’t happen. It’s now clear the company was just trying to keep her quiet about her alleged affair.
+
+This was a sex and power exchange of a slightly different order ― since Trump’s involvement is not quite clear. Still, at the end of the day, AMI appears to have used McDougal’s ambition to manipulate her.
+
+Now McDougal is suing AMI to get out of the contract. This isn’t about money for her, she said. “I’m out to get my rights back, to prove a contract was illegal, that I was taken advantage of and go back to my life. Period.”
+
+Considering the amount of scrutiny these women now face, it’s doubtful they’ll ever quite be able to go back to their lives. And that’s one of the many horrid ways women lose when they speak up about harassment.Aly Raisman is not here for any victim blaming.
+
+The Olympic gymnast and sexual abuse survivor made it clear in a series of tweets on Sunday that she does not believe banning leotards from gymnastics will prevent future abuse in the sport.
+
+“I was recently asked if gymnasts should continue wearing leotards,” she tweeted. “Leotards [are] not the problem. The problem is the many pedophiles out there & the adults who enable them. By saying clothing is part of the issue, [you] are victim shaming/implying survivors should feel it’s their fault.”
+
+Recently, Raisman has been at the center of the sexual abuse scandal involving former USA Gymnastics trainer Larry Nassar. Nassar sexually abused Raisman, along with hundreds of other young athletes, under the guise of medical treatment for over two decades.
+
+The scandal has forced not only USA Gymnastics but other Olympic sports organizations to reckon with how they handle sexual abuse and how it can be prevented in the future.
+
+Rasiman directed her Twitter followers to her recent campaign Flip the Switch to learn more about victim shaming and how to prevent child sexual abuse.
+
+I was recently asked if gymnasts should continue wearing leotards. Leotards r not the problem. The problem is the many pedophiles out there & the adults who enable them. By saying clothing is part of the issue, u are victim shaming/implying survivors should feel it's their fault. — Alexandra Raisman (@Aly_Raisman) March 25, 2018
+
+For those of you who do not understand what victim shaming is and why it's so dangerous I urge you to educate yourself. Adults can work together to prevent child sexual abuse. Please #FlipTheSwitch with Darkness to Light https://t.co/cZb5qZkY5U — Alexandra Raisman (@Aly_Raisman) March 25, 2018
+
+Female gymnasts’ leotards weren’t always so form-fitting, according to a 2016 deep-dive from Elle. In the 1930s and ’40s, gymnasts wore loose-fitting leotards that had full butt coverage and often covered their shoulders. At that time, however, gymnastics was less physical and consisted mostly of dancing. As the sport progressed, the leotard became more form-fitting to accommodate larger muscles and more physical routines.
+
+The 23-year-old has long-been a feminist advocate who’s used her platform time and time again to call out slut shaming and victim blaming. In a 2017 Instagram post, Raisman posted a photo of herself in a bathing suit and reminded her followers that women don’t need to cover up to be respected.Martin Luther King Jr.’s granddaughter has a dream, too. Nine-year-old Yolanda Renee King spoke out against gun violence in a brief yet powerful speech at Saturday’s March For Our Lives in Washington.
+
+“My grandfather had a dream that his four little children will not be judged by the color of their skin, but by the content of their character,” King, the daughter of Martin Luther King III, said.
+
+“I have a dream that enough is enough,” King said to cheering and applause. “And that this should be a gun-free world, period.”
+
+She then led the crowd in a call-and-response, chanting “Spread the word. Have you heard? All across the nation. We ... are going to be. A great generation.”WASHINGTON (Reuters) - U.S. President Donald Trump on Monday ordered the expulsion of 60 Russians from the United States and closed the Russian consulate in Seattle over a nerve agent attack earlier this month in Britain, senior U.S. officials said.Tiffany Haddish couldn’t bite her tongue any longer.
+
+The comedian and “Girls Trip” actress revealed to GQ’s Kaity Weaver on Monday that there’s more story to that infamous selfie she took with Beyoncé at a party in December than she first divulged.
+
+A post shared by Tiffany Haddish (@tiffanyhaddish) on Dec 22, 2017 at 10:26am PST
+
+In February, she told New York Magazine’s Vulture that “something had went down with somebody at the party,” but she was “not at liberty to say” what happened. Still, she alluded that Beyoncé was involved in this cryptic kerfuffle, and the pop star instructed Haddish to calm down and have fun, leading to the selfie.
+
+“There was this actress there,” Haddish told GQ, spilling hot tea all over the place. “That’s just, like, doing the mostest”
+
+When Weaver asked Haddish to elaborate on what she meant by “the mostest,” Haddish responded:
+
+“She bit Beyoncé in the face.”
+
+Though Haddish refused to name the actress — and Beyoncé’s rep declined to comment to GQ — she did go into significantly more detail. Haddish told the magazine:
+
+“’So Beyoncé stormed away,” Haddish says, ’went up to Jay-Z, and was like, ‘Jay! Come here! This bitch—’ and snatched him. They went to the back of the room. I was like, ‘What just happened?’ And Beyoncé’s friend walked up and was like, ‘Can you believe this bitch just bit Beyoncé?’ ”
+
+Haddish said that after that “a lot of things happened” and she kept crossing paths with the anonymous actress throughout the night. In one instance, Haddish said the unnamed celebrity asked her to stop dancing, upsetting Haddish.
+
+When Beyoncé and Jay-Z encountered Haddish later, she said she told Beyoncé that she was “going to beat somebody ass at your party.”
+
+Beyoncé then asked Haddish not to and to just ignore the actress and have fun. Or, in Haddish’s words:
+
+“Beyoncé’s at the bar, so I said to Beyoncé, ‘Did she really bite you?’ She was like, ‘Yeah.’ I was like, ‘She gonna get her ass beat tonight.’ She was like, ‘Tiffany, no. Don’t do that. That bitch is on drugs. She not even drunk. The bitch is on drugs. She not like that all the time. Just chill.’”
+
+Haddish then took the opportunity to snap a selfie with Beyoncé.Last week, France announced a bill to its Council of Ministers that would allow some of the sexual misbehaviors and crimes brought to light in recent months to be more easily punishable by law.
+
+There are four sections of the legislation: First, street harassment would be punished on the spot with a fine anywhere from 90 to 750 euros. Second, the law would set the age of sexual consent to 15. Third, the limitation period for sexual crimes committed against minors would be extended to 30 years (up from 20 years) after the victim turns 18. Finally, there would be tougher sanctions against online group harassment (this means that any person who takes part in harassing someone online, even if they just sent a few tweets, will be considered responsible).
+
+Though the Harvey Weinstein scandal, France’s #BalanceTonPorc movement, and the worldwide Me Too movement have clearly put more attention on sexual assault worldwide, behind each of these pieces of legislation exists a person or a story that began debates in France long before these issues became daily top news stories.
+
+Street Harassment
+
+Sofie Peeters
+
+RTBF
+
+In 2012, a Belgian woman named Sofie Peeters released a documentary called “Woman of the Street.” Using a hidden camera, she recorded and denounced sexist remarks and behaviors that she heard from men while simply walking down the street.
+
+Insults such as “bitch” and “slut” rained down on her, as well as indecent behavior and propositions. The young woman, then a student, said she was surprised that she experienced this kind of harassment “5 to 10 times a day.”
+
+As the French website Madmoizelle noted, the video’s widespread impact caused politicians around Europe to react. The city of Brussels, for example, decided shortly thereafter that this type of sexual harassment would be punishable by law. Last Wednesday, the French government joined Brussels by proposing the establishment of a fine for street harassment and sexist insults.
+
+Statute Of Limitations
+
+Flavie Flament
+
+AFP
+
+In October 2016, French television and radio presenter Flavie Flament revealed in her book The Consolation that she had been raped by a well-known photographer (though she didn’t reveal his name in the book) almost 30 years before.
+
+She explained to the JDD, a French weekly newspaper, that she withheld her aggressor’s identity because of the “justice of the limitation concerning this type of crime.”
+
+“Today this man is legally out of reach, yet that does not make him innocent. I cannot pursue my tormentor and I will live with this for the rest of my days,” she said.
+
+Now her focus is on fighting to extend the limitation period for crimes committed against minors. In France, the period is 20 years if the victim is an adult, and if the victim is a minor at the time of the incident, it is up to 20 years after the victim turns 18. Minors thus have until age 38 to file a case. This is not enough time for some victims, who may suffer from post-traumatic stress disorder or go years without realizing a crime they have suffered.
+
+“A victim of rape sometimes ‘wakes up’ many years after. For these people, coming out about what happened can take a long time. They may decide to pursue legal action after seeing a psychologist, which can be a long reconstructive effort,” explained Laure Ignace, a lawyer from the European Association Against Violence Directed at Women in the Workplace (AVWW), to the French paper Le Monde.
+
+Flament was given the task to work on extending the statute of limitations by Laurence Rossignol, the French minister of families, children and women’s rights. She will also create a documentary, “Rape Against Minors,” to highlight the subject.
+
+Since then, nearly 30,000 people have signed a petition to extend the limitation period. In November 2017, Emmanuel Macron reiterated in his anti-violence against women proposal that the government should extend the period to 30 years for minors.
+
+The Age Of Sexual Consent
+
+The trial on the rape of an 11-year-old girl
+
+Concerning the age of consent for minors, the story that has created debates is rather recent, even if the subject itself is not. The acquittal of a man tried for the rape of an 11-year-old girl caused outrage in France in November 2017.
+
+Twenty years old at the time of the trial, the girl accused the man of rape, but the defendant stated it was consensual. He also asserted that she lied about her age, which she disputed.
+
+A similar affair sparked controversy in France two months earlier. A 28-year-old man was put on trial for “sexual abuse” and not “rape” after having sex with an 11-year-old. In France, punishment for the former is much lighter.
+
+These two cases, particularly the one in November, raised numerous voices in favor of establishing an age of sexual consent, to distinguish the difference between children (those deemed unable to consent) and sexually consenting adults.
+
+Emannuel Macron asked for the age to be set to 15 during a speech on Nov. 27, 2017, shortly after the UN’s International Day for the Elimination of Violence Against Women.
+
+Marlène Schiappa, the Secretary of State for Equality between women and men has announced that, under a certain age, a minor should no longer be considered a consenting sexual adult. “Below a certain age, it should be considered that there can be no debate, ever, on the sexual consent of a child, and that for any child below a certain age, it would be automatically considered rape or sexual assault,” explains Schiappa, adding that this legal age could be somewhere “between 13 and 15.”
+
+Cyberbullying
+
+Marion Seclin
+
+Tedx
+
+Following a video on harassment published on Madmoizelle in May 2016, actress and YouTube personality Marion Seclin received a wave of insults and hate comments online. More than 40,000, according to Seclin.
+
+What was the reason for this surge of hate? The actress explained that the street was not a place to flirt. “It angered me that a large number of internet users decided not to debate with me, but come at me with insults. (...) I have received nearly 40,000 death and rape threats, people asking me to commit suicide, or threatening to kill my family, or other insults,” she later recounted.
+
+This case of online harassment brought to light the impunity available to harassers, as Seclin found herself destitute and with little possible recourse.
+
+In December 2017, she told her story at a TEDx conference and explained why she was “the French champion of cyberbullying.” “Everything that happens online is happening in real life,” she said.
+
+“It’s not me against 40,000 people, it’s me against one person and one person and one person ... I do not have the time, nor the energy, nor the means to file a suit against 40,000 pseudonyms. Have you ever tried to file a case against someone? Do you know the administrative steps to file a case against someone in France? It is very long. So imagine 40,000 people,” she said during the talk, referring to the difficulty in pursuing legal action in France against cyberbullying.
+
+In February, a report from France’s High Council of Equality between Women and Men (HCE) was submitted to the government with recommendations for ensuring cyberbullying would not go unpunished.
+
+In the bill, presented last Wednesday, a sanction appears that is related to the phenomenon of “mob mentality,” or when several people harass the same person together.The Federal Trade Commission said Monday it has opened an investigation into Facebook’s privacy practices.
+
+The FTC said it was probing whether Facebook violated a 2011 agreement settling claims it was deceiving users about its privacy policy. At the time, the company was accused of repeatedly allowing consumers’ private data to be shared and made public.
+
+The new investigation was prompted by last week’s revelations that Cambridge Analytica, a political data firm in the U.K. that worked for President Donald Trump’s 2016 campaign, misused data harvested from 50 million Facebook accounts. Facebook shares fell more than 5 percent following the FTC statement, continuing a drop of more than 23 percent from the peak on Feb. 1.
+
+“Companies who have settled previous FTC actions must also comply with FTC order provisions imposing privacy and data security requirements,” Tom Pahl, acting director of the FTC’s Bureau of Consumer Protection, said Monday in a release.
+
+“Accordingly, the FTC takes very seriously recent press reports raising substantial concerns about the privacy practices of Facebook. Today, the FTC is confirming that it has an open non-public investigation into these practices.”
+
+Facebook could face fines of $40,000 per violation of the 2011 consent decree with the FTC, according to Sen. Ed Markey (D-Mass.), which he said could amount to millions in penalties.
+
+Separately, a group of 37 state attorneys general on Monday sent an inquiry to Facebook, asking the company to explain its relationship with Cambridge Analytica and answer “serious questions regarding consumer privacy.”
+
+U.K. authorities raided Cambridge Analytica’s London headquarters on Friday, reportedly seeking evidence the company improperly influenced Britain’s 2016 vote to leave the European Union.
+
+“We remain strongly committed to protecting people’s information,” Rob Sherman, Facebook’s deputy chief privacy officer, said in a statement provided to HuffPost. “We appreciate the opportunity to answer questions the FTC may have.”
+
+The FTC said in 2011 that Facebook was “obligated to keep the promises about privacy that it makes to its hundreds of millions of users.”As thousands of protesters funneled along Pennsylvania Ave. in Washington, D.C., for the March for Our Lives on Saturday, carrying signs and children and the weight of fear and grief over gun violence, there was another, small revolution taking place at the edge of the march route, in tiny Pershing Park. That’s where about 100 activists from the New York City–based group Gays Against Guns (GAG) had set up camp for the day, transforming the bleak concrete corner with a huge rainbow banner and pink Mylar strips that billowed in the breeze.
+
+Also part of the staging was some much-needed levity: a pink-carpeted runway, with folks in drag encouraging passersby to show the NRA, in RuPaul parlance, how to “sashay away.” Later, a large group struck a more somber tone by wearing all white, having their faces covered with veils, each carrying the photo, name, and short bio of a person who had been lost to gun violence. The silent procession of “human beings” stopped marchgoers in their tracks.
+
+Gays Against Guns reclaimed this politician’s swipe. Photo: Beth Greenfield for Yahoo Lifestyle
+
+Surrounding the activists throughout the day were colorfully spray-painted signs, declaring “Not in my school,” “Stop trans murder,” “NRA be gone, before we drop the House on you” (a pitch-perfect “Wizard of Oz” reference), and the pièce de résistance: “Skinhead lesbian.”
+
+It was, of course, the reclamation of an insult hurled by a Maine legislative candidate toward a magnetic leader of this movement: Emma González, the buzzed-headed student who emerged onto the national stage just three days after the deadly Feb. 14 shooting at her Marjorie Stoneman Douglas High School in Parkland, Fla.
+
+That’s when González’s riveting 11-minute “we call BS” speech went viral, energizing a segment of the nation that had had enough of gun violence and catapulting a crew of similarly smart, tenacious Parkland students into an instant media spotlight.
+
+People soon tweeted that González should run for president. The 18-year-old noted that she already is president — of her school’s Gay-Straight Alliance (GSA). She then told the Washington Post that she identifies as bisexual, and suddenly her fierce badassery just made that much more sense for a whole lot of people, particularly fellow LGBTQ folks and queer activists for whom self-identity and a willingness to stand up for justice have long been inextricably linked.“
+
+We have always been on the defensive as a community. So it’s a natural fit. We have been fighting for our rights for decades, likely eons,” Cathy Marino-Thomas, a GAG organizer and longtime activist in the fight for marriage equality, tells Yahoo Lifestyle, referring to battles over AIDS funding, marriage equality, the right to adopt, the right not to be fired from work and to serve in the military, and a range of other hard-won civil rights. “I think that we are a community less afraid to stand up because, in many ways, we have less to lose and everything to gain. Historically, no one has ever stood up for the gays. We’ve had to stand up for ourselves, often against extraordinary opposition.”
+
+Yahoo
+
+Of course, no one would deem this current antigun movement a singly gay issue — not even GAG, for whom the two narratives are tightly entwined. But there are deep and undeniable connections, made both collectively — such as by the Human Rights Campaign (HRC), the largest national LGBTQ-rights organization, which had a massive presence at the D.C. march led in party by Queer Eye co-host Karamo Brown, himself a graduate of Parkland’s Marjory Douglas Stoneman High School — and also made individually.
+
+That goes for González, who tells Yahoo Lifestyle in the days leading up to Saturday’s march that she indeed sees a connection between her sexuality and her drive to lead the movement. “They’re definitely linked for me personally. If I wasn’t so open about who I was, I never would’ve been able to do this,” she says. “In ninth grade, I was in a creative writing class where I could actually really effectively communicate what I was feeling, and it especially helped me come to terms with who I was. That definitely was when I really understood who I am, and when I came to terms with it, and when I told most people.”
+
+Being open, González says, “helped me understand that everybody, no matter who they are and what they look like, is going through a lot of different things.” And being her school’s GSA president for three years has fostered her activist skills.
+
+“It’s really helped me get used to shifting plans very quickly, planning in advance, and also being flexible … understanding that maybe you organize a club meeting with this one person in mind and they just don’t come because they aren’t coming to school, and you can’t get upset,” she says. “Because most of the kids in GSA either have depression or they’re dealing with a lot of stuff at home, and I can understand that. And there are so many people in the country who are dealing with that, in relation to gun violence. You have no idea. You don’t know how many people you talk to on a daily basis that have actually been shot before, or have lost someone through gun violence. With GSA it’s the same. Everything’s incredibly far-reaching and widespread.”
+
+The pink runway was a draw. Photo: Beth Greenfield for Yahoo Lifestyle
+
+González recalls meeting Gays Against Guns representatives who had come to Parkland to show their support on the day her high school reopened after the shooting. “Yaass!” she says at the mention of the group, noting that she’d felt lucky for the haul of signs, fliers, buttons, and a parasol they gave her that day. But she reaches back further through gay history when she names her latest inspiration: transgender activist Sylvia Rivera, a veteran of the 1969 Stonewall uprising, widely known as the start of the gay-rights movement.
+
+“There’s this clip of her getting up onstage at one of the Stonewall Pride rallies, a couple years [after the uprising], and … everybody boos her because she’s trans. But she’s like, ‘Are you kidding me? You’re gay. I’m trans. We’re part of this. Like, I got you here. How many times have I had to fight for you? And you’re booing me because I’m trans?’” the teen says. “First of all, it was so unfair, unjustified, undignified, like, I was so infuriated by seeing that. But then there’s just knowing that there will always be people that hate you, and that they’re always going to be wrong. So it’s good to use that, and remember that whatever you’re doing, if it’s making people that mad, then it’s probably a good thing.”
+
+***
+
+González, of course, is far from the only power behind the youth-led antigun movement and March for Our Lives; in the week leading up to the marches, she and the rest of the Parkland crew did a whirlwind media tour, landing, among other places, on the cover of Time, in the studio of “The Rachel Maddow Show,” and in a Teen Vogue series that included a story in its sister LGBTQ publication, Them, which announced in its headline, “Queer Teenage Girls are Leading the Gun Control Movement.”
+
+Though it may have been a slight exaggeration (only González and classmate Sarah Chadwick have identified themselves as being part of the LGBTQ family), there is certainly a shared ethos within the youth-led resistance that makes it ring true. And as nonqueer Parkland student Jaclyn Corin noted in that story, “As things get more acceptable in society, like legalizing gay marriage and stuff like that, it shows us that a change from the beginning that seemed so far away can actually happen in the same lifetime. So that gives us hope. We’re kind of modeling this like the LGBT movement because, in retrospect, it’s the same. We’re working towards a common goal as a lot of people and it’s not party-oriented. That’s marriage, and this is lives.”
+
+One of Gays Against Guns’ clever signs in D.C. Photo: Beth Greenfield for Yahoo Lifestyle
+
+To longtime activist Evan Wolfson, whose Freedom to Marry campaign won the fight for national marriage equality in 2015 after a decades-long effort, that’s an apt parallel.
+
+“It’s all taken from the Freedom to Marry playbook, where despite people saying that gay people can’t marry — the courts saying that, the culture saying that, even gay people saying that to ourselves — we didn’t take no for an answer, and by not taking no for an answer we turned the answer into yes,” Wolfson tells Yahoo Lifestyle the day before the March for Our Lives, which he had planned to join in New York City. “It’s what’s so inspiring about these young people and what they’re doing. … They believe they can create change and are inspiring millions more with that belief.”
+
+González with a parasol she was gifted by Gays Against Guns (GAG). Photo: Courtesy of publicist for Gonzalez
+
+Wolfson now travels around the world to consult with activists on issues from antiviolence and immigration reform to environmental protection and animal rights. He notes that, when it comes to activists finding the fire in their bellies, “You can’t reduce something to just one identity, whether it be black or white or gay or non-gay or Jewish or Christian. Minorities have had an experience of exclusion, oppression, having to form solidarity and work for change … but we all have our something, and we have to draw on that something to make the world better.”
+
+For Gays Against Guns, that something is twofold: queerness and, relatedly, being on the defensive when it comes to violence. As the group states on its website and in literature it passes out at protests, the LGBT community is disproportionately affected by gun violence: first, because most gun deaths in the U.S. are suicides and LGBTQ people are overrepresented among suicide victims (92 percent of transgender adults have attempted suicide by age 25); second, because LGBTQ people are the most likely minority to be the victim of a hate crime.
+
+That really hit home with everyone on June 12, 2016, when the Pulse gay nightclub massacre in Orlando left 49 people dead in what was the most lethal mass shooting ever in America (though it was later surpassed by that of Las Vegas).
+
+Yahoo
+
+Gays Against Guns formed in response to that tragedy, with individuals from a newly outraged generation joining seasoned activists, some of whom were ACT UP organizers in the early days of the AIDS crisis, and who brought to the group their attention-grabbing direct-action skills — “die-ins,” chillingly clever chants, and sit-in-the-streets civil disobedience moves that often came with the goal of getting arrested. A week after its formation, GAG had a huge and heart-stopping presence in the New York City Pride March, with a contingent more than 750 strong chanting “Stop the NRA!” and staging die-ins all along Fifth Avenue; since then it has held direct-action protests and had a continued education-based presence at gun shows around the country.
+
+“I think an intrinsic part of queerness is to have a certain feeling of being outside, and when you harness that, it’s very powerful,” says Kevin Hertzog, a founding member of GAG and someone who lived through the early AIDS crisis, losing many friends in the process. “When you’re dying, you’ll do anything,” he says on Saturday in D.C., referring to the basic connection between the early days of AIDS activism and the urgency behind today’s antigun movement. “It became apparent that no one was going to help us, so we had to help ourselves.”
+
+Karamo Brown, center, and Brandon Wolf march with the Human Rights Campaign on Saturday at the March for Our Lives in Washington, D.C. Photo: Human Rights Campaign/Facebook
+
+As for González’s being queer, “It’s not incidental,” he says. “Some people are astonished that these kids were able to start this movement. But when you place it in a queer context? I’m not astonished at all.”
+
+GAG co-founder Hal Moskowitz, who was a co-founder of the early AIDS organization Gay Men’s Health Crisis (GMHC), says, “I see some of me in [the Parkland activists]. I see that drive that says, ’F*** you, you’re going to listen to me, and I’m going to say it until you do.” Student David Hogg, who continuously acknowledges his place of privilege and speaks about the “children and people of color whose voices are not being heard,” has been particularly impressive, he adds.
+
+Gays Against Guns’ procession of “human beings,” representing lives that have been lost to gun violence. Photo: Beth Greenfield for Yahoo Lifestyle
+
+Indeed, with Parkland, a largely white, affluent community known for its safety, the teens leading this cause have been particularly mindful of doing everything in their power to shift the narrative, from interview talking points to including students of color and from poorer communities in various ways. Nadine Smith, executive director of Equality Florida, a gay rights group, took note of that effort recently.
+
+“I applaud the students for using the enormous platform they have to call out how racism and homophobia impact the response to gun violence. They see clearly the enormous difference in how Tallahassee responded to Parkland compared to Pulse,” Smith noted in a statement. “Legislators who had to be shamed into permitting a moment of silence for the 49 killed in Orlando quickly allocated funds for a memorial and passed legislation, flawed and incomplete though it is. When the GSA students, including Emma, spoke at our Gala in Miami, she made sure to lift up Pulse. [And] the students have gone to Chicago to meet with other students who have been organizing against gun violence for years to combine efforts.”
+
+Brandon Wolf, who led the HRC contingent along with Queer Eye’s Brown in D.C. on Saturday, was at Pulse when the shots rang out; his friends Drew Leinonen and Juan Guerrero were killed. The experience, he says, turned him into an activist overnight. “I think the reason there’s this natural marriage of the LGBTQ community and a fight against this epidemic of gun violence is because there’s a very real fear from a young age as a gay person and specifically gay people of color that you will be targeted, harmed, or even worse because of who you are,” Wolfe, 29, tells Yahoo Lifestyle. “So there’s this natural sense of, we’ve got to protect ourselves and each other from that violence, and I think gay people know better than anyone else what it feels like to live in fear all the time.”
+
+He adds, “I think as a young person, I went through so much, dealing with family and community and the process of coming out and all of that. And I think that makes you an advocate, because you’ve been fighting for your own health and well-being since you were young.”
+
+Emma González addresses the March for Our Lives on Saturday. Photo: Getty Images
+
+Now, as a whole new generation of young people grow up having to fight for their health and well-being in regard to gun violence, they are finding their own ways to make their voices heard and their demands met — with techniques both learned and instinctual.
+
+“I think one thing we can learn from older generations of activists, which I’ve shared with the Parkland students, is the power of patience,” Wolf says. “We can let the older generation be a testament to the fact that hard work means we may not get it the first time around, but eventually we’ll get it — so to not get discouraged that the Florida legislature doesn’t care today, because the real change will be made when we vote them out for people who will make a change.”
+
+On the other side, says González, is what her generation might teach the older ones (in addition to the power of social media, of course).
+
+“One of the main things to be learned is that a lot of people kind of get pushed into an agenda, like Republican or Democrat. But the best way to get things done is to appeal to both sides, and listen, which is what we’ve been doing,” she says. “And this is not to knock anyone else, but what we’ve been really focused on is inclusion, and trying to really combine these communities spread around the United States. We’ve been trying to get everyone on the same page, to figure out what everybody’s asking for, and see if we can, as a giant movement, ask for that together.”

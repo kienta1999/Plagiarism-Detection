@@ -1,0 +1,25 @@
+Intelligence officials have “substantial evidence” that Russian hackers successfully compromised state websites or voter registration systems in seven states ahead of the 2016 elections, NBC News reported Tuesday.
+
+While it had been publicly reported that systems in Illinois and Arizona had been compromised before the 2016 election, the NBC report revealed that Russian hackers had wider reach than was previously known. While the exact nature of the compromise in the states remains unknown, intelligence officials maintain that no vote or information was changed or altered.
+
+The seven states compromised were Alaska, Arizona, California, Florida, Illinois, Texas and Wisconsin, according to NBC News. In considering the systems “compromised,” NBC News reported, the intelligence community believed Russians had gained entry into them. The Department of Homeland Security reportedly “developed substantial evidence” the systems had been compromised but never told the states. President Barack Obama had ordered the intelligence during the final weeks of his presidency, NBC News reported.
+
+Every one of the states except Illinois continues to deny that their systems were compromised.
+
+Michael Haas, Wisconsin’s top election official, said in a statement that the state had checked its security with DHS and others following NBC News’ inquiries and had confirmed “that they are not aware of any other attempts ― successful or unsuccessful ― to breach Wisconsin’s systems.”
+
+“The Wisconsin Elections Commission has never detected a successful hacking attempt on its systems, nor has it ever been notified of one by the Department of Homeland Security or any other state or federal agency,” the state commission said in a statement.
+
+DHS notified 21 states they had been targeted by Russian hackers in September, prompting criticism from state election officials that the agency had been too slow to alert them. Then, Wisconsin, Texas and California accused DHS of giving them bad information, saying the agency provided additional data saying hackers targeted other state websites, not election agencies. Security experts say, however, that hackers can use non-election-related entry points to gain access to voter systems.
+
+Tyler Houlton, a DHS spokesman, disputed NBC News’ report Tuesday.
+
+“NBC’s reporting tonight on the 2016 elections is not accurate and is actively undermining efforts of the Department of Homeland Security to work in close partnership with state and local governments to protect the nation’s election systems from foreign actors,” Houlton said in a statement. “We have no intelligence ― new or old ― that corroborates NBC’s reporting that state systems in seven states were compromised by Russian government actors. We believe tonight’s story to be factually inaccurate and misleading.”
+
+The documents the network relied on, Houlton said, were “working documents based on preliminary information and ongoing investigations, not confirmed and validated intelligence on Russian activities.” He added that the department had seen only “preparatory activity like scanning” in the 21 states targeted.
+
+The NBC report comes as intelligence chiefs warn that Russia is preparing to interfere in the 2018 elections and criticism that the federal government isn’t moving swiftly enough to prepare. DHS has taken steps to improve communication with local officials and held a classified briefing for them earlier this month on election threats. Some states are taking steps such as returning to paper ballots and encrypting election data to protect themselves.
+
+President Donald Trump, however, hasn’t spoken out so decisively. He has said he accepts the conclusion of the intelligence community that Russia meddled in the election but has also said he believed Russian President Vladimir Putin when he denied meddling. He has also said other actors could be behind the hacking.
+
+During a meeting between state officials and Homeland Security Secretary Kirstjen Nielsen, Vermont Secretary of State Jim Condos (D) asked why Trump wasn’t speaking out and agreeing with his intelligence chiefs. Not doing so, Condos told Nielsen, undermined the intelligence community and sent mixed messages to local election officials.

@@ -1,0 +1,57 @@
+WASHINGTON ― A new era of internet regulation is about to begin.
+
+Years after Facebook and Google went public, regulators in the United States and abroad are finally taking a closer look at the internet behemoths. And they’re not only looking at the way these companies have come to dominate markets, but also examining the heart of the two firms’ business models. What they decide will have powerful implications for the way we do business on the internet.
+
+Most people associate Facebook with cute family photos and think of Google like a semi-reliable encyclopedia. But these services have only a tangential relationship to the way either company actually makes money. The twin Silicon Valley titans rely on two closely intertwined technologies, customer surveillance and advertising, to maximize shareholder profits. The pair control 63 percent of the U.S. digital advertising market, and in 2016, they secured 99 percent of all digital advertising growth. That profit-making combo is exactly what regulators are focused on in 2018.
+
+Many of the companies’ difficulties stem from the European Union’s tough new stance on privacy. The biggest threat to their business model comes from the General Data Protection Regulation, new data privacy rules set to go in effect in the EU in May. For the most part, Facebook and Google prevent you from using their products if you decline to agree to their entire terms of service. You cannot pick and choose what to agree to and still use their free services.
+
+The GDPR changes that by requiring online companies, in some cases, to get permission from each individual user to collect, share and combine their data for use by advertisers. Companies will not be allowed to ban people from their services who decline to share their data for advertising purposes. There are 508 million EU residents who will soon be able to opt out of helping Facebook and Google make money. If companies do not comply with the new regulations they will face fines totaling 4 percent of their global revenues.
+
+“These laws and regulations, as well as any associated inquiries or investigations or any other government actions, may be costly to comply with and may delay or impede the development of new products, result in negative publicity, increase our operating costs, require significant management time and attention, and subject us to remedies that may harm our business, including fines or demands or orders that we modify or cease existing business practices,” Facebook stated in its most recent quarterly Securities and Exchange Commission filing.
+
+But GDPR isn’t the only trouble ahead for Facebook and Google. There are also myriad investigations underway into allegedly abusive practices by the firms.
+
+After fining Google a record $2.8 billion in 2017 for prioritizing its own products over competitors in its online search results, the EU’s competition commission continues to investigate the company for allegedly abusing its market dominance in the mobile phone market through its Android operating system. Germany’s antitrust commission issued a preliminary report in December stating that Facebook uses its dominant position to place unfair conditions on its users by combining data from the Facebook main site with data retrieved from third party sources through its “like” button. In December, France gave Facebook one month to stop combining data from its WhatsApp platform with its Facebook platform without user consent or face sanctions and fines. Ireland’s antitrust enforcer has also investigated Facebook for sharing WhatsApp data without user consent.
+
+Congress grilled representatives from Facebook, Twitter and Google over their advertising and privacy practices in November 2017. (Pictured from left to right: Colin Stretch, Facebook general counsel, Sean Edgett, Twitter acting general counsel, and Richard Salgado, Google director of law enforcement and information security.) Joshua Roberts / Reuters
+
+In the U.S., Congress continues to hold hearings on the use of Google and Facebook platforms ― including Instagram and YouTube ― by Russian trolls and international and domestic terrorists to recruit new members, spread their messages and disrupt U.S. elections. Missouri Attorney General Josh Hawley, a Republican, has also launched his own investigation into whether Google is in violation U.S. antitrust laws.
+
+For the first time, the online business model of surveillance capitalism is coming under the microscope. But it didn’t have to be this way in the first place.
+
+How Facebook And Google’s Surveillance Model Came To Own The Internet
+
+The business model that we all submit to when we unthinkingly click “Agree” on those lengthy terms of service agreements, or plug in that Google Home or Amazon Alexa your parents bought you for Christmas, was not a foregone conclusion when commerce went online back in the 1990s. It came about from a lack of options and a need to show profitability to investors.
+
+In the mid-1990s, businesses and news organizations used the traditional advertising model for content production previously used by television, newspapers and magazines when they went online. It seemed to be the only way to show profits to venture capital investors or corporate managers.
+
+At the time, there was no secure way to transmit payments online, making a subscription model impossible. Advertising was the only option.
+
+Wired magazine debuted its online site HotWired in 1994 and with it the very first banner ad, courtesy of AT&T. “A lot of the things that we did, and that we’re credited for, were really not brilliant decisions, they were constraints,” then-Chief Technology Officer for Wired Andrew Anker told the Internet Podcast in 2014, while noting the lack of secured payment technologies for credit cards at the time. “We had no choice.”
+
+Ethan Zuckerman, the director of the Center for Civic Media at MIT, was one of these early web pioneers. As one of the co-founders of the venture capital backed Tripod.com, he had to show his investors that the company could pull in some kind of revenue. Everything failed except advertising and the attendant surveillance of users that could be harvested for marketing data.
+
+There were problems, of course. One Tripod.com advertiser complained about their material appearing on a page celebrating anal sex. The solution Zuckerman came up with was to make the ad open in a different window when it loaded. He had created the much-loathed pop-up ad.
+
+Zuckerman regrets the decisions he and the early web entrepreneurs made that paved the path to the widespread surveillance of human behavior by private corporations. In a 2014 essay for The Atlantic, he labeled this the ”Internet’s Original Sin.”
+
+“I think we took the easy way out frankly,” he told HuffPost. “I think we should have been charging for services. We didn’t consider this idea that we were going to end up putting users under surveillance.”
+
+But that’s what happened. Advertising became the predominant source of revenue for all of the early large-scale search engines. Tech entrepreneur Bill Gross even launched a purely ad-based search engine in 1998 that showed search results solely based on who paid the most money to get to the top.
+
+Google founders Larry Page and Sergey Brin found the advertising models distasteful. In a 1998 academic article for Stanford, the duo detailed their search engine and explained the problems with search engine advertising. “The goals of the advertising business model do not always correspond to providing quality search to users,” they wrote. ”[W]e expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.”
+
+Page and Brin eventually came around to funding their wildly popular search engine with an entirely new form of advertising. Instead of bombarding users with as many ads as possible, Google would use its access to user searches to tailor advertising to them based on what they were looking for at that very moment. They’d target users with fewer, more specifically tailored advertisements through their AdWords platform. Later, they’d expand their advertising program by purchasing their biggest competition, DoubleClick.
+
+Facebook CEO Mark Zuckerberg's celebration after the company's IPO launch is seen on a screen in New York City. Shannon Stapleton / Reuters
+
+Mark Zuckerberg also launched Facebook with a disdain for intrusive advertising, but it wasn’t long before the social network giant became Google’s biggest competitor for ad dollars. After going public with 845 million users in 2012, Facebook became a multibillion-dollar company and Zuckerberg one of the richest men on Earth, but with only a promise that the company would figure out how to monetize its platform.
+
+Facebook ultimately sold companies on its platform by promising “brand awareness” and the best possible data on what consumers actually liked. Brands could start their own Facebook pages, which people would actually “like” and interact with. This provided unparalleled information about what company each individual person wanted to interact with the most. By engaging with companies on Facebook, people gave corporate marketing departments more information than they could have ever dreamed of buying, but here it was offered up free.
+
+This was the “grand bargain,” as Columbia University law professor Tim Wu called it in his book, The Attention Merchants, that users struck with corporations. Wu wrote that Facebook’s “billions of users worldwide were simply handing over a treasure trove of detailed demographic data and exposing themselves to highly targeted advertising in return for what, exactly?”
+
+In other words: We will give you every detail of our lives and you will get rich by selling that information to advertisers.
+
+European regulators are now saying that bargain was a bad deal. The big question that remains is whether their counterparts in the U.S. will follow their lead.

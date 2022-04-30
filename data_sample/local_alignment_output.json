@@ -1,77 +1,20 @@
 {
-    "result": [
-        {
-            "pattern": "0.txt",
-            "local_alignment_scores": [
-                { "file": "12.txt", "score": 80 },
-                { "file": "1.txt", "score": 53 },
-                { "file": "10.txt", "score": 47 },
-                { "file": "9.txt", "score": 44 },
-                { "file": "11.txt", "score": 12 }
-            ]
-        },
-        {
-            "pattern": "1.txt",
-            "local_alignment_scores": [
-                { "file": "6.txt", "score": 106 },
-                { "file": "1.txt", "score": 98 },
-                { "file": "8.txt", "score": 71 },
-                { "file": "2.txt", "score": 53 },
-                { "file": "11.txt", "score": 51 }
-            ]
-        },
-        {
-            "pattern": "2.txt",
-            "local_alignment_scores": [
-                { "file": "6.txt", "score": 101 },
-                { "file": "11.txt", "score": 41 },
-                { "file": "4.txt", "score": 28 },
-                { "file": "1.txt", "score": 22 },
-                { "file": "0.txt", "score": 11 }
-            ]
-        },
-        {
-            "pattern": "3.txt",
-            "local_alignment_scores": [
-                { "file": "4.txt", "score": 132 },
-                { "file": "1.txt", "score": 96 },
-                { "file": "5.txt", "score": 60 },
-                { "file": "12.txt", "score": 53 },
-                { "file": "7.txt", "score": 15 }
-            ]
-        },
-        {
-            "pattern": "4.txt",
-            "local_alignment_scores": [
-                { "file": "3.txt", "score": 78 },
-                { "file": "1.txt", "score": 77 },
-                { "file": "9.txt", "score": 39 },
-                { "file": "10.txt", "score": 16 },
-                { "file": "8.txt", "score": 10 }
-            ]
-        },
-        {
-            "pattern": "5.txt",
-            "local_alignment_scores": [
-                { "file": "4.txt", "score": 162 },
-                { "file": "1.txt", "score": 110 },
-                { "file": "0.txt", "score": 104 },
-                { "file": "9.txt", "score": 99 },
-                { "file": "5.txt", "score": 6 }
-            ]
-        },
-        {
-            "pattern": "6.txt",
-            "local_alignment_scores": [
-                { "file": "0.txt", "score": 130 },
-                { "file": "2.txt", "score": 99 },
-                { "file": "4.txt", "score": 48 },
-                { "file": "7.txt", "score": 15 },
-                { "file": "10.txt", "score": 7 }
-            ]
-        }
-    ],
-    "time_in_second": 487.1526746000018,
-    "time_in_minute": 8.119211243333362,
-    "time_in_hour": 0.13532018738888937
-}
+"result": [
+{"pattern": "0.txt", "local_alignment_scores": [{"file": "123.txt", "score": 137}, {"file": "254.txt", "score": 85}, {"file": "80.txt", "score": 83}, {"file": "114.txt", "score": 33}, {"file": "124.txt", "score": 4}]},
+{"pattern": "1.txt", "local_alignment_scores": [{"file": "193.txt", "score": 75}, {"file": "292.txt", "score": 71}, {"file": "279.txt", "score": 70}, {"file": "242.txt", "score": 36}, {"file": "342.txt", "score": 13}]},
+{"pattern": "10.txt", "local_alignment_scores": [{"file": "264.txt", "score": 125}, {"file": "178.txt", "score": 121}, {"file": "106.txt", "score": 63}, {"file": "305.txt", "score": 53}, {"file": "342.txt", "score": 46}]},
+{"pattern": "100.txt", "local_alignment_scores": [{"file": "283.txt", "score": 198}, {"file": "180.txt", "score": 117}, {"file": "151.txt", "score": 115}, {"file": "313.txt", "score": 106}, {"file": "134.txt", "score": 33}]},
+{"pattern": "101.txt", "local_alignment_scores": [{"file": "277.txt", "score": 267}, {"file": "301.txt", "score": 160}, {"file": "72.txt", "score": 93}, {"file": "223.txt", "score": 66}, {"file": "174.txt", "score": 55}]},
+{"pattern": "102.txt", "local_alignment_scores": [{"file": "32.txt", "score": 196}, {"file": "305.txt", "score": 177}, {"file": "171.txt", "score": 172}, {"file": "140.txt", "score": 78}, {"file": "104.txt", "score": 75}]},
+{"pattern": "103.txt", "local_alignment_scores": [{"file": "6.txt", "score": 145}, {"file": "135.txt", "score": 117}, {"file": "371.txt", "score": 65}, {"file": "49.txt", "score": 8}, {"file": "339.txt", "score": 5}]},
+{"pattern": "104.txt", "local_alignment_scores": [{"file": "104.txt", "score": 182}, {"file": "277.txt", "score": 174}, {"file": "297.txt", "score": 134}, {"file": "303.txt", "score": 88}, {"file": "134.txt", "score": 36}]},
+{"pattern": "105.txt", "local_alignment_scores": [{"file": "125.txt", "score": 146}, {"file": "243.txt", "score": 89}, {"file": "39.txt", "score": 74}, {"file": "213.txt", "score": 49}, {"file": "250.txt", "score": 40}]},
+{"pattern": "106.txt", "local_alignment_scores": [{"file": "330.txt", "score": 180}, {"file": "28.txt", "score": 157}, {"file": "43.txt", "score": 154}, {"file": "143.txt", "score": 58}, {"file": "38.txt", "score": 18}]},
+{"pattern": "107.txt", "local_alignment_scores": [{"file": "45.txt", "score": 201}, {"file": "17.txt", "score": 118}, {"file": "151.txt", "score": 107}, {"file": "62.txt", "score": 41}, {"file": "285.txt", "score": 26}]},
+{"pattern": "108.txt", "local_alignment_scores": [{"file": "312.txt", "score": 1838}, {"file": "223.txt", "score": 146}, {"file": "87.txt", "score": 105}, {"file": "39.txt", "score": 61}, {"file": "25.txt", "score": 5}]},
+{"pattern": "109.txt", "local_alignment_scores": [{"file": "170.txt", "score": 101}, {"file": "291.txt", "score": 48}, {"file": "345.txt", "score": 25}, {"file": "143.txt", "score": 7}, {"file": "218.txt", "score": 5}]},
+{"pattern": "11.txt", "local_alignment_scores": [{"file": "27.txt", "score": 124}, {"file": "211.txt", "score": 124}, {"file": "313.txt", "score": 46}, {"file": "62.txt", "score": 7}, {"file": "22.txt", "score": 7}]},
+{"pattern": "110.txt", "local_alignment_scores": [{"file": "72.txt", "score": 86}, {"file": "69.txt", "score": 85}, {"file": "219.txt", "score": 75}, {"file": "251.txt", "score": 67}, {"file": "253.txt", "score": 60}]},
+{"pattern": "111.txt", "local_alignment_scores": [{"file": "285.txt", "score": 85}, {"file": "177.txt", "score": 69}, {"file": "319.txt", "score": 48}, {"file": "155.txt", "score": 35}, {"file": "109.txt", "score": 19}]},
+{"pattern": "112.txt", "local_alignment_scores": [{"file": "282.txt", "score": 109}, {"file": "305.txt", "score": 103}, {"file": "78.txt", "score": 43}, {"file": "136.txt", "score": 7}, {"file": "18.txt", "score": 7}]},
+{"pattern": "113.txt", "local_alignment_scores": [{"file": "304.txt", "score": 105}, {"file": "363.txt", "score": 78}, {"file": "167.txt", "score": 53}, {"file": "62.txt", "score": 37}, {"file": "179.txt", "score": 6}]},

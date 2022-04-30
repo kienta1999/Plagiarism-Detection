@@ -1,0 +1,11 @@
+As a company that serves the LGBTQ community, we more than many, understand the delicate nature of our users’ privacy. Ensuring safety and security of our users is of paramount importance to Grindr. For many years we have worked with numerous international health, digital rights, and privacy organizations as well as community leaders through our Grindr For Equality program to develop and release many safety and security features specifically to help our users in places where it’s not safe to be LGBTQ.
+
+Grindr monitors the climate of LGBTQ rights and safety around the world. In territories where homosexuality is criminalized, or it is otherwise unsafe to be LGBTQ identified, we deliberately obfuscate the location-based features of our application to protect our users. We also publish safety guides in local languages across the world to encourage our users to protect themselves from those who would do us harm just because of who we are.
+
+Like any high-profile social network app, we face numerous hacks and attempted security breaches. We zealously defend against these attacks to maintain the safety and security of our users. We also leverage our impressive scale and global team of security researchers to verify and resolve any real security concern as quickly as possible. The company is in the process of implementing a bug bounty program to ensure potential security issues are responsibly disclosed in the future.
+
+That said, anytime a user discloses their login credentials to an unknown third-party, they run the risk of exposing their own profile information, location information, and related metadata. We cannot emphasize this enough: we strongly recommend against our users sharing their personal login information with these websites as they risk exposing information that they have opted out of sharing.
+
+Grindr is a location-based app. Location is a critical element of our social network platform. This allows our users to feel connected to our community in a world that would seek to isolate us. That said, all information transmitted between a user’s device and our servers is encrypted and communicated in a way that does not reveal your specific location to unknown third parties.
+
+Grindr has and will continue to protect location from being accessed by unknown third parties.

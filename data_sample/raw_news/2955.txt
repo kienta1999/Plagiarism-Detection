@@ -1,0 +1,27 @@
+UPDATE: April 3 ― Grindr has ceased sharing users’ HIV status with its third-party vendors, according to the company’s head of security.
+
+Grindr security chief Bryce Case told Axios that the issues with the app’s data-sharing practices were “a misunderstanding of what was being shared and with whom.”
+
+“I understand the news cycle right now is very focused on these issues ... I think what’s happened to Grindr is, unfairly, we’ve been singled out. It’s conflating an issue and trying to put us in the same camp where we really don’t belong,” said Case in reference to people comparing Grindr sharing user information to recent scandals involving Facebook and Cambridge Analytica.
+
+The company has said it will change its policy, allowing advertisers to have access to user information like age, interests, location and relationship status, but not HIV status.
+
+PREVIOUSLY: One week after queer hookup app Grindr announced it would offer a feature reminding users to get tested for HIV, an explosive news report reveals the site is sharing customers’ HIV status with at least two outside companies.
+
+Apptimize and Localytics, companies that help apps sharpen marketing strategies, “receive some of the information that Grindr users choose to include in their profiles,” BuzzFeed reported. That information includes HIV status and “last tested date.”
+
+Because HIV information is sent alongside users’ GPS data, phone ID, and email, an individual’s status could easily be discovered, Antoine Pultier, a researcher at the Norwegian nonprofit SINTEF, told BuzzFeed.
+
+“The HIV status is linked to all the other information. That’s the main issue,” said Pultier. “I think this is the incompetence of some developers that just send everything, including HIV status.”
+
+Gam1983 via Getty Images
+
+Grindr told BuzzFeed that the services provided by Apptimize and Localytics are intended to improve users’ experience.
+
+“Thousands of companies use these highly regarded platforms. These are standard practices in the mobile app ecosystem,” Scott Chen, Grindr’s chief technology officer, told BuzzFeed in a statement. “No Grindr user information is sold to third parties. We pay these software vendors to utilize their services.”
+
+The news follows Grindr’s repair of a security flaw that allowed users to see who has blocked them. That flaw also allowed users access to others’ location data, which NBC News reported could “lead to increased harassment — especially in places where homosexuality is criminalized.”
+
+“The security flaw was identified by Trever Faden, CEO of the property management startup Atlas Lane, after he created a website called C*ckblocked” (the asterisk is part of the name of the service), NBC News reported.
+
+“His website allowed users to see who blocked them on Grindr after they entered their Grindr username and password. Once they did so, Faden was able to gain access to a trove of user data that is not publicly available on user profiles, including unread messages, email addresses, deleted photos, and the location data of users, some of whom have opted to not share their locations publicly.”

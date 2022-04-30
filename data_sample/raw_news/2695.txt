@@ -1,0 +1,15 @@
+Twitter announced Thursday that it has suspended more than 1.2 million accounts since August 2015 to the end of 2017 for “terrorist content.”
+
+In the latest six-month reporting period, ending Dec. 31, Twitter permanently suspended 274,460 accounts for “violations related to the promotion of terrorism,” the company revealed in a blog post detailing highlights from its 12th biannual Twitter Transparency Report.
+
+Twitter began major suspensions of terrorist-related accounts in early 2014 in the wake of criticism that it wasn’t doing enough.
+
+Last year, relatives of victims of the 2015 San Bernardino, California, terrorist attack that killed 14 people filed a federal lawsuit against Twitter, Google and Facebook, accusing the tech giants of supporting Islamic State. The suit claims the companies allowed Islamic State to build an outsized online presence to draw recruits.
+
+Twitter’s latest suspension count was down 8.4 percent from 299,649 suspensions in the previous six-month reporting period and down 27 percent from the last half of 2016. Of the blocked accounts in the latest period, 93 percent were spotted by internal company tracking tools and 74 percent were cut before the first tweet appeared, Twitter reported.
+
+Twitter credits better in-house tech tools for those declines in suspensions. “We continue to see the positive, significant impact of years of hard work making our site an undesirable place for those seeking to promote terrorism, resulting in this type of activity increasingly shifting away from Twitter,” the company said.
+
+Government reports of violations related to terrorism represented less than 0.2 percent — 597 accounts — of all suspensions in the most recent reporting period, according to Twitter. A far larger number of Twitter accounts were reported by government agencies (including police departments) for “abusive” behavior — including hate speech, racism, sexism and other types of trolling, which Twitter has been harshly criticized for failing to police. Government agencies reported 6,254 Twitter accounts in the last half of 2017 for abusive behavior, but the company took action against only a quarter of those accounts.
+
+Abusive content continues to be a particular problem for Twitter overseas, where laws more sharply restrict hate speech and trolling. A new European Commission regulation last month called on social media platforms to remove illegal content within an hour of it being reported.

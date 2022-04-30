@@ -1,0 +1,51 @@
+WASHINGTON ― You probably think that Facebook is a social media site. Everyone does. And in one sense, they’re right. But in two days of testimony before the House and Senate, Facebook CEO Mark Zuckerberg revealed what he thinks it really is.
+
+It’s not just a social media site.
+
+Just look at how Zuckerberg responded when Sen. Lindsey Graham (R-S.C.) asked him if Facebook had any competitors. Graham initially had difficulty getting a straight answer. Zuckerberg said Facebook has “a lot of competitors” including “the other tech platforms, Google, Apple, Microsoft.” Graham wanted Zuckerberg to be more specific: Does Facebook have any real competition for its core product, the social media site?
+
+“If I buy a Ford and it doesn’t work well and I don’t like it, I can buy a Chevy. If I’m upset with Facebook, what’s the equivalent product that I can sign up for?” Graham asked.
+
+Zuckerberg replied that the average American uses eight different apps to communicate. He did not mention that Facebook owns four of the eight top communication apps: Facebook, Instagram, WhatsApp and Facebook Messenger.
+
+“You don’t feel you have a monopoly?” Graham finally asked.
+
+Zuckerberg responded, “Certainly doesn’t feel that way to me.”
+
+That’s because Zuckerberg doesn’t view Facebook as a social media company. It’s a platform, and it competes not only with other platforms for user attention to then sell that attention to advertisers, but with anything and everything that can occupy human attention.
+
+Facebook can never be a monopoly in Zuckerberg’s eyes, because its competition is every other form of human activity.
+
+At one point during his Senate testimony, Zuckerberg left his notes open on the witness table, which a journalist photographed. The talking points prepared for him about whether Facebook is a monopoly stated, “Consumers have lots of choices over how they spend their time.”
+
+From this point of view, Facebook’s biggest competitors are work and sleep.
+
+Competition: "Consumer's have lots of choices over how they spend their time." This market definition is so absurd it positions Facebook as competing against sleep. pic.twitter.com/NkwMLxk30y — Matt Stoller (@matthewstoller) April 11, 2018
+
+This could very well explain why it is so hard for lawmakers to pin down Zuckerberg. It’s not that they are so old and out of touch with technology. It’s that Facebook doesn’t view or define itself in the way that its more than 2 billion users do.
+
+It’s not an app for sharing cat pictures and political propaganda, although it’s that for some people. It’s not a messaging app where you can sext or talk to corporate robots, although it’s that, too. It’s a multi-sided platform, the main purpose of which is to get people to remain on it, creating content — data — that can be packaged as a profile for advertisers.
+
+The main customers of Facebook and its many other products are advertisers, and the main products of Facebook are its users. That’s the business model.
+
+And that’s how Zuckerberg described it more than once in his two days of testimony.
+
+Sen. Orrin Hatch (R-Utah) asked Zuckerberg on Tuesday how the company made money, the chief executive replied, “Senator, we sell ads.”
+
+Take the more profound back-and-forth Zuckerberg had with Rep. Doris Matsui (D-Calif.) on Wednesday. He initially attempted to dismiss her concerns about the use of user data with advertisers with a refrain heard over and over during the two days of testimony: “We don’t sell data to advertisers.” This is correct, in a pedantic way, as Matsui affirmed.
+
+“I understand that,” Matsui said, “but Facebook sells ads based at least on part of the data users provide to Facebook, that’s right? And the more data that Facebook collects allows you to better target ads to users or classes of users. So, even if Facebook doesn’t earn money from selling data, doesn’t Facebook earn money from advertising based on that data?”
+
+“Yes, congresswoman, we run ads,” Zuckerberg said. “The business model is running ads, and we use the data that people put into the system in order to make the ads more relevant, which also makes them more valuable, but what we hear from people is that if they’re going to see ads, they want them to be good and relevant.”
+
+That’s the business model. Users create useful advertising profiles by being active on the platform as much as possible, although Facebook also collects data across the web that users do not actively provide. Advertisers pay Facebook to gain access to the attention of those users. The fewer users and the less active they are ― the more they sleep, or text, or do something else ― the worse off Facebook and similar tech platforms are.
+
+Zuckerberg doesn’t always want to talk about that business model. At least, not when he’s challenged to do anything about it.
+
+Rep. Anna Eshoo (D-Calif.), who represents a Bay Area district that includes parts of Silicon Valley, asked, “Are you willing to change you business model in the interest of protecting individual privacy?”
+
+Zuckerberg’s response? “Congresswoman, I’m not sure what that means.”
+
+Rep. Dave Loebsack (D-Iowa) eventually got an answer out of Zuckerberg. Loebsack asked whether it would be possible for Facebook to exist if it did not package user data into profiles for advertisers.
+
+“It would not be possible for our business to, or our other products or services or anything we do, to exist without having the opportunity for people to go to Facebook, put in the content that they want to share and who they want to share it with and go do that,” Zuckerberg said. “That’s the core thing.”

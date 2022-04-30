@@ -1,0 +1,537 @@
+Chesnot via Getty Images
+
+Reports that Cambridge Analytica misused roughly 50 million Facebook users’ data have ignited debate and stoked fears around social media privacy.
+
+Following the news, some media outlets have outlined ways individual Facebook users can better protect their data. But many cybersecurity experts say these measures aren’t particularly effective when it comes to powerful companies like Facebook, nor do they believe individual Facebook users have much power over their personal data at all.
+
+But can everyday users do anything to protect their privacy on Facebook?
+
+“The short answer is no,” Bradley Shear, a Maryland lawyer who specializes in social media and privacy, told HuffPost. “Facebook sells your personal information to data brokers, political consultants and corporations, so if you really want to maximize your privacy, you need to limit your Facebook use or not even have an account.”
+
+Mark Weinstein, a cybersecurity and privacy expert, echoed Shear. “People forget or don’t understand that Facebook is a data company, and that is their true business,” he said, noting that marketers pay Facebook for data to create targeted ads. “You as a Facebook user are not the customer. You are the product they sell.”
+
+“You as a Facebook user are not the customer. You are the product they sell.”
+
+Many companies collecting Facebook user data are likely doing nothing more sinister than targeting specific audiences with ads for products they might want to buy ― a concept which creeps people out to varying degrees.
+
+“Advertisement, whether for political or commercial purposes, has always been about persuading people. There’s not necessarily something wrong with that. We’re counting on people to be rational consumers and citizens,” Jef Ausloos, a legal researcher at the KU Leuven Centre for IT & IP Law in Belgium, told HuffPost.
+
+“The problem we are facing today is that the predominant internet business-model, combined with massive advancements in ad tech and data science, shifts persuasion into manipulation,” he added. “The basis of democracy and free market (i.e. informed/rational and autonomous individuals) is basically short circuited.”
+
+Facebook has landed in hot water in the past for its handling of user data. In 2017, Dutch and French watchdogs ruled that the company had broken their countries’ data protection rules by tracking users and non-users on third party websites without their knowledge and failing to to provide people with sufficient controls over how their information is used. Courts throughout Europe have since made similar rulings about its privacy and data policies.
+
+Back in 2011, the Federal Trade Commission charged Facebook with deceiving consumers “by telling them they could keep their information on Facebook private, and then repeatedly allowing it to be shared and made public.”
+
+A 2016 report from the ACLU revealed that social media platforms including Facebook and Instagram (which is owned by Facebook) provided access to user data to a controversial software company that helped police monitor Black Lives Matter activists.
+
+The company also faced criticism last year after leaked documents showed Facebook executives telling advertisers they could identify teens feeling “insecure,” “worthless” and “in need of a confidence boost.”
+
+Facebook insisted this psychological information was not incorporated into any ad targeting tools and has cut ties with controversial developers tracking Black Lives Matter activists. Still, many people are troubled by the possibility for such dealings.
+
+Shear emphasized that it’s not just advertisers and corporations that can use your personal information. It’s also discoverable in litigation, as courts can permit relevant social media posts to serve as evidence and law enforcement frequently request data from Facebook. Insurance companies could even use Facebook data to price insurance premiums, and employers and college admissions officers already admit to making decisions based on social media.
+
+And while Facebook has platform policies dictating how app creators should use data obtained from the site, the revelation about Cambridge Analytica’s actions suggest there’s little accountability. Experts also complain there’s not enough transparency around what Facebook itself is doing with the data it collects.
+
+Stephen Lam / Reuters
+
+“People don’t know what exactly is going on behind the scenes. That’s the big challenge here. We don’t know who exactly Facebook is selling our information to,” Shear said.
+
+For many people, the obvious answer to these issues is simply to get off Facebook ― a move which may not be guaranteed to protect your personal information but can serve as a point of leverage to prompt change within the company. Weinstein also recommends installing a privacy browser like Tor, using search engines that don’t track consumers like DuckDuckGo and using social media sites like his platform, MeWe, which emphasizes strong privacy features.
+
+But Jennifer Grygiel, a professor of communications and social media at Syracuse University, says getting off Facebook is not necessarily the most realistic option.
+
+“As our lives become more and more intertwined with the digital world through sharing economy apps like Uber and Airbnb to social media like Snapchat and Facebook, the ability for the user to opt out of things is very limited,” Grygiel told HuffPost “And at this point, a lot of users have even been on Facebook for more than 10 years. What are we going to do ― boycott it? It’s not really a reality.”
+
+If you want to keep using Facebook, there are some best practices when it comes to privacy. As the Cambridge Analytica scheme involved a personality quiz app, it’s worth looking at the third-party apps you signed up for on Facebook.
+
+The National Cyber Security Alliance’s executive director, Russ Schrader, recommends doing a sort of tech “spring cleaning.”
+
+“Keep your caches up to date, go through your apps and figure out which ones you don’t use anymore, go through your location data and see who has access to it. Who have you given permission to collect your data?” Schrader said.
+
+To manage the apps that have your data, click the little arrow at the top right of the screen on desktop and select “Settings.” Then click on “Apps” on the left side of the screen. You’ll see a list of apps you’ve authorized and can remove them by clicking the little “x” that appears when you hover over each one.
+
+“Your personal information is like money. You wouldn’t walk around with $20 bills hanging out of your pocket. You need to value it and protect it.”
+
+Schrader’s other recommendations include “owning your online presence” by being mindful about what you share and who you share it with, enabling two-factor authentication and creating longer, more difficult passwords.
+
+“Your personal information is like money. You wouldn’t walk around with $20 bills hanging out of your pocket. You need to value it and protect it. You need to be thoughtful about it,” he said.
+
+Given that Cambridge Analytica’s data collection also targeted friends of users (through a feature which Facebook removed in 2015), it may also be worth taking a look at your list of Facebook friends. Limiting the information you give Facebook can also mean “liking” fewer things, as “likes” help shape data profiles and essentially provide targeted insights to advertisers.
+
+Facebook ― which was unable to provide a comment on its data and privacy standards ahead of publication ― has various privacy settings for users to tinker with, but multiple experts who spoke to HuffPost called these safeguards a “facade” of sorts.
+
+“Facebook provides an effective privacy checkup tool, but it does nothing to limit the data that Facebook sees, or that Facebook decides to share with organizations willing to buy it, or even that hackers decide to target,” cybersecurity expert John Sileo told HuffPost, adding that anything you put on Facebook is “public, permanent and exploitable.”
+
+“The data you’ve already shared on Facebook, from your profile to your posts and pictures is already lost. There is nothing you can do to protect it now,” he continued. “The only data you can protect is your future data that you choose to not share on Facebook. Most of my basic profile data is a white lie.”
+
+Grygiel believes the real answer to the concerns about Facebook and privacy comes via legislation.
+
+“We need these platforms to be held to higher standards, to be brought into regulatory environment that’s effective,” they said, adding that regulators need to take a deep dive into this issue and create more accountability.
+
+There is a precedent for more stringent privacy legislation. In 2016, the European Parliament adopted the General Data Protection Regulation ― a set of data privacy rules set to go into effect on May 25. The regulations include limiting the types of data companies can collect from EU citizens and how they can use it, requiring parental consent for anyone under 16 who wants to use certain online services and giving people enhanced rights over their personal information.
+
+The GDPR also outlines an user’s “right to be forgotten,” which allows people to ask companies to remove certain online data about them. Companies who violate the new privacy laws could face fines up to four percent of their annual revenue.
+
+“At the end of the day, the best course of action is to tell our legislators that we want our privacy ― because without greater regulation in this space, these social media companies will not protect our privacy,” Grygiel said. “Self-regulation is not working, and the regulation that governs them is very thin at best especially in the U.S. We need the public to become active in this space.”
+
+This week’s news could serve as a call to action. After all, Facebook’s latest scandal offers a glimpse into what can happen to poorly handled data.The Dance Theatre of Harlem is emphasizing the power of activism through ballet with its new short film “The Movement.”
+
+In the promotional film, directed by Daniel Schloss, children gather around a TV and watch as critical events throughout history unfold interspersed with clips describing the historically black dance company’s rise and role through the decades. The young dancers watch footage of former President Lyndon B. Johnson announcing the assassination of Martin Luther King Jr. and South African protesters advocating for the release of Nelson Mandela.
+
+The kids turn the energy from each historic moment into their own routine to Billy Porter’s “Keep Moving.” Older dancers then join in on the routine, and the entire studio is eventually filled with ballet dancers taking a stance through art.
+
+Dance Theatre of Harlem’s artistic director Virginia Johnson told HuffPost in a statement that the company has used art to “manifest change” since it was founded in 1969.
+
+“As an ethnically diverse ballet company, every time the curtain goes up on one of our performances, we celebrate what is possible through access and opportunity,” she said. “In a time of political disarray, art can be a clear voice that reveals the path to take.”
+
+The film is a promotion for the company’s annual spring engagement at New York City Center, which kicks off on April 4, the 50th anniversary of King’s assassination, and runs until April 7.
+
+Watch the short film above.It’s Lala Kent vs. Jennifer Lawrence ― again.
+
+The Bravo reality star went in on the Oscar-winning actress after Lawrence called her a “c**t” on “Watch Watch Happens Live” this month.
+
+“Not only did she call me that, she went on and on making fun of me and my relationship with my mom,” Kent said in a pre-taped episode of Heather McDonald’s podcast, “Juicy Scoop,” released on Tuesday.
+
+“I’m watching this like, ‘Is this A-list celebrity who has Oscars for real?’ And then when she dropped the c-word, I was like ‘OK, honey, let’s leave the trash to us reality personalities. Don’t be trying to take my job.’”
+
+The “Vanderpump Rules” star then talked about tweets she sent to Lawrence, which she said previously that her manager made her delete.
+
+“I just let her know that she’s a gross human being and congratulations on two failed films in a row,” Kent said, referencing Lawrence’s latest movies, “Mother!” and “Red Sparrow.” “You know, my man is in the movie business and it is now said that she is not as valuable, and she has to have another actor or actress to, like, get the numbers up.”
+
+Kent didn’t stop there.
+
+When McDonald asked Kent if she thought Lawrence had sexual relations with Harvey Weinstein, the reality star answered, “Yeah, I think she’s that type of chick.”
+
+She added, “Well, here’s the thing. Now anytime you bring her up, like, I’m going to have nothing nice to say about her. I’m going to say that her hair sucks, her face is a little too pudgy, like she needs to stop the drinking, you know? I said it, you don’t have to worry.”
+
+Those remarks seemed to be missing from the podcast version online Wednesday. Neither Kent nor McDonald answered HuffPost’s requests for comment.
+
+Kent later said on Twitter that her “Juicy Scoop” comments were taped “a couple of weeks ago when I still felt hurt and emotional,” and that she’s now on better terms with Lawrence.
+
+“Excuses aside, I wanted to let it be known J.Law and I are all good now,” she tweeted Tuesday.
+
+My interview with Juicy Scoop was taped a couple of weeks ago when I still felt hurt and emotional. Excuses aside, I wanted to let it be known https://t.co/jgyLLTyy75 and I are all good now. — Give Them Lala (@lala_kent) March 20, 2018
+
+Lawrence hasn’t commented since she sparked the feud with statements about Kent on Andy Cohen’s Bravo show, “Watch What Happens Live.” When the host asked Lawrence, a noted fan of Bravo reality shows, about “Vanderpump Rules” storylines, the actress let loose.LONDON (Reuters) - British physicist Stephen Hawking is to take his place among some of the greatest scientists in history when his ashes are interred inside Westminster Abbey, close to the graves of Isaac Newton and Charles Darwin.
+
+Hawking, the world’s most recognizable scientist, died last week aged 76 after a lifetime spent probing the origins of the universe, the mysteries of black holes and the nature of time itself.
+
+Stephen Hawking will be interred at Westminster Abbey, the final resting place of 17 monarchs and of some of the most significant figures in British history. Lucas Jackson / Reuters
+
+Ravaged by the wasting motor neurone disease he developed at 21, Hawking was confined to a wheelchair for most of his life. As his condition worsened, he had to speak through a voice synthesizer and communicate by moving his eyebrows.
+
+Westminster Abbey, the final resting place of 17 monarchs and of some of the most significant figures in British history, said on Tuesday it would hold a Service of Thanksgiving for Hawking later this year, during which his ashes would be interred.
+
+“It is entirely fitting that the remains of Professor Stephen Hawking are to be buried in the Abbey, near those of distinguished fellow scientists,” said the Dean of Westminster, John Hall, in a statement.
+
+Newton, who formulated the law of universal gravitation and laid the foundations of modern mathematics, was buried in the abbey in 1727.
+
+Darwin, whose theory of evolution was one of the most far-reaching scientific breakthroughs of all time, was buried close to Newton in 1882.
+
+Interment inside Westminster Abbey is a rarely bestowed honor. The most recent burials of scientists there were those of Ernest Rutherford, a pioneer of nuclear physics, in 1937, and of Joseph John Thomson, who discovered electrons, in 1940.President Donald Trump loves to compare the size and greatness of all the things he’s involved with, and people love to mock him for it. Even our British friends across the pond.
+
+Early Saturday morning, BBC Three pointed out the size of the crowd that amassed to see Prince Harry marry former actress Meghan Markle. The network compared it to the crowd size at President Trump’s inauguration, which, more than a year later, remains a seemingly bottomless well of jokes.
+
+President Trump has not responded to the dig. But we’ll know his thoughts as soon as “Fox & Friends” shows him the tweet.Charlotte Pence had a surprising response to the new children’s book about a gay bunny that was released to troll her father, Vice President Mike Pence.
+
+“I’m all for it,” she told Fox Business on Tuesday.
+
+On Monday, the second family published Marlon Bundo’s Day in the Life of the Vice President, a story detailing the daily adventures of its pet rabbit. It was written by Charlotte Pence and illustrated by her mother, Karen Pence.
+
+To call out Pence’s historic resistance to LGBTQ rights, “Last Week Tonight with John Oliver” writer Jill Twiss teamed up with illustrator EG Keller to produce the parody, A Day In The Life Of Marlon Bundo, in which the lead rabbit is gay.
+
+.@charlipence on @iamjohnoliver's parody book on the second family's pet bunny: "His book is contributing to charities that I think we can all get behind... I'm all for it." pic.twitter.com/hEWn4sX95H — FOX Business (@FoxBusiness) March 20, 2018
+
+Charlotte Pence said “imitation is the most sincere form of flattery” when commenting on the competing tome, which has soared above her family’s version in the charts.
+
+“In all seriousness, his book is contributing to charities I think we can all get behind,” she added. “We have two books that are giving to charities that are about bunnies, so I’m all for it really.”
+
+Proceeds from the sales of the Pence’s book will go to programs supporting children with cancer and the fight against human trafficking. The parody book’s proceeds will go to the LGBTQ youth-supporting Trevor Project and the AIDS United charity.
+
+Here’s how Marlon Bundo’s official Instagram account reacted to the competition:Andy Savage, a former teaching pastor at Memphis' Highpoint Church, has resigned from his job. Highpoint Church/YouTube
+
+An evangelical Christian pastor who previously confessed to a “sexual incident” with a teenager 20 years ago has admitted that his past conduct was not only “immoral,” but also an “abuse of power.”
+
+Tennessee pastor Andy Savage made the remarks in a statement announcing his official resignation from Memphis’ Highpoint Church on Tuesday. Savage had been on a leave of absence from the megachurch since January while an investigation was conducted into his ministry.
+
+“When Jules cried out for justice, I carelessly turned the topic to my own story of moral change, as if getting my own life in order should help to make up for what she went through and continues to go through,” Savage wrote in Tuesday’s statement. “I agree with Jules that, of all places, we as the Church should be getting this right.”
+
+Woodson says she was abused in 1998 when she was 17 years old, after an event at Woodlands Parkway Baptist Church in Texas, where Savage was serving as a youth pastor. She said the pastor, who was 22 at the time, drove her to a private location and forced her to perform sexual acts.
+
+Afterwards, leaders at the Texas church urged Woodson to keep quiet about what had happened to her and promised to address the matter internally. Savage resigned from his position at the church and moved to Memphis, where he was later hired by Highpoint.
+
+Highpoint Church said its leadership was aware of Savage’s past with Woodson before hiring him.
+
+The Woodlands Parkway church in Texas later changed its name to StoneBridge Church. Larry Cotton, a former pastor at the church, was involved in the initial investigation into Savage’s actions 20 years ago. Cotton resigned from his position at an Austin church in February.
+
+Highpoint’s lead pastor Chris Conlee prays for Savage. Highpoint Church/YouTube
+
+Savage wrote that during his recent leave of absence, he’s come to see that “many wrongs occurred” in Woodson’s case ― the first being his “inappropriate relationship,” which he said could not have come from “mutual consent.” Savage wrote that the relationship was “not only immoral, but meets the definition of abuse of power since I was her youth pastor.”
+
+He wrote that there was also a “failure to follow due process” and give Woodson the investigation and proper response she deserved.
+
+“Admittedly, at 22 and in my first job, I truly believed that I was being guided through proper steps for restitution, which included resigning my position and moving from Houston to Memphis,” Savage wrote. “Those steps seemed significant at the time, and I trusted in the process assigned to me. Only through my recent time of reflection have I realized that more should have been done.”
+
+Texas has a law against clergy sexual assault, but the case against Savage is beyond the statute of limitations, according to The New York Times.
+
+Savage said he is stepping away from ministry now to “do everything I can to right the wrongs of the past.”
+
+Highpoint also announced on Tuesday that an investigation into Savage’s ministry has been completed. Scott Fredricks, a lawyer with the Texas-based firm Cantey Hanger, led the investigation. Fredricks told HuffPost in January that he would study “the church’s actions with respect to Andy Savage’s ministry at Highpoint.”
+
+“This will include both past and current actions of the church and its leadership concerning his ministry, the impact of those actions, and advising Highpoint as it makes decisions about the future of ministry at Highpoint,” Fredricks wrote in an email.
+
+Highpoint reported Tuesday that Fredricks found no other instances of abuse in Savage’s ministry. The investigation’s final findings were communicated to the elders and trustees of the church.
+
+“Highpoint leadership has come to recognize that it was defensive rather than empathetic in its initial reaction to Ms. Jules Woodson’s communication concerning the abuse she experienced, and humbly commits to develop a deeper understanding of an appropriate, more compassionate response to victims of abuse,” the church said in a separate statement.10 March 2018
+
+To the students of Parkland —
+
+We wanted to let you know how inspired we have been by the resilience, resolve and solidarity that you have all shown in the wake of unspeakable tragedy.
+
+Not only have you supported and comforted each other, but you’ve helped awaken the conscience of the nation, and challenged decision-makers to make the safety of our children the country’s top priority.
+
+Throughout our history, young people like you have led the way in making America better. There may be setbacks; you may sometimes feel like progress is too slow in coming. But we have no doubt you are going to make an enormous difference in the days and years to come, and we will be there for you.
+
+Barack Obama Michelle ObamaActress Lindsay Lohan knows the law ― from the wrong side of it.
+
+So who better than the “Mean Girls” star to shill for a legal resource website?
+
+In an ad for Lawyer.com that dropped Tuesday (watch below), Lohan joked that she thought she was in trouble when she was contacted by the service, which provides a free lawyer search tool and “legal protection plans” for a monthly fee.
+
+“But when they asked me to be their spokesperson, I was intrigued,” she said. “After meeting with the team, I realized Lawyer.com is just about helping people. From getting a DUI — let’s not pretend I didn’t get one, or two, or three or some others — it’s so simple, and it’s free.”
+
+Lohan, whose acting career stalled while her scrapes with the law mounted, has been arrested multiple times for driving under the influence. She’s also racked up probation violations and a shoplifting conviction, and has been involved in other encounters that required police involvement.
+
+While the site’s lawyer search may be free, most lawyers are not. A DUI attorney can reportedly cost thousands of dollars.
+
+According to People, Lohan committed to a year as the company’s spokesperson and as a marketing and brand adviser. As part of her new gig, the actress will apparently spend time “producing compelling content, connecting to media leaders, and launching fun videos and commentaries” in connection with the site.
+
+Lohan is otherwise keeping busy in her adopted home of Dubai, where she spent some time “team-building,” aka riding dune buggies through the desert, with her new colleagues. The actress told Wendy Williams in January that she has plans to design one of the World Islands off the city’s coast.Details about Environmental Protection Agency Administrator Scott Pruitt’s travel expenses have been revealed, and things are looking pretty pricey for taxpayers.
+
+The EPA chief, who frequently uses business-class and first-class travel, has spent a considerable amount of money on trips since he began working in the Trump administration, according to documents obtained by the advocacy group Environmental Integrity Project under the Freedom of Information Act.
+
+The Daily Beast and The Washington Post also obtained a letter and documents detailing travel expenses that the EPA sent to the House Oversight Committee investigating government travel.
+
+The headlines alone paint a grim picture: The Daily Beast reported that Pruitt has spent $105,000 on first class flights since taking on his EPA role. The Associated Press pointed out that his trip to Italy last summer cost more than $120,000 in taxpayer money. The trip, which occurred from June 5-12, included a meeting of G-7 ministers and a private tour of the Vatican. Pruitt’s security detail during the trip cost more than $30,000, The Washington Post noted.
+
+The EPA told the AP the security precautions during Pruitt’s Italy trip were consistent with those of previous administrators. When it comes to Pruitt’s habitual use of first- and business-class air travel, the EPA has said he does so as a security precaution. The administrator is regularly confronted by angry members of the public while traveling, Politico reported in February.
+
+According to documents the EPA sent to the House Oversight Committee investigating government travel on Tuesday, Pruitt “has had significantly more threats directed against him.” As a result, Pruitt’s security detail “shifted his class based on certain security protocols that require him to be near the front of the plane.”
+
+The inquiry into Pruitt’s travel comes after The Washington Post reported in February about his preference for first-class travel as the administrator of the EPA. House Oversight and Government Reform Committee Chairman Trey Gowdy (R-S.C.) asked the EPA to provide documentation on Pruitt’s travel expenses, noting that a waiver is required each time a government official wants to fly business or first class. Government officials are supposed to fly coach, something Pruitt told CBS News after the Post report he would be doing more often.Ex-FBI official Andrew McCabe, right, oversaw a criminal investigation of Attorney General Jeff Sessions, left, who fired him last week. Alex Wong via Getty Images
+
+Former FBI Deputy Director Andrew McCabe authorized an investigation into Attorney General Jeff Sessions’ alleged lack of candor during congressional testimony over his contacts with Russian operatives last year, a source with knowledge of the matter confirmed to HuffPost.
+
+ABC News first reported that Sessions had been under investigation, and that the attorney general was unaware of the probe when he fired McCabe for the FBI official’s own alleged lack of candor during an internal review of how the bureau and Justice Department handled investigations into Hillary Clinton during the 2016 campaign.
+
+Chuck Cooper, a lawyer for Sessions, said in a statement that his client is currently “not under investigation for false statements or perjury in his confirmation hearing testimony and related written submissions to Congress.” Cooper did not say whether the attorney general was under investigation for anything else.
+
+Sessions terminated McCabe just two days before his retirement date on the recommendation of the FBI’s Office of Professional Responsibility, which had evaluated a DOJ Inspector General probe of how top FBI officials handled the Clinton-related investigations. In a statement after his firing, McCabe suggested he was targeted because of his knowledge of Trump’s actions after the firing of former FBI Director James Comey. McCabe turned over hard copies of memos to special counsel Robert Mueller sometime before Friday, a source previously told HuffPost.
+
+“Here is the reality: I am being singled out and treated this way because of the role I played, the actions I took, and the events I witnessed in the aftermath of the firing of James Comey,” McCabe, a lifelong Republican, said.
+
+President Donald Trump, who had long attacked McCabe and accused him of being a shill for Clinton because McCabe’s wife ran for office as a Democrat and received money from an organization linked to a Clinton supporter, praised the firing, which came just two days before McCabe was set to receive his pension.
+
+Sessions testified before Congress that he had not had contact with the Russians during the campaign. Later, it emerged that Sessions had, in fact, met with the Russian ambassador.The bomber died Wednesday morning after a device exploded in his car during a confrontation with police
+
+Police identified the bomber as 23-year-old Mark Anthony Conditt of Pflugerville, Texas
+
+Investigators were working to determine whether he acted alone or if he had accomplices
+
+Authorities said the bomber left a 25-minute confession
+
+AUSTIN, Texas ― The man suspected of setting off a series of homemade bombs in the Austin area this month, killing two people and terrorizing the city, died early Wednesday in a confrontation with police, authorities said.
+
+Austin Police Chief Brian Manley said officers had been pursuing the man when he detonated an explosive device in his car, killing himself and injuring one officer. An officer shot at the vehicle, Manley said.
+
+Law enforcement officials have identified the man as 23-year-old Mark Anthony Conditt from the Austin suburb of Pflugerville. Police previously identified him as being 24.
+
+Mark Conditt, 23, has been identified as the bombing suspect killed in Wednesday morning's explosion in Texas. Facebook
+
+Officers located Conditt’s car at a hotel and called in a technical team for backup. But the suspect drove away from the hotel before the team arrived, and officers followed. The suspect then pulled over and detonated the explosive device.
+
+Officials were able to track down the suspect thanks to video footage and witness testimony, Manley said. But police still don’t have any understanding of the man’s motive, or whether he had help. They also don’t know whether he was on his way to deliver the bomb that eventually exploded in his car.
+
+The suspect had been on the police’s radar for weeks but only became the primary person of interest in the 36 hours leading up to his death, Manley said.
+
+Authorities said Wednesday they found a 25-minute “confession” from the Conditt, although they didn’t release the contents of the recording.
+
+New photo of #Austinbombings suspect Mark Conditt, released by @accdistrict from his time in community college back in 2012. https://t.co/emYWfwiUwx pic.twitter.com/wVIIWjQMhI — Lauren McGaughy (@lmcgaughy) March 21, 2018
+
+Late Tuesday night, just before law enforcement closed in on the suspect at a hotel, authorities said they filed a federal criminal complaint and arrest warrant for Conditt. The complaint, which remained sealed as of Wednesday, charged him with one count of unlawful possession and transfer of a destructive device.
+
+A motive for the deadly attacks is currently unknown.
+
+The suspect’s family has expressed surprise over his alleged ties to the bombings.
+
+“He’s from a family that is so tight, that works so hard to raise their children correctly. It’s just horrible,” Conditt’s grandmother, Mary Conditt, told CNN.
+
+In a statement released through a family friend, the Conditt family said they were shocked by “these heinous actions” and said they were cooperating with the police.
+
+“The family is grieved not only for their loss but also for the loss of those affected by these heinous actions,” the friend, Eddie Harp, read from a statement outside the Conditts’ home on Wednesday.
+
+An aunt of his, who only supplied her first name of Shanee, told the network that her family was “grieving” and “in shock.”
+
+“We had no idea of the darkness that Mark must have been in. Our family is a normal family in every way,” she said. “We love, we pray, and we try to inspire and serve others. Right now our prayers are for those families that have lost loved ones, for those impacted in any way, and for the soul of our Mark.”
+
+Neighbors of Conditt’s parents have echoed that surprise and disbelief.
+
+Jeff Reeb, neighbor of Mark Anthony Conditt’s parents, says he learned of Conditt’s death when reporters showed up this morning.
+
+
+
+“It just makes no sense whatsoever - he was a nice kid. He was quiet, sure, and young. But he was nice, normal as I could tell.” pic.twitter.com/GC7pHS9axs — Andy Campbell (@AndyBCampbell) March 21, 2018
+
+“It just makes no sense whatsoever, he was a nice kid,” neighbor Jeff Reeb, 75, told HuffPost. “He was quiet, sure, and young. But he was nice, normal as I could tell.”
+
+Reeb said Conditt moved out of his parents’ home a few years ago and got his own place. But he visited regularly and had contact with his family. He was the oldest of four kids, with three younger sisters.
+
+Reeb said he hadn’t spoken to Conditt’s parents yet.
+
+“I wouldn’t know what to say,” he said.
+
+“He was quiet, sure, and young. But he was nice, normal as I could tell.” - Jeff Reeb
+
+Reeb found out about the death when news cameras came to his quiet street in Pflugerville. “This is super unexpected,” he said. “I can’t believe it.”
+
+Jeremiah Jensen, 24, who said he was close friends with Conditt during their high school years, described him to the Austin American-Statesman as a devout Christian who was athletic and liked to argue, making him appear “really rough around the edges.” Jensen said he and the suspect had attended church and Bible study together.
+
+“I know faith was a serious thing for him,” he said.
+
+“I don’t know if he held onto his faith or not,” Jensen added. “The kind of anger that he expressed and the kind of hate that he succumbed to — that’s not what he believed in in high school.”
+
+On Wednesday morning, about a half mile away from Conditt’s parents’ home, Texas state troopers blocked the streets leading to the suspect’s house, also in Pflugerville. The property was surrounded by police, paramedic vehicles and agents with the Bureau of Alcohol, Tobacco, Firearms and Explosives.
+
+Law enforcement officers are seen blocking a street leading to the home of Mark Conditt. Roque Planas/HuffPost
+
+Two of Conditt’s roommates were taken into custody by police for questioning. One of them has since been released. The other was still being questioned as of Wednesday afternoon, according to the Austin Police Department.
+
+The individuals have not been publicly identified because they have not been arrested, authorities said.
+
+Pflugerville residents were eventually ordered to evacuate the surrounding area, including parts of downtown. Authorities at the scene told HuffPost the evacuation was “out of an abundance of caution.”
+
+Law enforcement worked to remove homemade explosives from the suspect’s home on Wednesday afternoon, according to a tweet from the FBI.
+
+Mark Roessler, who lives across from Conditt’s house, told HuffPost that around 9 a.m., he saw 10 agents with rifles appear to arrest a man outside of the property.
+
+Roessler, who said he had spoken several times with Conditt and his father and toured the house, said he had never seen the man before.
+
+It’s not immediately clear whether that man was one of Conditt’s roommates. Local police and FBI officials could not be immediately reached for comment.
+
+Few of Conditt’s immediate neighbors said they knew him personally, including people who had lived in the area for years.
+
+Mark Roessler, center, who lives across from Mark Conditt's house in Pflugerville, said he saw a man being taken into custody outside the home on Wednesday. Roque Planas/HuffPost
+
+“No one here knows him,” said neighbor Jay Schulze, 42, who has lived in the area for 12 years.
+
+“I’ve seen him out there, just judging from the picture from the FedEx office,” Schulze added, referencing a surveillance video that authorities said captured the suspect mailing a package while wearing a wig and baseball cap.
+
+Conditt moved into a dilapidated house on the block more than a year ago, according to two neighbors. The only time they saw him was when he was outside renovating it with his father.
+
+“They were treating it like a father-and-son bonding thing,” Roessler said of the project.
+
+“It was barely standing,” Hector Del Valle, a neighbor who had to leave his house so authorities could proceed with the investigation, told HuffPost of the property. “It was kind of an eyesore when I first moved here. ... I would see them working late into the night. ... Tall, lanky, white kid. But quiet, he kept to himself.”
+
+Debbie Alexander, who has lived in the area almost 20 years, said she had seen Conditt maybe a dozen times. She said she never spoke to him, even though she takes pride in meeting her neighbors. “We would wave,” she said. “He was kind of standoffish.”
+
+Media are interviewing the witness, Figueroa, while in the background dozens of emergency vehicles snarl I-35 south where the reported shootout occurred pic.twitter.com/gVvq6MK2Mb — Andy Campbell (@AndyBCampbell) March 21, 2018
+
+Conditt’s Google search history showed that he had been looking up other addresses in Austin and the surrounding area, the Austin American-Statesman reported Tuesday, citing a law enforcement official.
+
+Texas Gov. Greg Abbott (R) told Fox News on Wednesday morning that authorities were still sifting through the evidence to determine why and how this all happened.
+
+“We’re trying to piece together why is it that someone like this would go on this effort,” Abbott said. “We don’t know if it was a political manifesto, or some other anger about some people or whether he really just wanted to stoke terrorism.”
+
+Abbott said Conditt was unemployed, and didn’t have a criminal history or a military background.
+
+“We don’t know how he gained the skill set to build these bombs,” he said.
+
+Police barricade the area surrounding the home of suspected Austin bomber Mark Anthony Conditt in Pflugerville, Texas. Drew Anthony Smith via Getty Images
+
+Conditt had worked in sales and purchasing for Crux Manufacturing, a small engineering shop located in Austin, until August. He was let go at the time for not meeting expectations, an employee told local station KVUE.
+
+Conditt was described by the employee there as “quiet, introverted and reserved.”
+
+Six bombing incidents in March ― five in Austin and another at a FedEx center near San Antonio ― have kept officials and locals on high alert. Two people were killed and five others were injured in the blasts.
+
+The explosives were reportedly homemade pipe bombs with batteries and smokeless powder, and were created from materials found in a hardware or sporting goods store, an unnamed source in law enforcement told CNN.
+
+Two local television stations, citing anonymous sources, reported that Conditt used the alias “Kelly Killmore” to ship two of the packages containing explosive devices.
+
+Austin police have fielded more than 1,200 reports of suspicious packages in recent weeks.
+
+“We believe that this individual is responsible for all incidents that have taken place in Austin, beginning March 2,” Manley said. He urged people in the area to remain cautious and did not rule out the possibility that the suspect had mailed or planted further bombs before his death.
+
+Law enforcement personnel investigate the scene where the Texas bombing suspect blew himself up on the side of a highway north of Austin in Round Rock, Texas, on Wednesday. Loren Elliott / Reuters
+
+False alarms have also kept people on edge in recent days. On Tuesday night, a throng of police, reporters and residents raced to the scene of a reported explosion at a Goodwill on the city’s south side. “Someone donated a bomb to us today,” Jerry Davis, CEO of Goodwill Central Texas, told HuffPost at the time. He said that one of the employees there had picked up a device that detonated in his hands.
+
+Minutes later, Austin police confirmed that an odd “incendiary device” had indeed injured the employee, but didn’t bear any connection to the recent bombings and instead resembled “some type of military ordinance or memento” that caught fire.
+
+Reacting to the news of Conditt’s death Wednesday morning, President Donald Trump tweeted, “AUSTIN BOMBING SUSPECT IS DEAD. Great job by law enforcement and all concerned!”
+
+Trump on Tuesday called the bomber a “very sick” person.
+
+This story has been updated with police reporting they discovered a “confession” on Conditt’s cellphone.On Tuesday, a package exploded at a FedEx sorting facility in Schertz, Texas, near San Antonio, as it was moving along a conveyor belt. Later that day, police responded to another suspicious package found to contain an explosive in a FedEx facility near the Austin airport.
+
+The explosives were an assortment of homemade pipe bombs with batteries and smokeless powder. They were created from materials that can be found in a hardware or sporting goods store, an unnamed law enforcement source told CNN.
+
+Manley on Wednesday said Conditt’s recording did not indicate why the individuals whose homes he targeted were selected.
+
+Law enforcement officials said they filed a federal criminal complaint and arrest warrant for Conditt late Tuesday night before closing in on him at a hotel. The complaint charged him with one count of unlawful possession and transfer of a destructive device and remained sealed as of Wednesday.
+
+Margaret Moore, district attorney for Travis County, in which Austin is located, told reporters that authorities had planned to seek capital murder charges against Conditt if he had been arrested.Demi Lovato’s fans appreciate the singer for always being open and honest about her past substance abuse and mental health battles.
+
+In a new interview with Dr. Phil, the 25-year-old singer revealed even more about the struggles she faced in her early years, saying that she began having suicidal thoughts at the age of seven.
+
+“I had this fascination with death,” she said. “I have experienced many things that I have not talked about and don’t know if I ever will talk about.”
+
+She added, “But at seven, I knew that if I were to take my own life that the pain would end.”
+
+Lovato said the suicidal thoughts returned later when she was bullied at school, and again “several times” when she was dealing with depression and bipolar disorder, which the singer was diagnosed with in 2011.
+
+And while Lovato said she now has certain battles under control, she told Dr. Phil her eating disorder remains a daily struggle.
+
+“I think the ever-lasting addiction in my life has been food. My eating disorder started when I was very young,” the 25-year-old said. “That’s something that I still work on on a daily basis. That’s kind of the last thing to go. I feel like I’ve conquered my addiction and alcoholism in a way that I don’t even think about it anymore.”
+
+“But my struggles with my food issues are something that I still deal with. But I’m growing and I’m in a really good place today,” Lovato added.
+
+Last Wednesday, the singer officially celebrated six years of sobriety and tweeted out an inspiring message to her fans.
+
+“Just officially turned 6 years sober. So grateful for another year of joy, health and happiness. It IS possible,” she wrote.
+
+Just officially turned 6 years sober. So grateful for another year of joy, health and happiness. It IS possible. 🙏🏼 — Demi Lovato (@ddlovato) March 15, 2018
+
+The more Lovato speaks up to erase the stigma surrounding addiction and mental illness, the more people she helps to deal with their own conflicts.
+
+“I just know how important it is to use my platform to help others and to share my story in hopes that it inspires people to either get into recovery or better themselves,” she told “Good Morning America” in January. “Whatever it is, I just want people to know they’re not alone and I’m here for them.”
+
+If you or someone you know needs help, call 1-800-273-8255 for the National Suicide Prevention Lifeline. You can also text HELLO to 741-741 for free, 24-hour support from the Crisis Text Line. Outside of the U.S., please visit the International Association for Suicide Prevention for a database of resources.“Love, Simon” knows its way to a teenager’s heart: through a high school musical theater production.
+
+As a gay coming-of-age story made by a top-tier Hollywood studio, Greg Berlanti’s endearing movie, which opened in theaters last weekend, is a rarity. “Love, Simon” lets its titular protagonist (Nick Robinson) find romance via tropes that define the John Hughesian rom-coms fashionable in the 1980s and ’90s ― a genre long limited to heterosexual characters. Among many queer selling points is Simon and his classmates’ deliciously disastrous rendition of “Cabaret,” rife with the subpar vocal talent, ditzy choreography and infinite passion seen in many an adolescent theater spectacle.
+
+Just as Saoirse Ronan and Lucas Hedges schlepped through “Merrily We Roll Along” in last year’s “Lady Bird,” Robinson, Alexandra Shipp, Logan Miller and other young actors of “Love, Simon” welcome us to “Cabaret” with all of their characters’ amateurish might. It’s only fitting that their exhausted theater teacher, played by “Insecure” scene-stealer Natasha Rothwell, has to remind them that the musical’s setting ― 1931 Germany ― wasn’t as affable a place as their school auditorium. “You’re Nazis! More anger,” she barks in a line Rothwell improvised, breaking up two cast members caught smooching during rehearsal.
+
+In "Love, Simon," drama club kids are coached by Natasha Rothwell of "Insecure." Fox
+
+The headiness of “Cabaret” makes it the perfect choice for a high school staging, largely because the kids underestimate just how much they don’t understand about their wonky rendering. But, like the Becky Albertalli novel on which it’s based, “Love, Simon” initially had another musical at its center: “Oliver!,” the Dickensian classic about a British orphan who runs away and befriends a gang of pickpockets.
+
+Berlanti couldn’t land the rights to “Oliver!,” so his next idea was to concoct an original show based on the John Cusack movie “Say Anything...,” one of those Hughesian rom-coms that “Love, Simon” evokes. After “Oliver!” fell through, the screenwriters ― “This Is Us” scribes Elizabeth Berger and Isaac Aptaker ― wrote a couple of Cusack-inspired bits.
+
+“The idea was that the drama teacher had penned this musical herself over many years ― ‘Say Anything...’ fan fiction, basically — and putting it up onstage with a bunch of high schoolers was the culmination of her life’s work,” Berger and Aptaker told HuffPost. “There was gonna be a big ‘In Your Eyes’ musical number with a bunch of backup dancers holding up the boomboxes and everything. Eventually, it felt like it was taking up too much screen time and was too big of a notion for the movie to bear, so we decided to go in a different, simpler direction.”
+
+The scaffolding seen in the movie came from a high school production of "Grease." Courtesy of Aaron Osborne
+
+Berlanti felt the “Say Anything...” concept was “too meta,” so he thought back to his own college production of “Cabaret.” The play’s narrative about sexual identity provided a convenient parallel with “Love, Simon,” in which Simon gradually accepts his own sexuality while exchanging anonymous emails with a closeted classmate. Securing the rights to “Cabaret” was a cinch, according to Berlanti. There was only one precept: He couldn’t use imagery unique to the 1972 movie, including the famous top hat Liza Minnelli wore as Sally Bowles.
+
+From there, Berlanti and production designer Aaron Osborne scouted out schools whose auditoriums would provide ample backstage space, where the prototypical theater kid could make himself at home and develop an innocent crush or two. Landing on an Atlanta campus, Osborne borrowed a scaffolding platform the school had already constructed for a production of “Grease.” He built a model of the stage, hanging illuminated red “CABARET” letters in the center ― though Osborne and Berlanti debated whether the sign should instead say “Kit Kat Club,” the seedy nightclub where much of the action takes place. They decided that reference was too obscure for anyone unfamiliar with John Kander, Fred Ebb and Joe Masteroff’s work.
+
+Throughout the rehearsal scenes seen in “Love, Simon,” Rothwell establishes herself as a mama lion who has gone from experienced theater actress to directing youngsters with little hope of stage careers. At first, she’s optimistic, saying, “When we get done, it’s gonna look like a real German sex club. Don’t ask me how I know.” But her hope for an exemplary play is dashed by the end: “I was an extra in ‘The Lion King,’ and this is where I am? They don’t pay me enough for this crap.” Rothwell’s brassy reactions and jaded quips earn the movie’s biggest laughs. In fact, Berlanti captured so many golden moments from Rothwell that he says he could make a “half-hour comedy” from the material left on the cutting-room floor.
+
+As for that German sex club, the 3D letters suspended from the ceiling on Osborne’s model fell one day, inspiring a gag that made its way into the movie: During the big opening-night performance, the “Cabaret” sign comes crashing down, nearly hitting a student in the head and capping off a comically disastrous venture with electrical sparks that were added in post-production.
+
+To get to the scene with the descending sign, Berlanti worked with choreographer Zach Woodlee, his former collaborator on the ABC legal dramedy “Eli Stone” and the Katherine Heigl movie “Life as We Know It.” They staged the kind of imperfect dance routines familiar to any high school troupe. Shepherding teen ensembles ― or, rather, adults portraying teens ― was familiar territory for Woodlee, who choreographed five seasons of “Glee.” One crucial difference: The numbers on “Glee” were meant to look polished, whereas this needed to be scrappy and unrefined.
+
+Even the music Woodlee was working with had a crude feel. A “Love, Simon” producer commissioned a pre-recorded soundtrack featuring first-rate singers, but Berlanti thought it sounded too professional. Instead, he had the cast record individual voice tracks, no matter their aptitude, which is what we now hear the students singing in the movie. Robinson only agreed to participate if Berlanti sang alongside him, so Berlanti counts “Love, Simon” as the first time he has appeared in a project he helmed. (Berlanti previously wrote and directed the lovely gay friendship dramedy “The Broken Hearts Club,” and he has written for numerous TV series including “Dawson’s Creek,” “Everwood,” “The Flash” and “Supergirl.”)
+
+A “Love, Simon” producer commissioned a pre-recorded soundtrack featuring first-rate singers, but Berlanti thought it sounded too professional. Fox
+
+Woodlee spent only a day rehearsing the cast’s opening-night dance scene ― the one with the tumbling sign.
+
+“With the choreography cues, there were different times when, with singing or dancing, they would mess up and say, ‘Oh, I want to try it again,’ and I would be like, ‘Oh no, that’s perfect,’” Berlanti said, again emphasizing that glitches were paramount.
+
+Still, by premiere time, we’re meant to glean that most of the hiccups are out of the way, even if that sign threatens to take a few dancers down with it.
+
+“High school productions are the one thing that can be inherently campy,” Berlanti said. “They can be gloriously bad and gloriously wonderful, all at the same time. I think that’s the true magic behind how we choreographed it and talked about it. You’re showing how awful it can be, but at the same time their exuberance is more pure than any performers in the world because they love that they’re getting to do this.”Chinese women detained at Angel Island, California. Courtesy of the California Historical Society. Steeplechase Films/The Chinese Exclusion Act
+
+WASHINGTON ― In 1882, Congress voted to ban an entire ethnic group from immigrating to the United States.
+
+The Chinese Exclusion Act, iterations of which remained on the books for over 60 years, had a lasting effect on the history of U.S. immigration, as depicted in a new PBS documentary airing Tuesday.
+
+Filmmakers Ric Burns (brother of Ken) and Li-Shin Yu trace not only the law’s development and implementation but also its connection to other integral parts of American history unfolding contemporaneously, like segregation in the Jim Crow South, urbanization on the East and West Coasts, and trade abroad.
+
+At a screening of the film last week, Burns called the Chinese Exclusion Act a “quintessentially American story” and described it as “the biggest part of American history that people don’t know about,” because you would be hard-pressed to find it mentioned in many history courses.
+
+“If you want to know about immigration in America and you don’t know the story of Chinese exclusion, it would be like saying you want to know about race relations in America, but you’ve never heard of slavery."” - Filmmaker Ric Burns
+
+In the film, several historians marvel that some Americans are shocked to learn about the Chinese Exclusion Act.
+
+“Many Americans today cannot believe this happened. How could this country, with its culture, with its politics, with its economics, do what it did against a whole class of people?” NYU professor John Kuo Wei Tchen says.
+
+But while watching the documentary amid today’s political climate, it isn’t unbelievable at all. Burns and Yu acknowledged that it doesn’t take much effort to see parallels to President Donald Trump’s America — though this was not their original intention, as they began working on the film six years ago, Burns said.
+
+Central to the bill’s 1882 passage were political attacks on Chinese immigrants that labeled them “unassimilable” and portrayed them as economic threats to white Americans and a filthy scourge on society. The film shows how newspaper headlines and editorial cartoons from that period disseminated this propaganda.
+
+“The Anti-Chinese Wall,” an 1882 political cartoon from “The Puck” magazine, which reads: “The American Wall Goes Up as the Chinese Original Goes down.” Courtesy of the Library of Congress. Steeplechase Films/The Chinese Exclusion Act
+
+Nineteenth-century politicians’ nativism and fear-mongering are remarkably similar to today’s anti-immigrant rhetoric. President Donald Trump famously began his presidential campaign by saying that Mexico was sending rapists, drug dealers, and criminals to the U.S.
+
+Other right-wing political figures have raised the old complaint that certain immigrants are unassimilable. During an NPR interview earlier this month, Trump’s chief of staff, John Kelly, said that undocumented immigrants are “not people that would easily assimilate” and “don’t integrate well” — an uncanny reminder of how this political language persists.
+
+Burns sees another commonality in the rhetoric: the “factless nature” of claims that immigrants are stealing our jobs.
+
+“Both then and now, there’s zero truth to it,” he said. “These things almost never have any basis in reality. It becomes a function of playing to fears, playing to usually white vulnerabilities, and finding wedge issues for politicians.”
+
+“The Chinese Exclusion Act tells us all we need to know not just about immigration, but about the story of America.”
+
+These parallels make it particularly difficult and infuriating to watch the history of the Chinese Exclusion Act unfold in the film, including how it raised questions about birthright citizenship that were later settled in an 1898 Supreme Court case.
+
+Trump is among those who have relitigated the issue in the decades since: During his presidential campaign, he suggested abolishing birthright citizenship.
+
+There are also echoes of the Chinese Exclusion Act in the legal battle over Trump’s travel ban, which bars people largely from majority-Muslim countries from entering the U.S. It’s yet another compelling piece of evidence for the film’s central argument: The Chinese Exclusion Act tells us all we need to know not just about immigration, but about the story of America.
+
+A poster celebrating the Chinese Exclusion Act's passage, proclaiming that "The White Man is on Top." Courtesy of the Royal BC Museum. Steeplechase Films/The Chinese Exclusion Act
+
+The events of the film intersect with another grim period of American history: the Jim Crow era in the South. According to the film, the California politicians spearheading discrimination against Chinese immigrants built support for the exclusion act by compromising with Southern politicians trying to pass measures to systematically disenfranchise black people. The political maneuvering, which Burns referred to as “horse-trading,” essentially amounted to exchanging one form of discrimination for another.
+
+Sexism and misogyny also fueled the fire. Laws that helped lay the foundation for the 1882 bill were particularly discriminatory against Chinese women, who were stereotyped as prostitutes. As Columbia University historian Mae Ngai relates in the film, Chinese women were required to prove they were not prostitutes to be admitted to the U.S, a process so stringent that it effectively discouraged most women from immigrating.
+
+Through these connections, the documentary effectively makes the case that the Chinese Exclusion Act is fundamental to questions of American identity.
+
+“It is not a melodramatic or breathlessly hyperbolic thing to say that if you want to know about immigration in America and you don’t know the story of Chinese exclusion, it would be like saying you want to know about race relations in America but you’ve never heard of slavery,” Burns said.
+
+Burns and Yu said they intend for the film to be an educational tool, and PBS and the Center for Asian American Media are distributing it to schools so that learning about Chinese exclusion becomes a given in U.S. history class.
+
+“Just the way you know about the Fourth of July, you know about the Civil War, and you know about the Pilgrims — usually a ludicrously cartoonish way,” Burns said, “you’ll at least have a ludicrously cartoonish version of the Chinese Exclusion Act.”Students at Santa Fe High School in Texas spent Friday morning in fear as a gunman killed 10 people and injured 13 others at their school.
+
+Law enforcement officials took a male suspect into custody later Friday ― a 17-year old believed to be a student at the school.
+
+The tragedy marked the 16th school shooting in 2018, according to a count by The Washington Post. It was also the 10th since the February massacre at Marjory Stoneman Douglas High School in Parkland, Florida, which left 17 dead and sparked a nationwide conversation about gun violence in America.
+
+“Santa Fe High, you didn’t deserve this. You deserve peace all your lives, not just after a tombstone saying that is put over you. You deserve more than Thoughts and Prayers, and after supporting us by walking out we will be there to support you by raising up your voices,” tweeted Emma González, a survivor of the Parkland shooting.
+
+Sabika Sheikh
+
+Sabika Sheikh was a YES program exchange student from Pakistan. The program’s manager, Megan Lysaght, confirmed her death via email to all of the YES program participants.Law enforcement sources quickly identified the suspect as Conditt, who neighbors confirmed lived in the Austin suburb of Pflugerville.
+
+Conditt was the oldest of four kids, with three younger sisters. Neighbors said he had moved out of his parents’ home, also in Pflugerville, a few years ago and got his own place. But he regularly visited and kept in contact with his family.
+
+Conditt’s parents reportedly were unaware of their son’s involvement when news crews arrived outside their house around 5 a.m. Police arrived shortly thereafter.
+
+Mark Roessler, who lives across from Conditt’s parents, told HuffPost he saw 10 agents with rifles take a man into custody around 9 a.m. Roessler, who said he had spoken several times with Conditt and his father and had toured the house, said he had never seen the man before.In the heart of an affluent Philadelphia suburb lies a palatial, 73-acre estate that was once the epicenter of a fast-growing religion said to have thousands of believers who thought of their leader as god on earth. This was ― and still is ―“Father’s Kingdom,” and a new documentary tells this amazing though largely forgotten story.
+
+Currently on the festival circuit, the documentary explores the International Peace Mission, a movement that reached heights in the 1930s and slowly began to dwindle after the 1965 death of its controversial founder, “Father Divine” ― a man who called himself god.
+
+“It was like being in another world,” said the film’s director Lenny Feinberg, whose other work includes documentaries like “The Art of the Steal,” “Black and White” and “Dead All Over.”
+
+“[The Mission] lives in a very secluded, isolated venue and they have no focus other than being a follower of Father Divine. Just learning about his impact was amazing,” he said.
+
+Father Divine was also an advocate for anti-lynching laws and desegregation, using both of these campaigns to influence the Mission’s core beliefs. He had both black and white supporters and often held rallies that inspired his followers to take part in the civil rights movement.
+
+Researchers believe Father Divine’s given name was George Baker, but he refuted the name as blasphemous hearsay, saying infamously that “God has no mother” and therefore has no origin. No one has verified Father Divine’s real name. In a major victory for the movement, in 1973, eight years after Father’s passing, the Peace Mission requested the Library of Congress remove the name “George Baker” from its records altogether.
+
+“[Father] was empowering people in their lives in a way that some people, of course, are afraid of, you know, because of the enormous pull of a religion like this in terms of attracting people and keeping them,” said Dr. Leonard Primiano, a professor of religious studies at Philadelphia’s Cabrini University.
+
+Lenny Fienberg
+
+The voices of Father’s longtime followers ― many of whom still live on the Philadelphia estate in the Main Line ― drive the narrative in “Father’s Kingdom.” Now advancing in age, they tell the complicated history of the mission and explain their sometimes controversial beliefs.
+
+In a broad sense, they can be categorized as a communal religion based on Christian ideology. Like some Christian churches, they forbid alcohol and drugs, promote modesty laws and practice celibacy.
+
+But they also heavily differ from the Christian norm. They prefer to say “peace” instead of “hello” because the latter has the word “hell” in it. Father also required followers to cut ties with their families because, as stated in Matthew 16:24, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me.”
+
+And unlike other Christian sects, the Mission doesn’t believe in heaven. Instead, as follower Dr. Christopher Stewart said, heaven is something here on Earth.
+
+“The kingdom is a tangible thing and the followers have taken that so seriously and have really manifested extraordinary things,” he said in an interview with HuffPost.
+
+The documentary, in its examination of the mission’s history, follows the history of a man and mission who fought against segregation, fed and empowered the poor and believed that God was here on Earth. Through this film the movement’s impact is tangible.

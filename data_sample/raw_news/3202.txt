@@ -1,0 +1,31 @@
+By Sara Chodosh
+
+Pixabay The optimal distance to sit from a stranger for five hours at a time
+
+The thing about planes is that pretty much everyone wants to get off them as soon as they get on. To deplane is to rejoin a world where you can get up from your seat whenever you want, gulp non-recirculated air, and enjoy more than precisely 10 peanuts at a time. But perhaps the worst thing about air travel — worse than the overpriced snacks and jet-engine noise — is the fact that you’re crammed into a confined space and forced to interact with the other people inside it for hours on end.
+
+Planes make us reckon with the fact that humans are gross, virus-carrying, disease-burdened flesh sacs. You can avoid someone coughing in the grocery store, but you can’t escape inhaling the same recirculated air as the man in 14B who sounds like he’s dislodging part of his lung.
+
+And that’s why scientists study disease transmission on aircraft. Three billion people fly every year, and studies have shown that several serious illnesses have hitched rides to areas they never could have reached otherwise. The SARS virus jumped from Hanoi to Paris in just 14 hours and 50 minutes. H1N1 influenza hopped from L.A. to Auckland and Birmingham in under 10. These transmissions would never have been possible without air travel.
+
+But recent research suggests these may be the exceptions that prove the rule. You actually have to be quite close to a sick passenger to catch their disease yourself, depending on how much movement there is during the flight, and most of the surfaces inside an aircraft are surprisingly clean. That’s according to a new study in the journal PNAS, anyway.
+
+“If you are seated further away than a meter from an infected passenger, you are unlikely to get infected during flight,” says Howard Weiss, a mathematics professor at Georgia Tech and one of the lead authors on the paper. Weiss works on modeling disease transmission and collaborated with Boeing, which helped fund the study, to figure out how pathogens might travel on planes.
+
+Archives New Zealand The New Zealand Department of Health wants you to stay home.
+
+To make a model like that, though, you have to actually catch people in the act of spreading viruses. So that’s exactly what they did. The team from Emory and Georgia Tech flew on 10 total flights between Atlanta and the West Coast, recording literally every interaction the passengers had with each other. Close physical proximity is how many diseases spread, so any contact between flight attendants or seat mates is an opportunity to disseminate a virus. And wow, are there a lot of interactions — though not a lot of coughing.
+
+“What most surprised me was that on 10 flights, eight during flu season, only one of 1,500 passengers on 10 flights was coughing,” says Weiss. Which is probably a good thing, since he says the other thing that surprised him was the sheer number of interactions: 5,000 on a four-hour flight.
+
+Despite all those points of contact, their mathematical model shows that a sick patient would only be likely to spread illness to people in their own row and one row in front and behind them. Consider this the sneeze splash zone, if you will. Outside of that immediate proximity, it seems passengers are pretty much safe. The researchers even swabbed many of the hard surfaces inside the plane — bathroom door handles, seat belt buckles, and tray tables — all of which came back negative for a panel of 18 respiratory viruses. This either means that either not many sick people were flying on those particular days, or airlines are preternaturally good at disinfecting. No word yet on how clean the fabric seats are.
+
+It also seems to show that the air filtration systems in airplanes are actually pretty good. The recirculated air may be unpleasant, but it is sent through a HEPA filter, which removes 99.9 percent of all particulates in the air — it’s what hospitals use in operating rooms and ICUs. Circulating air also stays in a pretty small area, roughly every couple of rows, so any errant viruses probably get trapped in one little air loop.
+
+James Vaughn The era of actually enjoyable air travel.
+
+And now comes the point in the story where we note that these results can’t be extrapolated to every flight. These were transcontinental American flights, so it won’t necessarily apply to larger or smaller planes with shorter or longer flight times. It also doesn’t apply to all viruses—measles, for example, is a particularly tiny virus that stays airborne for long periods of time. And of course, while this study did the best it could with the data it had, 10 flights is still a pretty small number. It’s possible that, on average, planes are far dirtier (or carry far sicker passengers). As is always the case in science, we’ll need more data to be sure.
+
+Here’s what we do know: being around lots of people, especially while doing something stressful like traveling, makes you more likely to get sick. Weiss’ advice, even after observing so few coughing fits and viruses in the field, is to practice good hygiene and to keep your hands away from your face. Planes aside, we should all probably be washing our hands more. “I suspect that many people do not understand the importance of good hand hygiene,” notes Weiss. And he’s right. Many of us don’t even realize how we get sick: sharing a water glass with a sneezy friend isn’t dangerous because you might drink their backwash, but because you’re liable to touch your face not long after touching the glass (the average person touches their face about 3.5 times every hour) which means you’ll get their virus or bacteria right into your vulnerable mucus membranes.
+
+Pathogens love the moist, warm environment inside your nose and lungs, and your hands are the vehicle that gets them there. Don’t let the viruses win: wash your hands. And maybe just don’t go on airplanes? They’re awful anyway, even if they aren’t germ-infested.

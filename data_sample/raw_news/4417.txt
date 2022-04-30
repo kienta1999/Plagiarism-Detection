@@ -1,0 +1,25 @@
+Geek Squad employees have been working as FBI informants for more than a decade, newly released documents show, revealing a much closer relationship between the two organizations than formerly reported.
+
+While we’d previously known some of the Best Buy workers alerted law enforcement whenever they found illegal material like child pornography on customers’ hard drives, the new documents show that the FBI met with the Geek Squad team at least as early as 2008 and apparently viewed some workers as paid informants.
+
+The Electronic Frontier Foundation filed a Freedom of Information Act request for the documents last year and released them on Tuesday. The Bureau refused to confirm or deny if it has similar relationships with other electronics repair companies.
+
+The documents indicate Geek Squad technicians only flagged federal agents when they found child pornography on a client’s computer, so it’s hard to be too upset. Nevertheless, it raises concerning questions about potential violations of the Fourth Amendment’s protection against unreasonable searches and seizures.
+
+Seeking to calm fears, a Best Buy spokesperson told HuffPost in an emailed statement that their technicians do not actively search for such content and only discover it inadvertently. But in at least one instance, that doesn’t seem to be the case.
+
+Per the EFF, an illicit image found on the hard drive of Mark Rettenmaier, a California doctor who dropped off his computer at a Best Buy in 2011, was stored on unallocated space on the disk that “typically requires forensic software to find.”
+
+Rettenmaier was tried in 2017 on felony child pornography charges, but the case was thrown out after U.S. District Judge Cormac Carney ruled the FBI warrant that allowed the search of Rettenmaier’s home ― a warrant granted based on the image found by Geek Squad ― was obtained via “false and misleading statements.”
+
+Geek Squad technicians work at the company's repair facility in Hillview, Kentucky, in 2012. Bloomberg via Getty Images
+
+EFF documents show this wasn’t a one-off case, and that the FBI handled numerous incidents in similar fashion after being alerted by Geek Squad technicians at the company’s repair facility in Kentucky. (The company’s Kentucky Geek Squad City facility handles more serious repairs, including work like data recovery that could require them to sift through a customer’s data.)
+
+Records uncovered as a result of the Rettenmaier case show the Bureau had “eight FBI informants at Geek Squad City” from 2007-2012, and that some Geek Squad employees were paid between $500 and $1,000 for their help. At least one Geek Squad technician attempted to give the money back and was rebuffed.
+
+In an emailed statement to HuffPost, Best Buy sought to temper concerns about possibly illegal searches, saying the company has both a moral and, in some cases, legal obligation to alert authorities when employees find child pornography ― as it does “nearly 100 times a year.”
+
+Customers are also made aware of the policy in writing prior to Geek Squad beginning any repair.
+
+“As a company, we have not sought or received training from law enforcement in how to search for child pornography,” the company said. “Our policies prohibit employees from doing anything other than what is necessary to solve the customer’s problem. In the wake of these allegations, we have redoubled our efforts to train employees on what to do — and not do — in these circumstances.”

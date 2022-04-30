@@ -1,0 +1,601 @@
+Facebook is expected Monday to begin notifying users whether their personal information may have been mined by Cambridge Analytica.
+
+All users will receive a link at the top of their News Feed outlining which apps they use and what information each app uses, Facebook’s Chief Technology Officer Mike Schroepfer said in a statement. Users whose data may have been improperly harvested by Cambridge Analytica can expect to receive an additional message like the one below:
+
+“We have banned the website ‘This Is Your Digital Life,’ which one of your friends used Facebook to log into. We did this because the website may have misused some of your Facebook information by sharing it with a company called Cambridge Analytica.”
+
+Monday’s alerts come as Facebook CEO and founder Mark Zuckerberg prepares to testify before Congress this week. Zuckerberg has also scheduled additional meetings with lawmakers on Monday, Reuters said.
+
+The social media giant admitted last week that data from up to 87 million of its users may have been shared with Cambridge Analytica ― although that figure, according to whistleblower Christopher Wylie, could be even higher. The data firm denied Facebook’s estimate, claiming that it had licensed data for “no more than 30 million people.”
+
+Schroepfer outlined some of the steps the company plans to take to rectify the privacy breach, including disabling the ability to search for users by their phone numbers and email addresses, plus changes to call and text history.
+
+Facebook also announced a research initiative Monday to understand the role of social media in elections.
+
+“We have made real progress since Brexit and the 2016 US presidential election in fighting fake news, as well as combating foreign interference, in elections in France, Germany, Alabama and Italy,” Facebook’s Elliot Schrage, vice president of communications and public policy, and David Ginsberg, director of research, said in a statement. “But there is much more to do — and we don’t have all the answers. This initiative will enable Facebook to learn from the advice and analysis of outside experts so we can make better decisions — and faster progress.”
+
+Facebook said it suspended CubeYou, a data analytics firm, after CNBC reported that it was gathering user information through personal quizzes ― a tactic similar to the one that Cambridge Analytica used.
+
+“These are serious claims and we have suspended CubeYou from Facebook while we investigate them,” Ime Archibong, vice president of product partnerships at Facebook, said in a statement. “If they refuse or fail our audit, their apps will be banned from Facebook.”
+
+Did Cambridge Analytica harvest your data? If so, please let HuffPost know. Reach out to willa.frej@huffpost.com.WASHINGTON ― Republican House members are leaving Congress at the fastest pace in modern history, according to elections data compiled by Daily Kos.
+
+So far, 37 House Republicans have announced they are retiring, running for another office or resigning outright. Such an exodus usually precedes the beginning of every primary season, but this year is shaping up to break records.
+
+“This is more Republican retirements than any year since at least 1952 (and possibly much earlier than that),” Daily Kos Elections editor Daniel Donner tweeted last week.
+
+By contrast, the comparable number for House Democrats totals 18.
+
+Daily Kos
+
+Victories in several local and state races across the country ― most recently in a Wisconsin state Supreme Court race ― have given Democrats more momentum for a potential blue wave in November’s midterm elections.
+
+“I think the Republicans are in deep trouble in the House and the Senate as well,” Republican pollster Frank Luntz said Sunday on Fox News. “If the election were held today, frankly, I think Republicans would lose both.”
+
+The head of a super PAC aligned with Senate Majority Leader Mitch McConnell (R-Ky.) went even further on Monday, telling The Washington Post that GOP donors should steer their finances to efforts to save the Senate because the House may already be lost.
+
+Republicans hold 237 House seats, Democrats 193, with 5 vacant. Republicans control the Senate by a narrow margin, 51-49, but most of the chamber’s seats on the ballot this year are held by Democrats, giving the GOP a better chance of keeping its majority.
+
+In another sign of enthusiasm among Democrats, 1,415 party members have filed to seek House seats in primaries ahead of the fall elections, far surpassing the 934 Republican candidates, according to The New York Times. Notably, the number for the Democrats is also higher than the number of Republican candidates who ran for the House in 2010, when a conservative wave handed the GOP a sweeping majority in the chamber.
+
+The prospect of a blue wave in November has alarmed President Donald Trump, who has taken to warning his supporters about what might happen in the midterms.
+
+“We cannot be complacent,” Trump said in a speech late last month.Aretha Bradley was eating lunch at a restaurant when she saw on Facebook that the state of Michigan would soon stop delivering bottled water to residents in Flint, Michigan.
+
+Bradley hurriedly finished her meal, got into her car and drove as fast as she could to the water distribution site on South Dort Highway near her home.
+
+Lots of other people apparently had the same idea.
+
+“It was car after car after car after car trying to pick up water,” Bradley, 53, told HuffPost. She picked up the eight cases she uses to cook, the maximum amount a resident can receive per day.
+
+On Friday, the state of Michigan announced that the quality of Flint’s water was “restored” and the water therefore as safe to drink as in other big cities. It also said the state government would no longer provide bottled water to city residents.
+
+Yet some locals aren’t convinced their taps are safe. After all, the government downplayed the contamination four years ago, even after the water had turned brown.
+
+“If you know the story behind how we got in this situation like we did, I think you can understand why we the people do not trust those who are supposed to be looking out for the best interests of all of [Flint’s] residents,” said Bradley, a speech therapist who takes care of her elderly mother.
+
+Volunteers load bottled water into a truck at the Sylvester Broome Center in Flint, Michigan, on Feb. 22, 2016. Tom Williams/Getty Images
+
+Due to bad oversight by the state, toxic lead started poisoning Flint’s water in April 2014. Lead exposure can cause brain damage in young children and miscarriages in women; researchers have documented both increased lead in Flint kids and a possible increase in fetal deaths.
+
+Since the state admitted its mistake and took corrective action at the end of 2014, the government has closely monitored the city’s water. For nearly two years, lead levels have been below the federal “action level,” but until Friday, officials seemed hesitant to declare the water safe.
+
+“For the past two years I have repeatedly been asked when I would declare the water safe in Flint and I have always said that no arbitrary decision would be made — that we would let the science take us to that conclusion,” Michigan Gov. Rick Snyder (R) said in a statement.
+
+“I think you can understand why we the people do not trust those who are supposed to be looking out for [our] best interests.” - Flint resident Aretha Bradley
+
+But the decision to discontinue bottled water delivery is contrary to available science, said Dr. Mona Hanna-Attisha, whose research exposed the spike in Flint kids’ blood lead levels and forced the state to admit its mistake.
+
+Flint is currently replacing the thousands of lead pipes connecting water mains to people’s homes, making it only the third city to undertake wholesale lead pipe removal after Lansing, Michigan and Madison, Wisconsin. But Hanna-Atisha says research has shown that pipe replacement and even street work can temporarily increase the amount of lead coming out of household faucets because vibrations from the construction can dislodge lead particles in the pipes. The work in Flint won’t be finished until later next year at the earliest.
+
+“This is a period of increased risk,” said Hanna-Attisha, who is now the director of the Pediatric Public Health Initiative, a joint effort by Michigan State University and Hurley Children’s Hospital.
+
+A spokeswoman for the Michigan Department of Environmental Quality pointed out that the state will continue to provide water filters that are effective for removing lead.
+
+Flint resident Darryl Wilson, 46, heats bottled water so he can wash the dishes on Feb. 18, 2016. Detroit Free Press via Getty Images
+
+Jason Rogers, a 42-year-old program coordinator for a local youth mentoring organization, had one word for the governor’s declaration that the water is restored.
+
+It’s “bullshit,” he told HuffPost. “Rick Snyder would not live here and drink this water.”
+
+Rogers, who works with about three dozen Flint kids on a daily basis, explained that the free bottled water program has become a “feature of our reality.”
+
+“We don’t talk about [the water] too much because, like I said, it’s just our reality now, but I’ve heard [the kids] talk about how they still have to prepare meals with the bottled water,” he said. “They still, for the most part, use the bottled water for the major aspects of their lives.”
+
+Flint Mayor Karen Weaver (D) said she learned of the decision to shutter the bottled water program only moments before the public announcement.
+
+State Rep. Sheldon Neeley (D) received a phone call about the cancellation of the program 30 minutes prior to the governor’s announcement. “From what they told me, I don’t believe any of the state representatives had any prior information to this happening,” he told HuffPost.
+
+“Rick Snyder would not live here and drink this water.” - Flint resident Jason Rogers
+
+Neeley grew up in Flint. His family has been getting its bottled water from one of several distribution sites known as “pods.” The pods are slated to close once their water supplies run out.
+
+“It was traumatic for the city of Flint to find out that the water source was not safe to drink four years ago,” Neeley said. “It’s equally as traumatic, or a revisitation of the trauma, when they take away what people believe is a lifeline for them. The state of Michigan and the governor’s administration has ignored the particular trauma they have inflicted on the community.”
+
+It’s been more than 1,400 days since the start of Flint’s water crisis. Even though the governor and independent scientists have insisted the water is safe as long as it’s filtered, and even though the governor now says the water is comparable to what people drink in other cities, the entire ordeal has residents unsure if they can ever trust their local government ever again.
+
+Many Flint residents have said the city received substandard treatment from the state partly because a majority its residents are African-American.“Grand Theft Auto 5,” the video game that pushed mature content to new heights, is also probably the most profitable title ever, one analyst told Market Watch. But not just in the video game world.
+
+According to Doug Cruetz, the managing director and senior research analyst covering media and entertainment for the financial services company Cowen, “Grand Theft Auto 5,” from Take-Two Interactive and Rockstar Games, has made more money than any film, book or game ever.
+
+Cruetz says that, since its release in 2013, “GTA 5” has sold over 90 million units and taken in $6 billion in revenue.
+
+Guinness World Records says that “Gone With the Wind,” when adjusted for inflation, is the highest grossing film of all time at $3.4 billion. Creutz tells Market Watch that DVD and streaming revenue might add an extra billion, but that still leaves “GTA 5″ beyond its reach.Veteran CBS journalist Lesley Stahl told a story about President Donald Trump that likely surprised few of her media colleagues at the Deadline Club Awards Dinner in New York on Monday evening.
+
+According to Stahl, Trump told her that he continually “discredits” and “demeans” the press for a very specific reason: to sow uncertainty about the media so that “no one will believe” negative stories about him.
+
+The “60 Minutes” reporter recalled what happened when she and her boss met with the Republican presidential nominee at Trump Tower in mid-2016. Trump eventually started bashing the press in front of them.
+
+“I said, ‘You know, that is getting tired. Why are you doing this? You’re doing it over and over. It’s boring and it’s time to end that,’” Stahl recounted in a talk with Judy Woodruff of “PBS Newshour” at the Deadline Club event, which honors excellence in journalism.
+
+“And he said, ‘You know why I do it? I do it to discredit you all and demean you all so that when you write negative stories about me, no one will believe you,’” she continued. (Watch the video above.)
+
+Stahl emphasized her amazement: “He said that.”
+
+In an interview later that year ― the first with Trump after his victory ― the reporter found that he did not expect to fulfill some of his campaign promises to the letter. Rather, she said, he saw them as “opening bids for negotiation.”
+
+In the months since, the president has used Twitter as a primary means of attacking journalists’ work. An Axios investigation found that the bulk of Trump’s Twitter attacks were aimed at the media and so-called “fake news” over a nine-month period last year.Abbi Jacobson said she "kind of goes both ways" when it comes to dating. Daniel Boczarski/Getty Images
+
+“Broad City” co-writer and star Abbi Jacobson candidly discussed her sexuality in an interview with Vanity Fair published on Friday.
+
+Vanity Fair’s Lisa Liebman asked Jacobson ― who is promoting her new Netflix film, “6 Balloons,” co-starring Dave Franco ― about her love life.
+
+“I kind of go both ways; I date men and women,” Jacobson replied. “They have to be funny, doing something they love. I don’t know — I’ve never really been interviewed about this before.”
+
+Though Jacobson stopped short of using “lesbian,” “bisexual” or other labels, she told Liebman she’s open to being approached by prospective suitors, both male and female.
+
+“Yeah, who knows? The world is my oyster,” she quipped.
+
+Meanwhile, Jacobson and “Broad City” co-star Ilana Glazer will appear as guest judges on another beloved queer-themed staple, “RuPaul’s Drag Race.”
+
+Jacobson was tight-lipped about the specifics of their appearance in her chat with Vanity Fair, noting, “It’s pretty much under lock and key over there.”A conservative pollster has some bad news for the GOP: President Donald Trump’s sagging poll numbers could cost the party control of both houses of Congress.
+
+“I think the Republicans are in deep trouble in the House and the Senate as well,” Frank Luntz said on Sunday on Fox News. “If the election were held today, frankly, I think Republicans would lose both.”
+
+He said the economy is in good shape, but Trump isn’t getting credit for it.
+
+Luntz indicated the GOP still has plenty of time to turn it around, but they’ll need some help from the president.
+
+“If Donald Trump wants to keep a Republican Congress, he has to differentiate when he’s attacking Congress in general versus the Republicans in Congress,” Luntz said. “Differentiate when he’s attacking the press versus when he feels he’s not getting a fair shake.”
+
+He also urged Trump to tweet less.
+
+While some analysts have said the Democrats have an edge when it comes to taking the House in this year’s midterm election, the Senate is another story.
+
+Democrats are not only defending more seats in the upper chamber, but several are in states Trump won in 2016, including Florida, Indiana, Missouri, Ohio, North Dakota and West Virginia.
+
+However, Luntz’s comments echo those made by GOP leaders.
+
+Last week, Senate Majority Leader Mitch McConnell (R-Ky.) admitted the party was facing a “challenging” year.
+
+“We know the wind is going to be in our face,” he told Kentucky Today. “We don’t know whether it’s going to be a Category 3, 4 or 5.”
+
+Sen. Ted Cruz (R-Tex.) issued an even starker warning last month.The “After Show” for “Watch What Happens Live With Andy Cohen” on Sunday might have produced a potential love connection for the host.
+
+During an audience Q&A, one brave fellow stood up and asked Cohen out.
+
+“When are you taking me on a date?” he asked.
+
+A smiling Cohen appeared flattered but had to make sure the guy was age-appropriate. “How old are you?” the host asked. “Old enough,” the guest answered coyly.
+
+Cohen conceded that the man was “very handsome,” but was apparently still worried about his age. “Are you under 25?” the host asked.
+
+“I’m close,” the man replied.
+
+See how it all turns out in the exchange, which begins at the 4:45 mark above.John Oliver took on the issue of abortion on Sunday night, exposing the tactics of pseudo-health care organizations known as crisis pregnancy centers.
+
+These centers can often seem like a resource for women considering or in need of abortions, but many are just fronts for anti-abortion activists who use deceptive tactics to persuade women to remain pregnant. Some of these clinics even receive taxpayer funding.
+
+Crisis pregnancy centers manage to “stop just short of the line” where they would be regulated as legitimate health care providers, which allows them to get away with what Oliver called “emotional manipulation,” “coercive” behavior and outright “bullshit.”
+
+After exposing the groups on Sunday’s broadcast of “Last Week Tonight,” Oliver then announced that he was going to run his own tax-exempt crisis pregnancy center.
+
+In 2015, Oliver opened his own church called Our Lady of Perpetual Exemption. Now he’s created Vanned Parenthood, a service of his new organization, Our Lady of Choosing Choice, which is, as the name implies, a van.
+
+Oliver also brought out “Wanda Jo Oliver” (a.k.a. comic, actress and “SNL” alum Rachel Dratch) to show exactly what the new mobile operation was legally allowed to get away with.
+
+“I tell women if they get an abortion, it’ll make a ghost baby that’ll haunt their hoo-ha forever!” Dratch declared. She also noted that she’s not even required to have any training to operate the van’s ultrasound machine.
+
+“This is all perfectly legal and there is absolutely nothing stopping us from parking outside an abortion clinic tonight and haranguing people in the morning,” Oliver said. “And frankly, there really fucking should be.”To those who made it through the latest (and messiest) season of “American Horror Story,” well, congrats, because we bailed around the time Lena Dunham’s character was revealed to be the Zodiac killer.
+
+For rest us, a new installment thankfully is on the way, and creator Ryan Murphy is already dropping hints about what Season 8 will look like.
+
+At a panel with “AHS” cast members Sarah Paulson, Evan Peters, Cheyenne Jackson, Billy Eichner, Adina Porter, and Leslie Grossman, the prolific producer announced they all will return for the show’s next season, which will be set in the “near future.”
+
+“I will say it is set 18 months from today,” Murphy told the crowd after each of the cast members asked him a yes-or-no question about the future of the series, according to Variety.
+
+Ryan Murphy, Sarah Paulson and Evan Peters speak onstage at the 'American Horror Story: Cult' panel. Kevin Winter via Getty Images
+
+That timeline puts the next season somewhere around October 2019, which by our estimate has nothing particularly exciting going on besides John Krasinski’s 40th birthday and, of course, Halloween.
+
+Murphy also revealed that the new season will be “fantasy inspired” and “heightened,” mirroring the tones of previous well-received chapters like “Asylum” and “Coven.”
+
+Billy Eichner, Evan Peters, Sarah Paulson, Cheyenne Jackson, Adina Porter and Leslie Grossman attend the 'American Horror Story: Cult' panel. Kevin Winter via Getty Images
+
+Peters, who will also try his hand at directing this season along with Paulson, will play a different character of sorts after his intense turn as a Trump-supporting lunatic.
+
+“Your part this year is a comedic part,” Murphy told the actor. “You are our comedic and you play a hairstylist.”
+
+Legendary actress Joan Collins will be playing Peters’ grandmother, Murphy confirmed, and Angelica Houston has been tapped to star in an unspecified role.Michael Lacey and Jim Larkin, co-founders of classifieds website Backpage.com, are among seven individuals connected to the company who have been indicted for conspiring to knowingly facilitate prostitution on their website.
+
+A 93-count indictment unsealed Monday detailed the federal government’s case against the classified advertising website days after it seized.
+
+A message on Backpage.com that first appeared Friday said the website had “been seized as part of an enforcement action by the Federal Bureau of Investigation, the U.S. Postal Inspection Service, and the Internal Revenue Service Criminal Investigation Division, with analytical assistance from the Joint Regional Intelligence Center.”
+
+U.S. Department of Justice
+
+Along with Lacey, 69, and Larkin, 68, the indictment names 67-year-old Scott Spear, 66-year-old John E. “Jed” Brunst, 49-year-old Daniel Hyer, 45-year-old Andrew Padilla and 37-year-old Jaala Joye Vaught. The government alleges that Backpage workers knew that many of the sex work ads appearing on the site involved underage teens.
+
+“Many of the ads published on Backpage depicted children who were victims
+
+of sex trafficking,” the indictment states. “Once again, although Backpage has sought to create the perception that it diligently attempts to prevent the publication of such ads, the reality is that Backpage has allowed such ads to be published while declining ― for financial reasons ― to take necessary steps to address the problem.
+
+“For example, for several years, Backpage’s official policy, when presented with an ad featuring the prostitution of a child, was to delete the particular words in the ad denoting the child’s age and then publish a revised version of the ad. Such editing, of course, did nothing to change the fact the ad featured the prostitution of a child ― it only created a veneer of deniability and helped Backpage’s customers (i.e., pimps trafficking children) evade detection.”
+
+The indictment includes more than 40 counts of money laundering. The document also covers 50 instances of advertisements where prostitution was allegedly being facilitated on the site and gives the summaries of 17 victims who were trafficked via Backpage.com.
+
+One victim was apparently told to “perform sexual acts at gun point and choked to the point” of having seizures before being gang raped. Another victim mentioned in the indictment was stabbed to death, and another was killed and then set aflame.An anonymous website claims that Democrat Josh Butner was secretly recruited as a "Republican spoiler." Butner for Congress
+
+An anonymous website attacking Democrat Josh Butner as a “Republican spoiler” planted by the GOP is roiling the primary for a California House seat Democrats hope to pick up in November.
+
+The site, DuncanButner.com, merges the names of Butner and Republican Rep. Duncan Hunter, whom Butner is running to unseat in Southern California’s 50th Congressional District.
+
+As its name suggests, the site tries to paint Butner, a 49-year-old rancher, school board member and Navy SEAL veteran, as virtually indistinguishable from Hunter. It claims that Republicans recruited Butner to run in order to divide the Democratic vote and that the National Republican Congressional Committee has raised money for him.
+
+But the website goes further, claiming that Butner’s father “has been linked to the KKK.”
+
+Claims made on the DuncanButner.com website. DuncanButnercom
+
+Francis Lan Nguyen, Butner’s campaign manager, dismissed the idea that Butner is anything other than a loyal Democrat. The campaign also denied that Butner’s father, Joe Butner III, a retired county judge in Arizona, has ever been associated with white supremacist hate groups.
+
+The NRCC categorically denied supporting Butner as well.
+
+“Why would we recruit a Dem to run against an incumbent R?” NRCC spokesman Jesse Hunt said in an email.
+
+The “Duncan Butner” website also maligns several members of Butner’s campaign staff, asking why Nguyen would work for Butner considering Butner’s supposed opposition to gay rights. It claims that Nguyen has been a “proud member of the LGBTQ community all of his adult life.”
+
+In fact, Butner vocally supports all LGBTQ rights, including the right of transgender people to serve in the military, according to Nguyen. Nguyen is also a straight cisgender male, he told HuffPost.
+
+New Politics, which helps elect veterans and other national service participants, and is backing Butner’s bid, called on Butner’s opponents, including progressive rival Ammar Campa-Najjar, to denounce the site.
+
+The site appears to be the work of a Campa-Najjar supporter, since its “call to action” redirects users to a web page listing candidates endorsed by the California Democratic Party, including Campa-Najjar. And Campa-Najjar once dubbed Hunter and Butner “Duncan Butner” in a now-deleted Facebook post slamming a Butner campaign ad.
+
+Daniel Marans/HuffPost
+
+“Lying about Josh because of his service to our country and maligning young people on his team who dedicate themselves to a political campaign does nothing to strengthen our democracy — instead it drives us apart and weakens our country,” said Emily Cherniack, founder and executive director at New Politics.
+
+VoteVets, a liberal veterans group backing Butner, also called on Campa-Najjar to condemn the site.
+
+And Rep. Seth Moulton (D-Mass.), whose pro-veteran Serve America PAC has endorsed Butner, also tweeted out a fundraising appeal for Butner. His political staff confirmed that the message was a response to the anti-Butner website.
+
+.@JoshButnerCA50 is a proud Democrat who volunteered to serve our country as a Navy SEAL. When the people of #CA50 send him to Congress, he will put people over politics. Reject the political games and support Josh here: https://t.co/ZHTSW2pdbl — Seth Moulton (@sethmoulton) April 9, 2018
+
+Campa-Najjar, a 29-year-old small business owner and veteran of the Obama administration, told HuffPost on Monday that he had no knowledge of the site and had nothing to do with its creation.
+
+“Whoever did it should take it down,” Campa-Najjar said.
+
+Upon looking at the site, Campa-Najjar pronounced it “disgusting.”
+
+The Butner campaign refused to take Campa-Najjar’s word for it. In a Tuesday statement to reporters, Butner demanded that Campa-Najjar “come clean” about the matter. “Tell the voters .... What did you know, when did you know it and how deeply were you involved?”
+
+Campa-Najjar, the son of a Palestinian immigrant father and Mexican-American mother, argued Wednesday that if he has to answer for a website he had nothing to do with, Butner should disavow websites attacking him for the actions of his grandfather.
+
+Campa-Najjar’s paternal grandfather, whom he never met, was a member of the Palestinian militant group that carried out the 1972 Munich Olympics massacre. Campa-Najjar condemned the murders in a February Haaretz article revealing the connection. His grandfather was killed by Israeli commandos in 1973.
+
+Campa-Najjar followed up Tuesday to note that the story about his grandfather came out shortly before the California Democratic Party convention in late February. Although Campa-Najjar ended up winning the state party’s endorsement, he maintained that the timing raised the prospect that Butner planted the story.
+
+“Josh Butner has used the story to solicit donations,” Campa-Najjar wrote to supporters in an email blast Tuesday. “We call on him to condemn the story, and go on the record denying his campaign’s involvement in planting the story.”
+
+Butner’s campaign declined to address the provenance of the story about Campa-Najjar. Nguyen called the question a “desperate attempt by Ammar Campa-Najjar to pivot from the fact that his campaign has been linked to a website that maligns a former Navy SEAL and his family.”
+
+“Only Ammar Campa-Najjar can respond to the facts that Ammar’s grandfather was the mastermind of one of the worst terrorist attacks since World War II — a story that was reported by reputable news outlets in the United States and abroad,” Nguyen added.
+
+The Butner campaign informed GoDaddy, the domain host of DuncanButner.com, that Duncan Butner for Congress is not a real electoral committee and that the site may be a violation of Federal Election Committee rules. The campaign is considering filing an FEC complaint.
+
+The Hunter campaign did not immediately respond to a request for a reaction to the site.
+
+The controversial anti-Butner website ― and the outrage it has elicited among Butner’s supporters ― reflects the high stakes of California’s unusual nonpartisan “jungle” primary system. Since the top two vote-getters in the primary proceed to the general election regardless of party, Democrats are not guaranteed a spot on the general election ballot.
+
+In districts where there are multiple Democratic contenders, party leaders have publicly fretted about the risk of splitting the center-left vote and stymieing the chances of a Democratic takeover. An official of the Democratic Congressional Campaign Committee, which helps elect Democrats to the House, warned in March that the party has not ruled out intervening in California primaries to ensure that a viable Democrat ends up on the general election ballot.
+
+Previous attempts by the DCCC to affect the outcome in Democratic primaries have elicited the ire of the party’s progressive base, since the party typically sides with more moderate contenders.
+
+The DCCC’s decision to post opposition research against Laura Moser, a progressive running in Texas’ 7th Congressional District, proved especially controversial. Critics denounced the move as misleading and heavy-handed. And rather than sink Moser’s bid, it prompted an uptick in fundraising that helped propel her to a runoff with Lizzie Fletcher, a more pro-business contender.
+
+Campa-Najjar occupies a similar position vis-à-vis Butner. For example, he supports far-reaching progressive policies, such as “Medicare for all,” and wants to lower the eligibility age to 50 as an interim step. Butner, by contrast, is focusing more narrowly on fixing the Affordable Care Act, though he supports empowering Medicare to negotiate prescription drug prices.
+
+Campa-Najjar’s more ambitious stances have won him the backing of national progressive groups, including Justice Democrats and the Working Families Party; the California Democratic Party; and a host of area labor unions and progressive groups.
+
+For Butner’s part, in addition to the support of Moulton and Democratic groups dedicated to electing veterans or national service alumni, Butner has attracted the support of California Democratic Reps. Scott Peters, Mark Takano and Pete Aguilar.
+
+Campa-Najjar bested both Butner and Hunter in fundraising as of the end of 2017 with a haul of over $500,000. Another Democrat, real estate agent Patrick Malloy, raised less than $400.
+
+The 50th Congressional District is comprised of northern and eastern suburbs of San Diego. Unlike several GOP-held California House seats where a majority of voters opted for Hillary Clinton, Donald Trump won the 50th by a margin of 15 percentage points.
+
+The DCCC has nonetheless targeted the district for a takeover, including it in its list of 70 GOP-held districts it calls “majority makers.”
+
+The party is likely buoyed by Rep. Hunter’s ethics challenges. Hunter is under federal criminal investigation for allegedly misusing tens of thousands of dollars in campaign funds for personal use.
+
+California’s nonpartisan primaries are scheduled for June 5.Did you guys know that the guy in A Quiet Place(2018) is the same guy in The Office(US)? And theres an episode of The Office(US) where the members of The Office are quiet? And the plot to A Quiet Place(2018) isE. Phillips via Getty Images
+
+The cap of one of the four propellers shipped from London to a shipyard in Scotland for the new Cunarder 534. The vessel had stood untouched for 27 months during construction because Cunard had financial problems and it became a symbol of the depression.
+
+
+
+The British government eventually loaned Cunard the money to complete the project and 400 dockers were serenaded back to work by a pipe band on Aug. 4, 1934.BEIRUT (Reuters) - A chemical attack on a rebel-held town in eastern Ghouta has killed dozens of people, medical services reported, and Washington said the reports - if confirmed - would demand an immediate international response.
+
+A joint statement by the medical relief organization Syrian American Medical Society (SAMS) and the civil defense service, which operates in rebel-held areas, said 49 people had died in the attack late on Saturday. Others put the toll at 150 or more.
+
+The Russian-backed Syrian state denied government forces had launched any chemical attack as the reports began circulating and said the rebels were collapsing and fabricating news.
+
+Reuters could not independently verify the reports.
+
+The lifeless bodies of around a dozen children, women and men, some of them with foam at the mouth, were shown in one video circulated by activists. “Douma city, April 7 ... there is a strong smell here,” a voice can be heard saying.
+
+The U.S. State Department said reports of mass casualties from the attack were “horrifying” and would, if confirmed, “demand an immediate response by the international community”.
+
+Britain’s Foreign Office also called the reports, if confirmed, “very concerning” and said “an urgent investigation is needed and the international community must respond. We call on the Assad regime and its backers, Russia and Iran, to stop the violence against innocent civilians.”
+
+Russia, however, dismissed the reports. “We decidedly refute this information,” Major-General Yuri Yevtushenko, head of the Russian peace and reconciliation center in Syria, was cited as saying by Interfax news service.
+
+Syrian President Bashar al-Assad has won back control of nearly all of eastern Ghouta in a Russian-backed military campaign that began in February, leaving just Douma in rebel hands.
+
+The Ghouta offensive has been one of the deadliest in Syria’s seven-year-long war, killing more than 1,600 civilians, according to the Syrian Observatory for Human Rights.
+
+Facing military defeat, rebel groups in other parts of eastern Ghouta have taken safe passage to other opposition-held areas at the Turkish border. Until now, Jaish al-Islam has rejected that option, demanding it be allowed to stay in Douma.
+
+However, Syrian state television said on Sunday Jaish al-Islam had asked for negotiations with the government. A pro-Syrian opposition TV station, Orient, said talks were underway between Jaish al-Islam and Russia to reach a final settlement for Douma.
+
+Jaish al-Islam could not be reached for comment.
+
+SHELTERING IN BASEMENTS
+
+The Syrian Observatory said it could not confirm whether chemical weapons had been used in the attack on Saturday. Observatory Director Rami Abdulrahman said 11 people had died in Douma as a result of suffocation caused by heavy bombardment.
+
+Medical relief organization SAMS said a chlorine bomb hit Douma hospital, killing six people, and a second attack with “mixed agents”, including nerve agents, had hit a nearby building.
+
+Basel Termanini, the U.S.-based vice president of SAMS, which operates medical facilities and supports medics in Syria, told Reuters another 35 people had been killed at a nearby apartment building, most of them women and children.
+
+The joint statement from SAMS and the civil defense said medical centers had taken in more than 500 people suffering breathing difficulties, frothing from the mouth and smelling of chlorine.
+
+One of the victims was dead on arrival and six died later, it said. Civil defense volunteers reported more than 42 cases of people dead at their homes showing the same symptoms, it said.
+
+Tawfik Chamaa, a Geneva-based Syrian doctor with the Syria-focused Union of Medical Care and Relief Organizations (UOSSM), a network of Syrian doctors, said 150 people were confirmed dead and the number was growing. “The majority were civilians, women and children trapped in underground shelters,” he told Reuters.
+
+Syrian state news agency SANA said Jaish al-Islam was making “chemical attack fabrications in an exposed and failed attempt to obstruct advances by the Syrian Arab army,” citing an official source.
+
+U.S. State Department spokeswoman Heather Nauret recalled a 2017 sarin gas attack in northwestern Syria that the West and the United Nations blamed on Assad’s government.
+
+“The Assad regime and its backers must be held accountable and any further attacks prevented immediately,” she said.
+
+“The United States calls on Russia to end this unmitigated support immediately and work with the international community to prevent further, barbaric chemical weapons attacks,” Nauert said in a statement.
+
+The Syrian government has repeatedly denied using chemical weapons during the conflict.
+
+“We have received report of many people killed and injured in Duma in the past 24 hours. We continue be extremely concerned for people who remain in Duma who are being subjected to escalating hostilities,” UN Office for the Coordination of Humanitarian Affairs spokeswoman Linda Tom said.
+
+Jan Egeland, the U.N. humanitarian adviser for Syria, called on Wednesday for access to Douma, where he said some 80,000 to 150,000 civilians were “on their knees” after years of siege and fighting.DUBLIN (Reuters) - Irish voters are set to liberalize one of the world’s most restrictive abortion laws by a margin of 68 percent to 32 percent, an exit poll showed on Friday, following one of the highest reported turnouts for a referendum.
+
+Voters in the once deeply Catholic country were asked if they wish to scrap a prohibition that was enshrined in the constitution by referendum 35 years ago, and partly lifted in 2013 only for cases where the mother’s life is in danger.
+
+The Irish Times/Ipsos MRBI exit poll surveyed 4,000 voters at 160 polling stations in every constituency of Ireland. A second exit poll will be released later on Friday with vote-counting to begin at 0800 GMT on Saturday.President Donald Trump uses a cellphone not equipped with top security features and has rejected repeated attempts by his staff to harden his devices against hackers, Politico reported on Monday.
+
+Trump regularly uses at least two government-issued iPhones — one a “burner” device capable only of making calls, and another that’s loaded with a Twitter app and “a handful of news sites,” according to Politico, which said former government security experts criticized the president’s phone practices.
+
+Trump’s call-only phone has a camera and microphone — features that can be exploited by hackers, Politico reported, citing two senior administration officials as sources. As for the phone Trump uses for Twitter, the president reportedly has rebuffed his staff’s advice to swap the device every month, saying it would be “too inconvenient.”
+
+Trump’s attitude toward his own communications security contrasts with Hillary Clinton’s use of a private email server during her tenure as secretary of state ― something Trump and his allies have assailed for years.
+
+Politico said Trump has gone for as long as five months without getting his Twitter phone checked by security experts. The GPS trackers on both of Trump’s devices have reportedly been deactivated.
+
+Barack Obama's transition team gave him a bare bones phone that he joked was essentially useless. But President Trump's phone isn't equipped with the same type of security features, leaving him vulnerable to hacking. https://t.co/XasU9DoamV pic.twitter.com/50ICKjlsRn — POLITICO (@politico) May 22, 2018
+
+The White House declined to comment for the Politico story. A senior West Wing official told the outlet that the call-only phones “are seamlessly swapped out on a regular basis through routine support operations. Because of the security controls of the Twitter phone and the Twitter account, it does not necessitate regular change-out.”
+
+Monday’s report is the second in recent weeks to raise questions about security surrounding Trump’s cellphones.
+
+CNN reported in April that Trump increasingly relied on his personal cellphone to make calls. Security experts expressed concern that the president was exposing himself to security risks, including hacking and eavesdropping by foreign governments.
+
+“Use of personal smartphones, which may not have all of the security features of government-issued smartphones or be regularly updated to address newly discovered vulnerabilities, present an obvious potential security risk,” Mary McCord, a former head of the Justice Department’s national security division, told CNN.
+
+Similar warnings were repeated this week.
+
+“Foreign adversaries seeking intelligence about the U.S. are relentless in their pursuit of vulnerabilities in our government’s communications networks, and there is no more sought-after intelligence target than the president of the United States,” Nate Jones, a former director of counterterrorism on the National Security Council during the Obama era, told Politico.
+
+Ignoring phone security for the sake of convenience, “could pose significant risks to the country,” Jones added.
+
+The White House announced in January that staff and guests would be banned from using personal cellphones in the West Wing for security reasons. Press secretary Sarah Sanders declined to say whether the restriction would apply to Trump’s personal devices, reported NBC News.
+
+People on social media expressed alarm at the reported security shortcomings of the president’s phone use. Some were also quick to point out Trump’s repeated criticism of Clinton’s use of a private email server.
+
+“Will [Trump’s] supporters cheer ‘lock him up’? Or does that only apply to emails?” wrote former federal prosecutor Renato Mariotti on Twitter.
+
+“Am I wrong that there’s, like, a 100% chance the phone has been hacked?” asked MSNBC host Chris Hayes.
+
+Hillary Clinton said she used one device that had both her private and State email on one unsecured server out of convenience. Donald Trump uses two devices interchangeably, and they’re both unsecured, frightening experts - via @elianayjohnson https://t.co/AbHl617yzo — Edward-Isaac Dovere (@IsaacDovere) May 22, 2018
+
+When I traveled to China during Obama Admin., I was given strict instructions about cell phone use and potential for calls to be intercepted. When I returned to US, security officials destroyed the phone.
+
+
+
+Trump isn't following even basic safeguards that all WH staff must follow. — Chris Lu (@ChrisLu44) May 21, 2018
+
+Trump reportedly uses unsecured private cell phones. Will his supporters cheer “lock him up”? Or does that only apply to emails? https://t.co/xwZKjRn5rI — Renato Mariotti (@renato_mariotti) May 21, 2018
+
+The only thing more insecure than Trump is his phone. — YS (@NYinLA2121) May 22, 2018
+
+Here's the President allowing adversaries to listen into his calls because he can't be bothered to protect the nation's secrets.
+
+Can anyone make a real argument for why this isn't a bigger deal than Hillary's emails?
+
+(You can't)https://t.co/3ROrkkrUsF — Dan Pfeiffer (@danpfeiffer) May 21, 2018
+
+Am I wrong that there's, like, a 100% chance the phone has been hacked? https://t.co/TMPn0g1gcu — Chris Hayes (@chrislhayes) May 21, 2018Anadolu Agency via Getty Images
+
+BERLIN (Reuters) ― German police have detained four men, one of whom they suspect of planning knife attacks at Sunday’s Berlin half-marathon, the newspaper Die Welt reported in its online edition.
+
+Die Welt said the four suspects were linked to Anis Amri, a Tunisian man with Islamist militant ties who killed 12 people in an attack in Berlin in December 2016 when he hijacked a truck and drove it into a crowded marketplace.
+
+Berlin police were not immediately available for comment.
+
+In its unsourced report, Die Welt said the main suspect was known to Amri and had planned to stab to death spectators and runners at the half marathon.
+
+The suspect had in his possession two knives which had been especially sharpened for this purpose, the report said.
+
+Amri’s attack in Berlin in 2016 had prompted German lawmakers to call for tougher security measures. No major Islamist militant attack has been carried out in Germany since.
+
+Earlier on Sunday, Interior Minister Horst Seehofer said the government would do everything possible to protect citizens, but added: “We have again experienced that ... absolute security is unfortunately not possible.”
+
+Seehofer was speaking in Muenster, where a man drove a camper van into a group of people sitting outside a restaurant on Saturday, killing two of them before shooting himself dead. Authorities have said the attacker was a 48-year-old German citizen with mental health problems and that there was no indication of an Islamist militant connection.BUDAPEST ― Hungarian Prime Minister Viktor Orbán looks set to easily win a third consecutive term in Sunday’s election and further cement his grip on the country, according to early official results.
+
+“This has been a decisive win,” Orbán told crowds of supporters outside his party headquarters in Budapest.
+
+The country’s National Election Office projects that Orbán’s right-wing nationalist Fidesz party will win a two-thirds parliamentary majority, which would allow it to make changes to the constitution. In the lead-up to the vote, critics warned that such a majority would give Orbán free rein to impose restrictive laws against NGOs and undermine Hungary’s democratic institutions.
+
+Hungarians turned out in large numbers across the country to vote on Sunday, bringing to close an election campaign filled with anti-migrant rhetoric and nationalist fervor. The vote has drawn international attention not only for its spiteful campaign rhetoric and the implications for the country, but because opponents fear Orbán’s rule threatens to create immense rifts in the European Union and provides a model of illiberalism that could spread to other states.
+
+At polling stations in the more liberal capital of Budapest, long lines of voters gathered throughout the day to cast their ballots, while some expressed their disdain at the government’s overwhelmingly negative campaign.
+
+“They don’t promise anything, they don’t have a program, they cannot give us anything. All they can give us is fear,” said Eszter Imrényi, a 25-year-old student.
+
+Orbán and his Fidesz government made migration the central focus of the campaign, plastering ads around the country showing a crowd of migrants with a large red “stop” sign overlayed on top. In speeches, Orbán railed against “foreign interests” that wanted to bring massive numbers of migrants into the country and ruin Hungary’s ethnic homogeneity.
+
+The Fidesz campaign also focused its vitriol on 86-year-old Hungarian-American George Soros, with Orbán constantly accusing the Jewish billionaire of trying to overthrow the government by employing thousands of agents to do his bidding. Critics and Jewish groups condemned the anti-Soros campaign for promoting age-old anti-Semitic stereotypes.
+
+“I have a sister, she’s turning 7 this summer, she’s in kindergarten,” Imrényi said. “She was asking me: ‘Soros ... what kind of witch is he?’”
+
+“How come my sister even knows this guy’s name? It’s terrible.”
+
+Hungarian Prime Minister Viktor Orbán leaves a polling booth. Bernadett Szabo / Reuters
+
+Opposing Orbán’s rule was a field of parties that range from a largely fractured group of left-liberal parties to Jobbik, a party with a far-right history that in recent years has tried to moderate its messaging and disavow the anti-Semitic, anti-Roma actions of its past. Although liberal parties attempted to increase their cooperation in the lead-up to the vote, neither the left nor Jobbik was able beat Fidesz.
+
+The election initially looked more competitive than expected, however, which observers say helped fuel the toxic atmosphere.
+
+“I’m really happy it’s over and we can vote,” Máté Linka, a 27-year-old lawyer, said earlier on Sunday. “It was a really disgusting campaign.”
+
+After seeing friends and family members leave the country in recent years to find opportunities elsewhere in the EU, Linka and other young voters who spoke with HuffPost hoped that a shift in government could offer solutions.
+
+But aided by what critics say is a stranglehold on the country’s media and an electoral system engineered to benefit his party, Orbán ensured that he will remain in power.
+
+“They don’t promise anything, they don’t have a program, they cannot give us anything. All they can give us is fear.” - Eszter Imrényi, a 25-year-old student
+
+This is Hungary’s second general election since Orbán’s government changed the election law to switch from two rounds of voting to just one, making it more difficult for voters who oppose Fidesz to rally around a single opposition candidate.
+
+Orbán relies on strong support in rural areas and on the votes of hundreds of thousands of ethnic Hungarians living in neighboring countries, whom he granted voting rights following his election win in 2010.
+
+“This was the first government that gave us the same rights as the natives,” said Orsolya Laura Peterfy, a 35-year-old English teacher who was born in Romania. “This government helped us with money and support.”
+
+People wait in line to vote during Hungarian parliamentary elections at a polling station in Budapest, Hungary, on April 8, 2018. Bernadett Szabo / Reuters
+
+Even among voters who oppose Orbán, few believed this was a vote he could lose. Instead, they hoped that this vote would limit his power and send a message that many in the country don’t support his rule.
+
+“This election is not about to win over Fidesz, because we don’t have a chance,” said Gabor Bone, a 45-year-old chef lining up to vote on Sunday afternoon.
+
+“It’s just to make sure in four years time we have the chance to vote again, and that time we’re gonna win.”The number of Facebook users whose data political research firm Cambridge Analytica obtained “absolutely” could be higher than Facebook’s recent estimate of 87 million, according to whistleblower Christopher Wylie.
+
+Wylie, who helped found Cambridge Analytica and worked at the firm until 2014, said some news outlets were “playing it safe” when initially reporting that 50 million Facebook users’ data had been improperly shared with the company.
+
+“When you’re working with The Guardian and New York Times, for example, they are very thorough with making sure that anything they publish is checked, double-checked, and if there’s any questions about a number ― for example, how many records ― they’ll go with the most conservative estimate,” Wylie told NBC’s Chuck Todd during a Sunday appearance on “Meet The Press.”
+
+When asked whether the number of Facebook profiles impacted could be even higher than 87 million, Wylie said “absolutely.”
+
+WATCH: Chris Wylie, former Research Director at Cambridge Analytica, tells Chuck that he has been contacted by American authorities about the release of 87 million Facebook users' data. #MTP pic.twitter.com/MTpbG5q6PQ — Meet the Press (@MeetThePress) April 8, 2018
+
+Wylie has suggested the data harvested by Cambridge Analytica was used by President Donald Trump’s 2016 presidential election to help influence American voters. He said Sunday that other countries, including Russia, could have access to the data, too.
+
+“I think that there is, you know, a genuine risk that this data has been accessed by quite a few people,” Wylie said. “And that it could be stored in various parts of the world, including Russia.”
+
+Facebook first learned that Cambridge Analytica was harvesting users’ data over two years ago, but failed to follow up after the firm allegedly promised to delete the information, Sheryl Sandberg, Facebook’s chief operating officer, confirmed Friday to NBC.
+
+Facebook CEO Mark Zuckerberg apologized last month for not having done enough to protect users’ data and vowed to increase privacy and security standards. He is scheduled to testify April 10 before a joint hearing of the Senate Judiciary and Commerce Committees and again on April 11 before the House Energy and Commerce Committee to answer questions about Facebook users’ data protections.While Rep. Ted Lieu (D-Calif.) has railed against Scott Pruitt, he quipped Saturday in a tweet that President Donald Trump should keep the beleaguered head of the Environmental Protection Agency because he’s “such a great symbol” of the corruption and fraud in the president’s administration.
+
+He also asked Trump to “do more toxic rallies” and bring Pruitt along.
+
+Both actions should help the “Dem wave” that continues to get stronger, Lieu said.
+
+Dear @realDonaldTrump: Dem wave continues to get stronger. So now I'm thinking, please don't fire @EPAScottPruitt. He's such a great symbol of the corruption and fraud, waste & abuse in your Administration.
+
+
+
+Can you please do more toxic rallies & bring Pruitt with you? Thanks. https://t.co/0xKibwSt8l — Ted Lieu (@tedlieu) April 7, 2018
+
+Later in the day he jokingly asked House Speaker Paul Ryan (R-Wis.) if he could get a multimillion-dollar security detail on a vacation to Disneyland because “right-wing trolls said mean things about me.”
+
+Dear @SpeakerRyan: Some right wing trolls said mean things about me. Can I have a multimillion security detail when I go to Disneyland this summer?
+
+
+
+Aw just kidding. I'm not a corrupt, deeply paranoid swamp monster like @EPAScottPruitt. https://t.co/AJTCWtQiR0 — Ted Lieu (@tedlieu) April 7, 2018
+
+Lieu, a member of the House Judiciary and Foreign Affiairs Committee, was one of 64 Democratic congressman to sign a letter Friday demanding Pruitt be fired.
+
+In an appearance on MSNBC on Saturday, Lieu called Pruitt a “deeply paranoid person” who not only demanded a 20-person security detail that cost taxpayers millions of dollars, but also spent $43,000 creating a sound-proof phone booth in his EPA office. “This is a person that is the epitome of fraud, waste and abuse ... there’s no reason why he should remain at the EPA,” Lieu said.
+
+Advertisement“The messaging was that LGBT people can be changed and LGBT is a form of sickness. That is harmful,” Sulathireh said.
+
+“When you tell them LGBT is a form of sickness, it adds to the prejudice that LGBT people face,” she said.
+
+Homosexual sex is against the law in Malaysia, punishable by up to 20 years in prison and caning.
+
+The forum organizers did not immediately respond to a request for comment.
+
+Last year, the health ministry planned a contest for teenagers to come up with ideas on how to “prevent” homosexuality and transgenderism, sparking criticism from activists and a change in the plan.
+
+In 2012, authorities issued guidelines and held seminars aimed at helping teachers and parents spot signs of homosexuality in children.A former reporter for a Sinclair television station is calling out the conservative media group for fostering “a culture of misogyny and xenophobia.”
+
+Jonathan Beaton, who worked as a general assignment reporter for WPEC in West Palm Beach, Florida, offered some strongly worded advice to Sinclair executives during an appearance Sunday on CNN’s “Reliable Sources.”
+
+“I’d tell them to pull their head out of their ass and start treating their employees well,” Beaton said. “I don’t want to see my former colleagues who are still working for Sinclair have to continue to sustain that.”
+
+"It was a culture of misogyny and xenophobia," former Sinclair reporter Jonathan Beaton tells @brianstelter https://t.co/5CuAmw518w — Reliable Sources (@ReliableSources) April 8, 2018
+
+Sinclair Broadcast Group, which owns over 170 TV stations in the U.S., has come under fire in recent weeks for ordering its stations’ anchors to recite a script condemning “some media outlets” for “false news” and “fake stories.”
+
+Critics also accuse the broadcaster of pushing a conservative agenda by sending the stations “must-run” segments featuring Boris Epshteyn, a former adviser to President Donald Trump who often speaks in support of the White House.
+
+Beaton started working for WPEC in August 2014 and left less than a year later, citing mental and physical exhaustion. In response, the company sued him for $5,700 for leaving before his contract expired, Beaton wrote in an essay for HuffPost published Friday.
+
+“I believe these lawsuits are an obvious attempt to scare former employees,” Beaton wrote. “The message? Quit on us and we’ll rain hell down on you. But I refuse to cower and acquiesce to this malevolent corporation. I’m fighting back.”
+
+The lawsuit wasn’t Beaton’s only complaint about Sinclair.
+
+“As reporters and anchors at the company, we were routinely told to follow leads and angles with a clear-cut conservative agenda,” he wrote, adding, “We couldn’t do stories, for the most part, that involved the LGBTQ community. There were a set of parameters and we had to stick to them.”
+
+Sinclair has defended its must-run segments as well as the must-read script about “fake stories.” In a Tuesday tweet, Trump claimed that “Fake News Networks” were “worried about the competition and quality” of Sinclair.
+
+AdvertisementFourteen journalism schools have now signed a letter denouncing Sinclair Broadcast Group for ordering local TV anchors to read controversial on-air scripts about “fake news.”
+
+New York University’s journalism school is joining the deans and department chairs of 13 other institutions who signed the letter on Friday, a program director at NYU said Sunday.
+
+The other journalism schools include those at the University of Southern California, Syracuse University and the University of Maryland, whose Philip Merrill School of Journalism is known for sending graduates to work at Sinclair, Poynter noted.
+
+The letter addressed to Sinclair Executive Chairman David Smith warns that the required readings violate a basic tenet of independent journalism that news content should not be slanted to advance the business or political interests of the outlet’s owners:
+
+In making the leap to disparage news media generally ― without specifics ― Sinclair has diminished trust in the news media overall. Ironically, Sinclair’s use of news personnel to deliver commentary ― not identified as such ― may further erode what has traditionally been one of the strongest allegiances in the news landscape, the trust that viewers put in their local television stations.
+
+The Trump-friendly Sinclair, the largest owner of local TV stations in the U.S., has been under fire since it demanded that local anchors read a script accusing other media outlets of promoting “false news” and “fake stories.” The language echoed President Donald Trump’s attacks on the mainstream media.
+
+The footage of so many journalists reading identical scripts about the “troubling trend of irresponsible, one-sided news stories plaguing our country” was also reminiscent of a hostage video, many critics said.
+
+The conservative media group is known both for its ties to Trump and for wielding tight control over its stations’ content. In 2016, Trump adviser and son-in-law Jared Kushner said the Trump campaign had struck a deal with Sinclair to give the network more access in exchange for the stations running interviews with Trump without commentary.EPA Administrator Scott Pruitt endured a tense interview on Fox News earlier this week. Fox News
+
+No scientists or climate journalists appeared on Sunday talk shows last year.
+
+This Sunday was no different.
+
+But their absence from the politically influential time slot this week served as a damning indictment of television coverage of the human-caused climate crisis. For days, a firehose of new scandals involving Environmental Protection Agency chief Scott Pruitt broke ― on an hourly basis, at times ― intensifying pressure on the embattled administrator to resign over accusations of corruption and taxpayer waste.
+
+The brouhaha came the same week Pruitt, bucking his critics, announced the rollback of a landmark Obama-era rule to limit emission from vehicle tailpipes, a decision InsideClimate News called the Trump administration’s “most climate-damaging move yet.”
+
+Yet, this Sunday, ABC News gave Sen. Lindsey Graham (R-S.C.) airtime on “This Week” to opine about new White House policy proposals. CNN invited National Economic Council Director Larry Kudlow on “State of the Union” to talk trade. NBC News’ “Meet The Press” hosted a roundtable with political reporters, a National Review editor and Republican Sen. Mike Rounds (S.D.).
+
+What little discussion they had about Pruitt focused on the ethics scandals. Rounds said much of the criticism of the EPA chief is “nitpicking.”
+
+“I don’t know how much of it is overblown and how much of it is accurate, to be honest,” Rounds said.” “I’m not going to call it fake news. I’ll say in some cases we’ll overblow something, but in this particular case Mr. Pruitt has been doing a good job as the secretary of the EPA. He is moving forward exactly as this president said he would.”
+
+Graham conceded that the ethics controversy “doesn’t look good” but that aside from that, Pruitt has “done a good job.”
+
+Sunday shows, like the networks that air them, have long neglected climate change. ABC, CBS, NBC and Fox aired a combined 260 minutes of climate change coverage last year, according to a February study released by liberal watchdog Media Matters for America. Of that, 205 minutes, or 79 percent, featured actions or statements by the Trump administration, most often President Donald Trump’s decision to withdraw the United States from the Paris climate accord. Nearly all coverage of climate change on Sunday shows ― 94 of 95 minutes ― focused on the administration.
+
+“It’s a travesty, frankly,” Michael Mann, a climatologist at Penn State University, told HuffPost of the lack of television coverage.
+
+A chart from Media Matters shows how nearly all the airtime spent on climate change on Sunday shows last year was devoted to Trump administration actions. Media Matters
+
+“The Sunday shows have consistently under-covered climate change and other environmental issues,” Lisa Hymas, director of Media Matters’ climate and energy program, told HuffPost by phone. “When they do cover them, they rarely include experts. They bring on political people, and that means this all gets discussed in a really superficial, political light.”
+
+Of the 31 guests appeared on the lineups to talk about climate change, only 9 were women, and just 4 were nonwhite, according to a follow-up Media Matters study. None were scientists or journalists who specialize in climate or environmental reporting.
+
+Television has a long history of providing some of the worst coverage of climate change. Cable networks are more likely than newspapers and magazines to give as much time to industry-funded climate change denialists as they give to the 97 percent of peer-reviewed climate researchers who say rising global temperatures are caused primarily by fossil fuel emissions, according to John Cook, a research assistant professor at George Mason University’s Center for Climate Change Communication.
+
+
+
+The vast majority of Sunday show guests who discussed climate change last year were white men. Media Matters
+
+“It gets even worse when you look at partisan cable TV,” Cook told HuffPost by email. “Outlets like Fox News are heavily slanted towards climate science denial and are a strong source of misinformation about climate change.”
+
+Pruitt appeared on Fox News 16 times during his first year in office, more than twice as often as all other major TV networks combined.
+
+The administrator, whose 14-month tenure has been marked by an all-out assault on fossil fuel regulations and scientific research, retreated to right-wing media outlets over the past week. Criticism over a series of ethics scandals, including a sweetheart deal to rent a room in a condo owned by an energy lobbyist’s wife for just $50 a night, has ballooned. As new reports detailing the arrangement emerged, Pruitt defended himself in interviews with The Washington Examiner, a conservative newspaper, and The Daily Signal, a news site run by the right-wing Heritage Foundation.
+
+Inviting guests with expertise in climate policy could provide a critical counterbalance to the media tit-for-tat over the details of Pruitt’s latest scandals, Hymas said.

@@ -1,0 +1,69 @@
+A voter and her daughter cast a ballot in North Las Vegas during the 2016 presidential election. Nevada is one of the few states that have provided funding to counties to buy new election equipment. Bill Clark/CQ Roll Call via the Associated Press
+
+By Matt Vasilogambros
+
+Tucked away in the massive $1.3 trillion spending bill President Donald Trump signed last week is a nugget of funding that local election officials have desperately needed. Unfortunately, they say, it isn’t nearly enough.
+
+Congress set aside $380 million that will be divvied up among states to shore up election security, including new software, cybersecurity staff and other protections for state registration databases and aging voting equipment. But while the funding is certainly welcomed by local election officials, many of them warn it falls far short of what they need to deal with the potential security challenges of the midterm elections in November.
+
+It’s only “a drop in the bucket of what is really needed,” said Jeff Greenburg, the director of elections in Mercer County, Pennsylvania.
+
+Pennsylvania is one of 41 states where some counties and cities use election equipment that is more than a decade old, according to the New York University School of Law’s Brennan Center for Justice. Older machines are more likely to malfunction or break down on Election Day, causing long lines and potentially dissuading some people from casting their ballots. Some older machines also are susceptible to wireless malware attacks, even if they are not directly connected to the internet, or have removable memory devices a hacker might manipulate.
+
+Pennsylvania is also one of 13 states where some counties use voting machines that lack a paper record. Paper records are essential to having a secure election, said Larry Norden, the deputy director of the Brennan Center’s democracy program. They can ensure an accurate audit if electronic records of vote tallies are compromised.
+
+During the 2016 presidential election, Russian hackers targeted election systems in Pennsylvania and 20 other states, according to U.S. intelligence officials. Those officials fear that, during the 2018 midterms, hackers may target state voter registration databases, county websites and official social media accounts to spread misinformation and sow doubt in the U.S. election system.
+
+In February, Pennsylvania Gov. Tom Wolf, a Democrat, directed all counties that are planning to update aging election equipment to buy machines that create a paper trail. However, the directive from Wolf, aimed at machines used by 83 percent of the state’s voters, did not come with funding attached, placing the financial burden on federal or local budgets.
+
+It could cost as much as $79 million to replace paperless machines in Pennsylvania, the Brennan Center estimates. With the Trump-signed spending bill, the state is only expected to receive $13.5 million, covering just 17 percent of the estimated costs. Barring a new proposal at the state level, counties would have to foot the rest of the bill.
+
+“If they want to make any real dent in the cost to replace an election system,” Greenburg said, “this is woefully insufficient.”
+
+His county of 72,000 mostly middle-class registered voters in western Pennsylvania uses paperless voting machines, which officials there purchased in 2006. Replacing its current voting machines would cost between $750,000 and $2.5 million, depending on the type of equipment — a hefty bill for a county like his, Greenburg said.
+
+‘It’s Killing Us’
+
+Kim McKiernan, the registrar of voters in Rappahannock County, Virginia, knows all too well the burden of replacing election equipment in a very small county without state and federal support.
+
+With just two months left in the 2017 gubernatorial race, Virginia’s Board of Elections in September ordered all counties that use touchscreen voting machines to replace them with paper ballots and optical scanners before Election Day. The state provided no financial assistance.
+
+Rappahannock County was one of the 22 local jurisdictions in the state that used a paperless voting system. The small community with 5,600 registered voters, nestled in the Blue Ridge Mountains, quickly set aside $53,000 to purchase eight new machines, calibrate the equipment and train poll workers.
+
+McKiernan and her assistant — the only two election officials in the county — pulled off the quick transition, but it was a struggle.
+
+“It’s killing us,” she said. “Mentally and physically, it’s killing us.”
+
+In California, Debbie Bautista, Tuolumne County’s clerk and auditor-controller, is worried her 13-year-old voting machines won’t last much longer. The ones that still do work often require repairs.
+
+It would cost about $200,000 for the small county to update its voting equipment, Bautista said. But the county, which has 32,000 mostly lower-income registered voters, seems unwilling to make that investment, she said, preferring instead to spend money on a new jail and juvenile center.
+
+“We don’t have the money,” she said. “Even though people believe elections are important, they have a hard time justifying the money to run them.”
+
+Bautista is hopeful some funds may trickle down from the state level in the coming months. In his budget, Democratic Gov. Jerry Brown allocated $134 million to help pay for new voting equipment — about half of what counties need statewide. The state Legislature has until June to reach a budget agreement.
+
+“There’s just no finish line in this race,” said Neal Kelley, the registrar of voters for Orange County, California.
+
+With the investment from the state, Kelley said his county of 1.6 million registered voters may get new equipment in 2019. Though it is wealthy, the county has been using the same 11,000 voting machines since 2004.
+
+Finally Getting Support
+
+Joe Gloria, the registrar of voters for Clark County, Nevada, started seeing some of his voting machines break down around five years ago. If the problems continued, he feared, the public might lose confidence in statewide elections.
+
+So, in 2015, he began lobbying the state to help fund updated election equipment. His county, the largest in the state, encompasses Las Vegas and has more than one million registered voters.
+
+Soon, election officials from all 17 counties in Nevada joined the fight, and in 2017 the state enacted a law setting aside $8 million to update election equipment ahead of the June 2018 primaries.
+
+“Not every county has the resources that we do,” Gloria said. “And I only got a small portion of it.”
+
+Clark County received $4.5 million in a state grant. New election equipment, including 5,000 new voting machines, would cost an additional $12.5 million, for a total of $17 million.
+
+Douglas County, which hugs the southeastern shore of Lake Tahoe, received $250,000 in grant funding from Nevada, which paid for nearly half of the county’s 147 new voting machines. The new machines, which will replace units that have been in service since 2004, produce a secure paper trail.
+
+The state grant “means a lot,” said Kathy Lewis, the clerk-treasurer, even if the county of 37,000 registered voters is one of the more affluent counties in Nevada. It means even more, she said, to the many rural counties who may not have been able to afford upgrades. Esmeralda County, the smallest county in Nevada, has just 600 registered voters.
+
+“Elections aren’t in a vacuum,” she said. “We have some very small counties. If they fail, the whole state fails. It’s something we all have to work together to make sure the integrity is there.”
+
+States such as Iowa, Michigan, Minnesota and Utah also enacted legislation in 2017 that allocated money for new election equipment.
+
+Norden, at the Brennan Center, recently lauded the Trump-signed spending bill as an “important down payment,” but said it provided “only a fraction of the necessary funds” for states. The reality is that in a U.S. election system with more than 10,000 separate jurisdictions, local election officials are working on limited funding to make sure their polls are secure.

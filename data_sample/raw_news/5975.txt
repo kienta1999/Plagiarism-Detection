@@ -1,0 +1,31 @@
+Congressional leaders have agreed on a spending bill to keep the government open, and deep inside that agreement is a provision that helps explain why American health care is so expensive.
+
+The spending agreement, which Congress must still approve and President Donald Trump must still sign, actually affects health care in several ways. It would put new money into opioid treatment, renew funding for community clinics that serve the poor and extend funding for the Children’s Health Insurance Program, which Congress reauthorized last month, by another four years.
+
+But the bill would also repeal the Independent Payment Advisory Board, or IPAB, which is a commission of experts that the Affordable Care Act created back in 2010.
+
+The Affordable Care Act sets a spending target for Medicare, as part of a broader effort by the law’s architects to reduce the cost of medical care. IPAB’s job is to make those targets stick, by recommending cuts if Medicare costs exceed the threshold.
+
+Washington is full of advisory boards that make recommendations Congress largely ignores. But IPAB has special authority. Its proposals take effect automatically unless Congress passes alternative cuts that yield similar savings ― or unless a supermajority in the Senate votes to let Medicare spending rise faster than the targets.
+
+Among the IPAB’s most vocal champions were President Barack Obama and his economic advisers, who, contrary to popular opinion, were serious about crafting health care legislation that would offset new spending with cuts. They also hoped that controlling costs in Medicare would encourage the entire health care system to become more efficient in ways that would ultimately save everybody money.
+
+Like everything else in Obamacare, IPAB has become politically toxic among conservatives ― even though, conceptually, it is similar to ideas that many of them, including now-House Speaker Paul Ryan (R-Wis.), once endorsed. The hostility traces at least as far back as 2010, shortly after the Affordable Care Act became law, when former GOP vice presidential nominee Sarah Palin likened IPAB to a “death panel” that would ration care to the poor and sick. (She’d originally used the label to describe a different provision of the law only to decide later it actually applied to both.)
+
+The charge was absurd. The statutory language creating IPAB explicitly forbids it from imposing changes that would amount to rationing of care. It also forbids IPAB from reducing Medicare benefits. In other words, IPAB can’t reduce Medicare spending by requiring seniors to pay higher copays or scaling back the services that the program covers. Instead, IPAB must focus on cuts that affect the providers and suppliers of medical care ― like having Medicare pay less for cataract surgery, CT scans or outpatient cancer drugs.
+
+Of course, cutting those reimbursements would mean taking money out of the pockets of doctors and hospitals, drug and device makers, and the rest of the health care industry. These groups were not happy about this prospect and fought hard to repeal IPAB, forming and funding advocacy groups with titles like the Coalition to Protect People’s Rights and then deploying lobbyists to make the case against IPAB in person.
+
+Obama administration officials and a handful of allies in Congress tried to protect IPAB but eventually relented in the face of pressure, in some cases from Democrats as well as Republicans in Congress.
+
+The final 2014 government spending agreement (known as the “cromnibus”) slashed the IPAB’s minuscule administrative funding. Neither the White House, House or Senate ever appointed the board’s members, as they were supposed to do.
+
+As it happens, Medicare has grown particularly slowly in the last few years, below the targets that would have triggered IPAB action. But Medicare costs could grow more quickly in the future. Assuming the spending agreement congressional leaders announced Wednesday becomes law, IPAB won’t be around to do anything about it.
+
+Other cost-cutting efforts in the Affordable Care Act remain in effect or have already extracted their savings. That includes another board with some of the same powers that IPAB has ― and lower payments to private insurance companies that provide alternative coverage to Medicare beneficiaries.
+
+But fate has been less kind to the so-called Cadillac tax, which is designed to make more expensive insurance plans less financially attractive. A 2015 spending agreement postponed introduction of the tax by two years, to 2020. The spending agreement Congress passed and Trump signed last month pushes it back two more and, at this point, it’s unlikely to take effect ever. As with IPAB, it counts among its enemies members of both political parties.
+
+IPAB, the Cadillac tax and provisions like them by no means represent the only ways to reduce medical spending. They also raise serious questions, like whether IPAB violates the Constitution ― or, at least, the spirit of the Constitution ― by having its cuts take effect automatically unless Congress objects.
+
+But at the end of the day, holding the line on medical spending almost inevitably means taking money away from the health care industry. And that’s never easy to do. As Larry Levitt, senior vice president of the Henry J. Kaiser Family Foundation put it, there is “a bipartisan consensus that health care cost containment generally seems better in theory than in practice.”

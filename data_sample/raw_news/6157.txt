@@ -1,0 +1,71 @@
+Critics worry the change will force patients to turn to more expensive providers, travel long distances for cheaper care, endure long waits for medical appointments, or forgo care.
+
+A Colorado primary care doctor congratulates a patient after her checkup. The Trump administration is shifting to states the responsibility for determining if health plans sold on the federal insurance exchanges have an adequate number of doctors. David Zalubowski, The Associated Press
+
+By Michael Ollove
+
+In Washington state, a woman in Spokane named Cynthia Harvey bought health insurance from Coordinated Care, in part because the brochure promised a robust roster of physicians and coverage for an array of services, including, if needed, emergency room services.
+
+According to a federal lawsuit, however, Coordinated Care failed to mention that in all of Spokane in 2017, the year in which Harvey was enrolled, there were exactly zero emergency room in-network doctors. That left Harvey with a $1,544 bill from an out-of-network ER doctor.
+
+That same year, Steven Milman, a periodontist in Austin, Texas, enrolled in Superior Health, a health plan owned by the same parent company as Coordinated Care, the Centene Corporation. Milman chose Superior after reading on its website that the Austin Diagnostic Clinic, with its 140 physicians, was in its provider network.
+
+After he was enrolled, according to the lawsuit against Centene, Milman discovered the Austin Diagnostic Clinic had informed Superior months earlier that it was no longer accepting Superior patients. When, after a lengthy delay and repeated entreaties from Milman, Superior finally assigned him a primary care doctor, he found his new physician was an OB/GYN. The doctor didn’t even treat men.
+
+The class action lawsuit filed last month against Centene concerns the issue known as “network provider adequacy.”
+
+The Affordable Care Act required that health insurance plans sold on the marketplaces in every state maintain a sufficient number of in-network hospitals and physicians, including specialists, in their service area — essentially, that they have an adequate network of providers. Policyholders spend less to see doctors in their network.
+
+But the Trump administration last month weakened that federal oversight, potentially forcing patients to turn to more expensive providers, travel long distances for cheaper care, endure long waits for medical appointments or, critics worry, forgo care altogether.
+
+“You want to be sure that the plan you’ve selected really has a robust network of providers for specialists and primary care, that they are accepting new patients, that you can get appointments in a timely way,” said Cheryl Fish-Parcham, director of the health access initiative at Families USA, which advocates for affordable health care for all.
+
+The rule, published in April and effective since the beginning of this year, reflects the Trump administration’s overall preference for state versus federal regulation. It shifts to states the responsibility for monitoring and enforcing network adequacy. It also doesn’t require states to use federal measures, such as limiting the time and distance patients should be expected to travel to see their providers, to determine network adequacy.
+
+The change affects 28 states that rely on the federal health insurance exchange and 11 states that operate exchanges in some sort of partnership with the federal government. (Twelve states operating their own insurance exchanges already were responsible for determining network sufficiency.)
+
+Officials in some states using the federal exchange say they are capable of reviewing network adequacy without federal help. “Functionally, what we saw in the prior administration was a lot of duplication,” said J.P. Wieske, the deputy insurance commissioner in Wisconsin, one of the states using the federal exchange.
+
+Jessica Altman, the acting insurance commissioner in Pennsylvania, another state that uses the federal exchange, said her state already vigorously enforces network adequacy, though she didn’t object to federal regulation as well. “For us, the federal oversight was a second check, and that’s good to have there.”
+
+Some critics acknowledge that states are better positioned to regulate network adequacy because officials understand the local insurance markets. Still, they worry some states don’t have regulations in place to protect consumers, or the necessary staff to take on the labor-intensive oversight.
+
+“Our concern is that the Trump administration is rolling back a lot of the assurances consumers should be able to rely upon without keeping a minimum of standards that would protect them,” said Betsy Imholz, a health policy expert at Consumers Union, the research and advocacy arm of Consumer Reports.
+
+Variation Among States
+
+Many states, even among those that use the federal exchange, have long regulated network adequacy, but they did so to varying degrees. Some only reviewed HMOs. Some examined network adequacy only at the point an insurer first applied for licensing. Some relied on claims made by insurers without further investigation.
+
+But some states do not regulate network adequacy. In that case, under the Trump rule, insurers can seek accreditation from an independent nonprofit approved by the U.S. Department of Health and Human Services. Critics argue, however, that there is nothing to guarantee that those accreditation agencies have network adequacy standards themselves or seek information beyond what an insurer provides.
+
+“Accreditation is basically self-regulation,” Imholz said.
+
+In any case, in a subsequent release in November, the Trump administration determined that all states are capable of oversight themselves, although the administration does not specify what makes a state capable.
+
+Tennessee is one of those states that says it will rely on accreditation, said Kevin Walters, communications director for the state’s Department of Commerce and Insurance. Tennessee laws on network adequacy apply only to HMOs and not the preferred-provider plans sold on the exchanges. But, Walters said, the state is comfortable with the accreditation method, since that’s how Tennessee oversaw network adequacy in 2014 and 2015, before the Obama administration established standards.
+
+The Affordable Care Act added national standards, such as the limits on the time and distance patients should have to travel to see their providers and the minimum ratio of doctors and specialists to enrollees in a plan. Some also set maximum times that patients should have to wait for appointments and also require that insurers keep their rosters of providers current. States on the federal exchange were free to adopt their own rules, but health plans in those states had to comply with minimum federal thresholds.
+
+Defining ‘Network Adequacy’
+
+Several states, some that operate their own insurance exchanges and some that use the federal exchange, have adopted similar rules.
+
+But, according to a Commonwealth Fund study, as of 2014, 23 states and the District of Columbia had not. Instead, they relied on HHS to determine network adequacy.
+
+In shifting responsibilities, the Trump administration is getting rid of the requirement that states use quantitative measures to evaluate network sufficiency.
+
+And that is what concerns many health policy experts. “Because not all states regulate network adequacy in a clear-cut way, we think the federal floor was necessary and is still needed,” said Sarah Lueck, a senior health policy analyst at the Center on Budget and Policy Priorities, a liberal think tank.
+
+State Knowledge
+
+Some state officials noted that applying the same federal rules to every state created some problems. The Wisconsin Office of the Insurance Commissioner complained to the Obama administration that in one case, it had required an insurance plan to increase its number of providers in an area that turned out to be in the middle of 8,600-acre Lake Butte des Morts.
+
+In another case, it said, HHS failed to appreciate that the Wisconsin River bisected a certain area, which essentially made it impossible for patients on one side of the river to see providers on the other.
+
+“The point is the problem you run into with federal government is that they don’t know the state like we do,” Wieske said. “When you have a federal system, it’s one size fits all ... but often, one size doesn’t fit all.”
+
+A few states already regulate their own network adequacy — some quite aggressively, such as California and Washington, which have their own exchanges.
+
+In December, Washington state fined Coordinated Care $1.5 million and ordered it to stop issuing individual health insurance policies in the state because of inadequate networks. The company agreed to a consent order detailing how it would address its network deficiencies. The lawsuit, involving plaintiffs in multiple states, was filed the next month.
+
+Mike Kreidler, the Washington state insurance commissioner, doubts that many states on the federal exchange are ready to effectively regulate network adequacy now.

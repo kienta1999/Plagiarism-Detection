@@ -1,0 +1,11 @@
+(Reuters) - Alphabet Inc’s Waymo self-driving vehicle unit and ride-hailing firm UberTechnologies Inc have settled their legal dispute over trade secrets, the two companies said on Friday.
+
+A trial to decide the case, which started earlier this week, has been dismissed by the judge.
+
+The settlement includes an agreement “to ensure that any Waymo confidential information is not being incorporated in Uber Advanced Technologies Group hardware and software,” a Waymo spokesperson said.
+
+Uber Chief Executive Dara Khosrowshahi said: “While we do not believe that any trade secrets made their way from Waymo to Uber, nor do we believe that Uber has used any of Waymo’s proprietary information in its self-driving technology, we are taking steps with Waymo to ensure our Lidar and software represents just our good work.”
+
+No further details of the settlement were immediately available.
+
+(Reporting by Alexandria Sage; Editing by Bill Rigby)

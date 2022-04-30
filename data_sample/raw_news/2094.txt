@@ -1,0 +1,59 @@
+New AP guidelines can help all of us dig into poll results better. alexsl via Getty Images
+
+The 2018 midterm elections are nearing, and they bring with them a new surge of campaign polls.
+
+Don’t expect to see too many of them splashed across Associated Press headlines, though. In the latest update to its widely used stylebook, the news service has added a chapter devoted to polls, including a declaration that “poll results that seek to preview the outcome of an election must never be the lead, headline or single subject of any story.”
+
+More broadly, the update urges AP journalists to consider a key question about any poll: “Are its results likely to accurately reflect the opinion of the group being surveyed?”
+
+While the guidelines are written for reporters, they include some useful signposts for anyone to keep in mind when reading about horserace polling ― or public opinion surveys in general.
+
+1. Look at how the survey was conducted.
+
+From AP: “Reputable poll sponsors and public opinion researchers will disclose the methodology used to conduct the survey, including the questions asked and the results to each, so that their survey may be subject to independent examination and analysis by others.”
+
+For a survey to be worth anything, the respondents must be representative of the population being measured ― that is, if a poll purports to be of Americans’ opinions, the people surveyed need to reflect the nation as a whole.
+
+Traditionally, pollsters have done this by randomly calling phone numbers, which (if cell phones are included) theoretically gives everyone with a phone an equal chance of getting called. Others, especially those doing political surveys, will contact people named in voter files. In recent years, a growing number of pollsters have turned to online surveys, with varying levels of rigorousness.
+
+Some kinds of people are more likely to respond to polls than other kinds of people. Pollsters correct for this by weighting their results based on demographics such as gender, age, race and level of education.
+
+Surveys that don’t make an effort to reach a representative sample, or to use methods like weighting to make that sample representative, don’t say much about anyone but the people who answered them. That means it’s generally worth ignoring polls conducted among people who happen to use a specific app. And there’s almost nothing useful to be gleaned from “reader polls” that allow anybody to take them multiple times and that don’t track any sort of demographic information.
+
+A pollster’s willingness to disclose information about how its poll was conducted isn’t an automatic stamp of quality, but an unwillingness to share those details is always a red flag. (Read more about how HuffPost/YouGov polling is conducted here.)
+
+2. Remember that polls are not perfect.
+
+From AP: “When writing or producing stories that cite survey results, take care not to overstate the accuracy of the poll. Even a perfectly executed poll does not guarantee perfectly accurate results.”
+
+Many pollsters report a margin of sampling error ― that is, the error produced by interviewing a random sample of the population, rather than the population as a whole. Although that term is commonly shortened to the margin of error, there are other sources of error as well, including issues with the wording of questions and the possibility of certain groups disproportionately deciding not to respond.
+
+Even surveys conducted by reputable outlets using the methods traditionally thought of as the “gold standard” of polling aren’t immune from error. Figuring out what lessons to draw from pollsters’ challenges in 2016 “would have been much easier if polls that on paper looked more rigorous than other polls performed better,” Courtney Kennedy, director of survey research at the Pew Research Center, explained last year. “It would be very easy to say, ‘Well, you should really hang your hat on these polls that have these characteristics.’ We didn’t really find that.”
+
+The upshot: It’s a good idea generally not to draw big conclusions from small differences. If President Donald Trump’s approval rating goes from 39 percent in one survey to 38 percent the next week, it’s “roughly stable,” not “dropping.” If a poll shows two candidates for a Senate seat separated by just 1 or 2 points, they’re “essentially tied.”
+
+That’s especially true when it comes to subgroups within the pool of respondents ― like Republicans, women or adults under age 30 ― for whom the margin of error is even greater. If a subgroup has fewer than 100 people in a particular survey, the AP won’t even report the results. If the sample size for a group falls beneath that mark, or if it’s not clear how many people that group contains, skip those results.
+
+On the flip side, remember that interviewing a ton of people is no guarantee that a poll is reliable.
+
+3. Look at who’s behind the survey.
+
+From AP: “Polls paid for by candidates or interest groups may be designed to produce results that are beneficial to that candidate or group, and they may be released selectively as a campaign tactic or publicity ploy. These polls should be carefully evaluated and usually avoided.”
+
+Surveys released by a group with a vested interest in the results can contain interesting data, but those results should be taken with a grain of salt.
+
+One example: Polls that claim people will be more or less likely to vote for a candidate based on a specific issue are often used by advocacy groups to push an agenda. But when people say they’d be less likely to vote for Candidate A if he opposed Issue 2, what they often mean is simply that they already dislike A or that they feel negatively toward 2 ― not that it’s really a deciding matter for them.
+
+As an extreme example, 10 percent of people who didn’t support Trump in the 2016 election said that his taste in steaks made them less likely to support him. That was probably not a major factor in the election.
+
+4. Pay attention to timing.
+
+From AP: “Public opinion can change quickly, especially in response to events. ... Be careful when considering results from polls fielded immediately after major events, such as political debates, that often sway public opinion in ways that may only be temporary.”
+
+Surveys aren’t conducted in a vacuum, and looking at when they were in the field ― and what was happening around that time ― provides important context. Support for tougher gun control, for instance, often spikes temporarily in the immediate aftermath of a mass shooting. Public opinion on other issues can shift quickly too, as can candidates’ fortunes.
+
+5. Be careful about apples-to-oranges comparisons and outliers.
+
+From AP: “Comparisons between polls are often newsworthy, especially those that show a change in public opinion over time. But take care when comparing results from different polling organizations, as difference in poll methods and question wording — and not a change in public opinion — may be the cause of differing results.”
+
+Examining multiple polls on a candidate or issue can, however, provide valuable information. When surveys on the same matter differ significantly in methodology and the wording of questions, considering them together can show just how much framing does (or doesn’t) affect public support.

@@ -1,0 +1,565 @@
+The reported breach and misuse of roughly 50 million Facebook users’ data is continuing to make headlines this week, with lawmakers around the world voicing concerns about how it occurred and how the information was used.
+
+Here’s what you should know.
+
+What is Cambridge Analytica?
+
+Cambridge Analytica, whose parent company is Strategic Communication Laboratories (SCL), is a data firm based in London that specializes in political and commercial marketing campaigns. It sells itself as having the ability to change audience behavior by using data “to engage, persuade, and motivate individuals to act.”
+
+The firm’s website lists the company as having offices in New York, Washington, D.C., London, Brazil and Malaysia.
+
+Cambridge Analytica CEO Alexander Nix was recorded bragging in recent months that his company and SCL has secretly influenced more than 200 elections around the world.
+
+Alexander Nix, CEO of Cambridge Analytica, is seen outside his offices in London on Tuesday. Henry Nicholls / Reuters
+
+What does it have to do with Facebook?
+
+The company is accused of secretly harvesting Facebook users’ personal data to better identify individuals that could be targeted and influenced by specific marketing material. The number of affected users is believed to be over 50 million, according to a New York Times report that cites a company email and a former Cambridge Analytica employee.
+
+How did they get users’ information?
+
+Information acquired by Cambridge Analytica came from a personality quiz shared on Facebook. To take the personality quiz, users downloaded an app that analyzed their personalities by assessing the information on their Facebook profiles. The app also collected some information of their friends. Facebook has said that that information was then passed along to Cambridge Analytica by the app’s developer in 2015, an act that violated its policies.
+
+Roughly 270,000 users voluntarily downloaded the app, according to Facebook, though the Times estimates the number of accounts affected is over 50 million because of the related users who unwittingly became involved.
+
+Cambridge Analytica's headquarters is located in London. NurPhoto via Getty Images
+
+Were the methods unlawful or unethical?
+
+Facebook has argued that users who downloaded the quiz agreed to having their information mined in order to complete the quiz. Friends of those with the app may not have been aware that their information was being collected, however.
+
+The Federal Trade Commission is reportedly investigating whether Facebook violated terms of a 2011 consent decree in its handling of users’ data, Bloomberg News reported on Tuesday. That decree required Facebook to obtain consent from users before making certain changes to privacy settings.
+
+Upon learning about the information’s leak, Facebook said it ordered Strategic Communication Laboratories to delete the data obtained. The company has said that it followed this order, though Facebook has since said that it has found that “not all data was deleted.”
+
+What are its ties to President Donald Trump?
+
+Cambridge Analytica was hired by Donald Trump’s 2016 presidential campaign but it has denied that data acquired through Facebook was used to assist his efforts to win the election.
+
+Secret recordings of Cambridge Analytica executives published on Tuesday captured them bragging about helping Trump get elected by using “unattributable and untraceable” advertising and attack ads, according to an undercover report by British news station Channel 4. Nix is recorded telling an undercover reporter that he had personally met Trump “many times.”
+
+The data firm, which was funded in part by Republican donor Robert Mercer, was hired by President Donald Trump's 2016 campaign. Leah Millis / Reuters
+
+The data firm was funded in part by Republican billionaire and Trump donor Robert Mercer, who also funded the right-wing website Breitbart News. The website’s now-former executive chairman, Steve Bannon, went on to become Trump’s chief strategist until his firing last August. Bannon also served on Cambridge Analytica’s board but sold his stake in the company in 2017.
+
+Cambridge Analytica whistleblower Christopher Wylie, who helped found the data firm and worked there until 2014, has described Bannon as his former boss.
+
+Other clients boasted on Cambridge Analytica’s website include Texas Sen. Ted Cruz (R) and U.S. Secretary of Housing and Urban Development Ben Carson. Both Republicans used the company during their respective presidential primary runs. North Carolina Sen. Thom Tillis (R) also used the company during his 2016 campaign, as did John Bolton’s Super PAC.
+
+A man wheels storage crates from the building that houses the offices of Cambridge Analytica in central London, Britain, on Tuesday. Henry Nicholls / Reuters
+
+What is being done?
+
+Cambridge Analytica CEO Alexander Nix was suspended on Tuesday, pending a full, independent investigation, according to a statement released by the company. This news follows Nix making statements to an undercover reporter that his firm uses bribery, entrapment and the use of sex workers and fake news as part of its methodology. Nix has since claimed that he was lying when he said that.
+
+The firm’s access to Facebook has also been suspended. Officials with Facebook are also reportedly considering meeting with a House Judicial Committee to discuss their involvement.
+
+Facebook Vice President and Deputy General Counsel Paul Grewal said on Tuesday that they are conducting an internal and external review to determine whether the Facebook data acquired by Cambridge Analytica still exits.Streamline recommends “Moonrise Kingdom” as the movie you should watch on Hulu this week. The service adds this on Sept. 16.
+
+“Moonrise Kingdom” stars two unknown child actors ― Kara Hayward and Jared Gilman ― along with a notable cast of adults that includes Tilda Swinton, Edward Norton, Bill Murray, Frances McDormand and Bruce Willis. Wes Anderson directed this and co-wrote the screenplay with Roman Coppola.
+
+The two children run away and try to make a life for themselves together ― a very twee life. Then the adults start looking for them ― in a very twee way.
+
+Although the Anderson aesthetic is kind of out right now during this more hardened, ultra-cynical Donald Trump era, I still love this movie. I think you’ll find much to enjoy whether you’re revisiting it or watching for the first time.“I think he should explain to the American people how this happened, how many people were hurt, and most importantly how they’re going to fix it,” Sen. Amy Klobuchar (D-Minn.) said on CNN Tuesday.
+
+Sen. John Kennedy (R-La.), who signed a bipartisan letter with Klobuchar seeking a judiciary hearing with Zuckerberg and other media CEOs, expressed particular concern with the social media site’s handling of user data. Reports this week say Cambridge Analytica, hired by Trump’s presidential campaign, improperly collected personal data of millions of Facebook users without their knowledge.
+
+News: @SenJohnKennedy & I just sent bipartisan letter to @ChuckGrassley asking for judiciary hearing w/social media CEOs including Zuckerberg. This isn’t the first time we’ve made this request, but now 50 million people who had their records stolen should add to our numbers! — Amy Klobuchar (@amyklobuchar) March 19, 2018
+
+Facebook’s “behavior lately has been kind of getting into the foothills of creepy,” Kennedy said on CNN.
+
+“My interests are larger than Cambridge Analytica. I want to know what extent if any those of us on Facebook live in a contrived universe, created by Facebook, kind of like Truman on the ‘Truman Show,’” Kennedy said, referencing the 1998 movie about a man who unknowingly lives in a scripted world.
+
+Facebook officials reportedly tentatively agreed to brief the House Judiciary Committee as early as Wednesday, Bloomberg News reported Tuesday, citing an unidentified congressional official described as familiar with the discussions. It hadn’t been finalized whether Zuckerberg or someone else would represent the company.
+
+A statement attributed to a Facebook spokesperson on Tuesday said the company’s executives and staff are “outraged we were deceived.” This follows the company’s claim that a third party supplied users’ information to Cambridge Analytica in a way that violated Facebook policy.
+
+“We are committed to vigorously enforcing our policies to protect people’s information and will take whatever steps are required to see that this happens,” the statement obtained by Newsweek reads.
+
+Facebook is conducting an internal and external review to verify if the data Cambridge Analytica obtained has been deleted as the company has previously stated, said Paul Grewal, Facebook’s vice president and deputy general counsel, in a statement to HuffPost.
+
+“That is where our focus lies as we remain committed to vigorously enforcing our policies to protect people’s information,” Grewal added.
+
+It's time for Mr. Zuckerberg and the other CEOs to testify before Congress. The American people deserve answers about social media manipulation in the 2016 election. — Mark Warner (@MarkWarner) March 20, 2018
+
+I wrote a letter to Mark Zuckerberg asking @facebook to detail the extent of misuse of its users’ private information: pic.twitter.com/N9CYC50AHG — Ron Wyden (@RonWyden) March 19, 2018
+
+Disarray at Facebook - amid apparent downsizing of security team - makes the need for full transparency in public testimony before Congress more urgent than ever. https://t.co/4xtpcbJFxb — Richard Blumenthal (@SenBlumenthal) March 20, 2018
+
+The Federal Trade Commission is reportedly investigating whether Facebook violated terms of a 2011 consent decree in its handling of users’ data, Bloomberg News reported on Tuesday, citing an anonymous person familiar with the matter.
+
+That decree required Facebook to obtain consent from users before making certain changes to privacy settings. A violation could result in millions of dollars of fines, a former FTC official told The Washington Post.
+
+“We need to get in to find out on behalf of the public what has happened to this data,” Denham told the BBC. “Because Cambridge Analytica operates in the U.K. they are subject to U.K. data protection law, and we oversee that law so we need to take action.”
+
+The U.K.’s Digital, Culture, Media and Sport Committee on Tuesday sent Zuckerberg a letter requesting him to appear to answer questions about how Facebook and other social media companies acquire and retain user data.
+
+Lawmakers in the U.S. and U.K. are demanding that Facebook CEO Mark Zuckerberg testify about his company's handling of users' personal data. Stephen Lam/Reuters
+
+The letter, signed by Parliament Member Damian Collins, accused Zuckerberg and other Facebook executives of misleading the committee perviously, and of understating the risk of users’ data being used without their consent.
+
+“It is now time to hear from a senior Facebook executive with the sufficient authority to give an accurate account of this catastrophic failure of process,” Collins’ letter reads.
+
+Collins later said on Twitter that former Facebook operations manager Sandy Parakilas will answer questions with his committee on Wednesday.
+
+Parakilas, who worked for Facebook in 2011 and 2012, has previously expressed concern about the company’s handling of users’ data, telling The Guardian this week, “We had no idea what developers were doing with the data.”
+
+Advertisement“It’s going to ensnare other users, it’s going to be applied disproportionately to people of color and it’s going to mean that we’re spending millions of dollars keeping people behind bars while jurisdictions don’t have money to pay for naloxone, which actually can save people,” said Beletsky.
+
+Naloxone, also known as Narcan, is an opioid overdose-reversal drug that can counteract the effects of respiratory depression that often lead to death during an opioid overdose. In his remarks Monday, Trump hailed Narcan as an important tool to combat the opioid epidemic.
+
+But in order to a have a chance at successfully intervening in an overdose, a bystander must either have access to naloxone or be willing to call a first responder to administer it. Other opioid users are typically the closest to the scene of an overdose. If they fear that they could be charged with murder or be eligible for the death penalty, they’d be far less likely to report, said Beletsky.
+
+Research conducted by Beletsky’s group, Health In Justice, shows that drug-induced homicide laws have been used with increasing frequency in recent years, and in a racially disproportionate manner.
+
+“About half of them target people of color, and a combination of a person of color who’s a dealer and a white victim,” said Beletksy. “That’s the narrative that prosecutors look for when they choose to apply these provisions.”
+
+Trump appeared to drive home that idea on Monday, singling out Mexico and undocumented immigrants as the primary source of illicit opioids into the U.S. To address the problem, the U.S. must “build the wall to keep the damn drugs out,” he said.Barbra Streisand said she has “never” been sexually harassed, suggesting that her appearance had something to do with it.
+
+The 75-year-old singer, actress and director was asked during a tribute to her at PaleyFest in Los Angeles whether she had been the victim of sexual misconduct.
+
+“Never,” she answered Friday, according to news outlets. “I wasn’t like those pretty girls with nice little noses. Maybe that’s why.”
+
+Addressing the Me Too movement, Streisand added: “We’re in a strange time now in terms of men and women and the pendulum swinging this way and that way, and it’s going to have to come to the center.”
+
+Streisand has said in the past that she believed sexism in Hollywood prevented her from receiving an Oscar nomination for directing. She recently chastised the Golden Globes for its lack of female director winners, declaring at the January awards ceremony, “Time’s up!”
+
+At PaleyFest, the performer said her most satisfying moments in entertainment have come as a director.
+
+“That is such a complete experience,” she said, per Entertainment Weekly. “It just involves every sense you have, every nerve end. Your taste or your vision qualities. And trying to get the best out of the actors.”A viral tweet on Monday claimed that an attorney for porn star Stormy Daniels, who allegedly had an affair with Donald Trump in 2006, said there was a compromising photo of the president.
+
+More specifically, a tweet from Twitter conspiracy theorist Claude Taylor, who worked in the White House under President Bill Clinton, claimed there was a picture of Trump’s, well, ... :
+
+Stormy’s Lawyer on MSNBC. I’ll paraphrase. “We have photos of Trump’s penis”. — Claude Taylor (@TrueFactsStated) March 19, 2018
+
+However, Daniels’ attorney Michael Avenatti said no such thing, not even in paraphrased form.
+
+But that didn't keep the tweet from being shared thousands of times.
+
+Avenatti said on MSNBC (above) that he had “a lot of information, a lot of evidence, a lot of documents that haven’t come to light yet.”
+
+That’s about it ― but similar rumors surfaced last week when Avenatti proposed a deal in which Daniels would return a $130,000 payment to Trump attorney Michael Cohen to end her nondisclosure agreement, signed shortly before the 2016 election.
+
+The deal would allow her to talk about the alleged affair and “use and publish any text messages, photos and/or videos relating to the President that she may have in her possession, all without fear of retribution and/or legal liability for damages,” according to an offer letter cited by CNN.
+
+The reaction on Twitter on Monday ranged from horror to humor:
+
+Oh lord...right when u think 2018 couldn't get any worse...now we have to worry about Trump's dick pics leaking...I give up — Colton Haynes (@ColtonLHaynes) March 19, 2018
+
+hey guys that photo of trump's penis you're all tweeting about is one person on twitter's rhetorical flourish and not, like, an actual real thing that we know exists — Nicky Woolf (@NickyWoolf) March 20, 2018Housing and Urban Development Secretary Ben Carson spoke Tuesday about transgender individuals’ access to homeless shelters, saying women “were not comfortable” being in a shelter with “somebody who had a very different anatomy.”
+
+Testifying before a House subcommittee, Carson was reportedly asked by Rep. Mike Quigley (D-Ill.) about the removal of HUD training materials that help protect LGBTQ people from discrimination, by guiding homeless shelters on how to ensure access to shelters for transgender people.
+
+“[We] obviously believe in equal rights for everybody, including the LGBT community. But we also believe in equal rights for the women in the shelters, and shelters where there are men and their equal rights,” Carson responded. “So we want to look at things that really provide for everybody and doesn’t impede the rights of one for the sake of the other. So it’s a complex issue.”
+
+When Quigley then asked how protecting the rights of transgender homeless individuals would infringe on the rights of others, Carson replied, “I’ll give you an example. There were some women who said they were not comfortable with the idea of being in a shelter, being in a shower, and somebody who had a very different anatomy,” Carson said.
+
+On Tuesday, LGBTQ advocacy group GLAAD denounced Carson’s statements in a release, saying it perpetuated a “derogatory myth” about the presence of transgender people threatening others’ safety.
+
+“It is because of derogatory myths like this, which have been debunked time and time again, that the transgender community faces disproportionate levels of discrimination and homelessness,” GLAAD president Sarah Kate Ellis said. “Today’s blatant and factually inaccurate anti-transgender rhetoric is the latest in a long line of uninformed and biased statements about LGBTQ people that make Dr. Carson unfit to be the head of the Department of Housing and Urban Development.”
+
+Last year, HUD removed guidelines from its website meant to provide training to homeless shelters on how to ensure equal access to transgender people, Newsweek reported earlier this year. In March, activists filed a lawsuit against HUD seeking documents to determine whether the Trump administration was directing federal agencies to undermine efforts to protect LGBTQ Americans.
+
+In July 2017, a group of Democratic senators wrote in a letter to Carson that the removal of the HUD resources around LGBTQ rights was “concerning,” and asked that the agency restore them to its website.
+
+Nearly one-third of transgender Americans have experienced homelessness at one point in their lifetime, according to a 2015 survey of transgender people in the U.S. What’s more, 70 percent of transgender respondents who had stayed in homeless shelters reported being mistreated, including being harassed, sexually or physically assaulted, or kicked out because of being transgender.If Cynthia Nixon has her way, she will make history this fall as both the first female and first openly LGBTQ governor of New York.
+
+The “Sex and the City” star formally announced her gubernatorial run Monday, and is set to challenge two-term Gov. Andrew Cuomo in the Democratic primary this September.
+
+Nixon, who identifies as bisexual, received praise from a number of LGBTQ personalities, including Rosie O’Donnell. However, she got a chilly response from one prominent member of the queer community, Christine Quinn. The former New York City Council speaker questioned Nixon’s qualifications in a Tuesday interview with the New York Post, and deemed the actress’s gubernatorial run “a flight of fancy.”
+
+Quinn then took aim at Nixon’s endorsement of Bill de Blasio in the 2013 Democratic primary for New York City mayor. The first woman and openly LGBTQ person to serve as New York City council speaker, Quinn ran unsuccessfully against de Blasio that year.
+
+“Cynthia Nixon was opposed to having a qualified lesbian become mayor of New York City,” said Quinn, who has campaigned for Cuomo. “Now she wants to be an unqualified lesbian to be the governor of New York. You have to be qualified and have experience. She isn’t qualified to be the governor.”
+
+Though Nixon has been an outspoken advocate for public education, women’s rights and LGBTQ rights, many have questioned whether she has the chops to serve as a governor. A few have even drawn parallels between the actress and President Donald Trump, who lacks both political and military service.
+
+Quinn, similarly, suggested that Nixon’s star power didn’t automatically make her suited for public office.
+
+“She’s an accomplished actress, a supporter of political causes and that’s a good thing,” Quinn told the New York Post. “But she’s never run an organization. This is a time to move away from celebrity and toward progressive leadership.”
+
+Quinn clarified her remarks in a series of tweets on Tuesday, saying that her criticisms of Nixon were based only on her lack of experience, not her sexuality.
+
+To be clear, Cynthia Nixon’s identity has no bearing on her candidacy and it was not my intention to suggest it did. I want to be clear about that. I would never, EVER, criticize someone because of their identity. 1/4 — Christine Quinn (@chriscquinn) March 20, 2018
+
+I’ve experienced it time and time again, and would never support it or condone it. As a lesbian who ran one of the most high profile races in the country, i know what that’s like. And I know it’s imperative that we encourage more members of our community to run for office. 2/4 — Christine Quinn (@chriscquinn) March 20, 2018
+
+Cynthia Nixon aggressively opposed my candidacy in New York despite my qualifications for the office and despite my strong progressive credentials. I was attempting to make a comparison between the two of us. 3/4 — Christine Quinn (@chriscquinn) March 20, 2018
+
+The real point I am trying to make is that qualifications matter and records matter. I do not believe she has the qualifications or the record. 4/4 — Christine Quinn (@chriscquinn) March 20, 2018
+
+Nixon, however, didn’t seem too vexed by Quinn’s criticisms. “Her being a lesbian and my being a lesbian” is not the issue, she told the New York Post.Hey @IvankaTrump it's great that you like to cosplay as a scientist on Instagram but some of us are an #ActualLivingScientist. Tell us about what you're doing in this picture. I'm making a battery. #ILookLikeAnEngineer pic.twitter.com/fW5CFxLYAFThis Tessa Thompson meme could be the greatest of all time.
+
+On Monday, the “Thor: Ragnarok” actress stumbled across the @tessasgoats Twitter feed — after it shared a photograph of Thompson wearing a rainbow gown at the 2017 Emmys alongside a snap of a goat in a rainbow knit sweater.
+
+“Bless the human who did this,” Thompson tweeted.
+
+Bless The Human Who Did This. pic.twitter.com/DfXNp4yYxz — Tessa Thompson (@TessaThompson_x) March 19, 2018
+
+Thompson then asked her fans to follow the account.
+
+Unsurprisingly, tweeters latched on to Thompson’s love of the animal (which she also revealed in an interview in February) and mocked up more side-by-side shots, to her delight:Move over Tayor Swift and Selena Gomez, because there’s a different duo in Hollywood giving us some serious #BFFGoals.
+
+Samuel L. Jackson and Judge Judy stepped out for dinner in Los Angeles over the weekend, reminding us just how much we love this friendship. The ”Captain Marvel” star shared a candid photo with his pal — aka Judith Sheindlin — on Instagram.
+
+Many users commented about the seemingly unlikely friendship, dying to know what the actor and daytime TV boss could be talking about. Well, these two actually go way back. “The Kong: Skull Island” star was asked about the origin of their bond last year on “Watch What Happens Live.”
+
+Jackson, 69, and Sheindlin, 75, had mutual friends, meeting through the actor’s agent, Toni Howard. The pair also know each other through Jackson’s lawyer — “my lawyer’s husband is the guy who makes her deals,” he said.
+
+As Jackson recalled, they met at Howard’s house, and they used to smoke cigarettes together. “So we would sit in Toni’s backyard and smoke, and when Judy stopped smoking, she made me stop smoking. She sent me to her doctor in White Plains, who actually treats you with sodium pentothal, and I quit smoking. But Judy used to get up in the middle of the night to smoke. She’s like, ‘I used to wake up to smoke.’”
+
+“WWHL” host Andy Cohen asked Jackson if Judge Judy was intimidating, to which he replied, “No! Judy’s awesome. She’s great. … I’ve had tea with Judy at the Dorchester in London, and hang out and fly back and forth cross-country with her on planes. Judy’s awesome.”
+
+Judge Judy and Samuel L. Jackson sharing a laugh. Photo: Getty Images
+
+Jackson added, “She’s straight up clocking dollars.”
+
+It’s true — last year, Forbes ranked Judge Judy No. 8 on its list of America’s Richest Female Entertainers. Her CBS show has been on the air since 1996, and she’s estimated to be worth around $300 million.
+
+In 2017, “Judge Judy” wrapped its fourth consecutive year as the most-watched syndicated TV show, and it continues to break records left and right. She counts her pal as one of her regular viewers.
+
+Jackson revealed on the “Today” show that he includes in his contracts that his trailer on set must have a satellite television so “I can watch judge shows all day when I’m at work … all of them.”
+
+Yes, “Judge Judy” would be one of those “judge shows,” in case you were wondering. He also praised his BFF on “The Ellen DeGeneres Show” saying he loves watching “Judge Judy” “all the time,” adding they get together “at least four or five times a year.”
+
+Hey, by Hollywood standards, that’s a lot.More than 200 people attended an interfaith solidarity event at the Islamic Community Center of Tempe on Saturday. Islamic Community Center of Tempe / Facebook
+
+Weeks after two women filmed themselves vandalizing a mosque in Tempe, Arizona, members of the local interfaith community showed up en masse to stand in solidarity with their Muslim neighbors.
+
+Kristy Sabbah, office manager at the Islamic Community Center of Tempe, said the messages of support from allies haven’t yet stopped pouring in.
+
+“The response from the interfaith community has been overwhelming,” Sabbah told HuffPost in an email.
+
+The mosque continues to receive phone calls, emails and Facebook messages from people expressing their solidarity, she said. Interfaith allies are also sending the center flowers and sweets. Many have even brought their children to the Islamic center with handmade cards of love and encouragement.
+
+“It’s beautiful to see how two people’s hate brought together hundreds of people in love,” Sabbah said.
+
+The two women in the video, identified by police as Tahnee Gonzales and Elizabeth Dauenhauer, were arrested on suspicion of felony third-degree burglary on Thursday. On March 4, Gonzales appears to have uploaded three Facebook live videos of her and Dauenhauer taking three children to the mosque to vandalize and steal materials. Gonzales lectures the children and her Facebook audience in one video about how Muslims are destroying America and are “devil Satan worshippers.”
+
+Sabbah and others in the mosque community were particularly disturbed by how the two women appeared to encourage the children to make blatantly racist and Islamophobic comments. In the video, a young girl can be heard making statements like, “Muslims are waiting to rape you,” and “They smell like goat.”
+
+A screengrab from a video uploaded by Facebook user Tahnee Gonzales. SCREENGRAB TAKEN FROM FACEBOOK LIVE VIDEO
+
+Sabbah said that her mosque community hopes the two women are “prosecuted to the fullest extent.” But she said they are hopeful that the children will be learn to be more compassionate.
+
+“Children are smart and their hearts are pure. We are hopeful for them,” Sabbah said.
+
+On Saturday, the Islamic Community Center of Tempe partnered with local Muslim and interfaith organizations to host a “Love and Coffee” event at the mosque. The event was livestreamed on Facebook and attended by more than 200 community members, including Muslims and their interfaith allies.
+
+Local interfaith leader Rev. Erin Tamayo organized a letter that was signed by those who attended the event.
+
+“You are valuable members of our community and we are grateful for your existence,” the letter reads. “May you never feel alone in the face of any adversary for we stand with you.”
+
+A letter signed by attendees of an interfaith "Love and Coffee" event at the Islamic Community Center of Tempe. Islamic Community Center of Tempe / Facebook
+
+The letter is currently on display in the mosque’s office. The community hopes to frame it so that it can be preserved for years to come.
+
+Sabbah said that her Islamic center has long had a strong relationship with local interfaith allies. They’re hoping to conduct more events together in the future.Some parents in Montgomery County, Maryland, are likely to hear an interesting response Friday night when they ask their teenagers how the day at school went.
+
+Eight members of Montgomery County Students for Gun Control made their way to the U.S. Capitol on Friday afternoon, where they staged a sit-in outside the office of House Speaker Paul Ryan (R-Wis.). They were calling on him to pass common-sense gun control legislation.
+
+The U.S. Capitol Police ended up arresting four of them, according to Daniel Gelillo, a member of the student group who didn’t attend the sit-in.
+
+The time for mobilization is now. It's time to put an end to this senseless violence once and for all. My friends were willing to put themselves on the line for this, so it's time to act.
+
+I'm sure you'll hear more soon. #GunControlNow #EnoughIsEnough pic.twitter.com/cMorKnGQk4 — Daniel Gelillo (@Vote_For_Dan) May 18, 2018
+
+Gelillo, 17, told HuffPost that the teens organized Friday’s action as a rapid response to that morning’s Texas high school shooting, which left 10 dead and another 10 wounded.
+
+The protest caught the attention of David Hogg, a survivor of the Parkland, Florida, school shooting, who tweeted his support:
+
+I love these kids almost as much as @SpeakerRyan loves arresting students practicing their First Amendment rights to peacefully protest. #AllowTheVote https://t.co/PXvmfbrJpl — David Hogg (@davidhogg111) May 18, 2018
+
+“This is an issue we all care about deeply, and we’re all incredibly frustrated and saddened by the losses suffered in Texas today,” Gelillo told HuffPost. “We want to see change, and we want to see it sooner rather than later.”
+
+He added, “We should not live in a country where we have to go to school in fear of the possibility of looking down the barrel of a rifle.”
+
+Eva Malecki, communications director for the U.S. Capitol Police, confirmed that four juveniles were arrested Friday outside the office building where Ryan works. The four face charges of “crowding, obstructing, or incommoding.”
+
+Watch a full video of the protest and the arrests below:'Stranger Things' Cast With Politicians Would Be Even Scarier See GalleryThe Minneapolis police officer who fatally shot an Australian woman in July after she called 911 for help has been charged with murder by Hennepin County prosecutors, officials announced.
+
+Mohamed Noor, the officer who shot Justine Damond, turned himself in after authorities issued an arrest warrant Tuesday on charges of third-degree murder and second-degree manslaughter, Hennepin County Attorney Mike Freeman said during a press conference.
+
+Noor was booked at Hennepin County Jail around 11 a.m. on Tuesday, and prosecutors requested a judge set his bail at $500,000, according to Freeman. Noor’s attorney did not immediately respond to HuffPost’s request for comment.
+
+Damond’s family applauded the charges in a statement, calling them “one step toward justice.”
+
+“No charges can bring our Justine back,” the family wrote. “However, justice demands accountability for those responsible for recklessly killing the fellow citizens they are sworn to protect, and today’s actions reflect that.”
+
+Justine Damond in 2015. Stephen Govel/Stephen Govel Photography/Handout/Reuters
+
+The decision comes more than three months after Freeman’s initial deadline for announcing whether he would bring charges against Noor.
+
+“Because the investigation was thorough, we have a nearly second-by-second understanding of what happened, from the moment she called 911 to the moment she was fatally shot by Officer Noor, 13 minutes later,” Freeman said during the press conference Tuesday.
+
+In the eight months leading up Tuesday’s charges, many questions remained about what prompted Noor, 32, to fire his weapon on July 15, 2017 from the passenger seat of a police cruiser, across his partner and through the driver-side window, fatally striking Damond in the abdomen.
+
+Noor and his partner, Matthew Harrity, were responding to Damond’s report of a possible nearby sexual assault. They were startled by a “loud slap” on their vehicle, Harrity told investigators. An attorney for Harrity said it’s possible the officers were concerned about being ambushed, though Damond’s neighbors have questioned this response, given the area’s low crime rate.
+
+Noor, who was put on paid administrative leave following the shooting, did not provide a statement to the Minnesota Bureau of Criminal Apprehension, which conducted an investigation and gave its findings to the Hennepin County Attorney’s Office in September.
+
+“There is no evidence that Officer Noor encountered a threat, appreciated a threat, investigated a threat, or confirmed a threat that justified his decision to use deadly force,” Freeman said Tuesday. “Instead, Officer Noor recklessly and intentionally fired his gun from the passenger’s seat.”
+
+The officers’ body cameras were only activated after the shooting, Freeman said.
+
+“Officer Noor recklessly and intentionally fired his gun from the passenger’s seat.” - Hennepin County Attorney Mike Freeman
+
+Damond’s death sparked protests across Minneapolis. The Twin Cities of Minneapolis and St. Paul have a history of high-profile police brutality incidents, including the July 2016 shooting death of Philando Castile in the suburb of Falcon Heights. A week after Damond’s death, Minneapolis Police Chief Janeé Harteau was forced to resign.
+
+Justice for Justine, a group of Damond’s neighbors and friends, praised the charges in a statement emailed to HuffPost.
+
+“We are relieved that her killer is being prosecuted and hope for a swift trial that is respectful to Justine and her loved ones,” the statement read. “Police need to be held accountable for their actions that harm individuals and damage communities, just as any one of us would be held accountable.”
+
+Justine Damond's friends and neighbors release a statement on the murder charges brought against her killer, Minneapolis police officer Mohamed Noor, eight months after her death.https://t.co/hMkkDfTVDC pic.twitter.com/PbpkCfbfaa — Hayley Miller (@hayleymiller01) March 20, 2018
+
+Although the charges against Noor may provide some temporary relief to Damond’s family and friends, prosecutors still face an uphill battle. Between 2005 and April 2017, only 35 percent of officers charged with murder or manslaughter for fatal on-duty shootings were convicted, according to research conducted by Philip Stinson, an associate professor of criminal justice at Bowling Green State University in Ohio.John Oliver and his “Last Week Tonight” team have a hit.
+
+The HBO program trolled Vice President Mike Pence and his family, who published a book about their pet rabbit on Monday, by releasing its own version of the tale in which the bunny is gay.
+
+And the show’s bunny book is topping the charts.
+
+A Day In the Life Of Marlon Bundo, penned by “Last Week Tonight” writer Jill Twiss and illustrated by EG Keller, hit the top spot on Amazon with the Kindle version reaching #2 on the list. The audiobook, read by Jim Parsons and featuring the voices of several other celebrities, also debuted at #1 on the website’s audiobook chart.
+
+The Pence family’s tale, Marlon Bundo’s Day in the Life of the Vice President, currently sits at #3 on Amazon’s children’s book charts.
+
+Oliver unveiled the book on Sunday night after a segment detailing Pence’s longtime hostility to the LGBTQ community. Not only does the show’s book feature a gay rabbit ― and a stink bug villain that looks suspiciously like Pence ― but proceeds from its sales will be donated to the Trevor Project, which supports LGBTQ youth, as well as the AIDS United charity.
+
+Proceeds from the Pence family’s book will go to Tracy’s Kids, an art program for children with cancer, and A21, which fights human trafficking.
+
+While Oliver predicted that selling more books than Pence “would probably really piss him off,” the vice president’s family took the competition in stride. An image posted on Marlon Bundo’s official Instagram page on Monday showed the rabbit in a sassy bowtie much like the one his gay doppelgänger wears in the Oliver-backed book:See how a little kindness makes a world of difference. Won't You Be My Neighbor? is an intimate look at America’s favorite neighbor: Mister Fred Rogers.
+
+
+
+Watch the trailer and see it in select theaters June 8th. #MrRogersMovie pic.twitter.com/NiOw6rh5bM — Won't You Be My Neighbor? (@MrRogersMovie) March 20, 2018
+
+It’s a beautiful day to return to Mr. Rogers’ neighborhood.
+
+The trailer for an upcoming documentary about the late children’s show host, “Won’t You Be My Neighbor,” was released on Tuesday, which would have been Fred Rogers’ 90 birthday. And it’s bound to make many Mr. Rogers fans tear up.
+
+The film, directed by Oscar-winning filmmaker Morgan Neville (“20 Feet From Stardom”), follows the popular PBS children’s show “Mr. Rogers’ Neighborhood” and its beloved host from its debut in 1968 through 2001, and showcases generations of kids inspired to grow up as empathetic human beings.
+
+Fred Rogers on “Mr. Roger’s Neighborhood.” Fotos International via Getty Images
+
+“The greatest thing that we can do is to help someone know that they’re loved and capable of loving,” Rogers says in the trailer.
+
+The trailer boasts footage and interviews with colleagues, including producer Margy Whitmer, and castmates Elizabeth Seamans (Mrs. McFeely) and François Clemmons (Officer Clemmons).
+
+It also features interviews with Rogers himself, who died in 2003 at age 74.
+
+The film isn’t the only Rogers-related movie that will hit the big screen. TriStar Pictures announced in January that actor Tom Hanks will play Rogers in the biopic “You Are My Friend.”
+
+That movie follows the budding friendship between Rogers and the initially cynical journalist Tom Junod, who is assigned to write a profile on cardigan-loving host.A silicone partner in Paris. Getty/Christophe Bertolin/IP3
+
+A new Paris brothel featuring sex dolls should be shut down because the lifeless, life-sized silicone partners habituate men to degrade women and fuel rape fantasies, say French feminists.
+
+Owner Joaquin Lousquy, 28, opened the business last month in an apartment in a “discreet” building in a neighborhood in the heart of the city, Paris Match reported.
+
+It features three bedrooms for sex (the “Xdolls” are spray-cleaned and “disinfected” in another room) and a choice among three very expensive sex dolls made in China (Lily, Sofia and Kim). Bookings are made online. Clients have an Xdoll all to themselves for $110 an hour but can pay less for less time. Lousquy said most visitors are “clean” executive-type men ages 30 to 50, and some couples.
+
+The brothel is currently registered as a“game center” to dodge French restrictions. It’s illegal to own or operate a brothel.
+
+But some feminists and Communists in the local Paris Council are blasting the operation as degrading to women. They worry that abusive experiences with sex dolls may carry over into relationships with real women.
+
+Lorraine Questiaux of the feminist group Mouvement du Nid (Nest Movement) called the brothel a “place that makes money from simulating the rape of a woman,” The Telegraph reported.
+
+Pierre Laurent, the national secretary of the Communist Party, complained that some sex dolls can evoke thoughts of sex with children.
+
+Lousquy doesn’t believe the brothel degrades women. He says the dolls are “sex toys,” not stand-in women. But he told Paris Match that the experience is “100 percent” about the client, with absolutely no need to ever worry about the pleasure (or pain) of a partner. Men are encouraged to give free rein to their fantasies. The “experience is incomparable,” Lousquy told Paris Match.
+
+The Paris Council plans to debate the future of the business this week.Bloomberg via Getty Images
+
+Travel website Orbitz announced Tuesday it has detected a security breach that may have affected consumers’ personal information shared between Jan. 1, 2016, and Dec. 22, 2017.
+
+About 880,000 payment cards could be affected. The company said an incident likely took place between Oct. 1, 2017, and Dec. 22, 2017, on a legacy Orbitz booking platform.
+
+An attacker may have accessed users’ full name, payment card information, birthdate, phone number, email address, physical address and gender, although the company does not have “direct evidence” that such personal information was actually taken. Social Security numbers were not affected, the company says, as it does not collect or store them.
+
+Orbitz said it began working with a “leading third party forensic investigation firm” along with other cybersecurity experts and law enforcement after discovering the breach on March 1.
+
+The current website is not involved in the breach, Orbitz, an Expedia subsidiary, assured customers.
+
+It plans to offer those affected one year of complimentary credit monitoring and identity protection service in countries where it’s available.David E. Kelly will once again write the scripts and executive produce the show’s seven-episode second season. This time around, however, “American Honey” director Andrea Arnold will direct and also executive produce, taking the reins from Jean-Marc Vallée.
+
+The new season will “explore the malignancy of lies, the durability of friendships, the fragility of marriage and, of course, the vicious ferocity of sound parenting,” according to the logline for the next chapter. “Relationships will fray, loyalties will erode … the potential for emotional and bodily injury shall loom.”
+
+Actors Adam Scott, James Tupper, Jeffrey Nordling and Iain Armitage are all expected to return. Streep is slated to play Mary Louise Wright, the mother of the late Perry Wright (Alexander Skarsgård).
+
+“Well, she sent an email to Nicole and I,” Witherspoon told Seth Meyers earlier this month, recounting how Streep joined the project. “And it said, ‘OK, I read the part and I love it and I’m going to do it.’ And I like dropped the phone, like mic drop, but I phone dropped. And then I called Nicole and I was like, ‘Is this real life? Is this really happening?’ And then I got off the phone with Nicole and I, like, hugged myself gently for a minute and said, ‘This is really happening. You’re really working with Meryl Streep.’”Selena Gomez is living her best life on a yacht somewhere off the coast of Australia sans Justin Bieber ― the on-again, off-again couple are reportedly off again ― and people still won’t leave her alone.
+
+After the “Wolves” singer was photographed in her bikini over the weekend, the body shaming began almost immediately. The response was even more disappointing than usual, considering that Gomez has been open about complications from a kidney transplant last year that left her with what she described as an “obtrusion that will be there forever.”
+
+The former Disney star seemingly hit back at the body shamers with a powerful video post on Instagram Monday that dismantled “the beauty myth” and revealed she’s taking time to focus on herself.
+
+“The beauty myth ― an obsession with physical perfection that traps modern woman in an endless cycle of hopelessness, self consciousness, and self-hatred as she tries to fulfill society’s impossible definition of flawless beauty,” Gomez captioned a video of herself and friends enjoying the sun Down Under. “I chose to take care of myself because I want to, not to prove anything to anyone. Wind in her sails. 🌈💜”
+
+A post shared by Selena Gomez (@selenagomez) on Mar 19, 2018 at 9:56pm PDT
+
+Her post apparently struck a chord with friend Amy Schumer ― Gomez made a cameo on the third season of her Comedy Central series ― and the comedian reposted the message on her own page.
+
+“I am inspired by Selena and my friends and women everyday daring to just feel good,” Schumer wrote in the caption. “No striving for another version of yourself. Let’s love ourselves today. Just how we are.”
+
+A post shared by @amyschumer on Mar 20, 2018 at 8:25am PDT
+
+Since revealing her surgery for a kidney transplant, Gomez has opened up about her changing relationship with her body, especially when it comes to accepting her surgical scar.The Most Popular U.S. Destinations Of 2018, According To TripAdvisor
+
+Get inspired for your next getaway.What led to your research on the link between Craigslist and sex work safety?
+
+I did a survey in 2008 that found online platforms were helping sex workers screen clients through references and email correspondences. That research seemed to be extremely important for thinking about sex workers’ safety. Prostitutes have the highest homicide rates of any female occupation in the country. They have been targeted by serial killers, violent men, and they are viewed as disposable, as people nobody will miss.
+
+How did Craigslist ads ― specifically those posted in the now-defunct erotic services section ― reduce the number of sex workers who are killed by such a drastic amount?A man who boasted about sexually assaulting women knew a “scary” amount about the appearance of Bill Gates’ daughter, the tech billionaire said.
+
+President Donald Trump, who once claimed he could grab women “by the pussy,” put the former Microsoft CEO in an uncomfortable position when the two met after the 2016 presidential election.
+
+Trump began to talk about Gates’ daughter, 22-year-old Jennifer Gates, the father explained to his staff during an event at the Gates Foundation, according to a video obtained by MSNBC.
+
+“He knew my daughter Jennifer because Trump has this horse show thing down in Florida,” Gates said. “So he went up and talked to Jen and was being super nice.”
+
+Then things got weird.
+
+“And then about 20 minutes later he flew in in a helicopter to the same place,” Gates added. “So he clearly had been driven away but he wanted to make a grand entrance in a helicopter.”
+
+Trump brought up Jennifer to Gates and his wife, Melinda Gates, and apparently made a point of discussing her physical appearance.
+
+“When I first talked to him it was actually kind of scary how much he knew about my daughter’s appearance,” Gates said. “Melinda didn’t like that too well.”United Airlines is evaluating the way it handles pets after a string of animal-related mishaps last week — including one incident in which a puppy died in an aircraft’s overhead bin.
+
+The company announced on Tuesday that it will temporarily stop taking new reservations for PetSafe, its program in which animals travel in the plane’s cargo compartment, until May 1. It will, however, still honor reservations that have already been made for the service.
+
+“We are deeply committed to the safety and comfort of the animals and pets in our care,” the airline wrote in a post on its site. “We are conducting a thorough and systematic review of our program for pets that travel in the cargo compartment to make improvements that will ensure the best possible experience for our customers and their pets.”
+
+Last week was an extraordinary bad week for pets flying on United. On Tuesday, a German shepherd wound up in Japan and a Great Dane flew to Kansas City, Missouri, after the airline mixed up their destinations.
+
+On Thursday, a St. Louis-bound flight had to take a sudden detour when the airline discovered it had loaded a dog in cargo that was meant to go to Akron, Ohio.
+
+United told the Chicago Tribune that all three dogs were reunited with their owners and all 33 passengers aboard the diverted flight to St. Louis were compensated for the inconvenience.
+
+These hiccups, however, pale in comparison to a heartbreaking incident that occurred on Monday, when a 10-month-old French bulldog died after its owners said a flight attendant insisted the puppy and its carrier be stored in the cabin’s overhead bin and the animal suffocated.
+
+Though United is temporarily pausing its program for pets traveling in cargo, the suspension will not affect pets that are traveling with their owners in cabins.
+
+United’s announcement on Tuesday mentions that the company is reviewing its service for cabin-flying pets and will “issue bright colored bag tags to help better identify pets who are traveling in-cabin.”As part of a tour of Western countries to promote the changes he's making in Saudi Arabia, Crown Prince Mohammed bin Salman visited the United Kingdom, where he met with Queen Elizabeth, March 7, 2018. POOL New / Reuters
+
+Saudi Arabia’s crown prince, Mohammed bin Salman, says women and men are “absolutely” equal, even though he leads a country with some of the world’s strictest laws against women’s rights.
+
+“We are all human beings and there is no difference,” he told CBS’ “60 Minutes” in an interview that aired Sunday.
+
+Bin Salman ascended to the role of crown prince in June, and began a fast-paced and at times controversial cultural and political overhaul. At the top of the list, he said, was doing away with policies that have prevented women from flourishing since Saudis imposed strict religious rule in 1979.
+
+“We were living a very normal life like the rest of the Gulf countries,” bin Salman said of the pre-1979 period. “Women were driving cars. There were movie theaters in Saudi Arabia. Women worked everywhere.”
+
+He called the years since a “painful period that we cannot justify.”
+
+“Today, Saudi women still have not received their full rights. There are rights stipulated in Islam that they still don’t have. We have come a very long way and have a short way to go.” --Crown Prince Mohammed on improving conditions for women. pic.twitter.com/ke8fGvJsCA — 60 Minutes (@60Minutes) March 19, 2018
+
+Interviewer Norah O’Donnell pressed bin Salman on rights women are still denied, including the country’s guardianship laws that require women to ask permission from a male guardian to do things like apply for a passport or get married. Women also can’t eat in restaurants except in a designated family section or receive equal rights in court.
+
+He acknowledged there’s more to be done.
+
+“Today, Saudi women still have not received their full rights,” he said. “There are rights stipulated in Islam that they still don’t have. We have come a very long way and have a short way to go.”A protest sign outside a funeral hall in Sanaa, Yemen, that was hit by the Saudi-led coalition that receives U.S. support. Khaled Abdullah / Reuters
+
+WASHINGTON ― The Trump administration is doubling down on its claim that it cannot know whether U.S. support for a Saudi-led coalition fighting in Yemen enables the bombing of civilians, according to a Pentagon document sent to select Senate offices last week and shared with HuffPost.
+
+The Defense Department gave two reasons for not having that information. It said it does not know whether the Saudi and United Arab Emirates planes that receive American aerial refueling are headed for bombing runs or reconnaissance missions, and it cannot investigate the impact of Saudi-UAE airstrikes since Yemen is a conflict zone.
+
+But in the same document, the Pentagon maintains that it believes the Saudi-led coalition has become better at preventing civilian casualties ― offering no evidence of how the U.S. can know that.
+
+The two-pager represents a previously unreported part of the Pentagon effort to solidify opposition to a Senate resolution that aims to end U.S. assistance to the coalition because Congress never authorized it when then-President Barack Obama initiated the aid in 2015.
+
+A vote on the measure, sponsored by Sens. Bernie Sanders (I-Vt.), Mike Lee (R-Utah) and Chris Murphy (D-Conn.), is expected later this week.
+
+The Pentagon document, sent on March 15, fleshes out testimony that Gen. Joseph Votel, the top U.S. commander in the Middle East, gave on March 13 to the Senate Armed Services Committee. In sometimes heated exchanges with several lawmakers, Votel said the U.S. should continue its support for the coalition even if it cannot tell whether American fuel or bombs are used in airstrikes that kill civilians.
+
+Sen. Angus King (I-Maine) asked if the U.S. was maintaining “some level of control” over the coalition’s actions.
+
+“The influence that we derive with them is by working with them,” Votel said, adding that he believes the Saudis are adopting American-style procedures to limit civilian casualties.
+
+“It’s better for us to stay engaged with them and continue to influence this,” he said.
+
+King retorted: “You said for us. How about for the people of Yemen?”
+
+U.S. support for the coalition is the best way for the U.S. to look out for Yemenis, Votel responded.
+
+Already the poorest country in the Persian Gulf, Yemen has suffered as a years-long fight has been waged between the Saudi-led coalition and Iran-backed rebels with their own track record of targeting civilians and shooting missiles at civilian centers in Saudi Arabia.
+
+“Let’s be super clear: the Saudi military has made no serious effort to limit civilian casualties in Yemen.” - Obama-era foreign aid official Jeremy Konyndyk
+
+The coalition has caused two-thirds of the thousands of civilian deaths in Yemen since 2015, according to the United Nations. And a U.N. report in January said the Saudis’ mechanism for investigating airstrikes repeatedly missed incidents U.N. experts verified. Meanwhile, American defense contractors are seeking approval to sell more bombs to Saudi Arabia and the UAE.
+
+On Sunday, after the Wall Street Journal published a report from inside the Saudi war room, Obama-era foreign aid official Jeremy Konyndyk tweeted, “Let’s be super clear: the Saudi military has made no serious effort to limit civilian casualties in Yemen.”
+
+The likely Senate vote on the American role in the war coincides with a Washington visit by Saudi Crown Prince Muhammed bin Salman ― one of President Donald Trump’s favorite world leaders, and the architect of the Yemen campaign in his role as Saudi defense minister.
+
+Trump and the prince are to meet on Tuesday. In a call previewing the session with reporters on Monday afternoon, two senior administration officials said Yemen would be discussed, but stressed the need to thwart Iranian intervention there.
+
+The officials did not mention any major shift in U.S. policy, calling the American support for the Saudi-UAE coalition “very modest” and noting U.S. and Saudi humanitarian assistance for victims of the war.
+
+The importance of the U.S.-Saudi relationship has become a prominent part of the Trump administration’s case for continuing to aid the coalition.
+
+“Saudi Arabia is a strong partner in the Middle East and provides support to U.S. counterterrorism operations against ISIS in Syria and against [Al Qaeda] and ISIS in Yemen,” the document provided to HuffPost reads. It warns that pulling American assistance in Yemen could result in the Saudis doing less to target terror groups.
+
+Peace groups slam the Pentagon’s narrative. In a response to Defense Department document, the Friends Committee on National Legislation, Win Without War and the Yemen Peace Project say the administration is trying to weaken congressional oversight.
+
+They also say that public American pressure on the Saudi-led coalition has had a greater impact on alleviating the humanitarian crisis in Yemen than behind-the-scene efforts by U.S. officials. And the groups note that the Senate resolution does not prevent the U.S. from continuing to help defend the Saudis and other partners from attacks emanating from within Yemen.
+
+“Continuing unconditional U.S. military support does nothing to support the push for a negotiated resolution [in Yemen], instead endorsing more stalemated military operations,” the groups argue. “Ending essential U.S. military support will change the coalition’s cost-benefit analysis of continuing this intervention indefinitely.”
+
+This story has been updated with comment from administration officials.Cambridge Analytica and the professor have denied violating Facebook’s terms, according to media reports.
+
+The scrutiny presented a new threat to Facebook’s reputation, which was already under attack over Russians’ use of Facebook tools to sway American voters before and after the 2016 U.S. elections.
+
+Republican Senator Jeff Flake said he had a lot of questions about the data taken from Facebook, including who knew it had been taken and whether it is still being used.
+
+“This is a big deal, when you have that amount of data, and the privacy violations there are significant,” he told CNN’s “State of the Union” program. “So the question is who knew it and when did they know it, how long did this go on and what happens to that data now.”
+
+Facebook faced new calls for regulation from Democratic senators on Saturday and was hit with questions about personal data safeguards, but it was unclear whether the Republican-controlled Congress would act.
+
+U.S. Representative Adam Schiff, the top Democrat on the House Intelligence Committee, said more investigation was needed.
+
+“We need to find out what we can about the misappropriation of the privacy, the private information of tens of millions of Americans,” he said Sunday on ABC’s “This Week.”
+
+Also on ABC, Senator James Lankford, a Republican, said it was not known whether the incident was connected to the Trump campaign.Joshua Roberts / Reuters
+
+WASHINGTON ― Republicans say they see no need to pass legislation to protect Robert Mueller, the head of the investigation into Russian interference in the 2016 presidential election, despite fresh attacks from President Donald Trump against him over the weekend.
+
+Trump took on the special counsel by name for the first time on Saturday, writing the next day on Twitter that his probe was not “fair” and stating falsely that it was staffed by all Democrats and no Republicans. The president’s attorney, John Dowd, later urged the Justice Department to immediately end the special counsel probe. Despite ensuing White House denials, Dowd’s statement and Trump’s pointed attacks earlier in the day led many to speculate that Mueller’s job could be in peril.
+
+On Monday, Trump again criticized the Russia investigation, alleging it had “massive conflicts of interest.”
+
+A total WITCH HUNT with massive conflicts of interest! — Donald J. Trump (@realDonaldTrump) March 19, 2018
+
+Republicans over the weekend offered a mostly muted response to Trump’s attacks against Mueller. A few, like Sen. Lindsey Graham (R-S.C.) and Sen. Jeff Flake (R-Ariz.), warned that moving to terminate the special counsel would represent a “red line” and could even represent the “end” of Trump’s presidency.
+
+No Republican, however, called for a vote on long-stalled legislation meant to shield Mueller from firing. Sen. Thom Tillis (R-N.C.), a co-author of one such bill, tweeted Monday that the special counsel ought to be able to “continue his investigation unimpeded.”
+
+Republican leaders, meanwhile, said they had no plans to intervene because they did not believe Trump would act against Mueller despite a slew of recent personnel shake-ups among government agencies and the firing of Andrew McCabe, who served as the Deputy Director of the Federal Bureau of Investigation, Friday.
+
+“I have urged the White House in public and private to allow Mueller to continue his investigation uninterrupted,” Sen. Orrin Hatch (R-Utah), the Senate president pro tempore, said in a statement on Monday. “I know Mueller well and believe him to be a straight shooter, and I continue to believe that giving Mueller the time and support necessary to get to the bottom of things is in the best interest of all parties involved.”
+
+“My conversations with the White House have led me to believe legislation is not necessary at this point because I do not believe the president would take such a foolish action,” Hatch added in the statement.
+
+Senate Majority Whip John Cornyn (R-Texas) was similarly dismissive of the possibility that Trump could fire Mueller, telling reporters on Monday he did not think the president would do so because “the consequences would be so overwhelming.”
+
+“I don’t see the necessity of picking that fight right now,” Cornyn added.
+
+The views of Sen. Dianne Feinstein (D-Calif.) lined up with those of Republicans on Monday. She told reporters that she didn’t think special protections were necessary since firing Mueller was so obviously a bad move, according to The Washington Post’s Karoun Demirjian.
+
+Feinstein clarified later that she believes Mueller is already protected under current regulations because Deputy Attorney General Rod Rosenstein has said there is no cause to fire him. The senator added, however, that she also supports legislation to codify those regulations.
+
+It’s not hard to envision Trump taking his attacks against Mueller to another level, however. The president has a reputation for impulsiveness, and on Monday the White House added a lawyer to its team who has pushed the theory on television that the FBI and Justice Department framed Trump.
+
+Trump also surprised many members of his party earlier this month by announcing tariffs on steel and aluminum imports ― policies that have historically been opposed by free-trade conservatives. Many Republicans on Capitol Hill were unaware of the details surrounding the policy until after it was announced by Trump at the White House.
+
+New York Times reporter Maggie Haberman wrote over the weekend on Twitter that the president was “testing” lawmakers with his attacks on Mueller.President Donald Trump has pressured senior White House staff members to sign nondisclosure agreements that are more sweeping than ever demanded by a president, The Washington Post reported.
+
+The agreements are applicable to staffers while they’re working in the White House and “at all times thereafter,” meaning they continue to apply even after Trump’s presidency, according to a draft agreement examined by Post deputy editorial page editor Ruth Marcus.
+
+The draft agreement says staffers could be fined as much as $10 million for unauthorized release of confidential information. Marcus wrote in an op-ed on Sunday that she suspects the penalty is lower in signed agreements.
+
+All of Trump’s senior staffers appear to have signed the agreements, with some believing it unenforceable, Marcus reported. Trump, enraged by leaks, pressed for compliance early last year.
+
+Marcus called such agreements that gag White House staff members even after the president’s term “not only oppressive but constitutionally repugnant.”
+
+The draft agreement defines “confidential” information as “all nonpublic information I learn of or gain access to in the course of my official duties,” including “communications [with] the press” and with “employees of federal, state, and local governments.” The information cannot be revealed, even in a “work of fiction.”
+
+Trump’s zeal against leakers was reflected in threats his attorney made Friday against porn star Stormy Daniels, who said she had a nearly yearlong affair with Trump in 2006. Trump’s personal lawyer Michael Cohen warned that Daniels could be sued for as much as $20 million if she violates a non-disclosure agreement.
+
+“60 Minutes” is set to broadcast an interview with Daniels on Sunday.

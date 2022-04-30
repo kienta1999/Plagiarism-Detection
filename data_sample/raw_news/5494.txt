@@ -1,0 +1,19 @@
+"Single Atom in an Ion Trap," by David Nadlinger. David Nadlinger/University of Oxford/EPSRC
+
+An Oxford University student who captured an image of a single atom has won a top science photography prize.
+
+David Nadlinger captured the winning photo of an atom suspended between electric fields using a standard digital single-lens reflex camera, the council that organized the U.K. photography competition announced on Monday.
+
+“The idea of being able to see a single atom with the naked eye had struck me as a wonderfully direct and visceral bridge between the miniscule quantum world and our macroscopic reality,” Nadlinger said according to an Engineering and Physical Sciences Research Council press release.
+
+“A back-of-the-envelope calculation showed the numbers to be on my side, and when I set off to the lab with camera and tripods one quiet Sunday afternoon, I was rewarded with this particular picture of a small, pale blue dot,” he added.
+
+Nadlinger, a Ph.D. student in physics, traps atoms as part of his research on quantum computing at Oxford’s Clarendon Laboratory. Atoms are incredibly small, but he used a few tricks to make the atom visible to the human eye in a photograph.
+
+A close-up of David Nadlinger's photo of a strontium atom. David Nadlinger/University of Oxford/EPSRC
+
+The researcher first turned the atom of strontium, the 38th element on the periodic table, into an ion ― an atom with a positive or negative net electric charge. Nadlinger then used currents that four needle-shaped electrodes emitted to isolate and suspend the ion. He illuminated it with a blue-violet colored laser and took the photo through the window of a vacuum chamber, using an exposure time of 30 seconds.
+
+The pale dot that Nadlinger captured is not the true size of the strontium atom, however. The atom is actually re-emitting the light from the lasers to create a glow that is hundreds of times wider than its radius.
+
+“I think people are ... surprised by how big the atom looks here,” Nadlinger told LiveScience. “I hope I’m not undoing 100 years of science education with this photo — atoms actually are unbelievably small!”

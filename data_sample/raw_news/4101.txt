@@ -1,0 +1,111 @@
+Stephen Lam / Reuters
+
+Every day, as part of her job, Johanna Wild delves deeply into the nastiest reaches of Facebook.
+
+For her Munich-based startup Crowdalyzer, she analyzes the misinformation and hate-based news that Facebook users read, comment on and share. Wanting to understand how the followers of different parties tick, Wild spent a week living in their world. To do this, she sequestered herself in Facebook groups where fake news is known to spread.
+
+One of those pages is “Freie Medien” (in English, Free Media), where Facebook fans of Germany’s liberal-conservative political party, the Christian Democratic Union (CDU), are known to share conspiracy theories. There you’ll find posts claiming shampoo ingredients are “Trojan horses with dangerous invaders,” or that the United Nations allows food products to slowly be poisoned.
+
+“I was living in a parallel world that filled me with hate and made me feel like there’s one simple solution to all of the big problems in this world,” she said.
+
+And, when the experiment was over, Wild realized, “That’s a world that takes a lot of effort to get back out of.”
+
+How we got here: Facebook’s algorithm changes
+
+Facebook CEO Mark Zuckerberg, who has frequently downplayed concerns about fake news, in January promised to give the site’s more than two billion users “more meaningful interactions” with a revamped newsfeed.
+
+The customized newsfeed that all users now see when they open up Facebook works in a radically different way. Users are seeing more personal information from friends and family members, as well as the news they find important enough to comment on and share.
+
+It is one of the most fundamental changes to the world’s largest social networking site since it was founded in 2004, and one that Zuckerberg said he hopes will better people’s lives.
+
+“The research shows that when we use social media to connect with people we care about, it can be good for our well-being,” he said. “We can feel more connected and less lonely, and that correlates with long-term measures of happiness and health. On the other hand, passively reading articles or watching videos ― even if they’re entertaining or informative ― may not be as good.”
+
+Meanwhile, Facebook is selling the measure to brands ― many of whom have seen a dramatic decrease in engagement since the changes began to roll out ― as a major quality initiative.
+
+“We want to define what quality news looks like and give it a boost,” Facebook manager Campbell Brown promised at a mid-February publisher conference.
+
+But if Facebook prioritizes posts from friends and relatives ― and if those people regularly share misinformed or racist views ― the new algorithm would only bolster a dangerous echo chamber.
+
+And by giving preference to the posts that get the most reactions from users, Facebook could amplify fear and hate, a reality that contradicts comments that Zuckerberg made last year.
+
+“It’s important that Facebook is a place where people with different views can share their ideas,” he said. “Debate is part of a healthy society. But when someone tries to silence others or attacks them based on who they are or what they believe, that hurts us all and is unacceptable. There is no place for hate in our community.”
+
+HuffPost’s research shows how Facebook’s plan to boost quality backfired
+
+A HuffPost Germany analysis shows that, despite Zuckerberg’s comments, content that triggers emotions like hate, anger, and fear are gaining in significance in Germany. The finding is the result of extensive research by HuffPost using data from the website “10000 Flies”.
+
+The company measures interactions triggered by articles on social media and lists the most successful articles every day. “Interactions” refers to likes, reactions, shares and comments on Facebook, as well as tweets, retweets and likes on Twitter, although they make up a comparatively low part of the interactions.
+
+The analysis focused on the 20 most successful posts of each respective day. January 2018 and July and January 2017 were compared in order to trace the development of the posts on a random basis for a year.
+
+A total of 1860 posts were included in the analysis. That’s 620 posts for each month. The central question for the analysis: What proportion of the 20 most successful articles has content that plays on and amplifies emotions such as hate, anger, indignation, and fear?
+
+One thing is certain: The posts that trigger negative emotions vary from user to user. Nevertheless, when looking at the comments below the articles, it can be said that articles covering the topics of refugees and crimes in particular trigger strong negative emotions among readers.
+
+Emotional posts are gaining in significance
+
+Articles that stir emotions like hate and fear played a more important role in January 2018 than in July and January 2017. The number of interactions with such posts was higher in this past January than in the two other months that were compared. They are more often among the most successful articles on social media and also make it into the top 20 more often.
+
+Dubious niche media outlets were also increasingly able to compete with major public media by means of highly polarizing topics and are seeing high growth rates for the interactions.
+
+For example, articles about German refugee policies and stories about crimes by suspects with migrant backgrounds dominated.
+
+“Far from bringing enlightenment, social media have been spreading poison,” “The Economist” wrote in a November 2017 cover story about Facebook as a “threat to democracy”.
+
+Tristan Harris, formerly a Design Ethicist at Google, is also coming down hard on social media, especially Facebook: “Social media can amplify people’s worst traits,” he said in a February Wired article.
+
+Fear-based articles generate an especially large amount of interaction
+
+The research also showed that fear-based articles on social media are gaining in significance.
+
+Not only has the proportion of these articles in the top 20 increased, but so have users’ interactions with these articles. While the number of interactions in January 2017 was 3.3 million, it was already 3.7 million a year later.
+
+After Donald Trump won the U.S. presidency in the fall of 2016, media researchers at Columbia University discovered that the posts by six platforms that supported his election with misinformation alone were shared more than 340 million times on Facebook.
+
+“The number of fear-based articles has increased bit by bit among the articles with the most interactions,” said Jens Schröder, founder and co-operator of “10000 Flies.”
+
+Many of these articles are being generated from niche media sites that have greatly benefited from the new algorithm. Almost all of the ones we studied grew significantly in January 2018 in terms of both reach and popularity, surpassing more prominent mainstream publications like Der Spiegel or Bild.
+
+For example, the social media reach of the right-wing news site “Epoch Times” rose by almost 15 percent, even though the site does not even rank among the top 50 most-read news sites in Germany. The conspiracy theory site “Journalistenwatch” recorded a gain of almost 90 percent in the same period. The right-wing conservative newspaper “Junge Freiheit” climbed 56 percent.
+
+Without social media, sites such as the “Epoch Times” would not be able to compete with well-established news sites, but different rules apply on Facebook.
+
+“Due to the extreme activity of the right-wing filter bubble, this ‘alternative media’ looks much bigger and more popular than it actually is when you look at overall media consumption and not just at interactions on social networks,” Schröder said. “That’s probably one of the reasons why right-wingers tend to overestimate the size of their social circles. After all, they only make up 15 percent of the German population and don’t represent ‘das Volk’ [the German people].”
+
+Fear-based articles are increasingly making it to the top of the ranking
+
+With the outsized influence of right-wing media came an increase in the visibility of fear-based news. In January alone, fear-based and often misleading stories held the top place in the “10000 Flies” ranking, including many stories about refugee crimes, a favorite topic of right-wing sites.
+
+On Jan. 9, social media was running hot because of a film about refugees which had aired on the German children’s public television channel KiKa. KiKa first showed the documentary in November 2017, but it gained steam in January after posts from right-wing blogs attacking the film went viral on Facebook.
+
+Three articles about the alleged KiKa scandal made it into the top 20 of the “10000 Flies” ranking that day, including two in the top three.
+
+Furthermore, reports about allegedly criminal refugees and the news that German federal ministries were preparing for the arrival of 300,000 refugees following their relatives to Germany made it into the ranking.
+
+The Kika story was far from an outlier. In January 2017, 36 percent of the articles in the top 20 of the “10000 Flies” ranking were fear-based articles. This figure rose to 38 percent in July and jumped to an astounding 50 percent in January 2018.
+
+On Jan. 27, 2018, an article titled, ”Government Pays Harem 7500 Euros per Month,” was the month’s most successful post, according to “10000 Flies.”
+
+In the article by the right-wing populist conspiracy site “Anonymous.ru,” the case of a single mother with nine children who, according to a district office decision, allegedly receives 7500 euros per month, is misrepresented.
+
+After doing some research, the websites “Mimikama” and “Tag24” revealed that the family receives significantly less, actually about 3,000 euros. However, the correction received a lot less attention on social media than the original story.
+
+It’s important to note that January 2018 was actually a relatively weak news month in Germany. With the exception of the formation of the grand coalition, there was no dominating topic.
+
+Refugees bear the brunt of Facebook vitriol
+
+Murder, manslaughter, disasters. These are the topics that were extremely successful on social media in January 2018. In January, a total of 109 articles in the top 20 of the “10000 Flies” ranking were about crimes, and a refugee was involved in every other crime. Compared to other months, this ratio has changed only marginally.
+
+Articles such as “Regensburg: Two 17-year-old Afghans brutally beat police officers” from the the Epoch Times headed the “10000 Flies” ranking on Jan 14. Another article from Die Welt, “Refugee said to have abused 4-year-old daughter of his foster family,” topped the ranking on Jan. 21.
+
+This results in a distortion that does not reflect reality. In Germany, the proportion of immigrants involved in criminal offenses in 2016 was 14.5 percent.
+
+Figures for 2017 will not be released until spring. However, it should not be assumed that the proportion will be significantly higher than in the previous year.
+
+A parallel world?
+
+Facebook seems to have become a place that no longer reflects the reality of life of the majority of its users and of the general public. Extreme, xenophobic, and racist content multiplies there, while other types of content usually founder.
+
+While it may seem like Facebook is creating a parallel world, Schröder notes that it’s actually made up of a small but very active number of people.
+
+“It remains to be seen whether the ‘parallel world’ will continue to exist forever,” Schröder said, noting that extremist content always has its “constant ups and downs.”

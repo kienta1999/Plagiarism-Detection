@@ -1,0 +1,75 @@
+Voters in Phoenix, seen here waiting for polls to open at dawn in November 2016, had to wait as long as four hours to vote during the presidential primary earlier that year. Minority communities have not benefited as much as white communities have from innovations to shorten lines. Matt York, The Associated Press
+
+By Matt Vasilogambros
+
+On the day of Arizona’s 2016 presidential primary, the line outside the Maryvale Church of the Nazarene, the Maricopa County polling place for 213,000 mostly Latino, low-income people, extended through the parking lot, down busy North 51st Avenue, and into a neighborhood lined with palm and eucalyptus trees on the western edge of Phoenix.
+
+Some voters waited for four hours or more in the 80-degree heat to cast their ballots, according to Martin Quezada, a Democrat who represents the area in the Arizona Senate. Quezada said the long wait time was more than an inconvenience.
+
+Latino voters don’t trust the system, Quezada said. “If they don’t have a good experience on Election Day when they are casting their ballot, their likelihood of participating in a system they don’t trust again in the future becomes that much harder.”
+
+Across the country, elections officials are marshaling data on registered voters, historic turnout, parking spaces and other information to reduce wait times at polling places. Also helping to decrease wait times is voting by mail, which is available in 22 states, and early voting, which is now offered in 37 states — though a couple of states have rolled back their early voting.
+
+But white voters are benefiting far more from such innovations than Hispanic or black voters are. As the nation gears up for what is shaping up to be a high-energy midterm election this November, the disparity is likely to loom large.
+
+In the 2016 presidential election, black voters, on average, waited 16 minutes to vote, while Latino voters waited 13 minutes, according to a Massachusetts Institute of Technology survey of voters. In the same election, white voters waited 10 minutes. In 2012, black and Latino voters stood in line for more than 20 minutes to cast their ballot, nearly twice as long as white voters.
+
+Stephen Pettigrew, a political scientist at the University of Pennsylvania, has found if there are two neighborhoods in the same city, and one is majority-white and the other has more blacks and Hispanics, voters in the white neighborhood have a shorter wait.
+
+Voting rights advocates call the disparity a “time tax.” They argue that it violates the fundamental right to vote — and that it is often intentional.
+
+“We are in a state of threat to voting rights,” said Denise Lieberman, co-director of the Power and Democracy program at the Washington, D.C.-based Advancement Project, a civil rights organization. “Some actions, like changing polling places, may seem benign on its face, but they are creating havoc.”
+
+Fewer Resources
+
+In poorer counties and cities, long lines may stem from a lack of resources. But even in wealthier counties, minority communities tend to get fewer polling places, voting machines and poll workers than white neighborhoods in the same county, according to a 2014 study from the Brennan Center for Justice at New York University’s School of Law. “Minority precincts have tended to get the short end of the resource allocation stick,” the study concluded.
+
+Lieberman argues that in many counties, election officials are less inclined to provide minority communities with the resources that can shorten lines.
+
+It’s one of many policies that are “creating a climate of discrimination,” Lieberman said, in the same vein as restrictive voter ID laws, the slashing of early voting in states like Florida and North Carolina, and the consolidation of polling places, all of which adversely affect communities of color. Local officials and state lawmakers are trying to suppress the minority vote, Lieberman said.
+
+“None of this is a coincidence,” Lieberman said. “The folks who pass these laws know their impact. … Communities of color bear the brunt of a lack of legal protection.”
+
+In North Carolina, a federal court agreed in 2016, saying many of the state’s restrictive voting laws, including strict voter ID requirements and a rollback of early voting, “target African-Americans with almost surgical precision.” North Carolina lawmakers said the laws were passed to protect state elections against fraud and to save counties money.
+
+Cutting Voting Lines
+
+Local election officials know how to keep voting lines short, which makes this time gap so frustrating for voting scholars such as Charles Stewart III, the director of MIT’s Voting Technology Project.
+
+U.S. voters’ wait time shrank to 11 minutes in the 2016 presidential election, down from 14 minutes in 2012, according to MIT’s quadrennial survey. Further, the survey found, fewer voters waited more than an hour to cast their ballot than in the previous election. County officials should be using best-practice tools to decrease wait times in all precincts regardless of their racial makeup, Stewart said.
+
+Many of those tools were implemented after the 2012 presidential election, where hellish voting lines in states such as Florida made national news. (On average, according to MIT’s survey, it took Florida voters 46 minutes to cast their ballots that year.) President Barack Obama took notice, and in 2013 he appointed a bipartisan commission, led by the chief lawyers from his campaign and Republican nominee Mitt Romney’s campaign, to solve the issues that plagued the country’s electoral system.
+
+One of the commission’s primary recommendations was to use data, such as voter registration numbers and parking availability near polling places, to better manage polling places, which would in turn decrease the size of lines. The commission’s goal was to make sure no American ever waits more than a half-hour to vote.
+
+Tammy Patrick, a senior adviser at the nonprofit Democracy Fund and a member of the commission, said that because election officials are following its recommendations, “the preponderance of lines is going down.”
+
+Stewart, for his part, launched an online “toolkit,” which he said is now used by a quarter of the country’s local election officials to help them deploy enough poll booths, poll workers and ballot scanners to handle Election Day voting.
+
+“If you’re not gathering that data,” Stewart said, “you’re running blind.”
+
+Michael Scarpello, the registrar of voters in San Bernardino County, California, has embraced that lesson.
+
+To serve the largest geographic county in the contiguous 48 states, Scarpello and his analytics department take a large swath of data — registered voters, historic turnout, parking spaces, voter behavior, capacity of polling places — to assign poll workers, distribute supplies­­ and assign voters to specific polling locations, freeing up busy locations and utilizing underused places. Using this data, Scarpello is able to update polling place capacity by the hour in a county of nearly 900,000 registered voters.
+
+“If there are lines, they are short,” Scarpello said. At most, voters wait five minutes.
+
+The county’s immediate response to Election Day voter behavior lowers the length of lines, the cost of elections, and the time it takes to count ballots. Between 2008 and 2016, the county cut its ballot-counting time nearly in half, from 16 hours to nine, Scarpello said.
+
+“Our job is to make voting as convenient as possible for voters,” Scarpello said. “If voters are motivated, we don’t want to put any barriers in their way.”
+
+Closing the Gap
+
+Voting lines in Orange County, California, never surpass nine minutes, said Neal Kelley, the county’s registrar of voters. That’s significant because the county is the fifth-largest voting jurisdiction in the country and because a third of the electorate is Latino.
+
+There is no difference in wait times between Orange County’s majority-white Newport Beach and majority-Latino Santa Ana, Kelley said. Countywide, the average wait time for voters dropped drastically in recent years after Kelley began using sophisticated data techniques to change how they allocate the county’s 11,000 voting booths and 9,000 poll workers among 1,300 polling places.
+
+As the county prepares for a potentially competitive congressional election for 15-term Republican U.S. Rep. Dana Rohrabacher’s seat this November, Kelley said he’s relying on data from 2010, the last hotly contested midterm election, to estimate turnout for this one.
+
+Kelley said he will monitor precincts closely on Election Day. “One booth could make all the difference in the world.”
+
+In Maricopa County, where Quezada and his neighbors waited so long to vote in 2016, the official in charge of that election has paid a price.
+
+Helen Purcell, then Maricopa County’s recorder since 1989, had reduced the numberof polling places for the 2016 primary, recommending 60 polling places in the fourth-largest county in the United States, down from 200 in 2012.
+
+In the aftermath of the election, The Arizona Republic found that low-income, Latino neighborhoods bore the brunt of the decrease. Purcell, a Republican, denied that race was a motivating factor, but she faced widespread criticism and lost her reelection bid to Democrat Adrian Fontes, who became the first Latino elected as Maricopa County recorder.

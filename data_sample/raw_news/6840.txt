@@ -1,0 +1,93 @@
+The last presidential election was undoubtedly a boom for news publishers in terms of audience figures, but what’s next? Are readers gradually losing interest in politics — aka “Trump fatigue” — and if so, what stories are they reading now? How are they consuming political content compared to other subjects? Are there factors aside from subject matter that impact reader engagement?
+
+Oath News ― made up of the brands HuffPost, Yahoo News, and AOL ― is the world’s No. 1 digital news group, according to comScore, attracting over 165 million readers in the U.S. and 220 million readers globally every month. Oath News covers a variety of topics, including national news, politics, foreign affairs, business, lifestyle and entertainment.
+
+While politics has always been considered a core aspect of our coverage, Donald Trump’s rise has been an even greater driver of readership and traffic over the past year. Oath News ranked No. 1 in reader engagement for articles about politics among major U.S. digital news outlets during the election season (from October 2016 to March 2017). This ranking placed Oath News ahead of The Washington Post, The New York Times, CNN, USA Today, The Guardian, and NBC News.
+
+Source: Social Platform Public APIs HuffPost
+
+But, what’s been happening after the election?
+
+To better understand the post-election news environment, we explored four questions:
+
+Are readers losing interest in articles about Trump and politics? Are readers engaging differently with Trump coverage compared to other topics? Are there factors besides topic that affect reader engagement? How do younger generations (e.g., millennials) react to stories about Trump and politics?
+
+TL;DR Audiences remain interested in Trump and political coverage, but the way they engage with it varies. Through our analysis, we determined the following:
+
+After the election, despite news outlets significantly reducing coverage of politics, readers’ demand remains strong.
+
+For Trump stories, audiences are willing to go beyond a political context.
+
+Although Trump-related content receives the highest viewership (page views), it’s relatively low in user engagement compared to other topics like gun control, climate change, and racism ― a possible reflection of news readers’ psychological behaviors. They might enjoy reading Trump news, but may be more hesitant to comment or share.
+
+Simple and straightforward storytelling wins, regardless of the article subject.
+
+Younger generations (millennials and Gen Z) who read politics or Trump stories are actually more persistent in political news consumption, equating to greater long-term value to news publishers.
+
+1. Are readers losing interest in articles about Trump and politics?
+
+Many have complained about the barrage of Trump coverage since the election, but are audiences actually tired of this content? Has there been a decline in readership? To answer these questions, we analyzed articles published by eight digital news publishers (HuffPost, Yahoo News, CNN, The New York Times, The Washington Post, The Guardian, USA Today and NBC News) over the course of 2017.
+
+Turns out, content “supply” has decreased. There has been a steady decline in the number of news articles published about Trump and about politics in general.
+
+HuffPost
+
+Content “demand” has dipped, but remains strong. Reader engagement with political content fell sharply from February to April in correlation with the decrease in articles about politics, then leveled off in May. Reader engagement with Trump-related content showed a similar trend until August, when engagement with this type of content increased sharply.
+
+HuffPost
+
+The August data suggests that reader engagement for Trump-related content was higher than engagement for all political content. These results show that while the volume of content related to Trump and other political news has decreased — perhaps due to saturation in the industry — consumption and reader engagement bounced back in May 2017, possibly driven by a few major national events (e.g. the Russia investigation, the health care bill, Charlottesville protests).
+
+Interestingly, our results also show that readers were engaged with Trump-related content regardless of whether it was political or not. For example, news that charities canceled fundraisers at Trump’s Mar-a-Lago resort over the summer received significant coverage and reader attention.
+
+2. Are readers engaging differently with Trump content compared to other topics?
+
+We analyzed over 2,500 topic tags on Oath News articles produced over the course of 2017 ― particularly, from our marquee news brand HuffPost ― and 10 topics stood out as both highly relevant to current national conversations and highly engaging for our readers. These topics are outlined below alongside coverage, readership and engagement metrics.
+
+HuffPost
+
+Trump-related content ranks highest in both the frequency of coverage and the readership performance (page views per article). This is unsurprising, considering Trump dominated the news cycle in 2017. But while people are avidly reading Trump news, they aren’t engaging with it at the same rate.
+
+On a per view basis, audiences are not commenting on or sharing Trump-related content at significantly higher rates compared to other topics. This suggests readers are reluctant to share their political views against or in support of Trump in public spaces like social media because of the controversy surrounding his presidency and the potential backlash they might face, a finding we validated through focus-group testing. Our data also suggests that this relatively lower sharing and commenting rate on Trump-related content (on a per view basis) has been stable since the 2016 election season began.
+
+Some topics performed just as high. Health care stood out as a topic with a high ratio of page views per article. While the volume of articles on this topic was low, health care articles on average received nearly the same number of page views as Trump-related articles, indicating a strong interest and concern around this topic. Emotionally-charged topics such as gun control, police violence, climate change, abortion and racism had relatively high numbers of shares per page view, suggesting that readers are motivated to share content that evokes an emotional response.
+
+With the exception of abortion, most policy-related topics (e.g., climate change, military) had fewer comments per page view than the average article. This lack of engagement may be a result of the complexity inherent to these policy discussions.
+
+3. Are there factors besides topic that affect reader engagement?
+
+There is a multitude of characteristics that can affect a story’s performance in different ways, and those effects can be impacted by other contextual factors not central to the content itself. For example, when was the article published? Where was it distributed?
+
+Word count is one such factor. Quartz popularized the use of word count as a metric in 2014, after it published research suggesting that articles should either be under 500 words or over 800, with articles in the middle-ground being “the place you don’t want to be.” We looked at a set of over 1,200 HuffPost articles published over the course of 2017 to test this assertion across four metrics.
+
+HuffPost
+
+While there are numerous reports on the more traditional elements of an article, we wanted to explore a factor less understood, but regularly discussed in conversations about the accessibility of news stories: readability, measured as the school-grade level education (6-14) required to read and understand an article easily.
+
+Looking at the same set of articles, we measured readability using a combination of readability indices.
+
+"Readability" measured as the school-grade level education (6-14) required to read and understand an article easily HuffPost
+
+The relationship between readability and engagement is clear. Our results suggest that as reading difficulty increases — at least up until an index value of 14 — engagement on a per page view basis increases. Our results contradict the Quartz research and suggest people tend to share and comment more frequently on long-form, enterprise pieces.
+
+And the relationship between readability and page views lends support to the Quartz proposition of a literary dead zone, with articles ranking below 8 or between 10 and 12 on the readability index driving less traffic.
+
+While the articles with the highest readability (13-14) may have driven higher viewership because of the greater potential engagement described above (i.e., more shares drive more views), there is a readability “sweet spot” where articles with a readability index between 8 and 9 receive high viewership despite low engagement. In other words, simple and straightforward storytelling (only requiring 8-9 grade education to understand) seems to maximize the accessibility of an article without straying too far into banal and uninteresting writing.
+
+4. How do younger generations (e.g., millennials) react to stories about Trump and politics?
+
+We were also interested in looking into the audience demographics of this readership. In particular, what is the audience profile for young generations consuming Trump-related stories? How are they reacting to those stories?
+
+By comparing our content data against multiple internal and external audience databases, we were able to outline the millennial (ages 18-34) and Gen Z (ages 13-17) audiences who read Trump stories. They are:
+
+Majority male (53%), more than the overall group average (42%) Relatively older with 70% of this audience between the ages of 25 and 34 Discover Trump stories mostly by directly visiting news sites (47%) Occupation: more in production (19% vs. avg=14%) and health/medical (19% vs. avg=15%), and less in administrative (19% vs. avg=25%) and sales (19% vs. avg=25%) More single than married (43% single vs. 33% married, while the the broader age group average = 29% single vs. 51% married)
+
+The data suggests that younger readers of Trump content are single, male professionals working in large sectors like manufacturing and health care who prefer finding or reading Trump stories directly via news sites or apps, instead of via Facebook or search.
+
+Another interesting finding is those readers demonstrate a higher retention rate. They tend to return to news sites more frequently than average readers. The retention chart below suggests that 8 weeks after they read their first Trump story, 11% of them returned to the news site organically, which is 3x higher than average news readers. And that retention rate does not drop significantly after Week 3. We see an average 9.7% organic retention rate even after 16 weeks (four months!). This indicates that Trump/politics readers ― even if they’re younger ― have a much more persistent interest in Trump stories and, thus, a greater long-term value to news publishers.
+
+Young (13-34) Trump story readers organic retention rate by week, by News Analytics, Oath HuffPost
+
+Authors: Vincent Wu (Head of Strategy & Growth, Oath News), Julian Gilliatt (Senior Manager, Oath News) and Megan Xu (Data Analyst, Oath News)
+
+Executive Author: Jared Grusd (CEO, HuffPost & Global Head of Oath News)

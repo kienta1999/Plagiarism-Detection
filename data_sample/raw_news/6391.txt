@@ -1,0 +1,51 @@
+Taylor Swift at a concert in Texas last year. Bots have been snatching up tickets to shows like Swift’s, despite federal and state efforts. John Salangsang, Invision via the AP
+
+By Rebecca Beitsch
+
+What do fans of “Hamilton,” Taylor Swift and Chance the Rapper have in common? They’ve all lost out on tickets to performances after they were snatched up by ticket-buying bots.
+
+And despite efforts by federal and state governments, little has changed.
+
+Sophisticated internet software known as bots race through ticket sellers’ online ordering forms and buy hundreds of tickets well before human eyes even reach a captcha. Those tickets then get resold with a serious markup.
+
+One broker used bots to buy 30,000 “Hamilton” tickets over 20 months — vacuuming up as much as 40 percent of available seats for some performances — according to a lawsuit by Ticketmaster. During Bruce Springsteen’s Broadway run, tickets with a $75 face value were selling for $1,400 on StubHub. Bot-reliant brokers have drawn the ire of pop star Taylor Swift, who vowed to foil them with a ticket-buying system aimed at rewarding the most active fans. And Chance the Rapper bought about 2,000 tickets from scalpers and sold them back to fans.
+
+“Despite efforts by federal and state governments, little has changed.”
+
+Federal and state governments have tried to push their way into the murky gutters of the web, banning the use of bots software and, in some cases, instituting criminal penalties for those who are caught. But so far, few have been.
+
+The Federal Trade Commission, which, alongside state attorneys general, is assigned to enforce the federal law, has yet to bring any enforcement action. And of the 13 states that ban bots, New York appears to be the only one to have reached a settlement with ticket resellers.
+
+According to the New York Attorney General’s Office, tickets are resold on the secondary market at an average markup of 49 percent. Of course, the markup can be even higher for major events: The average ticket price for this year’s Super Bowl is an eye-popping $5,500. The face value for nosebleed seats is $950.
+
+Fans at a Chance the Rapper performance in Baltimore last year. He bought back marked-up tickets from scalpers to sell to his fans at a lower price. Owen Sweeney, Invision via the AP
+
+To be sure, bots aren’t the only factor limiting ticket availability to the public — an investigation by NewsChannel 5 in Nashville, Tennessee, found that just 7 percent of tickets to a Justin Bieber concert were actually up for grabs. The rest were set aside for promoters, fan club members and American Express cardholders. But bots are most targeted by lawmakers.
+
+Proponents say the legislation still has a deterrent effect, particularly once criminal penalties become a part of the package.
+
+“The first step to stop bad behavior is to make it illegal,” said Arizona state Sen. John Kavanagh, a Republican who sponsored a bill banning bots. “Even if it’s difficult to enforce, you can put a dent in it by making it illegal and hopefully deter people.”
+
+Kavanagh’s legislation has been through a few iterations. Last year’s bill tried to bar the use of any software that impersonates a human and conceals its real identity, but the tech industry quickly opposed it because such software often is used for benevolent purposes such as customer service.
+
+This year’s bill would ban bots directly and make their use a Class 1 misdemeanor punishable by up to six months in prison. (A bill in New Jersey, meanwhile, would impose a $10,000 fine and up to 18 months in prison for those convicted of using bots to buy tickets online.) Even with stiff penalties, enforcement can be a challenge.
+
+State laws have little impact on bots deployed outside their borders, and a 2016 federal law — the BOTS Act — doesn’t combat overseas operations.
+
+Tickets to Bruce Springsteen’s run on Broadway, many of which were snapped up by bots, were selling for $1,400 on StubHub. Evan Agostini, Invision via the AP
+
+But consumer advocates say companies that sell tickets aren’t doing enough to report problems to enforcement agencies, particularly because their internal data would be the first to flag purchases that didn’t fit the typical purchasing algorithm.
+
+“Really, the companies that spot and know a bot is being used are the primary ticketers. That’s typically going to be Ticketmaster,” said John Breyault with the National Consumers League, a Washington, D.C.-based advocacy group. “If bots continue to purchase large amounts of tickets, why isn’t Ticketmaster taking advantage of the law to bring more prosecutions?”
+
+Breyault said some ticket-selling companies also own the online markets where they can be resold, taking a cut of each sale. Ticketmaster is affiliated with TicketsNow. State laws could strengthen the federal law, he said, if they provided stiffer penalties or required ticket sellers to report suspected bot usage.
+
+But Katie Peters, head of public policy with Ticketmaster, said it’s not so simple. Bot developers quickly find new ways around additional security measures.
+
+“The problem is we innovate, they innovate,” she said. “We innovate, they innovate.”
+
+Where the law allows for a private right of action, the company has sued. Ticketmaster filed suit in California against ticket brokers it claims used bots to grab tickets to “Hamilton” and the Floyd Mayweather vs. Manny Pacquiao boxing match, in Las Vegas, in 2015. The $10 million suit is working its way through court.
+
+And in New York, the attorney general’s office last year reached settlements worth $4.2 million with six ticket brokers, five of which used bots. One of the companies, Renaissance Ventures, also known as Prestige Entertainment, in 2014 bought over a thousand tickets to a U2 concert in one minute. The attorney general’s office did not respond to requests for additional information.
+
+Kavanagh said he envisions local police departments’ computer crime units as the best avenue for enforcing his bill, should it become law.

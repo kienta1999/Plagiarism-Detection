@@ -1,0 +1,23 @@
+HUFFPOST
+
+Adding value to our users is one of the guiding principles for every product we build at HuffPost. With that goal in mind, right after the 2016 election we were inspired to create the first version of The Flipside as a tool with a very simple premise: to allow readers to explore the diversity of stories trending on Twitter at any given time on a handful of topics.
+
+Shortly after the initial launch in April of 2017, our team evaluated performance along with user feedback, and immediately identified areas of improvement. In addition to some design and functionality issues, we also realized the experience was not ideal for mobile users.
+
+Taking in all these lessons learned, we reimagined and rebuilt The Flipside from the ground up. We’re proud to introduce this new and improved version today. Some of the most noticeable changes include:
+
+A simplified experience focusing on only one axis that classifies the different media outlets on a scale ranging from liberal to conservative, eliminating clutter and bringing the stories to the foreground.
+
+A user experience designed with a mobile first approach, listing the stories from each source in a stacked column view, making it easier for readers to navigate through the different topics whether you’re browsing on your phone or reading on your laptop.
+
+An overall refined experience, adding small moments of delight throughout, such as animated background for the intro screen
+
+We use Twitter’s Stream API to pull real time tweets that contain a set of editorially chosen terms associated with four topics: freedom of information, international politics, war on terror, and national security. We then parse the tweets for those that contain links to entries from those news sources we’re interested in, and then we list the most recent tweet and stories.
+
+Regarding the methodology: Ideological rankings come from a 2016 study on the political stances of news outlets by the American Association for Public Opinion Research. Not all of the news organizations featured in The Flipside were ranked in this study, so the tool does not include the toggle for those sources.
+
+The Flipside experience is a brand-sponsored initiative which will launch in conjunction with the premiere of the upcoming Hulu Original, ‘The Looming Tower’. It includes promotional ads, quotes and fact cards based on the pulitzer winning book by the same name.
+
+HUFFPOST
+
+We strongly believe in the value this provides to our users so expect more iterations around this concept in the future!

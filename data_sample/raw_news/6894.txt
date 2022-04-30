@@ -1,0 +1,103 @@
+Some state officials want to take action to protect their residents against the FCC’s decision to repeal net neutrality.
+
+Lindsay Chestnut protests near the Federal Communications Commission in Washington, D.C., last month. The FCC voted to repeal net neutrality rules, prompting officials in a growing number of states to fight back with lawsuits and proposed legislation. Carolyn Kaster, The Associated Press
+
+By Jenni Bergal
+
+While Congress wrestles with whether to restore net neutrality rules after the Federal Communications Commission scrapped them last month, a growing number of states have decided to take on the issue themselves.
+
+Legislators in at least 15 states, from California to Rhode Island, have introduced bills that would create state net neutrality laws or use other approaches to require that internet service providers follow net neutrality requirements in some way to ensure an open and equal internet.
+
+Last week, nearly two dozen state attorneys general, all of them Democrats, filed a lawsuit to block the FCC’s rollback of net neutrality. And just this week, Montana Democratic Gov. Steve Bullock was the first governor to mandate that internet service providers that sign state contracts follow net neutrality standards.
+
+“Net neutrality is going to be a big issue for states in 2018. We expect more and more bills to be filed,” said Danielle Dean, a policy director for the National Conference of State Legislatures. “The issue will be contentious, and there will be heated conversations about what role states should take.”
+
+But any state that enacts net neutrality legislation should expect major legal obstacles, because the FCC ruling also prohibited state and local governments from adopting their own rules. Internet service providers — who largely support the FCC’s move — would likely challenge state restrictions, and they could be joined by the federal agency.
+
+Net neutrality rules, approved by the FCC in 2015, during the Obama administration, required internet service providers such as Verizon and AT&T to treat all content equally. Providers were prohibited from blocking, slowing down or prioritizing web traffic from some sites or apps, and giving preferential treatment to their own content over rivals’ — or to content from those willing to pay extra fees.
+
+The Federal Communications Commission’s December decision to do away with the rules was cheered by the broadband and wireless industries and some conservative groups — and bitterly opposed by consumer groups and tech companies such as Google and Facebook.
+
+Supporters of the decision argue that, with fewer regulatory burdens, internet providers will be able to make greater investments in innovation and broadband infrastructure, leading to faster networks for consumers and businesses. They say consumers’ internet experience won’t change.
+
+“We do not and will not block, throttle [slow down], or discriminate against lawful content,” said Comcast’s senior executive vice president, David Cohen, in a blog post on the eve of the FCC vote.
+
+Comcast and some other major internet providers have said they also do not plan to speed up delivery of some online content, creating fast lanes for those who pay more, but they wouldn’t rule out the possibility.
+
+“Maybe they won’t, but the point is they could,” said Jonathan Schwantes, a lobbyist for Consumers Union, a consumer advocacy group that supports net neutrality. “We think government has a role to play to protect consumers.”
+
+Schwantes and other opponents of the FCC decision argue that doing away with net neutrality destroys the concept of a level playing field and will hurt both free speech and access to information. They worry small businesses and startups that can’t afford to pay for faster download speeds will be stuck in the slow lane and unable to compete.
+
+It’s a contentious issue, and Congress already has entered the fray.
+
+As of mid-January, all 49 senators in the Democratic caucus and one Republican, Susan Collins of Maine, supported a measure to overturn the FCC ruling and restore net neutrality. If one more Republican signs on, the measure would reach the simple majority it needs to pass. It then would have to be approved in the House, where it could face an uphill battle, and be signed into law by President Donald Trump.
+
+Many state lawmakers and attorneys general aren’t waiting for Capitol Hill.
+
+Some legislators have filed broad bills that would require internet service providers to practice net neutrality in their states. Others have crafted more narrow legislation, such as allowing state contracts only with internet providers that have been certified to meet net neutrality requirements or defining net neutrality violations as unfair trade practices.
+
+“A free and open internet is at the heart of a 21st century democracy and economy. The idea that an internet service provider will decide whether to block a website or slow it down is unacceptable,” said California Democratic state Sen. Scott Wiener, one of the legislators leading the charge. Wiener has introduced a bill that would require telecom companies that do business in his state to meet net neutrality requirements.
+
+Wiener said he is collaborating with legislators in New York and other states to shape the bill’s language into model legislation that would be “as strong and legally defensible as possible.”
+
+While most legislative efforts in the states are being led by Democrats, it’s a different story in Washington state.
+
+“In our state Legislature, we have bipartisan support for protecting net neutrality,” said Republican state Rep. Norma Smith, whose bill would prohibit internet service providers from blocking or slowing down traffic or offering paid fast lanes.
+
+Smith, who represents a rural district in Washington, said her constituents, both Republicans and Democrats, have been “very vocal” about this issue.
+
+“Like those in many rural areas, they may not have a choice about internet providers, and they are quite concerned,” Smith said. “Many are working from home or are engaged in the economy online. We want people in rural communities to participate fully, and the concern is that they would not be able to in the future if they don’t have the acceptable internet speeds to do that.”
+
+Millions of Americans have access to only one broadband provider; that’s especially true in rural areas and small cities. If residents are unhappy about slow service, they can’t just switch to another plan, Smith said.
+
+“We’re afraid residents will face slower services for higher prices,” said Christopher Mitchell, who directs internet policy at the Institute for Local Self-Reliance, a Minneapolis-based nonprofit that advocates for local businesses.
+
+Sammi LeMaster, left, and Katherine Fuchs carry the top of a “net neutrality” alarm clock after a protest at the Federal Communications Commission in Washington, D.C., last month. The FCC repealed net neutrality rules, angering legislators and attorneys general in some states. Carolyn Kaster, The Associated Press
+
+State and Local Impact
+
+One of the most contentious battles likely will be fought over the FCC’s decision to prohibit state and local governments from creating their own net neutrality laws and regulations.
+
+A week before the FCC’s vote, 68 mayors and county officials wrote to the Federal Communications Commission that they were strongly opposed to the net neutrality rollback and “deeply disturbed by the Commission’s efforts to preempt our ability to protect consumers and businesses in our communities.”
+
+The FCC didn’t agree, and, led by Chairman Ajit Pai, a Republican, it repealed net neutrality in a 3-2 party-line vote. The commission included the preemption rule.
+
+“Broadband service is not confined to state boundaries and should not be constrained by a patchwork of state and local regulations,” said Commissioner Michael O’Rielly, a Republican, at the FCC’s December meeting.
+
+Internet service providers supported the FCC ruling and say states shouldn’t be allowed to create their own net neutrality laws, just as they don’t get to regulate the transmission of TV and radio broadcasts.
+
+“Crossing state lines doesn’t change your mobile experience,” said Scott Bergmann, a senior vice president at CTIA, a wireless industry trade group that represents companies such as AT&T and Verizon, in a recent blog post. “The laws governing that experience shouldn’t change either.”
+
+He said the jumble of regulations would put investment at risk and ultimately harm customers. Some government officials don’t buy that argument.
+
+“Preemption is the biggest issue for us,” said Angelina Panettieri, a lobbyist for the National League of Cities, which represents more than 19,000 cities, towns and villages.
+
+Panettieri said many local officials worry about access to information for their residents. Universities or government networks that stream a lot of video such as council meetings or hearings, for example, could end up in the slow lane, she said, because they won’t be able to pay for fast-lane access, as big content companies will.
+
+“That will leave a secondary tier for all other content creators,” she said. “That could be a city government or a local business in a city.”
+
+Connecticut’s chief information officer, Mark Raymond, said he sees the FCC’s ruling as a potential barrier to effectively delivering government services. Simple government transactions, such as applying for unemployment benefits or renewing a car registration online, for example, could end up taking two or three times longer, he said.
+
+“If internet providers decide to prioritize Netflix and ESPN over a government website because they’re paying a lot more money for bandwidth, then it will make it much more difficult for our citizens to have access to our services online,” he said.
+
+But not all state CIOs agree with Raymond.
+
+Tony Young, Wyoming’s chief information officer, said the repealed net neutrality rule was government overreach.
+
+“I support access to the internet. Everyone should have it,” Young said. “[But] it’s a marketplace decision. Government should not always be the solution or the arbitrator.”
+
+Nor does Young think the FCC ruling will have an impact on government services in Wyoming. “It might change economic models for the businesses operating in the state,” he said, “but for our operations and what we do, I don’t see that it’s going to change anything.”
+
+Legal Fights
+
+Many of the disputes over net neutrality likely will wind up in the courts.
+
+Last week, a coalition of 22 state attorneys general, led by New York’s Eric Schneiderman, filed a lawsuit to block the FCC’s rollback of net neutrality regulations, which the suit called “arbitrary and capricious.” The FCC declined to comment.
+
+Public interest groups Free Press and Public Knowledge also have filed lawsuits challenging the FCC ruling. So has tech company Mozilla, as well as the Open Technology Institute, an arm of the New America think tank.
+
+The Internet Association, a trade group that represents tech companies such as Amazon, Facebook and Google, has announced that it too will join the upcoming legal fight.
+
+States that ignore the preemption rule and enact their own net neutrality legislation also may be challenged in court by broadband companies and others.
+
+Advertisement

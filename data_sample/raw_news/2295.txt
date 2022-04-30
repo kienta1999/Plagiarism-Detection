@@ -1,0 +1,45 @@
+Dado Ruvic/Reuters
+
+A high court in London ruled Friday that some lawbreakers have a “right to be forgotten” on Google — but not everyone should be allowed to scrub their criminal histories from the web.
+
+Justice Mark Warby of the High Court of England and Wales ruled in favor of a businessman who’d asked Google to remove search results related to a past criminal conviction. The man, who has not been publicly identified for legal reasons, was convicted more than a decade ago of conspiracy to intercept communications, reported The Guardian. He served a six-month prison sentence.
+
+Google had refused the man’s request to remove the information about his criminal past, but Warby ruled the demand was reasonable as “the crime and punishment information has become out of date, irrelevant and of no sufficient legitimate interest to users of Google search to justify its continued availability.”
+
+The judge said he’d also taken the nature of the man’s conviction into consideration, as well as his demonstrated “remorse” for the crime.
+
+“There is not a plausible suggestion ... that there is a risk that this wrongdoing will be repeated by the claimant,” Warby said, according to The Guardian. “The information is of scant if any apparent relevance to any business activities that he seems likely to engage in.”
+
+Warby, however, refused the request of another unnamed businessman who’d also asked Google to remove search results related to a prior criminal conviction. That man, referred to in the media as NT1, was convicted of conspiracy to account falsely in the late 1990s and spent four years behind bars.
+
+Warby said NT1 had continued to mislead “the public and this court,” and had shown “no remorse over any of these matters.” The information available online about his past conviction was useful for people who might work with him in the future, the judge added.
+
+“He remains in business, and the information serves the purpose of minimizing the risk that he will continue to mislead, as he has in the past,” Warby said of NT1. “Delisting would not erase the information from the record altogether, but it would make it much harder to find.”
+
+Reacting to Warby’s ruling on the two cases, a Google spokesperson said the company would “respect the judgments.”
+
+“We work hard to comply with the right to be forgotten, but we take great care not to remove search results that are in the public interest and will defend the public’s right to access lawful information,” the spokesperson said. “We are pleased that the court recognized our efforts in this area, and we will respect the judgments they have made in this case.”
+
+Open Rights Group, a digital rights organization based in Britain, said Warby’s rulings set a “legal precedent” and could have far-reaching consequences.
+
+“The right to be forgotten is meant to apply to information that is no longer relevant but disproportionately impacts a person,” Jim Killock, the group’s executive director, told the BBC. “The Court will have to balance the public’s right to access the historical record, the precise impacts on the person, and the public interest.”
+
+In 2014, the European Court of Justice, the supreme court of the European Union, had ruled that people and corporations had a right to request the “delisting” of information on search engines that is “inaccurate, inadequate, irrelevant or excessive,” but that public interest also had to be considered.
+
+That ruling, however, has been criticized as being too vague, making it challenging for companies like Google to figure out how to find a balance between privacy protection and providing information for the public good.
+
+As Engadget noted, the London high court ruling could force internet companies to not immediately dismiss conviction-related delisting requests. “They may have to weigh the seriousness of crimes and the convict’s willingness to reform,” the site said.
+
+Reactions to the rulings were mixed on social media. Some advocates celebrated the court’s decision, calling it a win for people with criminal records who face discrimination because of their past misdeeds. Others, however, expressed concern that the ruling could harm free press and speech rights.
+
+Google loses landmark 'right to be forgotten' and spent convictions case. Read the comment from our co-director @ChrisStacey at https://t.co/he51gZ56al pic.twitter.com/hkaRvYqGTg — Unlock (@unlockcharity) April 13, 2018
+
+So dangerous to journalism and knowledge. Can we not remember the risks that come from rewriting and erasing history and controlling knowledge?
+
+
+
+Google loses landmark 'right to be forgotten' casehttps://t.co/j97YHyTL8s — Jeff Jarvis (@jeffjarvis) April 13, 2018
+
+Google has received requests to remove more than 2.4 million links from its search results in Europe since the 2014 ECJ ruling. The tech company says it has removed more than 800,000 pages so far.
+
+Surveys show a majority of Americans support the “right to be forgotten,” but observers have said it’s unlikely that such legislation would pass here because of possible violations of the First Amendment.

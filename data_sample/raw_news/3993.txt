@@ -1,0 +1,81 @@
+Facebook Chief Operating Officer Sheryl Sandberg in Brussels earlier this year. Yves Herman/Reuters
+
+Facebook isn’t typically shy about proclaiming its support for women. After all, chief operating officer and “Lean In” author Sheryl Sandberg built her brand on feminism. Last year, the tech giant even took the rare step of publicizing its own rules and practices on sexual harassment.
+
+But on one critical policy, Facebook is awfully wishy-washy: forced arbitration. Facebook is one of many companies that requires employees to take legal disputes, like discrimination or wage claims, to private courtrooms. The process has come under fire for its role in silencing victims of sexual harassment, especially in the wake of the Me Too movement.
+
+In a series of conversations with HuffPost over the past few weeks, Facebook representatives took part in a strange dance: They defended the company’s use of forced arbitration, but also said Facebook was considering its position on a bipartisan bill that would make forced arbitration illegal in sexual harassment cases.
+
+“We’re studying it and haven’t taken a position,” a Facebook spokesman told HuffPost.
+
+Adult film actress Stephanie Clifford, also known as Stormy Daniels, put arbitration back in the headlines this month, after an arbitrator ordered her to stay silent about her alleged affair with President Donald Trump.
+
+The arbitration process Facebook uses is very “official and appropriate,” a spokeswoman told HuffPost. She pointed out that although the social networking giant uses arbitration, it doesn’t require that participants keep silent, as other employers often do. (HuffPost could find no evidence of any employee speaking publicly about litigation against the company.) Arbitration is good for employees because matters are kept private, she said. She also argued that arbitration is a neutral practice, pointing out that the company and its accuser both have a say in which judge they use.
+
+She emphasized that Facebook takes harassment seriously and has an in-depth training process for employees. “Our philosophy is to prevent these claims in the first place,” she said.
+
+In a statement issued on Wednesday, hours after HuffPost published this story, the company’s head of employment law, Heidi Swartz, wrote, “Facebook does not use ‘secret courts’ to handle sexual harassment cases as alleged by HuffPost. That claim is false and misleading. We have never had an employee file a sexual harassment arbitration.”
+
+If the past year or so has taught us anything, it’s that even companies with the best intentions and the most sensitive executive leaders don’t catch every bad actor. Opponents of forced arbitration say that getting rid of such secretive practices is key to combating sexual harassment and discrimination in the workplace.
+
+An arbitrator ordered adult film actress Stephanie Clifford, also known as Stormy Daniels, to keep silent about her alleged affair with President Donald Trump. Eduardo Munoz / Reuters
+
+“The easiest mistake any employer can make is to assume that ‘this could never happen here,’” Microsoft President Brad Smith wrote in a December blog post announcing that the company would no longer send harassment to arbitration. “While it’s natural to hope and believe that’s the case, one of the fundamental lessons of recent months is that people’s voices need to be heard if their problems are to be addressed.” (Microsoft is currently in the middle of a gender discrimination suit filed by a former female technical employee.)
+
+Microsoft is the one major tech company that’s thrown its support behind the the Ending Forced Arbitration of Sexual Harassment Act. The bill, introduced by Rep. Cheri Bustos (D-Ill.) in December, would make it illegal to force employees to take sexual harassment suits to private arbitration. Instead, employees would have a choice in the matter, giving them more leverage in going up against a deep-pocketed corporation.
+
+“I’m glad Facebook says they feel they’re taking harassment seriously, but I had hope that they’d actually Lean In and lead by example on this,” Bustos told HuffPost, using Sandberg’s book title to make her point. “All businesses need to take a look at this issue. Time’s up on letting companies use legal tools to sweep harassment under the rug,” she said.
+
+“The easiest mistake any employer can make is to assume that this could never happen here.” - Microsoft President Brad Smith
+
+It’s unclear where the other tech giants stand on the issue: Google and Apple did not respond to HuffPost’s requests to talk about the bill. Amazon would only say that it doesn’t use arbitration.
+
+But the bill actually has some bipartisan support, cosponsored in the House by Rep. Elise Stefanik (R-N.Y.) and in the Senate by Sens. Kirsten Gillibrand (D-N.Y.), Kamala Harris (D-Calif.) and Lindsey Graham (R-S.C.).
+
+Former Fox News host Gretchen Carlson is also pushing for the legislation, helping announce it on Capitol Hill at the end of the year. Carlson drew attention to forced arbitration in 2016 by maneuvering around her employment contract and suing her harasser directly in court.
+
+“The bill gives women (and men) a choice: do they want a harassment claim to go to secret arbitration, or utilize their 7th amendment right and go to a public court?” Carlson said in a message to HuffPost. “Any company outwardly lobbying against this bill makes one wonder what they may have to hide.”
+
+Rep. Cheri Bustos (D-Ill.) speaks at a press conference calling for an end to forced arbitration as Sen. Kirsten Gillibrand (D-N.Y.) greets Gretchen Carlson on Capitol Hill on Dec. 6, 2017. Aaron Bernstein / Reuters
+
+Because of the secrecy of the arbitration process, it’s difficult to say how many women it silences. In one egregious example, The Washington Post was able to learn about hundreds of women accusing Sterling Jewelers, the multibillion dollar company behind Kay Jewelers and Jared, of widespread discrimination.
+
+Bustos said that the Sterling story was the first time she’d even heard of forced arbitration, and it inspired her to craft this legislation.
+
+For every journalistic scoop, however, many more cases are forever buried.
+
+Facebook has spent thousands of dollars lobbying on the arbitration bill, according to public records. But there’s no indication in the record of where the company stands on the bill. Facebook, for its part, said that the money was spent to research the legislation, not to argue a particular stance. As of publication, Facebook’s lobbying firm had not amended its lobbying disclosure.
+
+“Facebook has hundreds of lawyers and lobbyists advising them on law and policy. We are talking about a two-page bill that was introduced last year on an issue that is in the news every day,” said Andrew Rogers, the director of legislative affairs at the American Association of Justice, a nonprofit advocacy group for plaintiffs lawyers that opposes arbitration.
+
+“Any company that says it is still ‘mulling it over’ isn’t acting in good faith, and is just hoping the movement quietly fades away,” Rogers said. Microsoft endorsed the bill last year, he pointed out.
+
+“I’m glad Facebook says they feel they’re taking harassment seriously, but I had hoped that they’d actually Lean In and lead by example on this.” - Rep. Cheri Bustos (D-Ill.)
+
+Another sign that the bill has momentum: In February, all 50 state attorneys general took the rare step of joining together to call companies to end the practice and for Congress to pass the bill.
+
+“Ending mandatory arbitration of sexual harassment claims would help to put a stop to the culture of silence that protects perpetrators at the cost of their victims,” the letter says.
+
+About 60.1 million workers in the U.S. are beholden to mandatory arbitration clauses, according to a study released last year by the progressive Economic Policy Institute. Many of them have no idea; you can agree to give up your right to file a lawsuit simply by accepting an employee handbook.
+
+Employees win in arbitration only 21 percent of the time, according to an earlier paper from EPI ― a much lower rate than you’d find in state or federal court. And if they win, monetary damages are far lower as well ― less than half of what a victim would be awarded in court. If a victim loses, many companies will require her to pay arbitration fees.
+
+Many employee complaints never even make it to arbitration, because the deck is so stacked against them. For one thing, lawyers are reluctant to take on clients in arbitration where payouts are much lower, writes NYU law professor Cynthia Estlund in a working paper published in February called “The black hole of mandatory arbitration.”
+
+Almost half of companies that use arbitration clauses also include language in them that prevents employees from joining together in class action suits, Estlund notes. That means that if a group of female employees were all harassed by the same man, they would each have to sue the company individually. That’s a huge disadvantage to employees, who are already far less empowered than the company they’re fighting. The issue is currently before the Supreme Court.
+
+Former Facebook engineer Chia Hong sued Facebook for sexual harassment and discrimination in 2015. Hong alleged she was frequently ignored and belittled in meetings where she was sometimes the only woman, was admonished for taking a personal day each month to volunteer at her kid’s school, and was ordered to serve drinks to male colleagues.
+
+Her case was dismissed that year, but it’s not clear why. Facebook would only say that it didn’t go to arbitration.
+
+Meanwhile, with or without Facebook’s support, it remains unlikely that the bill will be brought to the floor in the Republican-majority House anytime soon.
+
+Bustos has been tweeting at House Speaker Paul Ryan (R-Wis.) every day this month, asking him to bring the bill to a vote. “This is in his hands. He could make a decision or he could take the side of sexual harassers,” she said.
+
+Day 8 of #WomensHistoryMonth - @SpeakerRyan, instead of sending Congress home before noon on #InternationalWomensDay, we should have been voting on our bipartisan bill to drive #SexualHarassment out of the workplace. #MissedOpportunity #MeToo #TimesUp https://t.co/xI9ZhTOoxb — Rep. Cheri Bustos (@RepCheri) March 8, 2018
+
+Last week, on International Women’s Day, her tweet to Ryan was particularly poignant. “Instead of sending Congress home before noon on #InternationalWomensDay, we should have been voting on our bipartisan bill to drive #SexualHarassment out of the workplace,” Bustos wrote.
+
+Also on International Women’s Day, Sandberg wrote a passionate Facebook tribute to women. “I’m more dedicated than ever to creating a more equal world that will also be a better world,” she wrote at the end of a long status about women’s rights.
+
+Clarification: Language in this story has been amended to clarify that it was Facebook’s lobbying arm, and not Facebook itself, that had not amended its lobbying disclosure by publication time.

@@ -1,0 +1,47 @@
+WASHINGTON ― With support from Senate Democrats, Congress is on track to pass a bill that would enrich banks but slightly raise the odds of a financial crisis like the one that tanked the economy 10 years ago.
+
+Seventeen members of the Democratic caucus joined nearly all Republican senators on Tuesday in voting to advance the Economic Growth, Regulatory Relief, and Consumer Protection Act, a bill that was co-sponsored by Senate Banking Committee Chair Mike Crapo (R-Idaho) and committee member Sen. Jon Tester (D-Mont.). The legislation garnered support from a mix of centrist and red-state Democrats, who argued it would help small community banks and make it easier for Americans to buy a home by increasing access to capital.
+
+“We’re talking about smaller banks, regional banks. They didn’t cause the financial crisis to begin with,” Sen. Gary Peters (D-Mich.) said Tuesday.
+
+Democrats Jon Tester (left) and Mark Warner, both members of the Senate Banking Committee, support the bill. Tom Williams via Getty Images
+
+That the legislation would also increase the risk of a financial crisis isn’t a criticism from some far-left interest group, however ― it’s the conclusion of the Congressional Budget Office, which produces independent, nonpartisan analysis of budgetary issues.
+
+In looking at the legislation’s costs, the CBO considered the odds of a systemically important financial institution failing or a broader financial collapse. “CBO estimates that the probability is small under current law and would be slightly greater under the legislation,” the budget scorekeeper said in a cost estimate published this week.
+
+The 2010 financial reform law, commonly known as Dodd-Frank, imposed a range of new regulations on financial institutions, including increased capital requirements that force banks to hold more capital relative to their assets. Dodd-Frank also subjected banks with more than $50 billion in consolidated assets to stricter scrutiny by regulators, requiring annual “stress tests” and “living wills” in order to prevent widespread disruption in case a bank fails.
+
+The Senate bill would relax longstanding capital requirements for small banks and raise the threshold for enhanced prudential regulation from $50 billion in assets to $250 billion, exempting 25 of the 38 largest banks in the U.S.
+
+The CBO report warns that subjecting fewer assets to enhanced regulation would “increase the likelihood that a large financial firm with assets of between $100 billion and $250 billion would fail.” The report cites academic literature suggesting that a 1 percent decrease in a bank’s capital-to-assets ratio can increase the risk of failure by between 5 and 60 percent.
+
+Democrats often cited the CBO’s work in last year’s debates over repealing the Affordable Care Act, but now some seemed skeptical about the agency’s analysis.
+
+“I can tell you that I think [the risk of financial crisis is] very, very small, because as [Federal Reserve Chair Jerome] Powell said the other day, if they’ve got a risky business plan, we’re going to regulate them,” Tester said. “Doesn’t matter what the number is. And so I feel fairly confident that the Fed will continue to do their job.”
+
+Sen. Michael Bennet (D-Colo.), who also voted to advance the bill, said he agreed.
+
+“I don’t think we’re boosting chances of a financial crisis. I think we’re responding to the concerns of smaller banks in America that haven’t been able to serve their customers well,” Bennet said.
+
+Although the bill is supposed to benefit small banks, the CBO said it’s possible that JP Morgan and Citibank, specifically, would benefit from changes to the way that regulators measure capitalization for banks that are “predominantly engaged in custody, safekeeping, and asset servicing activities.”
+
+The bill would allow such firms to omit assets held by central banks, like the Federal Reserve, for the purposes of calculating the supplementary leverage ratio (SLR), which is one measure that regulators use to determine sufficient capitalization for large firms. Not counting those assets would mean large financial institutions didn’t have to hold as much capital. Bank of New York, State Street and Northern Trust are the three banks that would clearly benefit, according to the CBO.
+
+“CBO assumes that there is a 50 percent chance that regulators would allow two other financial institutions ― JP Morgan and Citibank, with combined assets of $4.4 trillion ― to adjust their SLRs under the terms in the bill,” the agency wrote.
+
+But Tester didn’t seem to believe that either, disputing the notion that large banks might be able to take advantage of the carveout.
+
+“Who said that?” he asked HuffPost on Tuesday. “Citibank? No, I don’t agree with that at all. I don’t know where they got that information at all.”
+
+It would be easy for the bill’s authors to clear up the confusion by adjusting the legislative text, said Mike Konczal, a fellow with the liberal Roosevelt Institute. He added that senators shouldn’t be picking regulatory winners and losers.
+
+“The whole point of Dodd-Frank was to get away from the mindset of micromanaging carveouts for this or that kind of financial firm and instead apply strong rules across the financial sector,” Konczal said.
+
+The Crapo bill contains a host of other provisions, including one that would reduce data collection used to detect discriminatory lending practices and others that Democrats say would protect consumers.
+
+The Senate is expected to vote on final passage of the bill later this week. It’s unclear whether the House would vote to pass it as is or amend it with other changes, such as provisions undermining the Consumer Financial Protection Bureau. That agency, created under President Barack Obama, is a favorite target of congressional Republicans.
+
+“If they do [make changes], it’ll probably kill the bill,” Tester told reporters on Tuesday.
+
+Sen. Sherrod Brown (D-Ohio), the ranking Democrat on the Banking Committee, said the CBO’s analysis validated his opposition to the bill.

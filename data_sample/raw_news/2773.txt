@@ -1,0 +1,55 @@
+Facebook CEO Mark Zuckerberg wants you to know he’s super sorry. And for the most part it really does seem like he means it ― so long as apologizing and trying to earn back users’ trust doesn’t cut into company profits.
+
+On Wednesday afternoon, the social media company made its founder available for questions from the media shortly after it announced plans to restrict who can access user data and to clarify how it uses that data in the first place.
+
+At the same time, Facebook also increased its estimate of users whose data was harvested and shared with the political research firm Cambridge Analytica, from 50 million to as many as 87 million.
+
+Needless to say, there was plenty to talk about.
+
+Here’s a brief rundown of the bigger points of the conversation:
+
+On why users should trust Facebook is giving them a full and accurate picture of Russian meddling on the platform through the 2016 election:
+
+Zuckerberg said he expects the company will revise and reassess the extent of Russia’s misinformation campaign and that its numbers will undoubtedly grow. “There is going to be more content that we’re going to find over time,” he said. “As long as there are people employed in Russia who have the job of trying to find a way to exploit these systems, this is going to be a never-ending battle. You never fully solve security; it’s an arms race.”
+
+He acknowledged Facebook was “behind” during the 2016 election and said the company plans to hire 20,000 people by the end of the year to focus on content screening and security efforts.
+
+On the effect of #DeleteFacebook and how many users have left the platform:
+
+There hasn’t been any “meaningful impact” by the movement, he said, but the company does take seriously the underlying sentiment that’s driving it. “Even if we can’t measure a change, it still speaks to people feeling like this is a massive breach of trust.”
+
+On Facebook’s responsibility for making sure Cambridge Analytica actually deleted the user data when they said they did:
+
+Facebook took Cambridge Analytica at its word that the company had, in fact, deleted the data harvested from up to 87 million users ― and maybe it should have followed up to verify it was actually deleted. Zuckerberg didn’t rule out the possibility of legal action against Cambridge Analytica but said Facebook will do a full audit first to determine what happened to the data and when.
+
+That said, he acknowledged Facebook can’t just pass the blame onto Cambridge Analytica, as Facebook’s tools enabled its behavior in the first place.
+
+“I think we understand that we need to take a broader view of our responsibility,” Zuckerberg said. “We’re not just building tools, but we need to take full responsibility for the outcomes of how people use those tools as well.
+
+“Knowing what I know today, clearly we should’ve done more, and we will going forward.”
+
+On his willingness to embrace government regulation:
+
+He’s into it, with some reservations. Asked specifically if he’d be willing to implement new privacy policies in the U.S. similar to the strict new privacy laws rolling out in the European Union, Zuckerberg said he was comfortable with the idea but not in the same format.
+
+When the EU law takes effect on May 25, Facebook will have to get users’ explicit consent to collect data and be much more upfront about how it uses that data. Zuckerberg said Facebook “intends to make the same controls and settings available everywhere, not just in Europe.” That’s subject to some flexibility, however ― a variation he attributed to a patchwork of global laws on the matter.
+
+On whether he’s the best person to lead Facebook moving forward:
+
+Two reporters asked variations of this question, and it seemingly caught him off guard the first time. The second time he unhesitatingly said yes, portraying the company’s recent stumbles more as learning opportunities than far-reaching mistakes.
+
+“When you’re building something like Facebook that is unprecedented in the world, there are going to be things that you mess up. And if we’d gotten this right, we would’ve messed something else up. I don’t think anyone is going to be perfect. But I think what people should hold us accountable for is learning from the mistakes and continually doing better and continuing to evolve what our view of our responsibility is.”
+
+On whether he’d be willing to sacrifice some of Facebook’s profits in the name of creating a more trustworthy company:
+
+Nope. Zuckerberg disputed the premise of the question, portraying a more profitable Facebook as one that’s fundamentally more useful to people. As the site gets better at targeting users with more-relevant ads, the more profitable it will be.
+
+“People tell us that if they’re going to see ads, they want the ads to be good. Like most of the hard decisions we have to make, this is one where there’s a trade-off between values that people care about. On the one hand, people want relevant experiences, and on the other hand, I do think there’s some discomfort with how data is used in systems like ads. But I think the feedback is overwhelmingly on the side of wanting a better experience.”
+
+On the company’s ongoing efforts to decrease misinformation on Facebook:
+
+Zuckerberg broke this into three distinct categories, each to be combated via different initiatives by the company.
+
+The first category of bad actors he summed up as spammers who craft sensationalistic fake stories. People click, the stories spread rapidly despite being false and the author ― often located in Macedonia ― makes money. Simple artificial intelligence measures have helped curb this type of economically driven content.
+
+The second category belongs to Russian agents and other government actors who are interfering with and attempting to influence the outcome of an election. Zuckerberg acknowledged this is more difficult to combat ― especially because it mimics and can be indistinguishable from legitimate political discussion. Facebook is making progress here, with moderate successes in the French and German elections, but Zuckerberg cautioned it will be a “multi-year effort.”

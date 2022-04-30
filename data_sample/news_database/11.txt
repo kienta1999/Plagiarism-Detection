@@ -1,635 +1,557 @@
-At least two organizations have decided to drop Morgan Freeman after eight women accused him of inappropriate behavior and sexual harassment.
+TONIGHT: Oh, how we will miss former Trump lawyer (and man playing xylophone with two candy canes) Ty Cobb. #LSSC #TyCobb pic.twitter.com/PQdRlvkyEa — The Late Show (@colbertlateshow) May 3, 2018
 
-Women who previously worked with the Oscar-winning actor told CNN that he repeatedly made comments about their bodies or their clothing and frequently engaged in inappropriate touching.
+Stephen Colbert is mocking President Donald Trump over a change to his legal team this week.
 
-In response to the allegations, Visa announced it had suspended him from its marketing campaign.
+Trump replaced White House lawyer Ty Cobb with Emmet T. Flood, the attorney who represented President Bill Clinton during his impeachment proceedings.
 
-“We are aware of the allegations that have been made against Mr. Freeman. At this point, Visa will be suspending our marketing in which the actor is featured,” Visa said in a statement.
+“The crooked Clintons are the most corrupt people in the world,” Colbert said on Wednesday night, doing his Trump impersonation. “Get me their lawyer!”Officials in Knox County, Tennessee, are trying to gather more information about a cyberattack that crashed a government website that displayed election results to the public during its primary election for local offices on Tuesday.
 
-TransLink, Vancouver’s public transit system, also decided to stop using Freeman’s voice as part of an ad campaign to promote its Visa credit card and mobile payments on bus and Skytrain operations.
+Dick Moran, the county’s top IT official, believes Knox County was the target of a denial-of-service attack in which actors with both domestic and foreign IP addresses deliberately flooded the county’s servers with traffic to try and crash them. The county website displaying election results went down for about an hour as polls closed on Tuesday. The crash meant that people who went to check election results between 8 and 9 p.m. on election night received an error message, according to the Knoxville News Sentinel. While the website was down, election officials printed out hard copies of the election results and gave them to reporters, WBIR, a local NBC affiliate, reported.
 
-“In light of information we’ve learned ... of allegations regarding actor Morgan Freeman, TransLink has decided to pause his voice announcements as part of a Visa ad campaign on our transit system,” the transit system said a statement. “We will be reaching out to Visa to discuss further.”
+Knox County Mayor Tim Burchett (R) said on Wednesday that the crash didn’t impact “vote tallies or the integrity of the election,” but that the county had hired a security firm to investigate the cause of the crash.
 
-TransLink to pause Morgan Freeman SkyTrain announcements over sexual harassment allegations https://t.co/R9IxPRtvPu pic.twitter.com/M9lSVunVuz — The Province (@theprovince) May 24, 2018
+“This is not something that should happen,” he said in a statement. “I want to know what happened, and I think an independent review will help to determine that so we can move forward and work to prevent similar issues in the future.”
 
-A few hours after the report was released, Freeman, 80, issued an apology:
+The attack comes amid increased scrutiny over the security of U.S. elections after the Department of Homeland Security notified 21 states last year that Russian hackers targeted their election systems during the 2016 presidential election. Some say the federal government hasn’t moved quickly enough to address the severity of the threat. Responding to those concerns, Congress allocated $380 million to states in March to improve election security. DHS officials say they have improved communication and resource-sharing with state election officials.
 
-“Anyone who knows me or has worked with me knows I am not someone who would intentionally offend or knowingly make anyone feel uneasy, I apologize to anyone who felt uncomfortable or disrespected — that was never my intent.”
+Scott McConnell, a DHS spokesman, said the agency was aware of the incident.
 
-A production assistant working on the 2015 film “Going in Style” said Morgan made numerous comments about her body, asked her several times if she was wearing underwear and tried to lift her skirt. Another worker on the set said women wore loose-fitting clothing in an effort to avoid Freeman’s attention.
+“We are aware of reports of a temporary outage affecting an election website in Knox County, Tenn. We have no information at this time that the outage was caused by a malicious actor,” McConnell said in a statement. “As is standard practice with any of our public or private critical infrastructure partners, we have offered our technical assistance and support to the county. We defer to the county to discuss any further details.”
 
-Entertainment Tonight released footage on Thursday evening of two on-air interviews with Freeman that also revealed his attitude toward women. During an interview for the 2016 film “London Has Fallen,” Freeman asked a young female reporter, “My goodness, are you married? Fool around with other guys? I’m just asking.”
+Candice Hoke, a co-founder of the Center for Cybersecurity and Privacy Protection at Ohio’s Cleveland-Marshall College of Law, said it was premature for Burchett to say that no votes had been changed.
 
-In 2015, he told author Janet Mock: “You got a dress halfway between your knee and your hips, and you sit down right across from me and you cross your legs.”
+“Without a forensic evaluation, there’s no way for them to accurately conclude that ‘the crash did not affect the vote tallies or the integrity of the election,’” she wrote in an email. “We do not know if only the web servers were impacted by the attack or if a broader impact occurred. It’s often the case that a DDOS attack is used as a distraction while another more insidious attack — such as on the tabulation servers — is occurring.”
 
-Mock, who was a special correspondent for the interview, said Freeman’s treatment of her was an “exhibition of the casual nature at which men in positions of power believe that everything belongs to them, including women’s bodies.”
+Hoke added that it was a positive sign that the county was bringing in a firm to analyze the incident, but wanted to know how thorough the analysis would be and whether the final report would be publicly available. She also said it was uncommon to see a denial of service attack on an election night, but expected them to increase this year because counties now store much more voter information online.
 
-Freeman’s union, SAG-AFTRA, is considering what to do about Freeman’s Life Achievement Award. The award is given to actors who represent the “finest ideals of the acting profession,” CNN reported.Chinese women detained at Angel Island, California. Courtesy of the California Historical Society. Steeplechase Films/The Chinese Exclusion Act
+In an interview, Michael Grider, the Knox County director of communications, and David Ball, the county’s deputy director of IT, disputed Hoke’s assessment that any votes could have been altered because the systems that tabulate the official votes are never connected to the internet or any computers that are. Ball said the county hadn’t looked at the actual voting data from election night because there was no way someone could access the data. “There’s no way that anyone could’ve gotten into it,” he said.
 
-WASHINGTON ― In 1882, Congress voted to ban an entire ethnic group from immigrating to the United States.
+“The issue that we had was one related to our web server. It was very simply an issue with how the election results were presented to the public, not how they were received in any official capacity,” Grider said.
 
-The Chinese Exclusion Act, iterations of which remained on the books for over 60 years, had a lasting effect on the history of U.S. immigration, as depicted in a new PBS documentary airing Tuesday.
+“There is no network connection to the official results, nor to any of the voting machines at any point during the process or before and after the process. They have no network interface,” Ball added.
 
-Filmmakers Ric Burns (brother of Ken) and Li-Shin Yu trace not only the law’s development and implementation but also its connection to other integral parts of American history unfolding contemporaneously, like segregation in the Jim Crow South, urbanization on the East and West Coasts, and trade abroad.
+Hoke said that she knew of several examples where system owners believed their networks to be entirely disconnected from the internet when they actually had some connectivity and suggested that the Knox County officials could have been more cautious in their statements.
 
-At a screening of the film last week, Burns called the Chinese Exclusion Act a “quintessentially American story” and described it as “the biggest part of American history that people don’t know about,” because you would be hard-pressed to find it mentioned in many history courses.
+“It’s wonderful to be able to espouse confidence as they are, but they should not be espousing such unless they have actually had their network for the [election management server] totally assessed by someone whose qualified in network architecture,” she said.
 
-“If you want to know about immigration in America and you don’t know the story of Chinese exclusion, it would be like saying you want to know about race relations in America, but you’ve never heard of slavery."” - Filmmaker Ric Burns
+The primary races on the ballot in Knox County on Tuesday included county mayor, sheriff and the county commission. The contest attracted some national attention after Glenn Jacobs, the former WWE wrestler known as Kane, won the Republican nomination for mayor.Kids draw the funniest things.
 
-In the film, several historians marvel that some Americans are shocked to learn about the Chinese Exclusion Act.
+Jimmy Fallon shared a bunch of children’s amusing depictions of members of President Donald Trump’s administration on Wednesday’s broadcast of “The Tonight Show.”
 
-“Many Americans today cannot believe this happened. How could this country, with its culture, with its politics, with its economics, do what it did against a whole class of people?” NYU professor John Kuo Wei Tchen says.
+Jim Carrey best watch out, as they could be after his satirical artwork crown.The Academy of Motion Picture Arts and Sciences, which administers the Oscars, has expelled comedian Bill Cosby and director Roman Polanski, the organization announced in a statement Thursday.
 
-But while watching the documentary amid today’s political climate, it isn’t unbelievable at all. Burns and Yu acknowledged that it doesn’t take much effort to see parallels to President Donald Trump’s America — though this was not their original intention, as they began working on the film six years ago, Burns said.
+Polanski, who won an Oscar for Best Director for the 2002 movie “The Pianist,” will keep his award, an Academy spokesperson told HuffPost.
 
-Central to the bill’s 1882 passage were political attacks on Chinese immigrants that labeled them “unassimilable” and portrayed them as economic threats to white Americans and a filthy scourge on society. The film shows how newspaper headlines and editorial cartoons from that period disseminated this propaganda.
+The Academy said its board of governors voted on Tuesday to expel the two men, citing its newly adopted standards of conduct, developed in response to the scores of sexual misconduct allegations against disgraced Hollywood producer Harvey Weinstein.
 
-“The Anti-Chinese Wall,” an 1882 political cartoon from “The Puck” magazine, which reads: “The American Wall Goes Up as the Chinese Original Goes down.” Courtesy of the Library of Congress. Steeplechase Films/The Chinese Exclusion Act
+“The Board continues to encourage ethical standards that require members to uphold the Academy’s values of respect for human dignity,” the organization said in a statement.
 
-Nineteenth-century politicians’ nativism and fear-mongering are remarkably similar to today’s anti-immigrant rhetoric. President Donald Trump famously began his presidential campaign by saying that Mexico was sending rapists, drug dealers, and criminals to the U.S.
+Comedian Bill Cosby was found guilty of sexual assault in April. Brendan McDermid/Reuters
 
-Other right-wing political figures have raised the old complaint that certain immigrants are unassimilable. During an NPR interview earlier this month, Trump’s chief of staff, John Kelly, said that undocumented immigrants are “not people that would easily assimilate” and “don’t integrate well” — an uncanny reminder of how this political language persists.
+Last week, Cosby was found guilty of sexually assaulting Andrea Constand, among dozens of women who have accused the comedian of sexual misconduct.
 
-Burns sees another commonality in the rhetoric: the “factless nature” of claims that immigrants are stealing our jobs.
+Polanski has lived in France since pleading guilty to raping then-13-year-old Samantha Geimer (then known as Samantha Gailey) in 1977. He fled the U.S. before his sentencing.
 
-“Both then and now, there’s zero truth to it,” he said. “These things almost never have any basis in reality. It becomes a function of playing to fears, playing to usually white vulnerabilities, and finding wedge issues for politicians.”
+The director has also faced allegations of sexual assault from several other women that allegedly occurred when some of them were minors.
 
-“The Chinese Exclusion Act tells us all we need to know not just about immigration, but about the story of America.”
+Director Roman Polanski pleaded guilty to raping a 13-year-old. He will keep his Oscar for "The Pianist," according to the Academy. Charles Platiau/Reuters
 
-These parallels make it particularly difficult and infuriating to watch the history of the Chinese Exclusion Act unfold in the film, including how it raised questions about birthright citizenship that were later settled in an 1898 Supreme Court case.
+Last fall, the board of governors quickly voted to expel Weinstein following investigations from The New York Times and New Yorker that revealed years of sexual misconduct allegations against him. At the time, Weinstein was only the second member in the Academy’s history to be removed.When the Federal Emergency Management Agency in March published its latest plan for mitigating natural disasters, there was one thing missing: any mention of climate change.
 
-Trump is among those who have relitigated the issue in the decades since: During his presidential campaign, he suggested abolishing birthright citizenship.
+Rep. Keith Ellison asked the agency why, and so far he’s not happy with the answer. In its latest response, FEMA says it basically forgot.
 
-There are also echoes of the Chinese Exclusion Act in the legal battle over Trump’s travel ban, which bars people largely from majority-Muslim countries from entering the U.S. It’s yet another compelling piece of evidence for the film’s central argument: The Chinese Exclusion Act tells us all we need to know not just about immigration, but about the story of America.
+“There was no decision, and no direction, to deliberately avoid or omit any particular term in the writing of the 2018-2022 Strategic Plan,” FEMA Director Brock Long wrote on April 12, referring to the document the agency uses to help anticipate and prepare the nation for natural disasters.
 
-A poster celebrating the Chinese Exclusion Act's passage, proclaiming that "The White Man is on Top." Courtesy of the Royal BC Museum. Steeplechase Films/The Chinese Exclusion Act
+Long’s claim is a remarkable one given that 2017 was the costliest, most-damaging year on record for weather and climate-related disasters in the U.S., and the third-warmest year on record. Experts predict those costs, which directly impact FEMA’s operation, will increase as the climate shifts further and further from its baseline.
 
-The events of the film intersect with another grim period of American history: the Jim Crow era in the South. According to the film, the California politicians spearheading discrimination against Chinese immigrants built support for the exclusion act by compromising with Southern politicians trying to pass measures to systematically disenfranchise black people. The political maneuvering, which Burns referred to as “horse-trading,” essentially amounted to exchanging one form of discrimination for another.
+The previous, Obama-era strategic plan identified climate change as a prime contributor to increasing disaster risk and urged action; the new, Trump-era document doesn’t mention it at all.
 
-Sexism and misogyny also fueled the fire. Laws that helped lay the foundation for the 1882 bill were particularly discriminatory against Chinese women, who were stereotyped as prostitutes. As Columbia University historian Mae Ngai relates in the film, Chinese women were required to prove they were not prostitutes to be admitted to the U.S, a process so stringent that it effectively discouraged most women from immigrating.
+Ellison is now asking the agency to give a real explanation. On Wednesday, he asked FEMA to explain the “analytical basis” for why it omitted climate change from its five-year plan.
 
-Through these connections, the documentary effectively makes the case that the Chinese Exclusion Act is fundamental to questions of American identity.
+“Your April 12th, 2018, response did not adequately answer this question.” Ellison wrote in a letter to Long. “Although you reassured me that ‘the plan emphasizes all aspects of disaster preparedness, regardless of cause,’ you still have not addressed why the plan makes no mention of climate change.”
 
-“It is not a melodramatic or breathlessly hyperbolic thing to say that if you want to know about immigration in America and you don’t know the story of Chinese exclusion, it would be like saying you want to know about race relations in America but you’ve never heard of slavery,” Burns said.
+Where Ellison’s original letter asked FEMA to identify whom it consulted in drafting its new strategic plan, Long only cited “FEMA employees and external stakeholders,” as well as comments submitted online. Long’s responses to follow-up questions only referred back to that answer, including a request that FEMA specifically identify “any scientists or climate experts” who contributed to the decision.
 
-Burns and Yu said they intend for the film to be an educational tool, and PBS and the Center for Asian American Media are distributing it to schools so that learning about Chinese exclusion becomes a given in U.S. history class.
+Ellison’s new letter requests copies of those online comments, and again asks FEMA to specifically identify those “external stakeholders.” It also asks whether Long’s office consulted with the White House when formulating the plan’s “goals and objectives.”
 
-“Just the way you know about the Fourth of July, you know about the Civil War, and you know about the Pilgrims — usually a ludicrously cartoonish way,” Burns said, “you’ll at least have a ludicrously cartoonish version of the Chinese Exclusion Act.”President Donald Trump’s online campaign store is now selling summer-themed items, including $65 beach towels and $55 “Make American Great Again” swimsuits.
+In an emailed statement to HuffPost, FEMA public affairs director William Booher said it doesn’t matter whether climate change was mentioned in the document.
 
-“Make a YUGE splash poolside or at the beach this summer with our new swimwear!” the description for both the men’s and women’s swimsuits noted.
+“It is evident that this strategic plan fully incorporates future risks from all hazards regardless of cause,” he said. “Building upon the foundation established by FEMA’s previous two Strategic Plans, this plan commits the agency, and the nation, to taking proactive steps to increasing pre-disaster investments in preparedness and mitigation.”
 
-Just in time for summer: #MAGA-themed swimwear, available for $55 a swimsuit at @realDonaldTrump's campaign website. Money benefits Trump's 2020 re-election campaign. pic.twitter.com/tLEo0aC6jL — Dave Levinthal (@davelevinthal) May 24, 2018
+Ellison has requested a response by May 14. Read his letter below:In a letter addressed to Kim, Trump blamed North Korea for his decision. The president specifically flagging a statement by the North Koreans that he said showed “tremendous anger and open hostility.”
 
-Each purchase is considered a contribution to the Trump Make America Great Again Committee, a joint fundraising effort between the Trump presidential campaign and the Republican National Committee. Some of the money raised by the committee has been used to pay for lawyers responding to the Russia investigation conducted by special counsel Robert Mueller.
+“You talk about your nuclear capabilities,” Trump said, “but ours are so massive and powerful that I pray to God they will never have to be used.”Back in the early 2000s, the critically panned “Star Wars” prequels hit theaters and a hilariously odd show called “Arrested Development” debuted. Who could have predicted then that, in 2018, Ron Howard would direct a “Star Wars” film and have the chance to narrate one of them in the style of “Arrested Development”?Deadpool continues to surprise us with some terrific content. He painted some amazing landscapes as Bob Ross, and the “Merc with a Mouth” even suited up in pink to say a big f**k you to cancer.
 
-Heading into Memorial Day weekend, the items are listed on the campaign store’s homepage as “featured products”:
+This time, he’s teamed up with the legendary Céline Dion for the music video “Ashes,” a song written exclusively for the upcoming “Deadpool 2” soundtrack.
 
-Donald Trump
+By the end, Deadpool is completely blown away by Dion’s performance, and that’s a problem. This is for a movie sequel, and that means she’s got bring her game way, way down.
 
-But on social media, not everyone was impressed by the fashion:
+But Céline doesn’t phone it in for anyone.On Wednesday’s broadcast of “The Daily Show,” Noah said he normally “wouldn’t really care” about what West had to say “about slavery or black history.” But what sucked about West’s latest comments was how “every member of the Tiki Torch Club out there is going to use Kanye’s words to justify their hate,” Noah explained.Actor Mike Myers put in a star turn as President Donald Trump’s personal physician on Wednesday’s broadcast of “Jimmy Kimmel Live!”
 
-Surprised the women's suit shows off that much skin. Pence won't be pleased. — Andy (@trtx84) May 24, 2018
+The “Austin Powers” star disguised himself as Dr. Harold Bornstein, who on Tuesday claimed that Trump told him what to write in a 2015 letter detailing the then-presidential candidate’s “extraordinary” physical strength and stamina.
 
-Spend the summer having refreshing drinks thrown at you wherever you go.https://t.co/LvbjdAw3x3 — Save the web rant (@web_rant) May 24, 2018
+“May I say, in the long history of talk show hosts, you are the most virile and vigorous one of them all,” Myers as Bornstein told Jimmy Kimmel, before offering the host “uppers, downers, boner stuff,” and playing a spoof game of “hot and cold” about Trump’s health.Rev. Patrick Conroy, chaplain of the House, attending the 2013 National Days of Remembrance ceremony to honor the victims of the Holocaust. Tom Williams via Getty Images
 
-Every dollar you spend will save a lawyer in need. Please, donate now. pic.twitter.com/v8yjAEWKke — Now Is the Tweeter of Our Discontent (@NowDiscontent) May 24, 2018
+House Speaker Paul Ryan (R-Wis.) said Thursday that he accepts House Chaplain Patrick Conroy’s decision to rescind his resignation.
 
-Does this swimsuit make me look racist?! — Mo (@modasilva) May 25, 2018
+“I have accepted Father Conroy’s letter and decided that he will remain in his position as Chaplain of the House,” Ryan said in a statement. “It is my job as speaker to do what is best for this body, and I know that this body is not well served by a protracted fight over such an important post.”
 
-The money actually goes to criminal defense lawyers. — Speculawyer 🇳🇴-American (@speculawyer) May 24, 2018
+Conroy wrote a two-page letter to Ryan earlier on Thursday, accusing the speaker of ousting him from his role without cause last month, The Washington Post reported.
 
-And each order comes with a special coin! Limited edition! Embossed w likeness of Trump and Kim Jong-Un — FLS (@effleess) May 24, 2018
+“I have never been disciplined, nor reprimanded, nor have I ever heard a complaint about my ministry during my time as House chaplain,” Conroy wrote.
 
-Now you can proudly display your racism when you're at the beach, too. — Ahmee (@obxajacobs) May 25, 2018
+NBC News tweeted a copy of the full letter:
 
-What, no speedos? — Geoff West (@geoffwest) May 24, 2018
+House Chaplain Patrick Conroy rescinded his resignation on Thursday, according to a letter obtained by @NBCNews.
 
-I noticed the fine print states that the female suits come a Pence autographed Chasity belt. — Ron_inWonderland🌊☮✊ (@decman52) May 24, 2018
 
-55 dollars for shorts. Seriously? — Steve Curtis (@scurtis2020) May 24, 2018Seth Meyers had such high hopes for his Donald Trump souvenir coin collection.
 
-In a “Closer Look” segment on “Late Night” Thursday, the host showed off a coin he bought from the White House gift shop that commemorated the president’s upcoming summit with North Korea.
+Read the two-page letter, which was sent to Speaker Paul Ryan, below: pic.twitter.com/ApvEH2qQ0U — Kurt Chirbas (@kchirbas) May 3, 2018
 
-But now that Trump has canceled the nuclear talks with Kim Jong Un, Meyers had to throw the souvenir away.
+Conroy initially announced his resignation on April 15, and made it clear that it wasn’t his choice to go.
 
-“I should have learned my lesson after I bought commemorative coins for the Completed Border Wall, Biggest Inauguration Ever, Anthony Scaramucci’s First 100 Days On The Job, Cleared Of All Charges, and People’s Sexiest Man Alive,” he said.TONIGHT: Things are looking bad for Trump lawyer Michael Cohen, which usually means it's time for #StormyWatch. #LSSC pic.twitter.com/3k9ROuclKw — The Late Show (@colbertlateshow) May 25, 2018
+“As you have requested, I hereby offer my resignation as the 60th Chaplain of the United States House of Representatives,” Conroy wrote in a letter to Ryan, first reported by The Hill. His last day would have been May 24.
 
-President Donald Trump’s personal attorney, Michael Cohen, is in hot water, as Stephen Colbert noted Thursday.
+The priest’s ouster sparked furor and prompted lawmakers in both parties to work to try to save Conroy’s job.
 
-The “Late Show” host said that leaves Freidman just two possible punishments.The “Dietland” star told host Jimmy Fallon that she uses “Trump poop bags” to pick up after her dog.
+It was unclear why Ryan wanted Conroy to go. The speaker reportedly told the House Republican Conference on April 27 that some House members believed their “pastoral needs” were not being fulfilled. But Rep. Gerry Connolly (D-Va.) told HuffPost that it may have stemmed from a prayer the priest made on the House floor last fall amid debate over the GOP tax bill.
 
-She said she received the bags, which have Trump’s face on them, as a gift from her in-laws. Now they’ve become a therapy of sorts when the family pooch does her business.
+In the Nov. 6 prayer, Conroy entreated that under the new legislation “there are not winners and losers under new tax laws, but benefits balanced and shared by all Americans.” As previously reported, the tax bill disproportionately benefits the rich over time.
 
-Said Margulies: “There’s this sort of really cathartic, therapeutic moment, and I just stand there and I go, ‘You take a poopie! You take a poopie!’”A man is facing criminal charges after threatening Muslim students with a knife and stun gun this week while they were eating outside a McDonald’s in St. Augustine, Florida.
+In his letter on Thursday, Conroy suggested his faith may have played a role. The Jesuit priest noted that it was Ryan’s chief of staff, Jonathan Burks, who informed him that the speaker was asking for his resignation.
 
-John Jay Smith, 60, is facing two third-degree felony charges of aggravated assault with a deadly weapon, a first-degree felony charge of burglary with assault or battery and a third-degree felony charge of trespassing, according to a police report.
+“I inquired as to whether or not it was ‘for cause,’ and Mr. Burks mentioned dismissively something like, ‘Maybe it’s time that we had a chaplain that wasn’t a Catholic,’” Conroy wrote.
 
-Officers arrested Smith at the McDonald’s on Wednesday at 2:30 a.m. after he used a switchblade-style knife to threaten the students, who were in a parked car outside the restaurant, according to First Coast News.
+In a statement shared with HuffPost, Burks said he disagreed with the Conroy’s “recollection” of the conversation.
 
-One of the victims, Omar Abdelmoaty, told The Washington Post that he and four other Egyptian exchange students, all of them Muslim, were simply eating burgers and fries when Smith came at them.
+“I am disappointed by the misunderstanding, but wish him the best as he continues to serve the House,” Burks said.
 
-“Get the f**k out of here, you don’t deserve American food,” Smith reportedly said.
+But Connolly, a Catholic, said he shared the priest’s suspicion, which was reinforced when Rep. Mark Walker (R-N.C.), chairman of the conservative Republican Study Committee, suggested the next chaplain should have a wife and a family. Such a requirement would automatically exclude Catholic priests from the position.
 
-At that point, Smith reportedly pulled out a stun gun and reached inside the car with it. The driver, likely very scared, accidentally backed the car into a pole.
+Walker later removed himself from a bipartisan committee to find a new House chaplain amid outcry from Catholics.
 
-“We thought we were going to die,” Abdelmoaty told the Post.
+Conroy has served since 2011 as the House chaplain, a position that is filled by election every two years. In his letter to Ryan on Thursday, the priest said he intended to serve out his current two-year term and possibly “beyond,” unless he is officially terminated or not re-elected.
 
-John Jay Smith, 60, faces multiple felony charges for threatening Muslim students with weapons while they were eating outside a McDonald's in Florida. Youtube
+“You may wish to outright ‘fire’ me, if you have the authority to do so,” Conroy wrote, “but should you wish to terminate my services, it will be without my offer of resignation, as you requested.”Laverne Cox attends Planned Parenthood's Spring Gala honoring Cecile Richards on May 1, 2018, in New York City. Jared Siskin via Getty Images
 
-The police report indicates Smith might have been intoxicated at the time of the attack, and that he may have been motivated by the victims’ religion.
+The actress and activist was honored at the Planned Parenthood of New York City’s annual Spring Gala on Tuesday night, alongside outgoing president Cecile Richards. Cox praised Planned Parenthood for providing a much-needed service to trans people all over the country: affordable and accessible healthcare.
 
-Smith could face hate crime charges because he “approached the victims due to their purported religion or ethnic background,” said Chuck Mulligan, a spokesperson for the St. Johns County Sheriff’s office, according to First Coast News.
+“So often when we talk about women’s health care, we leave out transgender women,” she told the crowd during her acceptance speech.
 
-The State Attorney’s Office will decide whether Smith will face hate crime charges, Mulligan said.
+Planned Parenthood is thankfully different, Cox added.
 
-Smith reportedly defended his attack by telling deputies, “they killed my son” and “my son was a Marine.” Smith said his son was killed in combat in Afghanistan, First Coast News reported.
+“I’m so excited to stand before you this evening because I wanted to shout out to the world that Planned Parenthood is a welcoming place for transgender people,” she said. “I travel the country and meet transgender people all over who do not have access to life-saving healthcare.”
 
-McDonald’s did not immediately respond to HuffPost’s request for comment on the incident.
+Transgender people face a multitude of hurdles when it comes to healthcare including discrimination, refusal of care and being unable to afford it. According to a 2017 Harvard public health report, 31 percent of trans people lack regular access to healthcare and many more postpone doctors visits due to discrimination.
 
-“We didn’t do anything to anybody. We’re just students,” Abdelmoaty told The Post. “The basic idea that he charged us and attacked us for this, for our religion, for our home country and background, it’s kind of scary. In the first place, we’re just human beings — names and descriptions came afterward. We don’t hate him for what he did. We’re just sad.”Comedy Jimmy Kimmel Knows Why Iran's Supreme Leader Watches 'Tom And Jerry'
+Planned Parenthood offers hormone therapy and other resources to transgender support groups and networks in local communities.One person is dead and a suspect is in custody after a dispute at a Nashville, Tennessee, mall led to gunfire Thursday, police said.
 
-The host reimagined the cartoon after Ayatollah Ali Khamenei brought up the cat and mouse in defiance of U.S. threats.At least two people have been injured in a school shooting in Indiana.
+Officers responded to reports of gunshots fired at Opry Mills Mall on Thursday afternoon, a spokeswoman for the Metropolitan Nashville Police Department confirmed to HuffPost. The department said one person was shot and later announced the victim had died.
 
-Local and state police responded to reports of an active shooter at Noblesville West Middle School just after 9 a.m. Friday, Chief of Police Kevin Jowitt told reporters at a news conference. Jowitt confirmed that two people were injured with gunshot wounds: one teacher and one student.
+A 22-year-old suspect is in police custody, the department said.
 
-A student and adult embrace outside Noblesville West Middle School after a shooting at the Indiana school on Friday. Kevin Moloney via Getty Images
+This is the pistol surrendered by the 22-year-old suspected shooter in the Opry Mills case. He has been taken to an MNPD facility to be interviewed. The 22-year-old shooting victim has died. The shooting was preceded by a physical altercation between the two. pic.twitter.com/OhT2jIZl23 — Metro Nashville PD (@MNPDNashville) May 3, 2018
 
-One adult victim was transferred to Methodist Hospital, and one child victim was transferred to Riley Children’s Hospital, Danielle Sirilla, a spokesperson for Indiana University Health, confirmed to HuffPost Friday morning.
+The Nashville Fire Department previously said the male shooting victim, 22, had been transported to an area hospital in critical condition.
 
-Their families have been notified, and the school is now clear and “contained,” Jowitt said.
+The Bureau of Alcohol, Tobacco, Firearms and Explosives also responded to the scene.
 
-One male student at the school, believed to be the suspect, has been detained.
+BREAKING: ATF is responding to the scene of a shooting at Opry Mills Mall in Nashville, Tenn. pic.twitter.com/gbkdqjKSAh — ATF HQ (@ATFHQ) May 3, 2018
 
-The suspect was “apprehended in the classroom or in that area,” police public information officer Bruce Barnes said.
+James Chick, 31, and his family were walking around the mall after stopping at Starbucks when they heard what they believed to be gunshots.
 
-According to police, the suspect asked to be excused from class before the shooting occurred. He returned with two handguns. The situation was “resolved very quickly,” but police are still investigating.
+“A crowd of people came running,” Chick told HuffPost. “My wife Ashley and I grabbed our two little girls and started running out the nearest exit and straight to our truck. As we drove out of the parking lot, dozens of police vehicles came speeding to the scene.”
 
-Police would not identify either the injured victims or the suspect.
+Group of armed Nashville officers just went back in the mall. Another group of shoppers just brought out. pic.twitter.com/M7NHh9D1yJ — Natalie Allison (@natalie_allison) May 3, 2018
 
-Local news outlets identified the injured teacher as Jason Seaman, a science teacher and football coach, according to his LinkedIn profile. Parents said that he intervened to try to stop the suspect. He underwent surgery for three gunshot wounds, his mother, Kristi Seaman, wrote in a Facebook post.
+The shooting happened just weeks after a gunman stormed a Nashville-area Waffle House, killing four people before being captured by police.WASHINGTON, May 2 (Reuters) - The United States announced on Wednesday the first transfer of a prisoner from the Guantanamo Bay detention center under U.S. President Donald Trump, lowering the prisoner population at a facility Trump has signaled he would like to repopulate.
 
-Jowitt said that the school employs a full-time school resource officer, but does not know if he was involved in the shooting. Police provided few other details, citing the ongoing investigation.
+The U.S. military said Ahmed Muhammed Haza al-Darbi’s transfer to Saudi Arabia reduced the detainee population to 40 from 41. He was the first prisoner to leave the U.S. detention center in Cuba since Jan. 19, 2017 - the day before Trump was inaugurated.
 
-Instructional Assistant Paige Rose reacts outside Noblesville West Middle School after the shooting. Kevin Moloney/Getty Images
+Reuters reported in March that al-Darbi’s transfer was advancing.
 
-On Friday morning, officers also responded to another “communicated threat” at Noblesville High School, but Jowitt said police believed that’s nothing beyond a threat.
+The U.S. military said Ahmed Muhammed Haza al-Darbi’s transfer to Saudi Arabia reduced the detainee population to 40 from 41. Handout . / Reuters
 
-The high school was placed on lockdown while a SWAT team searched the school, according to Richard Passey, a parent of a high school student. Passey added the threat was believed to be a “hoax.”
+Commander Sarah Higgins, a Pentagon spokeswoman, noted that the transfer was provided under the terms of a 2014 plea deal, which will allow al-Darbi to serve out the rest of his 13-year sentence there.
 
-Parents had been instructed to pick up the middle school students at the high school. Middle school and high school students at the high school were being released to their parents shortly before noon, according to local news reports.
+“The United States coordinated with the government of the Kingdom of Saudi Arabia to ensure the transfer took place in accordance with established standards for security and humane treatment,” Higgins said.
 
-Vice President Mike Pence, who previously served as governor of Indiana, offered prayers for the victims.
+Saudi Arabia’s state news agency, SPA, said al-Darbi arrived in the kingdom late on Wednesday.
 
-Karen and I are praying for the victims of the terrible shooting in Indiana. To everyone in the Noblesville community – you are on our hearts and in our prayers. Thanks for the swift response by Hoosier law enforcement and first responders. — Vice President Mike Pence (@VP) May 25, 2018
+The prison, opened by Republican President George W. Bush to hold terrorism suspects captured overseas after the Sept. 11, 2001, attacks came to symbolize harsh detention practices that opened the United States to accusations of torture.
 
-Noblesville West Middle School, located about 30 miles northeast of Indianapolis, serves about 1,300 students, according to statistics reported to the Department of Education.
+U.S. officials have not ruled out adding to the prisoner population again and have acknowledged trouble repatriating Islamic State fighters being held by U.S.-backed forces in Syria, raising the possibility that Guantanamo Bay could be seen as a viable option in the future.
 
-Indiana is widely known as a “gun-friendly state” for having some of the least restrictive gun laws in the country.
+‘BAD DUDES’
 
-See more images from the scene below:
+Trump’s Democratic predecessor, Barack Obama, reduced the inmate population to 41 from 242, but fell short of fulfilling his promise to close the jail before leaving office last year.
 
-Kevin Moloney/Getty Images Staff and students comfort each other outside Noblesville West Middle School after a shooting at the school. Kevin Moloney/Getty Images Evacuated middle school students wait on a bus outside Noblesville High School. Kevin Moloney/Getty Images Evacuated students and staff march to buses to be carried offsite outside Noblesville West Middle School. Kevin Moloney/Getty Images Police assess the scene outside Noblesville High. Kevin Moloney/Getty Images Parents comfort each other as they wait outside Noblesville West Middle School. Kevin Moloney/Getty Images A police officer interviews a student and adult. Kevin Moloney/Getty Images Parents wait while a SWAT officer passes outside Noblesville High School.
+In contrast, Trump pledged during his campaign to repopulate the prison, saying he wanted to “to load it up with some bad dudes.”
 
-Sara Boboltz contributed reporting. This story has been updated.Suleiman Abdulfatai is a native of Nigeria, 31 years old, a graphic designer and a clothing designer. He’s also a dead ringer for Chadwick Boseman.
+Trump signed an order in January to keep the detention center open and hinted in his State of the Union address to Congress this year that Islamic State or al Qaeda fighters could be added to the prison population.
 
-A post shared by Abdulfatai (@fhatoh_s) on May 16, 2018 at 7:21am PDT
+He also asked the Pentagon to re-examine the U.S. military’s detention policy.
 
-Abdulfatai, whose Twitter handle is @fhatoh_s, posted a selfie earlier this week on Twitter, and people were immediately shook about his famous doppelgänger.
+To that end, the Pentagon said on Wednesday it updated its guidance on criteria for transferring new detainees to Guantanamo Bay.
 
-For reference, this is “Black Panther” star Boseman:
+“This policy provides our warfighters guidance on nominating detainees for transfer to Guantanamo detention should that person present a continuing, significant threat to the security of the United States,” said Higgins.
 
-Steve Granitz via Getty Images
+A White House National Security Council spokesman confirmed it had received the new detainee criteria.
 
-Abdulfatai, who lives in the Nigerian capital Abuja, told HuffPost that he realized he looked like Boseman when “Black Panther” came out.
+“We have no further comment at this time,” the spokesman said.
 
-“I didn’t watch it early like other guys did,” he told us, but when he started getting calls about the resemblance to the main character, he “decided to go watch it.”
+The U.S. military has long struggled with what to do about prisoners of war in an open-ended battle against Islamist extremism, in which militants have come from all corners of the world to fight in places like Syria.
 
-Then this week, Abdulfatai posted his picture on Twitter with the hashtag #FineEbiraTwitter, and the first comment he got was about Boseman. And the comments about the actor and designer’s similarities have not slowed down at all:
+Defense Secretary Jim Mattis told reporters on Monday that there were well over 400 foreign fighters being held by U.S.-backed forces in Syria. Although there was an effort to send those fighters back to their home countries, that was not always easy, he noted.
 
-The Bleck Pentha pic.twitter.com/lJklnYVb7W — Evette Dionne 🤷🏾‍♀️ (@freeblackgirl) May 25, 2018
+“In some cases, those countries (where the fighters came from) have stripped them of their citizenship,” Mattis said.
 
-I thought this was Chadwick IM DEAD https://t.co/NlG7YNzmwy — vee | NOT spoiler free 13rw (@hulksthor) May 25, 2018
+“So they have a different view as far as what their status is today. So this is not simple.”Rudy Giuliani’s latest Fox News interview had CNN chief legal analyst Jeffrey Toobin stunned into laughter on Thursday.
 
-When you realise the only way to defeat Thanos is to convert to islam. https://t.co/Zrl9K9touC — LoneWolf. (@ABuharisama) May 25, 2018
+Toobin appeared on the network to weigh in on the many bombshells Giuliani, former New York City mayor, dropped during his Wednesday night interview with Sean Hannity and his subsequent follow-up chat with “Fox & Friends” on Thursday morning.
 
-I dead ass thought that this was T’Challa wtf https://t.co/RUfvcOXcmE — fitry healy (@FitryRazak) May 25, 2018
+During his interview with Hannity, Giuliani said President Donald Trump had reimbursed his lawyer Michael Cohen for a $130,000 payment he’d made to porn star Stephanie Clifford, known as Stormy Daniels, just before the 2016 election. Daniels says she had an affair with Trump and was paid for her silence.
 
-.@chadwickboseman you not slick bro. We still gonna 🙅🏽‍♀️ every time we see you. https://t.co/sQo8KxfYUB — Erica Buddington (@ericabuddington) May 25, 2018
+Giuliani told Hannity the transaction was “perfectly legal,” and that “that money was not campaign money” and thus not a campaign finance violation. Trump supported that argument in a series of tweets on Thursday, stating that “Money from the campaign, or campaign contributions, played no roll [sic] in this transaction.”
 
-Abdulfatai says the responses about his celebrity twin have been “overwhelming.”
+Giuliani elaborated on the payment in a subsequent interview on “Fox & Friends,” saying: “Imagine if that came out on October 15, 2016, in the middle of the last debate with Hillary Clinton. Cohen didn’t even ask [if he should pay Daniels]. He made it go away. He did his job.”
 
-“I feel so happy to be finally recognized and be compared to Chadwick,” he told HuffPost. “To my new fans, may God continue to bless every single one you out there.”
+After a clip of Guiliani’s statement on “Fox & Friends” was replayed, Toobin looked stunned and laughed.
 
-As for Boseman’s thoughts on the likeness, his representative declined to provide a comment.David Cross just can’t seem to simply say “I’m sorry.”
+“I hadn’t heard that clip before,” he said. “I mean, that’s a confession! That’s a confession this is a campaign finance violation because they wanted to shut her up in October of 2016.”
 
-Earlier this week, the comedian and a few of his male “Arrested Development” castmates came off sounding particularly bad during a New York Times interview about the show’s revival on Netflix.
+The legal analyst said it sounded as though Guiliani was engaging in “mindless riffing” during his recent interviews on Fox News.
 
-David Cross first defended Jeffrey Tambor against Jessica Walter's criticism and then said Walter once yelled, too. Rich Fury via Getty Images
+“I mean, so that’s why the payment was made then,” Toobin continued. “It was obvious to all of us, but now you have the president’s lawyer confessing that this was a payment for the benefit of the campaign, which had to be reported.”A “horrible” kidney infection landed the recently married comic in the hospital for five days, causing her to miss the London premiere of her latest movie, “I Feel Pretty.” A photo the star posted of herself in a hospital bed on Friday showed her red-faced and not looking well.NEGUAC, Canada ― When the harbors aren’t frozen, Maxime Daigle and his older brother Jean-Francois often take to the cold waters off New Brunswick in one of their family’s flat-bottomed boats to harvest oysters. The siblings are among hundreds of producers along this rocky coast who grow oysters for La Maison BeauSoleil in the company’s distinctive floating bags.
 
-During the conversation, co-star Jessica Walter opened up about an incident in which Jeffrey Tambor — who plays her character’s husband on “Arrested Development” — was verbally abusive and yelled at her on set. Tambor was fired from another show, “Transparent,” in February after being accused of sexual harassment.
+For the Daigles this is a family business. Maxime’s father, Maurice, co-owns La Maison BeauSoleil, an oyster grower, packer and distributor that he runs with his business partner, Amédée Savoie, whose son, Allain Savoie, also works in the company.
 
-“In like almost 60 years of working, I’ve never had anybody yell at me like that on a set,” Walter said through tears.
+When the business started growing and selling oysters from the coastal village of Neguac, at the southern end of the Acadian Peninsula, each wooden box was painstakingly packed by hand.
 
-In response, Cross and castmates Jason Bateman and Tony Hale came to Tambor’s defense and were dismissive of Walter’s feelings.
+That was 18 years ago. La Maison BeauSoleil ― called simply BeauSoleil within the seafood business ― has since become Canada’s largest producer of cocktail-sized oysters. Demand for its tasty, teardrop-shaped product is at an all-time high. While the company is working hard to keep up, business as usual isn’t cutting it.
 
-The cast of "Arrested Development." Back row (left to right): Jeffrey Tambor, Jason Bateman, Tony Hale and David Cross. Front row (left to right): Will Arnett, Alia Shawkat and Jessica Walter. Cindy Ord via Getty Images
+So a new generation of robots is coming.
 
-The interview rubbed many readers the wrong way and sparked a backlash against Bateman, Cross and Hale. Bateman and Hale have since apologized to Walter.
+While details are still closely guarded, the company is developing a state-of-the-art automated sorting and packing line that will revolutionize its business. Software-controlled robots, able to mimic the small, complicated movements of human oyster pickers, will give the company a new competitive edge, says Savoie, and allow them to double production.
 
-On Thursday, New York news site Gothamist asked Cross about the criticism, and the 54-year-old said he understood why people were uncomfortable with his remarks and promised to “unequivocally apologize to Jessica.”
+This is the type of investment and technology that has often been missing from this country’s traditional fishing economy. Many of Atlantic Canada’s rural coastal communities have been treading water since overfishing caused cod to collapse in the 1990s, and falling further behind could signal the end for the region’s historic way of life.
 
-Yet just moments later, Cross couldn’t stop himself from pointing a finger in Walter’s direction.
+But this is a family business, and the co-owners are trying to build a legacy for their children in this remote region.
 
-“There’s never an excuse ever for yelling at somebody and humiliating them in front of other people,” Cross told Gothamist. “And there was no excuse when Jessica did it. To Jessica’s credit, she eventually apologized to the actress and felt bad about it.”
+Amédée Savoie owns and runs La Maison BeauSoleil, Canada's largest producer of cocktail-sized oysters. Karen Pinchin
 
-When Gothamist asked him to elaborate on Walter’s alleged outburst, Cross said there was an incident between the actress and a stand-in, “but it didn’t have the same kind of feeling that Jeffrey’s did.”
+According to a recent report from Ryerson University’s Brookfield Institute, 62 percent of resource-sector jobs, including those in the fisheries, are vulnerable to automation. While profoundly needed by most production-oriented industries, that isn’t always a good news story in a small town like Neguac, says Creig Lamb, a study co-author.
 
-Some people on Twitter did not appreciate Cross’ tone-deaf attempt to divert attention from the issue at hand.
+“There’s an understanding that automation is happening and you either adapt or perish,” he says. “The danger is that the people who either don’t want to or can’t acquire the new skills that are required, they’re the most vulnerable.”
 
-It’s a shitty deflection and misses the point entirely about what was so disturbing about the NYT exchange. — Jessica Valenti (@JessicaValenti) May 24, 2018
+Helping these workers, like BeauSoleil’s oyster packers, can be a major challenge, he says. But while many fear losing jobs to technological change, many industry observers ― including the Daigles and Savoies ― say a revolution can’t come soon enough.
 
-This is not the first time Cross has put his foot in his mouth while attempting to apologize for his words.T is for “trademark infringement.” The producers of this summer’s “The Happytime Murders,” a buddy-puppet-cop movie starring Melissa McCarthy, are being sued by the makers of “Sesame Street.” STX Entertainment
+Creepy Robots
 
-“Sesame Street” isn’t all fun and games, if a lawsuit filed Thursday by its parent company, Sesame Workshop, is any indication.
+Shellfish is not an easy sector to automate, particularly in a region like New Brunswick where fisheries harvest a hugely diverse range of species. While the same robot can be used to manufacture different types of cars or computers, for example, the physical differences between a crab and a lobster, or a shrimp and a scallop, mean the processing equipment needed is often radically different.
 
-The nonprofit educational organization responsible for the beloved children’s TV show is suing STX Productions, the producers of the upcoming film “The Happytime Murders,” for using the “Sesame Street” name in the movie’s marketing, specifically the tagline “No Sesame. All Street.”
+But innovation is happening. A few years ago, a short, slightly grainy video with the creepy vibe of a horror film was quietly posted online by a mechanical engineer. The video shows a robot methodically picking up a leggy snow crab by its central shell and depositing it into a clamp. With eerie precision, a round, spinning blade descends and rapidly dismembers the animal’s leg sections from its body.
 
-“Sesame seeks to enjoin Defendants’ deliberate effort to appropriate its SESAME STREET mark, and its trusted brand and goodwill, to promote their R-rated movie, ‘The Happytime Murders,’ by way of a violent and sexually-explicit trailer,” the lawsuit states.
+That robot is now in commercial testing. It was developed by the St. John’s, Newfoundland-based Canadian Centre for Fisheries Innovation, a nonprofit organization owned by Memorial University. Managing Director Robert Verge says this type of device has been badly needed by processors in the region for a long time.
 
-“The Happytime Murders” is an R-rated buddy-cop movie set in a world where humans and Sesame Street–style puppets co-exist. Melissa McCarthy stars as a police officer who gets a new puppet partner and is tasked with solving a series of connected murders.
+Another issue the shellfish industry faces is the seasonality of Canada’s fisheries. A million-dollar robot doesn’t provide great return on investment if it’s only used a couple of months a year.
 
-It appears the makers of the classic children’s program are continuing their mission of education by teaching STX Productions a valuable lesson in trademark infringement.Warning! “Avengers: Infinity War” spoilers!
+Leola Plourde is over 60 years old and belongs to an older cohort of shellfish packers. Karen Pinchin
 
-There was one “Infinity War” death so shocking a Marvel executive tried to stop it, but if we’re talking about the demise that was nothing but feels, that goes to our friendly neighborhood hella dead Spider-Man.
+In coastal New Brunswick, like many rural Atlantic communities long kept afloat by seasonal employment in fish processing plants or on boats, demographics are becoming increasingly dire. Young people “vote with their feet,” as Verge says, by moving west and to more urban communities. The workforce is plummeting as demand for Canadian seafood spikes. Between 2011 and 2016, the region saw the biggest decline in the proportion of people aged 15 to 64 since 1871, according to Statistics Canada, and the largest increase in the proportion of seniors.
 
-At the end of the new “Avengers” film, Thanos (Josh Brolin) snaps his Infinity Gauntlet–clad finger and causes many of the Marvel Cinematic Universe characters to crumble to dust instantaneously. Spider-Man, however, receives an extended final moment, allowing Tom Holland to deliver a tear-jerking and mostly improvised death scene.
+This sounds familiar to BeauSoleil’s Savoie, who says fish plant work often requires long days and physically demanding, repetitive tasks. Right now, two of his best oyster packers are over 60 years old.
 
-“I don’t feel so good. I don’t know what’s happening,” he says after Thanos’ snap. “I don’t want to go. I don’t want to go, Mr. Stark, please,” he mumbles, embracing Iron Man (Robert Downey Jr.) as he melts away to nothing.
+“[They] have all said to their children, ‘Don’t do what we do, go for something else,’ and I don’t blame them,” he says. He’s concerned about finding enough workers, as well as competition on price and consistency from overseas producers.
 
-So why did Spidey get so much time to deliver a heartbreaking monologue, while his compatriots died on the spot?
+“If industry doesn’t [adapt] in the next 10 years, there’ll be bigger problems,” Savoie says.
 
-In an interview with HuffPost, directors Joe and Anthony Russo confirmed the reason: It was due to his Spidey sense, his ability to perceive danger before it hits.
+Anything You Can Do, It Can Do Better (Maybe)
 
-“That’s correct,” Joe Russo said after I asked if Peter Parker’s Spidey sense was behind the early warning. “He was aware of something.”
+Back when BeauSoleil first hit the North American market, oysters were typically sold by weight, so number counts didn’t matter. But as the company made a name selling its bite-sized, individually priced oysters into a seemingly insatiable market, the importance of getting the right number in each box became increasingly important. It invested in cutting-edge optical sorting machines from France in 2005 and was the first Canadian company to adapt the technology for use with oysters.
 
-Though it’s a mainstay power of the character in the Marvel comics, Spidey sense wasn’t established in the previous Spider-Man solo film “Spider-Man: Homecoming.” In fact, it was big news among fans when “Infinity War” showed Peter had Spidey sense in his repertoire in the trailers for the film.
+In 2004, the company sold 25 tons of oysters; in 2017, it sold 800 tons. The company currently employs about 50 people, says Savoie, and spends the equivalent of about $776,000 on wages every year. Without new so-called “pick and place” automation on its processing line, capable of packing boxes like a human worker, they’re at the point where growth is nearly impossible.
 
-Now we know why.
+Plus, robots don’t make errors the way humans often do. “Human beings aren’t able to judge [precise measurements] perfectly,” software developer Michel Caissie says in French. He owns Infraprotech, the company contracted by BeauSoleil to program its new robots.
 
-It all led to Holland’s delivering the most emotional scene of the movie, inspiring memes everywhere:
+For 18 years, La Maison BeauSoleil has packed its oysters in blue-stamped, handmade wooden boxes. Karen Pinchin
 
-Donkey, I don’t feel so good pic.twitter.com/upKE7HArZL — Kazoo (@KingOfKazoos) April 30, 2018
+Three years ago, when this project with BeauSoleil started, Caissie’s devices identified a whopping 29 individual human movements in the packing process, including picking an oyster up, measuring it, looking at it and eventually placing it in the box.
 
-But the Spidey sense inquiry was far from the only question I had in the wake of watching and rewatching “Infinity War.” Since I had the Russo brothers on the phone, I posed a few more questions for the directors to clear up:
+“Just to pick one oyster takes three-quarters of a second,” Savoie says. “That times 12 million oysters [the number they ship each year] ― that’s a lot of time.”
 
-Why is Gamora?
+Then there’s the cost to human bodies. Automating the simplest, yet most straining tasks done by humans can dramatically reduce risk of workplace injury, says Caissie, whose software calculates where the most acute dangers are.
 
-A post shared by Peter Parker 🔴🕷🔵 (@spidey.marvel) on May 19, 2018 at 6:05pm PDT
+“We can’t continue working this way. The process isn’t adapted to human beings,” Caissie says. “That’s why people don’t like this work.”
 
-It’s the question on everyone’s minds.
+Still, robots are fallible, and Savoie has been careful to build in workstations where humans can still pack boxes of oysters ― just in case the robots break down.
 
-In “Infinity War,” the Guardians of the Galaxy crew initially assumes that the Avengers are working with Thanos and thus have custody of Star-Lord’s boo, Gamora (Zoe Saldana).
+Not A Fear Of Change; Fear Of Loss Of Control
 
-So when Star-Lord (Chris Pratt) meets the Avengers, he asks Iron Man, “Where is Gamora?” Iron Man responds, “I’ll do you one better: Who is Gamora?” Drax (Dave Bautista) follows that up with the nonsensical but earnest, “I’ll do you one better: Why is Gamora?”
+At a recent international seafood show in Boston, BeauSoleil bought a $7,000 waterproof remotely operated vehicle that can be used to locate oyster bags sunk to the ocean bottom for winter storage and help the company drill more accurately into the rocky seabed.
 
-Zoe Saldana as Gamora in "Avengers: Infinity War." Marvel and Disney
+Maxime Daigle used it a couple of weeks ago and was thrilled to discover a cache of oysters that had drifted away from its GPS marker. He’s excited by the potential that technological advances, including automation, have for his industry.
 
-Really, though: Why is Gamora?
+Maxime Daigle often takes to the cold waters off New Brunswick in one of his family's flat-bottomed boats to harvest oysters. Karen Pinchin
 
-When I asked Joe Russo about the line and whether he has pondered an answer to it, he got a little philosophical. “Why do you think is Gamora?” he asked me, inscrutably. “I don’t know if there is an answer in Drax’s twisted brain.”
+“I think it makes my job way more interesting. When you’re sorting oysters by hand it’s the most boring thing,” he says. “With automation it goes by way faster, you’re able to focus on other things. It makes my job a bit more specialized.”
 
-Anthony Russo said, “No, sometimes [you] just wonder, has he made a connection there?”
+Currently the company’s youngest employee at 26, Daigle says it’s important for the company to be able to supply the demand for its product.
 
-“Remember, this is a man who thinks he can stand so incredibly still that he’s invisible,” Joe Russo said.
+“You want to be able to face the future,” he says. “Particularly with the population of labor here in New Brunswick, which is dying a bit.”
 
-What was the secret behind Captain America’s phone number?
+Automation definitely scares some members of his community, says Savoie, but he’s emphatic that the company’s goal is to increase production, not to cut jobs. Yet, in the face of all this change, there’s at least one thing BeauSoleil says it won’t be automating: its blue-stamped, handmade wooden oyster box, which is manufactured year-round locally.
 
-Chris Evans as Steve Rogers in "Avengers: Infinity War." Marvel and Disney
+Verge, who spent much of his career helping businesses in financial trouble, says that Atlantic Canadians aren’t necessarily afraid of change.
 
-A gag in “Infinity War” is that Tony Stark has the number for Captain America (Chris Evans) on a flip phone if he’s needed. The movie prominently shows Cap’s number (678-136-7092) on screen.
+“They’re afraid of being changed without any involvement or input or opportunity to direct their destiny,” he says. “The fishery, for a long time, was considered an employer of last resort.”
 
-The Marvel movies are known for Easter eggs, and this had all the markings of one. But if you were one of the many people who called the number after seeing the film, you know the number doesn’t work and appears to be random. So what’s the point?
+He says the region’s industry needs to be more efficient and humane, and technologies could help.
 
-“We actually had intended to create a fake voicemail from Steve Rogers,” Joe Russo said. “For the people that left the theater and called that number, they would get a voicemail from Steve Rogers.”
+“We’ve got to reinvent this industry for the future, not perpetuate a model that really didn’t work that well in the past,” Verge says. “If we can do that, there’s tremendous opportunity.”
 
-“And that number was the actual number that we were going to use. We were sort of given that number,” said Anthony Russo.
+For more content and to be part of the “This New World” community, follow our Facebook page.South Korea was at a loss for words Thursday after President Donald Trump’s announcement that he was scrapping next month’s planned nuclear summit with North Korea.
 
-Sadly, the movie’s affiliated legal department got in the way.
+“We are attempting to make sense of what, precisely, President Trump means,” South Korean presidential spokesman Kim Eui-kyeom said in a statement.
 
-“We had it all ready to go, but legal took that away from us,” he added.
+South Korean President Moon Jae-In urged both Trump and Kim to hold direct talks, South Korea’s Yonhap News Agency reported.
 
-Can Groot regenerate from the handle of Stormbreaker?
+Secretary of State Mike Pompeo, testifying on Capitol Hill, wouldn’t comment on whether Trump’s letter blindsided the South Koreans.
 
-The end of the first “Guardians of the Galaxy” gave us a new Groot (Vin Diesel), showing us that the treelike creature can regenerate after pretty severe injuries. So given that Groot spared some of his body to create the handle of Thor’s new Stormbreaker weapon, some people have been wondering: Can that handle eventually turn into a new Groot?
+The summit’s fate was thrown into question after North Korea backed away from the Trump administration’s demands to fully denuclearize. Trump then appeared to soften the demand, hinting first that he was flexible, but then saying there would be no meeting without full denuclearization.
 
-Joe Russo left it up in the air.
+Trump’s national security adviser John Bolton and Vice President Mike Pence sparked further North Korean outrage with comments comparing North Korea with Libya.
 
-“I don’t know if every piece of him that detaches ... can grow a future version of him, but who’s to say? That’s an interesting question.”
+Just hours before Trump pulled the trigger to cancel the meeting, North Korean officials called Pence a “political dummy” and threatened to pull out of the summit themselves.“Sorry, I’m giving you a fact now that you don’t know,” Giuliani told Hannity.
 
-Was “dad” really Groot’s last word in the script?
+He said the president was unaware of the “specifics” of the payments, “but he did know about the general arrangement that Michael would take care of things like this.”
 
-Rocket and Groot poster for "Avengers: Infinity War." Marvel and Disney
+Giuliani told The New York Times after his appearance on Hannity’s show that a monthly $35,000 reimbursement scheme was set up, coming out of a personal Trump family account. Trump ended up paying Cohen $460,000 to $470,000 in total, including funds for “incidental expenses,” he said.
 
-Before Groot disappears at the snap of Thanos’ finger, he lets out one last “Groot” to Rocket (Bradley Cooper). “Guardians of the Galaxy” director James Gunn said the last word translates to “dad.” Was that word actually in the script?
+Thursday morning, on “Fox & Friends,” Giuliani seemed to backpedal on his statement that Trump knew about the payments to Cohen.
 
-“It was, and it was ‘dad,’” said Anthony Russo.
+“He didn’t know the details of this until we knew the details of it, which is a couple weeks ago ― maybe not even a couple weeks, maybe 10 days ago,” Giuliani said of Trump. “Remember when this came up ― October 2016 ... I don’t want to demean anyone, but $135,000 seems like a lot of money. It’s not when you’re putting $100 million into your campaign. It isn’t pocket change, but it’s pretty close to it.”
 
-Why did everyone’s clothes disappear too?
+Giuliani also came to the defense of Cohen, who Trump has held at arm’s length since FBI raids last month seized records from the lawyer.
 
-When peeps start disappearing in “Infinity War,” so do their clothes. But clothes don’t die. Clothes are forever, until you shrink them in the laundry. That’s how it works for me. So what’s going on here?
+“I think he was trying to help the family,” Giuliani said of Cohen. “And for that, the man is being treated like some kind of villain. And I think he was just being a good lawyer and a good man.”A standoff with a man who police say had taken his estranged wife hostage culminated in a massive fire Wednesday night, as a barn on the couple’s North Haven, Connecticut, property exploded.
 
-Joe Russo explained that the clothes disappear because they are “part of their identity.”
+An unidentified body was found on the property early Thursday morning after emergency responders extinguished the blaze, the Connecticut State Police said in a statement.
 
-“Whatever was elemental to somebody’s presence went with them,” Anthony Russo said.
+Nine officers were injured in the blast, none of them seriously, state police said. The injured officers were sent to Yale-New Haven Hospital for treatment. The scene remains active as of Thursday afternoon.
 
-Should people blame Star-Lord?
+Law enforcement were alerted to a domestic violence situation on Wednesday around 2:00 p.m. local time, police said, after the wife of the suspect escaped from the home, ran to a neighbor’s house and dialed 911, according to the Hartford Courant. She told them her husband had been holding her hostage for several days, although reports vary on the exact length of time.
 
-Chris Pratt as Star-Lord in “Avengers: Infinity War.” Marvel and Disney
+The woman and her husband, who authorities have not named, have been going through a divorce, the Courant reported. The woman had reportedly been severely beaten and was taken for treatment at a hospital. Her current condition is unknown.
 
-The Avengers devise a plan to get the Infinity Gauntlet off Thanos’ hand by slipping it off after Mantis (Pom Klementieff) incapacitates him with her empathy/mind-controlling capabilities. It almost works, but Star-Lord ruins everything by punching Thanos in the face after he learns Gamora is dead.
+Multiple officers injured. I saw about four police officers being put into ambulances with possible injuries. Now being told to take shelter. Fire is still burning. #NorthHaven pic.twitter.com/OnMt4tVQnb — Kevin Galliford (@KallMeKG) May 3, 2018
 
-Thanos gets out of Mantis’ grasp, and the destruction of half the life in the universe ensues.
+State police detectives from the Fire and Explosion Investigation Unit and Central District Major Crime attempted to make contact with the man Wednesday and coax him out of the home where, with his wife gone, he had barricaded himself.
 
-Star-Lord has been getting a lot of hate since the movie was released. Does he deserve it?
+After several hours, as law enforcement attempted to enter the residence, the barn exploded with a force that neighbors say rocked their homes.
 
-The directors said no.
+“North Haven shook. I mean everyone heard it,” neighbor Nancy Sundwall told the New Haven Register. “The whole sky turned pitch black with smoke.”
 
-“His mother was dying of cancer when he was kidnapped by pirates at the age of 10. He was raised by pirates. He had to murder his father to avenge the death of his mother. His girlfriend, who he was in love with, was murdered by another corrupt paternal figure ... He made a very emotional choice,” said Joe Russo.
+The Connecticut State Police Bomb Squad and New Haven Police Department Bomb Squad have responded to assist with the investigation. Unconfirmed reports suggest the suspect may have deliberately set up explosives on the property.
 
-Anthony Russo reiterated that the shock of Gamora’s death just lets Star-Lord’s emotions get the better of him, adding that Thor also makes this mistake.
+The structure burned through Wednesday night into Thursday morning as emergency responders from several communities worked to contain it. Flames from the barn spread to other nearby structures, authorities said, although they could not confirm who owned them.
 
-“Thor also let his emotions get the better of him. Thor could’ve killed Thanos more quickly than he tried to with the ax. He showed up, and he took a moment — because of his anger, because of his motivation — to tell Thanos that he told him he would die ... and finish him off in a very deliberate way. Thor sort of got lost in his emotions in a similar way as Star-Lord and could also have been responsible for Thanos.”
+A coroner will conduct a postmortem to determine the identity of the deceased and the manner of death.
 
-According to Joe Russo, the mistakes the characters make are all about relatability.
+North Haven is a generally quiet community north of New Haven, Connecticut, and about five miles from the Yale University campus.
 
-“They make very human choices. I think if we learn anything from narrative is to put yourself inside the POV of someone — or the character itself — you should be able to empathize with that character, understand the choices that they make,” he said.
+As of Thursday afternoon, the status of the suspect and his location at the time of the explosion were unclear. Whether the barn explosion was intentional or accidental is also not yet known.Waste disposal workers reportedly found this alleged bone fragment of St. Clement in the garbage. Enviro Waste
 
-Was the movie inspired by “The Leftovers”?
+A U.K. waste disposal firm is turning to the public for help after realizing that one man’s trash could quite literally be another man’s treasure.
 
-It doesn’t take a genius billionaire playboy philanthropist to see the connections between HBO’s “The Leftovers” and “Infinity War.”
+The London-based Enviro Waste company claims its workers discovered a relic ― bearing a Latin inscription that identifies it as a bone of St. Clement, one of the earliest popes of the Catholic Church ― in a pile of trash collected from central London.
 
-Not only do the projects both involve a bunch of people vanishing to some unknown fate, but they both also star actress Carrie Coon, who plays Nora in “The Leftovers” and Proxima Midnight in “Infinity War.”
+Employees reportedly found the wax-sealed leather case containing the relic while sorting through the trash to find recyclable items last year. On April 25, Enviro Waste’s blog called for suggestions from the public about what to do with the relic.
 
-Is there any inspiration?
+Religious relics are physical items associated with a saint or with Jesus Christ ― such as a fragment of bone, a shirt, or something the saint touched during his or her life. Catholics believe relics are vehicles through which God can work miracles. Relics are often kept inside churches and venerated by the faithful.
 
-Joe Russo said Coon was in the project just because “she’s one of the best actresses working today.” It had nothing to do with a “Leftovers” connection.
+James Rubin, Enviro Waste’s CEO, told HuffPost he suspects the case came from commercial premises, but because workers collected it on a run through several sites, it’s hard to pinpoint exactly who disposed of it. Rubin said he’s seeking help from a U.K. university’s carbon dating laboratory to confirm the relic’s authenticity.
 
-He also said he believes “The Leftovers” might have been inspired by the Marvel comic writer Jim Starlin’s ‘Infinity Gauntlet’ story (a source for “Infinity War”) “in the first place.”
+Rubin said no one has reached out to claim the item, but he’s heard from 150 people who have ideas about where it should reside.
 
-“It’s just a cyclical loop there. But we’re just drawing from the original source material,” said Joe Russo.
+“I had a few ideas where it should end up, with the British Museum being the best idea,” Rubin wrote in an email. “We have had a historic churches adviser in Central London recommend that it should be handed back to the Church of San Clemente in Rome.”
 
-Did Drax really disappear, or is he just standing still?
+The Basilica of St. Clement in Rome. PHAS via Getty Images
 
-Drax disappeared along with half the other heroes at the end of the movie, but as the directors mentioned, he believes he possesses the ability to stand so still, he becomes invisible.
+The story of St. Clement dates back to the earliest days of the Christian church. He is considered to be either the third or fourth pope of the Catholic Church and a companion to the early Christian leaders, Saints Peter and Paul. According to Catholic tradition, Clement died as a martyr around the year A.D. 100, after a Roman emperor ordered him to be thrown into the sea near Crimea with an iron anchor tied to his body.
 
-Did he really disappear? Or was he just standing reallllly still?
+The Basilica of St. Clement in Rome and an abbey in Abruzzo, Italy, house relics they attribute to Clement.
 
-“That’s a spoiler,” joked Joe Russo.
+It’s rare for relics that undergo carbon dating tests to date back to the period they’re supposedly from. They’re more likely to come from a later historical period.
 
-“That’s to be decided,” Anthony Russo said, laughing. “All we know is what we can gather from the film. Anything more than that can potentially be addressed down the line.”
+Rev. Dennis O’Neill, a Catholic priest in the Chicago area who collects Christian relics, told HuffPost that he has relics of St. Clement in his Shrine of All Saints in Morton Grove, Illinois.
 
-It seems there’s a chance we may see Drax again, after all. You know, if he ever moves.A former model who accused George Takei (above) of sexual assault says the New York Observer mischaracterized comments he made recently about the incident. Tara Ziemba via Getty Images
+O’Neill said that the relic Enviro Waste found could be authentic, given its red threads and red wax seal. But he also said the relic’s container and inscription did not appear to be older than the 19th century.
 
-UPDATE: May 26 ― Scott R. Brunton, a former model who has accused George Takei of drugging and groping him without consent 36 years ago, says he is not walking back his allegations against the “Star Trek” actor.
+The biggest problem the relic faces, however, is that its certification may have been misplaced, O’Neill said.
 
-Brunton accused the New York Observer of mischaracterizing his comments in an article published this week, headlined, “Exclusive: George Takei’s Accuser Has Changed His Story of Drugging and Assault.”
+“What is missing is an accompanying document, which would have been issued at the time it was certified, with the signature and the seal of the bishop who certified it,” O’Neill wrote in an email. “Without this document, it is unlikely that anyone will re-certify it.”
 
-“I’m not a liar,” Brunton told HuffPost. “I am sticking to my story.”
+Joyce Ann Zimmerman, a theological consultant for the Maria Stein Shrine of the Holy Relics in Ohio, told HuffPost that the relic couldn’t be displayed for public veneration if the certificate is missing. In addition, the wax seal on the item didn’t appear to her to be intact ― another requirement for relics.Dennis Kucinich is running to become Ohio's next governor. Anadolu Agency via Getty Images
 
-One key detail that the Observer construed as Brunton changing his story, Brunton said, was really a matter of semantics.
+Democrats in Ohio are increasingly worried that former Rep. Dennis Kucinich’s ties to fringe groups ― including supporters of Syrian President Bashar Assad and those who promote conspiracy theories around the Sept. 11, 2001, terrorist attacks ― will destroy their chances of winning the governor’s mansion in November.
 
-The piece casts doubt on Brunton’s allegation that Takei “groped” him by highlighting that Brunton said he did not specifically remember Takei “touching [his] genitals.”
+“Democrats interested in winning are shitting themselves,” one Democratic elected official told HuffPost on condition of anonymity. “It’s not just baggage. It’s funky baggage. What Democrat is friendly with Assad? What Democrat praised [President Donald Trump’s] inauguration?”
 
-But Brunton told HuffPost the details he does remember certainly qualify as groping.
+“If [Kucinich] wins the primary, he brings down everybody but Sherrod,” said Sandy Theis, former executive director of nonprofit Progress Ohio and a former statehouse bureau chief for the Cleveland Plain Dealer. “He’s so outside of the mainstream.” (“Sherrod” is a reference to the state’s senior senator, Democrat Sherrod Brown.)
 
-“My pants were down around my ankles, my shirt was pulled up,” Brunton said. “I’m in this bean bag chair that George had guided me to. He’s on top of me, he’s trying to wrestle my underwear down off of me.”
+Kucinich’s backers wave off these concerns as the fretting of out-of-touch establishment Democrats.
 
-He added, “His hands were all over me trying to get the underwear off. And to me, that’s groping.”
+“It’s easy for the political insiders to say that,” said Nina Turner, president of Our Revolution, the Bernie Sanders-aligned group that has endorsed Kucinich, and a former Ohio state senator. “The heart the congressman has, his history of service to Ohio, that’s what matters, not these made-up boogeymen.”
 
-Brunton was dismayed that the media had been treating the Observer story as vindication for Takei.
+And they see an echo of the 2016 presidential primary, when many of them backed Sanders, the independent senator from Vermont, over eventual Democratic nominee Hillary Clinton.
 
-“It’s as if there’s a trial, and he’s been proven not guilty,” he said.
+“It seems to us the same argument that Hillary supporters used against Bernie. What it really means is we don’t want to go face-to-face with you on issues and positions, so we’ll argue you can’t win,” said Steve Holecko, the political director of the Cuyahoga County Progressive Caucus.
 
-PREVIOUSLY:
+The gubernatorial primary battle between Kucinich and former Consumer Financial Protection Bureau chief Richard Cordray has been the premier Democratic fight of the 2018 electoral cycle so far, pitting a two-time presidential candidate who has the backing of Sanders’ political organization, if not Sanders himself, against a former Ohio attorney general with the backing of Sen. Elizabeth Warren (D-Mass.).
 
-Months after George Takei was accused of sexual assault, former model Scott R. Brunton, who said the “Star Trek” actor drugged and groped him without his consent 36 years ago, is walking back certain parts of his story.
+Kucinich’s longtime support for a range of progressive priorities, including Medicare-for-all, marijuana decriminalization and free college tuition, along with his attacks on Cordray’s past support of gun rights, has created a close primary contest. The winner will take on the victor in the GOP primary battle between state Attorney General Mike DeWine and Lt. Gov. Mary Taylor.
 
-In a lengthy interview with The New York Observer‘s Shane Snow published Thursday, Brunton recounts the night at the actor’s home where the alleged incident occurred but admits he didn’t remember Takei touching his genitals.
+Most Democrats who spoke to HuffPost remain hopeful that Cordray will prevail in the May 8 primary. Cordray has spent $1.5 million on television ads meant to raise his name identification. But the high number of undecided voters in public polls means that Democrats can’t feel completely confident about the front-runner.
 
-He previously accused the actor of “groping my crotch and trying to get my underwear off” as he came to after having a drink Takei provided, which left him feeling dizzy and led him to pass out.
+Plus, that spending gap may soon close. Kucinich is expected to launch his first television ads on Thursday, according to two sources tracking media buys in the race, and a group founded by a backer of Lt. Gov. Taylor is spending on TV ads attacking Cordray from the left.
 
-After the allegations surfaced, Takei flatly denied Brunton’s account ― he maintains that he doesn’t even remember them meeting ― and said he was “shocked and bewildered” by the allegation.
+“Why do Republicans love Rich Cordray so much?” a narrator says at the start of the 30-second ad from the Citizens Policy Institute, as Cordray’s face morphs into Trump’s. The ad goes on to attack Cordray for once having an A+ rating from the National Rifle Association and for resigning from his post as head of the Consumer Financial Protection Bureau, allowing Trump to name his replacement. “We can’t win with Republican lite,” the ad concludes. “Is Rich Cordray really a Democrat?” (Kucinich has also hammered Cordray over his past NRA support.)
 
-“Right now it is a he said / he said situation, over alleged events nearly 40 years ago,” Takei wrote on social media in his one and only statement. “But those that know me understand that non-consensual acts are so antithetical to my values and my practices, the very idea that someone would accuse me of this is quite personally painful.”
+The founder of the Citizens Policy Institute is Tony George, a Syrian-American Cleveland-area restaurateur and a prominent local Trump supporter. His organization is spending about $62,000 on two ads in the Cleveland television market, according to the media-buying sources ― the spot attacking Cordray and another criticizing a local GOP legislator.
 
-In addition to parsing out the details of the alleged groping, Snow notes various inconsistencies in accounts Brunton shared with numerous outlets, including his alcohol consumption that night, his weight at the time, whether Takei was wearing a shirt during their interaction and whether the two met for coffee years later.
+George, who has a long history of controversy and feuds with local elected officials, has also donated more than a quarter-million dollars to a PAC supporting Taylor in the GOP primary. George, who couldn’t be reached for comment, told BuzzFeed News that the anti-Cordray ad had “nothing to do” with trying to boost Kucinich’s chances of winning the Democratic primary.
 
-As for the accusation that Takei drugged Brunton’s cocktail, toxicologists interviewed for the story “immediately ruled out a spiked drink,” as the drugs available at the time would have impaired his ability to drive home after the incident or remember that it occurred at all.
+While much national coverage of Kucinich has focused on his support for progressive ideals long before they were popular within the Democratic Party, his ties to Assad, former Texas Rep. Ron Paul (R) and other controversial figures are what worry state Democrats more than his domestic policy positions.
 
-“There are drugs today that may do this, but they did not exist [in 1981],” one toxicologist says in the piece.
+Kucinich received $20,000 to speak at a London conference of the Association for Investment in Popular Action Committees, an event that critics derided as propaganda for the Assad regime. The CEO of that association is also a board member of the nonprofit Architects and Engineers for 9/11 Truth. (Kucinich is returning the $20,000 fee.)
 
-George Takei gives the Vulcan salute on a red carpet in 2016. Jared Siskin via Getty Images
+The candidate has also questioned special counsel Robert Mueller’s investigation into the Trump campaign, saying it had a “high BS quotient.” He serves on an advisory board of the Ron Paul Institute, alongside Lew Rockwell, who ghost-wrote Paul’s infamous newsletter. He has appeared dozens of times on the RT news channel, which is funded by the Russian government. He called President Barack Obama’s decision to bomb Libya in 2011 an “impeachable offense.” And he’s echoed Trump’s concerns about the so-called deep state and praised his inaugural address.
 
-While Snow describes Brunton as “a sympathetic and well-intentioned man,” he concludes that the model altered “key details and let slip that, in his effort to be listened to, he’d fabricated some things.”
+“Don’t we want someone who’s willing to go into territory that’s unfriendly and try to win people over?” - Nina Turner, president of Our Revolution, who supports Kucinich
 
-Snow adds: “This and other evidence would indicate a hard-to-swallow conclusion: We ― both public and press ― got the George Takei assault story wrong.”Samantha Bee’s parents want her to come back home to Canada. On Thursday night’s episode of “Jimmy Kimmel Live,” the host of “Full Frontal” revealed what her Canadian family really thinks of the United States.
+Turner, the Our Revolution president, said Kucinich’s dealings with Assad supporters are part of his efforts to bring peace to the Middle East, noting that Kucinich supported the creation of a U.S. Department of Peace when he was running for president. She described his work with Republicans as simply outreach.
 
-“They think it’s such a dangerous and decrepit place now,” Bee told Kimmel. “My dad bought me a Kevlar vest.”
+“Don’t we want someone who’s willing to go into territory that’s unfriendly and try to win people over?” Turner asked. She suggested the local progressive groups that recommended Our Revolution back Kucinich were unconcerned by his views in this area. “Those groups didn’t bring up Russia or Syria,” she said.
 
-Kimmel asked Bee if her dad also bought a Kevlar vest for her husband, former Daily Show correspondent Jason Jones.
+“It’s curious that one of the ways they’re trying to malign his character is to bring up things no governor of Ohio would have to deal with,” Turner added.
 
-“No, just me,” Bee said. “There’s a limit to my father’s affection.”He offered up a hearty “f**k you” on Thursday to critics who questioned his ability to maintain a romance because of his borderline personality disorder. The comic’s clap-back arrived amid reports that he is dating singer Ariana Grande.
+Holecko admitted that Kucinich’s ties to Assad were a “flaw in Dennis’ résumé,” but said the focus on that issue showed establishment Democrats didn’t want to discuss policy positions.
 
-Davidson, 24, disclosed last year that he was diagnosed with BPD, which the Mayo Clinic reports can generate “a pattern of unstable intense relationships, distorted self-image, extreme emotions and impulsiveness.” But many with the disorder can improve and lead fulfilling lives after receiving treatment, the clinic’s website noted.
+Kucinich’s campaign spokesman, Andy Juniewicz, dismissed the idea that his candidate would struggle to win over voters in the general election as a “phony argument.”
 
-“Normally I wouldn’t comment on something like this cause like fuck you,” Davidson wrote on an Instagram story. “But [I’ve] been hearing a lot of ‘people with BPD can’t be in relationships’ talk. I just wanna let you know that’s not true. Just because someone has a mental illness does not mean they can’t be happy and in a relationship. It also doesn’t mean that person makes a relationship toxic.”
+“He ran for mayor of Cleveland against an incumbent Republican and won,” Juniewicz wrote in an email. “He ran for the Ohio State Senate against an incumbent Republican and won. He ran for the U.S. House of Representatives against an incumbent Republican and won. Richard Cordray already lost to Mike DeWine the last time they faced off. Whoever is raising the question of electability is obviously unfamiliar with the facts.”
 
-"Just because someone has a mental illness does not mean they can’t be happy and in a relationship," Pete Davidson says. NBC via Getty Images
+Kucinich clearly isn’t concerned with appearing too close to Russia or Syria. On Sunday night, he went on Larry King’s talk show to deplore how unelected elements within the U.S. government were pushing Trump to be “more hawkish, more interventionist” toward Syria.
 
-“I just think it’s fucked up to stigmatize people as crazy and say that they are unable to do stuff that anyone can do,” Davidson added. “It’s not their fault and it’s the wrong way for people to look at things. I may be crazy but at least I’m aware of it and not afraid to be honest about it and I’m not hiding behind a Twitter or Instagram account.”
+The network? RT.The gods of irony must have been looking down at the White House with pride as President Donald Trump proclaimed Thursday a National Day of Prayer ― hours after he acknowledged he’d reimbursed personal attorney Michael Cohen’s hush money to porn actress Stormy Daniels so she wouldn’t discuss their alleged affair.
 
-Davidson, who in March declared he was sober for the first time in eight years, wrote that getting therapy for BPD has helped.
+Today, it was my great honor to celebrate the #NationalDayOfPrayer at the @WhiteHouse, in the Rose Garden! Proclamation: https://t.co/4jAxJnBJoq pic.twitter.com/AsWTfpu290 — Donald J. Trump (@realDonaldTrump) May 3, 2018
 
-“I love you,” he wrote to others who may be struggling.
+Trump probably didn’t find the coincidence very funny ― he and Rudy Giuliani, the former New York City mayor now serving as Trump’s outspoken new lawyer, claim the payment wasn’t illegal, and Trump denies he was involved with Daniels.
 
-InstagramActor Morgan Freeman spoke out again in the wake of sexual harassment allegations against him, saying Friday that he was “devastated” by the turn of events.
+But many Twitter users gave the president hell. Some suggested relevant Bible verses that Trump might want to familiarize himself with.
 
-Several women accused the Oscar winner of inappropriate behavior, including lewd comments and unwanted touching, according to a CNN investigation.
+Others suggested that the president picked a good to start praying for salvation.
 
-“I am devastated that 80 years of my life is at risk of being undermined, in the blink of an eye, by Thursday’s media reports,” Morgan said in a statement sent to media, according to outlets. “All victims of assault and harassment deserve to be heard. And we need to listen to them. But it is not right to equate horrific incidents of sexual assault with misplaced compliments or humor.”
+Did you do some extra praying? You are sure going to need them !!! — Mickma (@Mickma2) May 3, 2018
 
-Morgan Freeman has been accused of sexual harassment by several women. Presley Ann via Getty Images
+You need more than a day of prayer after it was just revealed that Cohen’s phone was tapped by the FBI before the raid. They don’t normally tap the innocent. My guess is your ass is in DEEP SHIT. Today would be a good day to RESIGN. Things are getting real STORMY — BlueDuck🌊 (@orblueduck) May 3, 2018
 
-Credit card company Visa and Vancouver transportation company TransLink (in a Visa promotion) suspended campaigns featuring Freeman after the accusations surfaced.
+You need to pray to fix all the damage you've caused to humans and our planet — Deborah Von Brod (@DeborahVonBrod) May 3, 2018
 
-In the CNN report, one unidentified woman who worked on the film “Going in Style” in 2015 accused Freeman of repeatedly trying to lift up her skirt and asking her if she was wearing underwear.
+Others had questions. Lots of questions.
 
-Freeman initially apologized for unintentionally making anyone feel uncomfortable or disrespected and reiterated those sentiments in part of his statement on Friday.
+Bruh are you praying for Giuliani to keep his mouth shut? I’m not. — 🔥 Trumpster Fire 🔥 (@topher_blunt) May 3, 2018
 
-But, he added, “I also want to be clear: I did not create unsafe work environments. I did not assault women. I did not offer employment or advancement in exchange for sex. Any suggestion that I did so is completely false.”James Corden’s “Carpool Karaoke” has become a staple of the “Late Late Show.” But the segment that aired on Thursday night went a little off-script when he was stopped by a deputy from the Los Angeles County Sheriff’s Department while filming with Adam Levine of Maroon 5.Wait till next year.
+Did you spend your days praying Mueller goes away and that Guiliani shuts his face? — S_Shan_Shan (@S_Shan_Shan) May 3, 2018
 
-Emilia Clarke had a few intriguing things to say about her character Daenerys Targaryen’s final moment on “Game of Thrones,” set to air in 2019.
+Some believed the country was the beneficiary of divine intervention.
 
-“It fucked me up,” the 31-year-old actress told Vanity Fair. “Knowing that is going to be a lasting flavor in someone’s mouth of what Daenerys is ... ”
+Our prayers have been answered. It is being reported Michael Cohen's phone was tapped and at least one phone call with the Whitehouse was intercepted and I think Rudy confessed that you and Cohen laundered money. It's not even noon. — Toby Nelson (@PugMafia66) May 3, 2018
 
-And if that’s not enough to whet your appetite for the HBO fantasy, she said of the entire farewell season: “I’m doing all this weird shit. You’ll know what I mean when you see it.”
+Some people just weren’t convinced Trump was “all in” on the National Day of Prayer.
 
-She gave no hint as to whether Daenerys will win dominion over all seven kingdoms of Westeros, so we’ll just have to stay tuned.
+If the national prayer is such a great honor for you try something new… Speak from the heart not the Teleprompter — Ruth Ann Share (@RuthShare) May 3, 2018
 
-“It really is the most heartbreaking thing to be filming the last of anything,” Clarke told “Good Morning America” on Wednesday. “I’ve become an emotional wreck on set. They’re like ‘Emilia…it’s OK,’ and I’m like, ‘But it’s the last time!’”
+Others imagined how the president might interact with the King of Kings.MICHELE EVE SANDBERG via Getty Images
 
-Fans hope the time will fly until the final season arrives.Jeffrey Tambor, Will Arnett, Alia Shawkat, Jason Bateman, Jessica Walter, David Cross and Tony Hale of "Arrested Development" on May 21. Cindy Ord via Getty Images
+DORAL, Fla. – The United States has never had kings, dukes or even barons, but President Donald Trump’s most loyal subjects have found a way to pay him millions of dollars in tribute anyway.
 
-The boys club is alive and well in Hollywood ― and it’s so entrenched that male celebrities will unwittingly go on the record about it.
+New Jersey Republican congressman Tom MacArthur spent $15,221 to hold a fundraiser at Trump’s golf course in Bedminster, according to a HuffPost analysis of Federal Election Commission filings. Mark Meadows, a North Carolina Republican and a close Trump ally in the House, spent $689 for an office Christmas party at Trump’s hotel a few blocks from the White House. The Illinois-based Family PAC paid $3,183 to Trump’s hotel in Chicago to hold a conference there.
 
-This week a New York Times interview with the “Arrested Development” cast went viral after matriarch Jessica Walter opened up about how her co-star Jeffrey Tambor (who was also present during the interview) used to verbally abuse her on set. In a stunning, but wholly unsurprising, turn of events, her other male co-stars jumped in ... on behalf of Tambor. Jason Bateman suggested that Tambor’s behavior occurred in part because the cast was like a “family,” suggesting that the entertainment industry was simply a “breeding ground for atypical behavior and certain people have certain processes.”
+And the Republican National Committee this week will likely spend in the neighborhood of a half-million dollars at Trump’s resort in Doral, a few miles west of downtown Miami, for its spring meeting — not counting hundreds or even thousands of dollars RNC members must pay out of their own pockets for airfare, hotel rooms and some meals.
 
-The backlash was swift, and Bateman and co-star Tony Hale have since publicly apologized for not supporting Walter during the interview. And the conversation raised a few questions: Are all sets truly “breeding grounds for atypical behavior,” including verbal assaults? Is that simply the cost of creating art?
+The golf resort boasts plenty of ornate chandeliers and baroque fountains — but lies directly beneath the flight path of Miami International Airport’s takeoffs and landings, and is miles from the closest beach.
 
-To find out, we asked Vella Lovell, a 32-year-old actress who has spent her fair share of time on TV sets ― specifically the set of “Crazy Ex-Girlfriend,” a CW show on which she has played Heather over the last few years. Lovell isn’t part of Hollywood’s old boys club, though she is certainly part of Hollywood. Much of her career has been spent on sets run by and/or dominated by women ― “Crazy Ex-Girlfriend,” “Younger,” “Girls.” She’s been working for years, but is also young enough to imagine that her work culture could be different than what Bateman described.
+RNC members said they like it anyway, even if it means that some of their own money winds up in the president’s pockets.
 
-“It maybe has been the norm,” she told HuffPost over the phone while doing her grocery shopping, reacting to Bateman’s characterization of the industry she’s a part of, “but as tides are turning, it’s kind of like, if there’s an alternative, what are we doing?”
+“Well, we elected a president who’s a businessman,” noted one RNC member on condition of anonymity. “A shrewd businessman.”
 
-When you first read that New York Times interview, what was your reaction?
+Cindy Siddoway, the RNC committeewoman from Idaho, said she didn’t know how the RNC settled on Trump’s golf resort but had no objection. “I don’t have a have a problem with it,” she said. “It’s a lovely hotel.”
 
-It seemed like the women [Jessica Walter and Alia Shawkat] didn’t get to talk a lot. It seemed like the guys kind of took over the interview and I think that’s part of the problem. It didn’t seem like [Walter] felt heard ― just from that article. So that says to me that it’s not an equal playing field ... I think that can happen a lot with women and men in creative fields ― women can end up feeling a little silenced.
+“In terms of the optics of it? We’re way past that at this point.” - GOP official
 
-From your perspective, does the set dynamic that Jason Bateman described as typical of the entertainment industry ring true to you? Is that something you’ve experienced ― verbal altercations that might cross a line into feeling abusive?
+In all, some 70 Republican candidates and parties from Washington state to Washington, D.C., have spent $1.9 million of their donors’ money at the president’s golf courses, hotels and restaurants thus far this election cycle. A portion of every one of these dollars enriches Trump and his family personally.
 
-The set I’ve spent the most time on is “Crazy Ex-Girlfriend,” and it’s run all by women. Honestly, I’ve never experienced that, so I would have to say no. But I also think that all the women on set set a precedent. And I think it’s up to the people at the top to set that vibe and example of what is acceptable and what’s not.
+“If you are a politician who, A, has no principles and, B, wants Donald Trump’s endorsement, then of course you will want to host your fundraising event at a Trump property,” said Robert Weissman, president of Public Citizen, an open-government advocacy group that has successfully sued Trump for access to White House visitor logs. “There’s no better way to appeal to the transactional president, no better way to make a mark with the no-attention-span president.”
 
-I will say, just being in the theater and on sets, the more power someone has, the more things are dictated by them. Whoever the number-one person is on the set kind of sets the tone. It’s their behavior and their moral center that dictates how the set is gonna be. So for us, because it’s Rachel [Bloom] and because she’s a creator, the respect is kind of implied.
+One GOP official, on condition of anonymity, acknowledged the unsavoriness of funneling donor money to the president and his family but said that ― given Trump’s brazenness about profiting from his presidency — the party had essentially given up. “In terms of the optics of it? We’re way past that at this point,” the official said.
 
-But I think that [verbal abuse] can happen, especially with the older men generation. They’re used to a certain amount of power and respect. And so because they’re the person in power, I do think the younger actors ― even if it’s just younger in your career ― you end up looking up to them as the norm. Does that make sense? I think that’s maybe what [Jason Bateman] is saying [in The New York Times piece], that it’s become the norm.
+Paying The President
 
-Let me read you exactly what Bateman said to Sopan Deb. He said: “Again, not to belittle it or excuse it or anything, but in the entertainment industry it is incredibly common to have people who are, in quotes, ‘difficult.’... And what you learn is context. And you learn about character and you learn about work habits, work ethics, and you start to understand. Because it’s a very amorphous process, this sort of [expletive] that we do, you know, making up fake life. It’s a weird thing, and it is a breeding ground for atypical behavior and certain people have certain processes.”
+For years, the entire system of donors with financial interest in particular legislation and regulations giving campaign contributions to candidates who will then craft those same laws and regulations has been derided as corrupt and tantamount to legalized bribery.
 
-OK, Emma, if you could see me right now, I’m just shaking my head. I just feel like what’s been the “norm,” isn’t actually acceptable. And I have met, in my short time on sets, too many people who are kind and respectful and inclusive for that to be acceptable. And that’s the thing ― it maybe has been the norm, but as tides are turning, it’s kind of like, if there’s an alternative, what are we doing?
+But candidates must abide by strict rules on what they can and cannot do with that money. Using it to personally enrich themselves is illegal.
 
-There are too many incredibly talented creative people that are also kind. I’ve met so many of those people. And you meet them, and then you’re like, so why then do I need to be verbally abused to get a great performance? Do those things actually go hand in hand? And I don’t think they need to.
+Trump’s refusal to divest himself of his hotels and golf courses — despite his promises to do so during the campaign — has made it possible for Republican candidates and parties to put money directly into his pocket.
 
-I think it’s probably true that someone with [Jeffrey Tambor’s] stature comes on set and dictates how people will be treated. As a younger actor, you’re just like, sure ... and then that behavior becomes the norm. But it’s just not OK.
+“It’s a scary reality when we’re discussing whether the president is susceptible to the influence of people paying him while president, but it is our current reality,” said Jordan Libowitz of the group Citizens for Responsibility and Ethics in Washington, which has sued Trump for violating the constitutional prohibition from taking payments from foreign and domestic government officials.
 
-I loved that Alia Shawkat pointed that out in the middle of the interview. “But that doesn’t mean it’s acceptable,” she said in response to Bateman. “And the point is that things are changing, and people need to respect each other differently.”
+The biggest source of GOP money flowing to Trump’s properties is the Republican National Committee, which essentially went under the control of Trump since his election in 2016. Through its March filing, it has spent $763,335 at Trump properties since Jan. 1, 2017. That includes $106,646 for a dinner at Trump’s Washington hotel in January, $224,858 for a weekend of meetings and fundraisers at Trump’s Mar-a-Lago resort in March and $237,310 in advance payments to Trump’s Doral golf resort for this week’s spring meeting. In past meetings, the RNC would typically pay half of the total cost of the event beforehand, and the remainder afterward.
 
-Right? But you hear that [argument] with all of the things that are happening [with Me Too]. With Dustin Hoffman, they’re like, no but this is normal. And it’s like… but why? Why does it have to be? And I think it’s been an accepted exchange ― that for an amazing performance, you put up with bad behavior. But I don’t think that means it’s right or that it’s how every set is at all.
+A view of the Trump resort in Doral, Florida. SV DATE/HUFFPOST
 
-Right. From what you’ve said it sounds like that hasn’t been your experience, and you’ve been working on a network TV show that’s been on for three years.
+The next biggest spender at Trump properties is the president’s re-election campaign, which is wholly under the president’s direct control. Thus far it has funneled $551,643 of its donors’ money to his hotels and golf resorts as well as to Trump Tower in Manhattan, where it rents office space and buys food from Trump’s restaurants there.
 
-Yeah. And guest-starring on other sets. On the “Younger” set, because Sutton Foster’s number one, everyone is happy to be there and grateful. People set the tone. And so it depends who the power players are on set.
+Other high-profile spenders include Great America Committee and America First Action, two Trump-supporting political action committees that occasionally host fundraisers at his Washington, D.C., hotel.
 
-“I just feel like what’s been the 'norm,' isn’t actually acceptable. And I have met, in my short time on sets, too many people who are kind and respectful and inclusive for that to be acceptable.” - Vella Lovell, Heather on "Crazy Ex-Girlfriend"
+But Trump properties also draw smaller committees as well as candidates for House and Senate races, who choose to pay the higher prices that Trump venues often charge compared to nearby competitors.
 
-If you were to experience some sort of verbal abuse on a set, who would you go to to talk about that?
+Illinois’ Adam Kinzinger, Kansas’ Kevin Yoder, New York’s Peter King, California’s David Valadao and Florida’s Ted Yoho are all Republican House members who reported spending at Trump properties.
 
-Well it depends what your role is. If you’re a guest star and you came on set and someone yelled at you, you have less authority than if someone came on to your show. But definitely the producers, the showrunner, the ADs [assistant directors] ― there are so many people there to protect you and make sure that things are OK.
+Both the National Republican Senatorial Committee and the National Republican Congressional Committee have held events at Trump properties, as did the Morris County, New Jersey, Republican Party — reportedly with dire results.
 
-If you weren’t getting the answers from your set, I guess you could go to your union rep. But I think usually your producers would want to help you. But then again, it depends on what the situation is. And I honestly feel that since a year ago, or whenever the [Me Too] stuff started coming out, people are more responsive.
+After paying Trump’s Bedminster golf course $24,487 and a Fox News host $30,000 to serve as keynote speaker, the fundraiser actually wound up losing money, leaving the local party with shaky finances.
 
-So you feel like there’s been a shift that you’ve witnessed in the last seven months of this national dialogue around sexual harassment and assault?
+A fountain at one of four golf courses at Trump's Doral resort. SV DATE/HUFFPOST
 
-Yeah. Because people know that it’s not just going into a vacuum. There is room for dialogue now because of the platform that’s happening.
+Omar Navarro, a Republican who hopes to replace Democratic Rep. Maxine Waters in Los Angeles, reported spending thousands at Trump’s golf resort in Palos Verdes. He conceded that the high costs at the Trump resort ate into the total he collected, but said it was the only venue that would agree to host him.
 
-The calculation that you spoke of ― this idea that you put up with horrible behavior because someone’s talented. Do you think that same latitude is offered to women and people of color?
+“Trump is the only place where I can hold an event without being shut down,” Navarro said. “They don’t get intimidated by fascist people who keep us from having campaign events.”
 
-I don’t know. I don’t think it’s just exclusive to white men. I think it’s dependent on the person. And sometimes because people are talented and genius, their behavior gets excused and they get into positions of power and no one is calling them out. It’s a lot about power, so it can happen across the board. Obviously it’s mostly white men, because that’s usually who’s in power.
+He said longtime Trump confidante Roger Stone headlined his first fundraiser and former Arizona sheriff Joe Arpaio his second. “It’s expensive. It’s not cheap,” he said.
 
-Also, the entertainment industry is so relationship-based. There is a casualness built in, which seems to allow people more easily to brush potentially violating behaviors off as just joking around.
+Hoping For A Payoff
 
-Yeah, I think that’s where that fine line is that gets really tricky. If you’re with a group of people for a long time who are creative artists, hopefully there is an understood sense of respect for each other and honor. And so some of those boundaries go down because you all trust each other, and you think a joke is a joke, and ultimately everyone is on the same page. And that’s best-case scenario: You all trust each other, you’re all there for each other, and then amazing creative things can happen. And people’s impulses are free and accepted.
+CREW’s Libowitz said it is obvious why candidates and incumbent Republican officials alike spend money at Trump properties: in the hopes of winning Trump’s support and endorsement.
 
-But then there’s that fine line, where someone, it can be just one person, doesn’t hold that respect and crosses a boundary. And then the lines get really blurry and confusing. And it’s so complicated because everyone wants that creative freedom. But respect has to be the baseline. One person thinks that they can do or say something that isn’t said with love or respect, and then all of a sudden you’re like, “I don’t feel safe anymore.”
+“If someone wanted to try to literally buy his favor, they have a direct and legal line to do so. This is why we’ve seen a sudden influx of spending by Republican candidates and committees at Trump properties where they had not previously spent,” Libowitz said. “They have to have their events somewhere, so many may believe that allowing the president to profit off of them will give them a leg up in gaining his support.”
 
-It’s such a fine line and I think it has to do with checking your privilege and actually respecting each other. I think that’s what’s underneath everything.
+One Republican close to the White House, though, scoffed at the idea that Trump’s political office — known for its dysfunction — had the initiative or discipline to keep track of which candidates were frequenting Trump properties. “No,” he said. “Please.”
 
-AdvertisementOnce the most powerful man in Hollywood, disgraced producer Harvey Weinstein surrendered himself to New York police Friday morning, a watershed moment for the Me Too movement catalyzed last fall by the countless women who came forward with sexual harassment and assault allegations against him.
+Another Republican official close to Trump, who believed that the use of Trump properties by GOP candidates was ethically troubling, agreed that Trump’s political team is not paying any mind to who is spending money at his golf courses and hotels and who is not. “I don’t know that it is noticed by anyone,” the official said. “Maybe it is.”
 
-Weinstein was arrested and charged with rape and sexual assault stemming from cases involving two accusers whose crimes were within the statute of limitations.
+For Corey Stewart, a U.S. Senate candidate for Virginia, time is running out for somebody in the president’s political world to notice his Trump-brand loyalty.
 
-Some of the other women, including actresses who say they faced intimidation, reprisal and career consequences from the mogul, responded with both surprise and relief at his arrest.
+Stewart jumped into the Senate race not long after losing the primary for the Republican nomination for Virginia governor last year. In October and November of 2017, he spent $1,422 at the Trump hotel in Washington on meals as “meeting expenses.”
 
-Actress Rose McGowan, who has accused Weinstein of raping her at the 1997 Sundance Film Festival, said she was “shocked.”
+Stewart said he hosts get-togethers with small groups of “high-dollar donors” there – although at least on one occasion in November, he appeared to be socializing with tourists and other visitors at the bar, not meeting with donors. His FEC report for that period included a bill for $355 for that date.
 
-“I have to admit I didn’t think I would see the day that he would have handcuffs on him,” she told ABC News in an interview taped Thursday, when news outlets first reported Weinstein’s imminent surrender to authorities.
+“I might have been just hanging out there,” he said, adding that the hotel has become a “clubhouse for conservatives” in the area. “We like to host events there because there are a lot of MAGA folks who like to meet there,” he said.
 
-.@rosemcgowan speaks out exclusively to @arobach on Harvey Weinstein's arrest: "I have to admit I didn't think I would see the day that he would have handcuffs on him." pic.twitter.com/grAxiSAqlc — Good Morning America (@GMA) May 25, 2018
+Notwithstanding his frequent visits there, Stewart said he does not expect Trump to endorse him prior to the June 12 Virginia primary, in which he faces two opponents.
 
-McGowan hesitated when asked if she would attend his trial, saying that “his face has terrorized me for so long,” but added that she may attend to join other survivors.
+Navarro, of Los Angeles, similarly does not expect a Trump endorsement, but said he would continue to use Trump properties. “I’d rather do business in a place where someone has my values,” he said.
 
-“I would rather be ready for that kind of coverage and his trial, than just coverage of him golfing in Scottsdale, so I will be ready for it,” she said. “And I will sit in that courtroom, and I will support the other survivors all around the world.”
-
-Actress and director Asia Argento, who said Weinstein raped her at the 1997 Cannes Film Festival, tweeted simply: “What took you so long Harvey?” She added later that “this is the only movie Harvey Weinstein will be remembered for.”
-
-This is the only movie Harvey Weinstein will be remembered for #perpwalk pic.twitter.com/zt4sa5eowR — Asia Argento (@AsiaArgento) May 25, 2018
-
-Her partner, chef and TV host Anthony Bourdain, tweeted that when she came forward with her allegations, “you were sure this day would never come, that you would be crushed, that you were alone. And yet you did it anyway.”
-
-#Justice...
-
-Harvey Weinstein will be charged with rape, abuse https://t.co/K4EWGYPnsp — Mira Sorvino (@MiraSorvino) May 25, 2018
-
-Sending love to all my sisters today who stood up against a monster... so many emotions... I am proud of and grateful to you all. — Mira Sorvino (@MiraSorvino) May 25, 2018
-
-The outspoken actresses also warned that there are still countless other sexual predators who have not faced consequences for their actions.
-
-Last week, at the closing ceremony of the Cannes Film Festival, where Weinstein was once a fixture and several of his alleged sexual assault incidents took place, Argento gave an impromptu speech, calling out other sexual predators.
-
-“Even tonight, sitting among you, there are those who still have to be held accountable for their conduct against women,” she said. “You know who you are, but most importantly, we know who you are, and we are not going to allow you to get away with it any longer.”Harvey Weinstein appeared in court Friday on three charges related to a monthslong sex crime investigation led by the Manhattan District Attorney’s Office. Weinstein surrendered himself to the New York Police Department that morning.
-
-Prosecutors charged the disgraced Hollywood producer with two rape charges, one first-degree and one third-degree, and one criminal sexual act in the first degree. The alleged incidents occurred against two women in 2013 and 2004, respectively.
-
-Weinstein’s bail was set at $1 million, with a $10 million bond alternative.
-
-Prosecutors said he will be fitted with a tracking device and must seek the court’s approval if he wishes to leave New York or Connecticut. He has surrendered his passport.
-
-“Today’s charges reflect significant progress in this active, ongoing investigation,” District Attorney Cyrus Vance said in a statement. “I thank the brave survivors who have come forward, and my Office’s prosecutors who have worked tirelessly on this investigation.”
-
-Weinstein is expected to plead not guilty.
-
-A lawyer for the former producer told reporters his team believes “that at the end of the process,” his client “will be exonerated.”
-
-Reporters for the Times and The New Yorker ― Jodi Kantor, Megan Twohey and Ronan Farrow ― received the Pulitzer Prize for public service earlier this year for their work. They, along with the women who shared their stories, are credited with sparking the Me Too and Time’s Up movements against sexual misconduct that have affected innumerable other, less high-profile industries.
-
-We’re in the courtroom waiting for Weinstein. For so long he had his own private system— fancy lawyers who paid to silence women, private investigators and spies. Now he answers to the same system as the rest of us. pic.twitter.com/ajxYCwhATw — jodikantor (@jodikantor) May 25, 2018
-
-After surrendering, Weinstein was taken to court in handcuffs Friday morning to face the charges, The Associated Press reported.
-
-The investigation is still ongoing. Weinstein’s next court appearance is scheduled for July 30.
-
-The NYPD said in a statement that Weinstein was charged with “rape, criminal sex act, sex abuse, and sexual misconduct for incidents involving two separate women.”
-
-One of the women is reportedly Lucia Evans, who told The New Yorker the disgraced Hollywood producer invited her to a meeting about work opportunities in 2004. He then allegedly forced her to perform oral sex.
-
-“I said, over and over, ‘I don’t want to do this, stop, don’t,’” Evans told the outlet. “I tried to get away, but maybe I didn’t try hard enough. I didn’t want to kick him or fight him.”
-
-Eventually, she said, “He’s a big guy. He overpowered me.”
-
-An unnamed law enforcement official told The Associated Press that the other woman has not spoken publicly.
-
-Prosecutors say Weinstein kept her “physically against her will” in a Manhattan DoubleTree hotel room, where he raped her in March 2013. She will reportedly remain anonymous throughout the proceedings.
-
-A culture of abuse in Hollywood enabled Weinstein’s alleged abuse to become an open secret in the industry, where the producer himself enjoyed all the perks of stardom.
-
-He was said to hold the power to make or break a career.
-
-One woman, a Netflix producer, said in a recent lawsuit against him that she could recall 11 separate incidents in which he sexually abused her.
-
-Robert Boyce, now-retired chief of detectives for New York City, said in March that his department had gathered “quite a bit of evidence” against Weinstein, The Guardian reported.
-
-As part of its investigation, the NYPD also examined the alleged 2010 sexual assault of “Boardwalk Empire” actress Paz de la Huerta, The Wall Street Journal reported.
-
-De la Huerta told Vanity Fair that Weinstein sexually assaulted her twice. Both incidents allegedly occurred at her Manhattan apartment. The second time, the actress said she had been drinking and recalled feeling afraid of the producer, who had been repeatedly calling her since the first rape.
-
-“I did say no, and when he was on top of me I said, ‘I don’t want to do this.’ He kept humping me and it was disgusting. He’s like a pig,” she told Vanity Fair.
-
-Weinstein, meanwhile, has continually denied engaging in any nonconsensual sex acts.
-
-In 2015, New York District Attorney Cyrus Vance Jr. let Weinstein off the hook for an alleged sexual assault by an Italian model, deciding there was insufficient evidence to charge Weinstein for allegedly groping her. In March, New York Gov. Andrew Cuomo (D) ordered the state attorney general to review the decision, which Vance has defended.
-
-Federal prosecutors in Manhattan are also reportedly investigating Weinstein, as are authorities in Los Angeles and London. The Wall Street Journal reported earlier this week that the U.S. Attorney’s Office for the Southern District of New York had opened a sex crime investigation to examine whether the producer lured any women across state lines to commit a sex crime.
-
-Weinstein reportedly tried to silence many of his accusers by hiring private investigators to dig up information on the women and journalists aware of his alleged misconduct.
-
-As ugly stories about his behavior continued stacking up last year, he checked into a rehabilitation facility in Scottsdale, Arizona, late last year.
-
-The District Attorney’s office urges additional survivors with relevant information about Weinstein to contact the city’s Sex Crimes Hotline at 212-335-9373.
+And — notwithstanding his own website that calls for “an end to accepting bribes” and ridding “corruption/greed” in government ― he rejects the idea that Trump is doing anything wrong by profiting from his businesses while in office.

@@ -1,0 +1,67 @@
+Someone automated dozens of accounts to amplify anti-Trump, anti-Sanders and pro-Democratic Party content. Kacper Pempel / Reuters
+
+When Russians at the Internet Research Agency interfered in U.S. politics, they created false online personas and fake political groups to amplify divisive messages that already had a homegrown American audience. It’s not too far from what some U.S. political consultants are doing themselves.
+
+Take Sally Albright, a Democratic Party communications consultant who backed presidential candidate Hillary Clinton in 2016. Unsurprisingly, Albright is vocally opposed to President Donald Trump and a big supporter of the resistance to his administration. She is also one of the loudest, most divisive voices attacking Sen. Bernie Sanders (I-Vt.), Clinton’s onetime Democratic primary opponent, and his left-wing supporters.
+
+Well after the primary, Albright continues to claim that Sanders is a fraud, a liar, racist and corrupt, among many other things. In one instance she declared that the policy idea of free college, as promoted by Sanders, was racist. This provoked Sanders supporters to argue back.
+
+Trevor, a Sanders supporter who declined to provide his last name for fear of being doxxed, but goes by @likingonline on Twitter, noticed a strange pattern of behavior when Albright responded to him. Her tweets addressing him were rapidly retweeted by the same series of accounts. This created a barrage of notifications making it look as though there was an avalanche of opposition to everything he said.
+
+But as Trevor discovered, after an extensive amount of research that he posted online, these were not normal accounts. They appeared to be bots ― automated accounts masked as real people being used to amplify a particular political message. Who is really pulling the strings, however, remains a mystery.
+
+Albright told HuffPost that the accounts were voluntarily handed over by their original users to an unnamed client of hers to be automated in “an analytics program.” She said she was bound by a non-disclosure agreement and could not disclose who was collecting and automating these accounts or for what purpose.
+
+But like her, these accounts were all pro-Clinton, anti-Trump and anti-Sanders.
+
+Does "free college" specifically benefit women and minorities? Does it benefit anyone who isn't already going to college and just doesn't want to pay? Reinforcing the status quo is racist. — Sally Albright (@SallyAlbright) January 17, 2018
+
+Twitter allows users to automate their accounts, including setting up automatic retweeting and liking of other accounts. This increases activity on the platform, something Twitter obviously wants to do, and allows busy users to promote messages or businesses that they support. Presumably Twitter did not anticipate that users would simply hand their accounts over to another person or campaign to artificially spread the latter’s tweets.
+
+The ability to swamp a debate with automated messages is a problem for political discourse around the world. Twitter is a vital platform for political debate. Automating Twitter accounts to retweet or otherwise promote specific messages thus becomes a tactic to silence political debate and squelch free speech.
+
+In Mexico, allies of President Enrique Peña Nieto have deployed swarms of Twitter bots to overwhelm and effectively shut down online debates. Journalists in the U.S. experienced a similar flood during the 2016 election from pro-Trump, neo-Nazi sock-puppet accounts posting anti-Semitic death threats. Often instead of suppressing speech it doesn’t like, the Chinese government these days drowns it on local social media platforms with a flood of pro-government content. University of North Carolina scholar Zeynep Tufecki has labeled this tactic a new form of censorship.
+
+What the automated accounts deployed by Albright’s unnamed client did was similar.
+
+Over the course of the last year or so, Albright was their favorite account to retweet ― almost always as a group. The fake accounts also retweeted people who responded to Albright’s tweets ― again, usually as a group, and often while in a debate with other users.
+
+The writers at Shareblue, a pro-Democratic Party news site that supported Clinton in the primary and general elections, were also frequently retweeted by the network of fake accounts, particularly when the Shareblue folks had something negative to say about Sanders. A spokeswoman for Shareblue told HuffPost that the company does not create sock-puppet accounts and has never worked with Albright.
+
+These accounts also liked #resistance celebrities like liberal conspiracy theorist Eric Garland (“Time for some game theory”) and Harvard law professor Laurence Tribe. And they were often deployed in intra-Democratic Party battles.
+
+When Albright led a Twitter campaign to attack a 2017 women’s conference for inviting Sanders to speak ― after Clinton, Sen. Elizabeth Warren (D-Mass.) and Sen. Kirsten Gillibrand (D-N.Y.) had turned them down ― the automated account network deployed to retweet her and any positive responses to her tweets.
+
+Albright probably didn’t need those retweets, as there were actual people opposing the conference’s decision. Still, someone questioned her campaign to block Sanders from speaking, describing it as similar to “Russian division strategy.” She wrote back, “Nyet. I am not Russian.”
+
+Then over a dozen fake accounts retweeted her.
+
+The original image from skater Sara Hurtado's Instagram account (left) and the image used on the fake Twitter account named Iris Winter. Instagram/Twitter
+
+Within this pro-Albright Twitter force, many of the accounts have taken on false personas with stolen photographs ― just like the Russian trolls that tried to interfere in the 2016 election.
+
+The account of Gwen Barstow is temporarily restricted, probably because it used an image of Meaghan Delcourt, an Ottawa woman who was in the local news in 2015 after her apartment balcony collapsed underneath her.
+
+Cheryl Montgomery’s account @cherry_mgm was suspended in February after Catherine Simpson, a public relations professional in Vancouver, Canada, alerted Twitter that it was using her picture. The theft of Simpson’s photo to create this fake account was previously reported by the Canadian Global News.
+
+Albright admitted to HuffPost that she had handed over a number of accounts to that unnamed client that had been connected to previous projects of hers and that were no longer in use. She also said that she changed the pictures for some of them.
+
+One of the Albright-linked accounts, @OvrTheBayBridge, appears to have a picture of an actual person named Kirby Manning. But the Manning photo has been taken from someone else and appropriated for this account. The real person is Brinkley Hutchings, a leadership coach and environmental activist in Alabama.
+
+Other accounts that Albright said she provided to her client’s project included @PropagandaMnstr, @DruidCityMedia, @VotrProtection, @BucksPocket, @Sallying and @SocialCapitol. Each of these accounts was connected to a website domain that had been purchased by Albright.
+
+A screenshot of Albright's Buffer account that she tweeted showed accounts under her control, including some of the automated accounts in question. Sally Albright/Twitter.com
+
+The accounts that link directly to websites owned by Albright and those pretending to be people they are not exhibit similar patterns of behavior. They retweet Albright and other accounts with similar messages at an extremely high rate. Each account has made tens of thousands of tweets, almost all of which are retweets. And they all almost exclusively post using an application called Buffer.
+
+Buffer, a social media management application with more than 2 million users, allows an individual to schedule tweets, retweets and likes; to schedule posts on other social media sites; and to control multiple accounts at once. It provides a limited free service for ordinary users and more extensive paid services for businesses and social media professionals.
+
+In March 2017, Albright tweeted a complaint at Buffer about a problem she was having with a recent update. In one tweet in that conversation, she posted a screenshot of her Buffer account. That screenshot showed a number of profile pictures from Twitter accounts under her control through Buffer.
+
+Among the pictures were those of @PropagandaMnstr, @CapWaterfront and @BucksPocket, all accounts known to be linked to her. There were also profile pictures for accounts that Trevor had listed in his original exposé of potentially fake accounts, including @FactoryofTruth, @_Stacey_Eff, @FordColvin, @GatsbyGirl, @PoliticalSavvy, @WTHisBill and @__SallyForth.
+
+Albright told HuffPost that this screenshot was “really old” and that she no longer had access to the Buffer account controlling those accounts.
+
+While it is still not known what organization was actually behind these automated accounts, most of them ceased operations after they were spotted by Trevor.
+
+Meanwhile, Albright, who said she is no longer connected to the unknown project, concedes that this kind of automation may be problematic.

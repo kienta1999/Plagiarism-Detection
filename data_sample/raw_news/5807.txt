@@ -1,0 +1,45 @@
+By: Madeline Buxton
+
+DESIGNED BY EMILY KOWZAN.
+
+Some people say the only way to stop online harassment is to stop going online. Well, we aren’t going anywhere. Reclaim Your Domain is Refinery29′s campaign to make the internet (and the world outside of it) a safer space for everyone — especially women.
+
+Which is worse: having nude or intimate photos of yourself hacked and shared online, or having your face digitally placed on a porn star’s body so it looks as if you’re performing X-rated acts? That’s a rhetorical question, because in both cases, if you haven’t consented, it’s a lose-lose situation. Right now, both of these unsavory scenarios are affecting women in Hollywood, showing a dark side of the web and the nightmarish ways people are using new technologies for harmful means. In early December, Vice’s Motherboard first reported on a specific kind of porn video, which was distributed on Reddit by a user who went by the name “deepfakes.” Using open source machine learning algorithms — ones that are free and available to the public — deepfakes created realistic-looking fake porn that placed celebrities’ faces on porn stars’ bodies. Gal Gadot, Daisy Ridley and Margot Robbie were among the most high-profile actresses whose images were used in the films, which continued to proliferate under a subreddit named after the original creator.
+
+The nonconsensual spread of deepfake videos has been compared to 2014′s “The Fappening,” the major hacking and release of celebrities’ nude photos. Besides the medium, there’s one obvious difference: Deepfake videos are not actually real (though it can be disturbingly hard to tell) and by splicing together two forms of media — footage from celebrities and footage from real porn videos — their harm extends beyond Hollywood, and has the potential to affect any woman with a large number of high-quality photos publicly available online.
+
+“Despite the increased accessibility of porn, both due to the internet and illegal file sharing, it remains highly stigmatized.”
+
+It isn’t just Hollywood A-listers who are currently suffering the repercussions of deepfakes, Anna Arrowsmith, a professor of gender and sexuality studies at the University of California, Santa Barbara, and former porn director, told Refinery29:
+
+“Everyone is upset about the actress or whoever the famous woman is, but the person who is behind that face, the real porn star, is going to be pretty pissed off because everyone is just going ‘Oh yeah, what a performance, what a body, and I’m not getting any credit because people can’t recognize me.’ There will be ramifications of income. This could have been the break for that woman but it’s not going to happen because she’s not going to be recognizable.”
+
+The demand for porn remains extremely high: In 2017, people uploaded 595,482 hours of video to Pornhub and 50,000 searches for individual videos took place on the site every minute. And that’s just one porn platform — there are many others. Before deepfakes surfaced online, the porn industry already had a problem with copyright theft. According to an analysis from Bloomberg’s Bureau of National Affairs, up to 40% of all copyright claims in federal court come from a single adult film studio.
+
+Despite the increased accessibility of porn, both due to the internet and illegal file sharing, it remains highly stigmatized. It’s something people watch and take pleasure from, yet seek to distance from their own lives. That separation is something that accounts for “the misogyny that’s inherent in a lot of porn,” Arrowsmith says.
+
+DESIGNED BY EMILY KOWZAN.
+
+Deepfakes takes this dynamic to another level: Most of the deepfakes that have created a stir online have featured a female celebrity. The only male celebrities whose faces were used in broadly shared, AI-assisted videos were Nicolas Cage, who appeared as the face of James Bond and Indiana Jones, and Donald Trump, who appeared as “The Office”’s Michael Scott. Both of those videos were parodies, not pornos.
+
+It’s not hard to see why female celebrities have been the main target: The movie industry has a long history of objectifying and sexualizing women. In a 2013 USC Annenberg study observing gender roles in popular films, researchers found that women were onscreen far less often than men. Of the over 4,000 speaking characters in the films studied, only 28.4 percent were women, meaning that not only were women appearing less, they were also talking less. They were, however, far more likely than men to appear partially naked or in sexy clothing on screen.
+
+Deepfake videos escalate Hollywood’s sexualization of women to disturbing extremes. The intense interest in deepfakes could be a desire to fulfill a fantasy, and see female celebrities who are admired but don’t do porn, but it could also be “a kind of putting down on someone,” Arrowsmith says. “[A way to say] ‘haha, they’ve been denigrated to porn.’”
+
+That’s not to say there’s anything shameful about doing porn. But because porn is usually cast in a negative light, portraying someone in a sexually explicit image or video without their consent is a way to shame them in today’s world. The fact that this is simpler than ever has human rights activists concerned. While AI-assisted fake porn has been limited to celebrities so far, the technology is easy for anyone to access and use, suggesting that it could be used as a form of revenge porn.
+
+There’s some evidence this may already be happening: According to Forbes, some Reddit users have inquired about making deepfakes using their ex-girlfriends’ photos. What is especially troubling is that it is becoming especially hard to separate what is real from what is fake.
+
+“Improvements in the tech will make it even more difficult to convince others of its inauthenticity,” Carrie Goldberg, the founder of law firm C.A. Goldberg, PLLC, and a board member at the Cyber Civil Rights Initiative, told Refinery29. “10 years from now we could all have prolific porn careers without our consent.”
+
+The worst part may be that there are few laws in place to protect women against deepfakes — the legal system and many platforms haven’t kept up with the rapid spread of this new genre. Pornhub and Gfycat only just announced they were banning deepfakes, and Twitter announced a ban last night after an account publishing deepfakes was discussed on Reddit. Today, almost two months after the initial reports of the videos, Reddit finally banned them.
+
+Questions of accountability have led to pointed fingers all around: Is it the creators of open source AI who are to blame? Or the social networks who aren’t policing the content fast enough?
+
+These are the issues tech, and all other industries, will need to grapple with. “This is a stark example of how the rapid development of AI technology — and its increasingly widespread use — is raising big questions for human rights and society,” Azmina Dhrodia, a technology and human rights researcher at Amnesty International, said. “Governments, industry, and civil society are already playing catch up.”
+
+In the fight against other forms of revenge porn, legislation has been slow, but strides have been made. This past November, senators introduced the bipartisan ENOUGH Act that, if passed, will hold perpetrators of nonconsensual photo sharing accountable. Deepfakes, by virtue of the fact that they are fake, present a whole new set of challenges for lawmakers, but they are ones that need to be addressed, and fast.
+
+“In the case of true images, the underlying harm is a violation of privacy — the disclosure of true, private information to the public without authorization,” Mary Anne Franks, the Legislative and Tech Policy Director at the Cyber Civil Rights Initiative, told Refinery29. “This is not the underlying harm of manipulated images — the harm of such images is not their truth, but their falsity.”
+
+Nevertheless, Franks says that this messy issue is one that deserves our full attention: “The problem of ‘face-swapped’ porn helps highlight the harm of sexual objectification without consent, a harm that everyone should care about.”

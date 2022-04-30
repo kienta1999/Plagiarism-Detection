@@ -1,0 +1,13 @@
+Move over iPhone portrait mode. Instagram is rolling out a new feature called Focus that works on video and photos.
+
+The feature softly blurs the background in shots that feature people and keeps the ― you guessed it ― focus on the subject’s face, giving the finished picture a clear, professional look.
+
+An Instagram blog post on the new feature says users can find the Focus button when they open the camera within the app, adjacent to “Superzoom” under the record button. It’s compatible with some Android devices, and iPhone 6s, 6s+, 7, 7+, 8, 8+ and X.
+
+“Focus mode leverages background segmentation and face detection technology,” an Instagram spokesperson told TechCrunch.
+
+Focus isn’t as great as the iPhone portrait mode at “keeping the whole face in focus,” TechCrunch noted. But portrait mode isn’t “available on older iPhones and can’t do video,” while Instagram’s new feature can, the publication said.
+
+If you’ve updated your Instagram app and are looking for some tips and tricks for how best to use the Focus feature, we’d recommend starting with great lighting, and making sure the subject of your photograph is in the foreground ― not part of the blurred-out background.
+
+Advertisement

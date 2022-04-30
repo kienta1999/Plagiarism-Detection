@@ -1,0 +1,15 @@
+If your Uber ride lands you in an emergency situation, you’ll soon be able to alert 911 from within the app.
+
+Uber CEO Dara Khosrowshahi announced the addition in a blog Thursday morning as part of what the company is calling a “safety center” that will live on the home screen during rides.
+
+Critically, the 911 feature will display the car’s real-time location so riders can pass the information along to dispatchers. Uber will eventually provide that information directly to 911 dispatchers automatically, but for now, the ability only exists in Denver, where it’s being beta tested.
+
+In addition to calling the cops, the safety center will let riders share their location and trip data with up to five contacts. Uber will share the company’s process for driver background checks and insurance information in that part of the app, as well as the community guidelines ― Uber’s list of actions that will result in riders getting banned.
+
+Uber customers in India have had access to a similar panic button since 2015 after an Uber driver raped a woman in New Delhi. At the time, Uber said it had no intention of bringing the feature in the U.S.
+
+“In the U.S., 911 is the panic button,” then Uber security chief Joe Sullivan told the Washington Post in 2016, adding it would be “a stretch” for the company to improve on pre-existing emergency alert infrastructure.
+
+That’s the sort of mentality Khosrowshahi wants to move away from as he seeks to burnish Uber’s tarnished public image.
+
+“The first thing that we want to do is really change Uber’s substance, and the image may follow,” Khosrowshahi told the Associated Press in an interview published Thursday. “The announcements that we’re making are just a step along the way of making Uber fundamentally safer for drivers and riders.”

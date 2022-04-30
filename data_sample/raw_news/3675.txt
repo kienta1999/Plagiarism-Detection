@@ -1,0 +1,13 @@
+Bloomberg via Getty Images
+
+Travel website Orbitz announced Tuesday it has detected a security breach that may have affected consumers’ personal information shared between Jan. 1, 2016, and Dec. 22, 2017.
+
+About 880,000 payment cards could be affected. The company said an incident likely took place between Oct. 1, 2017, and Dec. 22, 2017, on a legacy Orbitz booking platform.
+
+An attacker may have accessed users’ full name, payment card information, birthdate, phone number, email address, physical address and gender, although the company does not have “direct evidence” that such personal information was actually taken. Social Security numbers were not affected, the company says, as it does not collect or store them.
+
+Orbitz said it began working with a “leading third party forensic investigation firm” along with other cybersecurity experts and law enforcement after discovering the breach on March 1.
+
+The current website is not involved in the breach, Orbitz, an Expedia subsidiary, assured customers.
+
+It plans to offer those affected one year of complimentary credit monitoring and identity protection service in countries where it’s available.

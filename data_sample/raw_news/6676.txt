@@ -1,0 +1,43 @@
+A heat map published on the Internet by fitness tracking company Strava may have been inadvertently giving away sensitive secrets. An Australian student used the service to reveal the locations and activities of soldiers at U.S. military bases.
+
+Twenty-year-old university student Nathan Ruser stumbled across the map on a blog and was inspired to look more closely after his dad reportedly observed that the map gave a snapshot of “where rich white people are” in the world.
+
+So Ruser got to thinking.
+
+“I wondered, does it show U.S. soldiers,” Ruser told The Washington Post.
+
+Strava released their global heatmap. 13 trillion GPS points from their users (turning off data sharing is an option). https://t.co/hA6jcxfBQI … It looks very pretty, but not amazing for Op-Sec. US Bases are clearly identifiable and mappable pic.twitter.com/rBgGnOzasq — Nathan Ruser (@Nrg8000) January 27, 2018
+
+If soldiers use the app like normal people do, by turning it on tracking when they go to do exercise, it could be especially dangerous. This particular track looks like it logs a regular jogging route. I shouldn't be able to establish any Pattern of life info from this far away pic.twitter.com/Rf5mpAKme2 — Nathan Ruser (@Nrg8000) January 27, 2018
+
+“It sort of lit up like a Christmas tree,” he said after zooming in in Syria, where the scant jogging activity beams out from an all-black background.
+
+Strava has since urged its users to check their privacy settings.
+
+While the locations of military bases are generally known, there are concerns about the level of activity it reveals about personnel inside and around the bases.
+
+The revelations have piqued concerns among observers and security experts around the world.
+
+Just now: Strava sends a statement in response to the discovery that its fitness trackers are showing up sensitive US military information. It politely urges users to check the Strava website to be sure they understand the privacy settings. https://t.co/FB0frXfH5z — Liz Sly (@LizSly) January 28, 2018
+
+Here, I try to explain how identifying a user at one missile base with @strava would then compromise others in turn, using Taiwan as an example.https://t.co/Ps7zpO6DWd — Jeffrey Lewis (@ArmsControlWonk) January 29, 2018
+
+Strava, a "Social Network for Athletes" that tracks users' movements just released a map tracing their regular routes. In Syria alone, the precise location of US, Turkish & Russian bases, airstrips & patrol routes etc are all easily visible. https://t.co/ebINH9NP6f https://t.co/WKZH1XFYvV — John Beck (@JM_Beck) January 27, 2018
+
+Rather interested to see what these two circles of activity are on the Strava map, seemingly in the middle of nowhere, Yemen https://t.co/xayZs30PkN pic.twitter.com/xLpWly9D0A — Eliot Higgins (@EliotHiggins) January 27, 2018
+
+According to The Washington Post, the U.S. military is looking into the situation.
+
+Arms Control Wonk blog publisher Jeffrey Lewis wrote in The Daily Beast that it was “incredible” to see people taking smartphones or other devices past checkpoints into places they really shouldn’t be.
+
+“As bad as the publicly available heat map is, the underlying data that Strava is collecting is a security nightmare for governments around the world,” Lewis said.
+
+“The data being collected could allow anyone with access to it the ability to make a pattern-of-life map for individual users, some of whom may be very interesting.”
+
+This is an extraordinary security oversight Tobias has found. Strava is a popular exercise app - soldiers love it, and are uploading their activity all over the world. https://t.co/lXcQVlbBYX — Dan Murphy (@bungdan) January 27, 2018
+
+Ruser, who is reportedly studying international security at the Australian National University, told Australia’s national broadcaster he has been following the situation in Syria since 2014.
+
+For his part, he doesn’t think it’s Strava’s fault.
+
+“They probably should have had the foresight to look at the map before they released it, but the app has a policy where you can opt out of data sharing, and that hasn’t been done by the soldiers,” Ruser said.

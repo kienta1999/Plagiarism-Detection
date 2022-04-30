@@ -1,0 +1,31 @@
+Sens. Elizabeth Warren (D-Mass.) and Mark Warner (D-Va.) introduced a Senate bill Wednesday focused on boosting cybersecurity infrastructure at companies like Equifax by holding them accountable for data breaches.
+
+The Data Breach Prevention and Compensation Act was inspired by Equifax’s massive data breach last summer, when hackers obtained personal details about 143 million Americans, including names, addresses and Social Security numbers, from the credit reporting agency.
+
+Despite multiple missteps, including failing to patch known security vulnerabilities, Equifax emerged relatively unscathed, thanks to current laws and loopholes. In fact, the company’s profits continued to rise until only recently ― even after being hacked four times since 2013.
+
+The cybersecurity bill would impose strict financial penalties on credit reporting agencies hit by data breaches, require significantly higher recovery compensation for affected customers, and establish an Office of Cybersecurity at the Federal Trade Commission tasked with annually inspecting credit reporting agencies’ cybersecurity infrastructures.
+
+Offending credit reporting agencies would also be subject to steeper penalties if they fail to meet the FTC’s digital security standards or don’t notify the agency of a data breach in a timely manner.
+
+Today @MarkWarner and I introduced a new bill that would impose massive, mandatory penalties when companies like @Equifax expose millions of Americans’ personal information. pic.twitter.com/GTugkoudIw — Elizabeth Warren (@SenWarren) January 10, 2018
+
+“The credit reporting agencies will have a real reason to invest much more heavily in security,” Warren said during a Wednesday appearance alongside Warner on CNN’s “New Day.”
+
+“This approach says it’s not about having a bunch of regulators come in and tell them how to design it,” she continued. “It’s about saying there are real consequences if you do not provide adequate security for the data.”
+
+If the law had been in effect during its summer data breach, Equifax would have been forced to pay a $1.5 billion fine, according to a press release issued by Warren’s office Wednesday.
+
+“If companies like Equifax can’t properly safeguard the enormous amounts of highly sensitive data they are collecting and centralizing, then they shouldn’t be collecting it in the first place,” Warner said in a statement.
+
+Warner called Equifax’s massive breach “particularly egregious” during an appearance on MSNBC’s “Morning Joe” immediately following their CNN spot.
+
+“I was one of the victims,” Warner said. “They knew there had been vulnerability, and when notified for months, didn’t put the basic patch in place. ... It was sloppiness on top of sloppiness.”
+
+The lawmakers also expressed concern over cybersecurity infrastructure across industries. On a scale of 1 to 10, with 1 being the most vulnerable, Warner said he would rate U.S. cybersecurity infrastructure as a “2 or 3.”
+
+“I worry [the U.S. will] continue to go out and build and invest in the world’s best 20th-century military, in terms of planes and tanks and ships, when many of our adversaries are not making investment in traditional military but making investments in cyber warfare tools where candidly ... we are not fully protected,” Warner said.
+
+Consumer watchdogs and cybersecurity experts praised Warren and Warner for taking steps to protect Americans’ personal information and strengthen cybersecurity infrastructure.
+
+“This bill establishes much-needed protections for data security for the credit bureaus,” Chi Chi Wu, staff attorney for the National Consumer Law Center, said in a statement. “It also imposes real and meaningful penalties when credit bureaus, entrusted with our most sensitive financial information, break that trust.”

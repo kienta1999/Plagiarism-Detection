@@ -1,0 +1,21 @@
+Hackers breached MyFitnessPal, a popular calorie-counting app and website, and acquired private data from about 150 million users.
+
+Under Armour Inc., which owns the nutritional app, announced Thursday that an “unauthorized party” gained access to the data in late February. Information acquired by the hackers included user names, email addresses and hashed passwords, the company said.
+
+Social Security numbers and driver’s license numbers were not affected since the app doesn’t collect that information. Payment card information was also unaffected because the company collects and processes that information separately.
+
+The company says it does not know the identity of the party responsible for the security breach.
+
+MyFitnessPal allows users to track their daily meals, count how many calories they consume and search for the nutritional information of specific foods.
+
+In a notice to the app’s users, Under Armour Chief Digital Officer Paul Fipps said the company learned of the breach on Sunday. The company alerted its users four days later.
+
+“We are working with leading data security firms to assist in our investigation,” Fipps wrote. “We have also notified and are coordinating with law enforcement authorities.”
+
+The company is urging MyFitnessPal users to change their passwords immediately.
+
+Under Armour is the latest victim of a string of security breaches affecting companies in all industries.
+
+Orbitz, a travel booking site, announced this month that it had a security breach that affected about 880,000 payment cards from the site’s users.
+
+Equifax also announced this month that it had another massive data breach affecting 2.4 million customers in 2017, six months after it revealed a previous breach that affected 143 million additional people.

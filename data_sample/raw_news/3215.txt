@@ -1,0 +1,23 @@
+Uber will not renew its permit to test self-driving cars in California, a decision the state’s Department of Motor Vehicles discussed in a letter to the company on Tuesday.
+
+The permit is set to expire March 31, but Uber indefinitely halted its autonomous vehicle testing nationwide following a fatal crash last Sunday night in Tempe, Arizona. The collision killed 49-year-old Elaine Herzberg as she walked her bike across a road, and was the first fatal crash between an autonomous vehicle and a pedestrian.
+
+“In addition to this decision to suspend testing throughout the country, Uber has indicated that it will not renew its current permit to test autonomous vehicles in California,” California DMV deputy director and chief counsel Brian Soublet wrote to Uber.
+
+Uber confirmed the news in a statement to PBS NewsHour:
+
+NEW: @uber confirms to me they’ve suspended self-driving operations in California, company will not reapply for the state DMV permit pic.twitter.com/JX3LHoL5Mu — Courtney Norris (@courtneyknorris) March 27, 2018
+
+Should Uber want to begin testing in California again, the company will need to re-apply for a permit, a process that will require it to provide a thorough explanation of the crash in Arizona, Soublet wrote in his letter.
+
+“Prior to resuming autonomous vehicle testing operations in California, Uber must apply for a new autonomous vehicle testing permit” he added. “Any application for a new permit will need to address any follow-up analysis or investigations from the recent crash in Arizona and may also require a meeting with the department.”
+
+In deciding to let its permit lapse in the state where it’s headquartered, Uber’s decision carries more symbolic weight than strategic significance.
+
+The bulk of the company’s testing takes place elsewhere. Uber’s Advanced Technologies Group, the unit tasked with developing self-driving cars, is headquartered in Pittsburgh. Uber also has self-driving cars in Phoenix, San Francisco and Toronto.
+
+Uber was already on thin ice with California regulators. In 2016, the state gave Uber’s self-driving cars the boot after the company refused to get government approval to test there. Instead of applying for the $150 permits, Uber shipped its autonomous Volvo SUVs to Arizona, where regulations are more relaxed.
+
+Unlike Arizona, California requires car companies to report how often human drivers have to take over from the autonomous system, a hard measure of just how capable the car’s driving abilities really are. Given Uber’s reported engineering struggles, it would be to the company’s advantage to log more miles elsewhere.
+
+Advertisement

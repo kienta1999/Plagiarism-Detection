@@ -1,0 +1,39 @@
+Ready to take this post to the next level?
+
+Suggested Videos Ready to take this post to the next level? Add a relevant video to your entry.
+
+A potential breach by hackers has never been brought up in Election Day training for Monroe County, said Andi McClanahan, who has served as a judge of elections for her ward for the last six years.
+
+“The issue has never been spoken about,” she said, “which now I’m thinking is problematic with the current issues we are facing.”
+
+While hacking attempts failed in Pennsylvania, they were successful in Illinois, as hackers in 2016 accessed registration data for as many as 90,000 voters. Officials, though, say the hackers did not erase or modify any records.
+
+Adam Weiner, who served as a poll worker in his South Loop neighborhood in Chicago during the 2014 midterm elections, said if a voter roll had been compromised by hackers, “it would have ground everything to a halt.”
+
+“It was just not questioned that the data there was accurate,” Weiner said. “If we can’t trust the list, how can people vote?”
+
+David Bjerke, the director of elections and general registrar of voters for Falls Church, Virginia, a Washington suburb, said if registration information is changed, voters should still cast provisional ballots, because officials can verify the eligibility of voters by going back to check paper registration records. Voters, he said, should check their registration status well before Election Day. And if the option is available, they should vote by mail or vote early so they can discover a potential problem with time to spare.
+
+According to U.S. officials, Russian hackers have not changed ballot counts. And as more systems move toward paper ballots and away from digital voting machines, the risk of hackers manipulating vote counts decreases.
+
+“At no time was the voting process from a tabulation or count perspective in jeopardy,” said Chris Chambless, the supervisor of elections for Clay County, Florida. “People hear there was an attempt to change the results of the election. And that was never in play.”
+
+But Chambless, whose county outside of Jacksonville has sophisticated network security, is still concerned about “zero-day malware,” viruses so new that security systems cannot detect them. Florida also was targeted by hackers in 2016.
+
+Where is the Support?
+
+For more than a year now, after designating election infrastructure as critical, the federal government has begun working with states to assess the security of their voting systems. But officials say they need more resources to get cybersecurity experts in offices, to increase audits and to update equipment.
+
+A bipartisan bill in the U.S. Senate, which would provide $386 million in federal grants to state election security, has stalled. The bill’s author, Sen. Amy Klobuchar, a Minnesota Democrat, said in February that more than 40 states rely on a voting system that is at least a decade old.
+
+The U.S. State Department has not spent a dime of the $120 million it was allocated after 2016 to fight Russian election meddling. And for his part, President Donald Trump has not told intelligence agencies to stop Russian attempts to target U.S. election systems.
+
+So, many local and state leaders are tackling security alone. Travis County, Texas, which surrounds Austin, brought in academics to develop a system that encrypts votes and stores them in a secure database. The system would allow for efficient auditing. Similar programs are in place in Los Angeles and San Francisco, and California is looking to replace its aging equipment.
+
+Local election officials now need to be cybersecurity officials. But they have always had to be wary of misinformation campaigns.
+
+In Bend, Oregon, Blankenship never thought she would have to fend off Russian hackers. But she has been concerned about misinformation for the last 15 years.
+
+“It doesn’t necessarily need to come from another country,” she said. “It could come from another candidate to a voter who doesn’t have the time to see whether the information is valid or not.
+
+“That’s not new, that’s politics.”

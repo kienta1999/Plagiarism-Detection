@@ -1,0 +1,67 @@
+States are considering toughening consumer data breach protection laws, as the result of last year’s huge Equifax breach that compromised the personal information of nearly 148 million Americans. Jaap Arriens/NurPhoto/Getty Images
+
+By Jenni Bergal
+
+When Pennsylvania sued Uber last week for waiting more than a year to alert drivers and customers that their personal information had been hacked, the state’s attorney general argued that the ride-hailing company had violated a state law mandating that companies notify people affected by a data breach “without unreasonable delay.”
+
+“Uber hid the incident for over a year, and actually paid the hackers to delete the data and stay quiet,” Attorney General Josh Shapiro said in a statement.
+
+The Pennsylvania lawsuit against Uber and others filed by Los Angeles and Chicago are drawing attention to the vague language in many state laws that defines how quickly consumers must be notified once a data breach is discovered. Pennsylvania’s phrase “without unreasonable delay” is typical of many states, as is “in the most expedient time possible.”
+
+The problem is that state legislators, consumers and company officials have different ideas of what is “unreasonable.”
+
+“This kind of language is too loose and subjective,” said Colorado Republican state Rep. Cole Wist, who is cosponsoring a bipartisan measure that would require that consumers be notified of a breach within 30 days if there is sufficient evidence personal information has been or is likely to be misused. Residents also would have to be given the date of the breach and a description of what was accessed.
+
+“‘Reasonable’ time is not good enough,” said Wist, who has been an identity theft victim. “There’s a lot of harm that can be done in a short amount of time. The burden is now on consumers to right the ship. Once their data is compromised it can create years of heartache.”
+
+“Most of the legislation has been prompted by last year’s huge Equifax breach, which exposed the personal data of nearly 148 million Americans.”
+
+Wist and legislators in a number of other states are trying to beef up consumer protections by clearly defining how quickly residents must be notified of a data breach and broadening the category of “personal information” covered under such laws. Some also seek to bar credit reporting agencies from charging consumers to freeze their credit information.
+
+But some industry groups are wary.
+
+Craig Shearman, spokesman for the National Retail Federation, said in an email that setting a fixed number of days for notification can be a problem because law enforcement and cyber experts might need to work quietly behind the scenes to catch hackers without tipping them off.
+
+And Eric J. Ellman, a senior vice president at the Consumer Data Industry Association, a trade group representing consumer reporting agencies, said it can be difficult for companies to comply with a “forced, narrow timetable” to notify consumers.
+
+“By tightening the screws so heavily in security breach bills,” he said, “you have often tipped the scales to create a hammer with which to whack companies that didn’t meet a tight timetable, rather than focus on getting consumers the information in the right time.”
+
+Uber Chief Legal Officer Tony West said the Pennsylvania lawsuit caught him by surprise. The data breach compromised the names, email addresses and cellphone numbers of 57 million Uber riders around the world, as well as the driver’s license numbers of about 600,000 drivers nationwide.
+
+“We make no excuses for the previous failure to disclose the data breach,” West said in a statement. “I’ve been up front about the fact that Uber expects to be held accountable; our only ask is that Uber be treated fairly and that any penalty reasonably fit the facts.”
+
+Prompted by Equifax Breach
+
+Most of the legislation has been prompted by last year’s huge Equifax breach, which exposed the personal data of nearly 148 million Americans.
+
+It took Equifax six weeks to reveal the breach, and it has twice revised upward its estimate of the number of people affected, most recently last week.
+
+“There is great frustration in the aftermath of the Equifax breach, and that frustration is extending to data breaches in general,” said Paul Stephens, policy director for the Privacy Rights Clearinghouse, a San Diego-based nonprofit consumer advocacy group. “It’s something that really has gotten a lot of state legislators very upset. They are consumers, too, and they’ve been impacted as well as the people they represent.”
+
+Last year, there were a record 1,579 data breaches in the United States, a nearly 45 percent hike over the previous year, according to the Identity Theft Resource Center, a nonprofit that helps victims of identity theft and promotes public awareness.
+
+Forty-eight states and the District of Columbia have security breach notification laws, and most apply to the private sector and the government. But the laws vary considerably, from when affected victims must be notified to what is considered personal information.
+
+Some states also bar credit reporting agencies from charging consumers to freeze or unfreeze their credit reports. But most allow it unless the consumer is an identity theft victim. A credit freeze lets people limit who can see their credit information, making it harder for identity thieves to open new accounts in their name. Credit agencies typically charge $5 or $10 each time consumers place or lift a freeze.
+
+This year, at least 29 states are taking up consumer security breach notification bills, according to the National Conference of State Legislatures. In more than a dozen states, measures would require residents to be notified within a given time, from 48 hours up to 60 days. Many of the bills also say that notification can be delayed if law enforcement determines it will interfere with a criminal investigation.
+
+States Take Action
+
+Some states have already moved to toughen their data breach laws.
+
+In Nebraska, Republican Gov. Pete Ricketts signed a bill two weeks ago that would prevent credit reporting agencies from charging fees for freezing and unfreezing credit reports. Legislators in Florida and Washington state also have approved no-fee freeze bills, which are headed to the governors’ desks.
+
+In Oregon, a bill has been sent to the governor that would allow no-fee freezing and require that residents be notified within 45 days.
+
+In Colorado, a House committee passed Wist’s breach notification bill last month and it has moved to another committee. As with many of the bills being considered across the country, the measure also would expand the definition of personal information to include passwords, medical information and data from biometrics such as facial recognition and fingerprints.
+
+In North Carolina, Attorney General Josh Stein said he and state Rep. Jason Saine, a Republican, are working on a bill that would require data breach notification within 15 days and make credit freezes free for everyone.
+
+“The Equifax breach affected 2 out of 3 adults in North Carolina last year,” Stein said. “That’s an outrageous impact on the lives of people. And the thieves don’t have to act today. They can simply bank the information and in the future, start making people’s lives hell.”
+
+South Dakota and Alabama are the only states that don’t have data breach notification laws, but that, too, could be changing.
+
+A South Dakota bill is headed to the governor that would require residents to be notified within 60 days.
+
+And the Alabama Senate passed legislation this month that would require notification within 45 days. The measure is now in a House committee.

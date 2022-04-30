@@ -1,0 +1,65 @@
+Elliott Broidy and his wife, Robin Rosenzweig, are suing the government of Qatar. Alex J. Berliner/BEI/REX/Shutterstock
+
+WASHINGTON — A top GOP fundraiser and his wife sued the government of Qatar, lobbyist and former Republican political adviser Nicolas Muzin, and Muzin’s lobbying firm Stonington Strategies on Monday for allegedly hacking their email accounts and distributing the stolen emails to various media organizations.
+
+The selectively leaked emails appear to show Elliott Broidy, a Los Angeles-based Republican National Committee deputy finance chair, using his proximity to Republican elected officials to influence foreign policy decisions and to boost his defense company’s business prospects. The anonymous leaker, which described itself as a group that exposes wrongdoing in Hollywood, has disseminated different tranches of hacked emails to reporters over the past several weeks, resulting in a trickle of negative news stories scrutinizing Broidy’s business practices and his communications with U.S. politicians and foreign governments.
+
+The New York Times, Wall Street Journal, Associated Press, Bloomberg, Al Jazeera, HuffPost and others have published stories that appear to be based on the leaked emails.
+
+Broidy, who has denied any wrongdoing, has for weeks accused Qatar of orchestrating the hack in retaliation for his outspoken criticism of the government there and his support for its regional rivals.
+
+“We believe the evidence is clear that a nation state is waging a sophisticated disinformation campaign against me in order to silence me, including hacking emails, forging documents, and engaging in espionage and numerous other illegal activities,” Broidy said in a statement. “We believe it is also clear that I have been targeted because of my strong political views against Qatar’s state sponsored terrorism and double dealing.”
+
+Qatar denies it was involved in the hack. “Mr. Broidy’s lawsuit is a transparent effort to divert attention from U.S. media reports about his activities,” Jassim Al-Thani, Qatar’s media attache in Washington, said in a statement. “His lawsuit is without merit of fact. It is Mr. Broidy, not Qatar, who orchestrated nefarious activities designed to influence Congress and American foreign policy. It does not matter how many venues Mr. Broidy publishes his false accusations in, they will not become truth.”
+
+The Qatari government has indicated in a past statement to HuffPost that it is considering a counter-lawsuit against Broidy for making “false statements.”
+
+On Monday, Broidy also accused Muzin, a lobbyist hired by Qatar, of helping to carry out the operation.
+
+Muzin dismissed the allegations. “Mr. Broidy’s lawsuit is an obvious attempt to draw attention away from his controversial work, and is as flimsy as the promises he reportedly made to his clients,” Muzin wrote in an email. “I am proud of the work my firm has conducted with Qatar and look forward to continuing to support peaceful dialogue and progress in the Middle East.”
+
+The hacking operation began around Dec. 27, 2017, when Broidy’s wife, Robin Rosenzweig, received a phishing email that appeared to be a Gmail security alert, according to the complaint filed in the U.S. District Court for the Central District of California on Monday. When Rosenzweig entered her login credentials, as prompted by the phishing email, hackers gained access to her account, which included login information for other email accounts, including Broidy’s.
+
+Broidy and Rosenzweig hired forensic analysts to track down the source of the hack. For weeks, Broidy’s team promised to soon release definitive evidence proving Qatar was responsible for stealing the emails. But the complaint filed on Monday offered little proof.
+
+According to the complaint, Broidy’s team initially traced the hacker to IP addresses in the United Kingdom and the Netherlands. But they later discovered that the attack originated in Qatar — the European IP addresses were meant to mask the real identity of the hacker, the complaint alleged.
+
+The complaint does not provide forensic evidence that the government of Qatar directed the hack. Instead, it provides a lengthy description of Qatar’s efforts to improve its reputation in Washington by hiring politically savvy lobbyists — and how Broidy worked to crush those efforts.
+
+The complaint pits Muzin and Broidy — two prominent Republican operatives who are active in the pro-Israel advocacy world — against each other.
+
+Muzin is one of several lobbyists Qatar hired to advocate for it in the U.S. as Washington mulled how to respond to a Saudi-led blockade against Qatar. Last September, Muzin’s lobbying firm Stonington Strategies registered as a foreign agent for Qatar. Initially retained at a rate of $50,000 per month, Qatar later increased the rate to $300,000 per month.
+
+As part of his effort to improve Qatar’s image, Muzin tried to get Jewish American leaders to meet with Qatar’s emir in New York during the United Nations General Assembly and to visit Qatar on an all-expense-paid trip, the complaint alleged. Broidy urged Jewish American leaders to turn down the invitation.
+
+As Broidy worked to block Qatar’s efforts to improve its image in the U.S., his defense firm inked lucrative deals with Qatar’s regional rivals. In 2017 he finalized more than $200 million worth of contracts with the United Arab Emirates to develop its defense and counterterrorism ties, the complaint stated. Broidy is in discussions to do similar work with the government of Saudi Arabia.
+
+The complaint provides no conclusive evidence that Muzin was involved in distributing the stolen emails to reporters. According to the complaint, Muzin indicated he was aware of the operation by stating, “I did not cause the Broidy stuff, just because I have information” and “I don’t know all the details, but I know that I am hearing repeatedly that there’s a lot more coming.” It is not clear to whom those comments were directed.
+
+Muzin did not respond to a question about those comments.
+
+Broidy and Rosenzweig are asking the court to order injunctive relief to prevent access to and use of the stolen emails and to award monetary damages.
+
+Broidy made headlines in 2009, when he pleaded guilty to giving New York state officials almost $1 million worth of gifts to help his company win a lucrative contract with the state’s pension fund. But since then, he has largely operated behind the scenes. That changed after reporters started receiving his and his wife’s internal emails, offering a glimpse at how the well-connected fundraiser’s political and business activities intersected.
+
+On Feb. 28, HuffPost received the first batch of Broidy’s emails from a group that called itself L.A. Confidential. The emails appeared to show Rosenzweig, asking for more than $80 million to scuttle a Justice Department investigation into a corruption scandal implicating a Malaysian businessman — and Broidy using his ties to the Trump administration to help.
+
+The next round of emails showed Broidy directly pitching President Donald Trump on a plan to recruit an international army “of Muslim soldiers recruited from Arab and Islamic nations” to fight the Taliban and the Islamic State group in Afghanistan.
+
+The most recent round of emails sent to HuffPost came from a group that called itself Hollywood 2018 and used ProtonMail, an encrypted email service. When HuffPost tried to ask Hollywood 2018 if it was the same group that was behind L.A. Confidential, the email bounced back, indicating the account had been deactivated.
+
+The leaker was strategic, providing different news outlets with different documents, ensuring that each outlet would feel it had newsworthy material.
+
+The New York Times reported that Broidy offered access to Trump as part of an effort to get foreign leaders to sign contracts with his defense firm Circinus. The Times also detailed how George Nader, a political adviser to the UAE who is reportedly now cooperating with special counsel Robert Mueller, cultivated Broidy to gain influence with the Trump administration.
+
+The Associated Press reported that Nader wired Broidy millions of dollars to fund an effort to convince U.S. lawmakers to pass legislation that would label Qatar as a state sponsor of terrorism.
+
+Broidy’s team has confirmed the authenticity of several of the leaked emails — but it also accused the Qatari government and Muzin of sending around doctored or forged documents that appeared to show Broidy was involved with a sanctioned Russian bank.
+
+Unlike Russia, Qatar is not known for its cyberattacks. But there are signs that the small, wealthy Gulf state is building up its capabilities. In 2015, an intermediary with ties to Qatar gave the Times internal emails from the UAE’s foreign ministry in which an Emirati official admitted the UAE was violating a United Nations resolution by sending weapons to Libyan militias.
+
+Last year, a group that called itself GlobalLeaks sent reporters damaging emails stolen from Yousef al-Otaiba, the UAE’s ambassador to the U.S. Independent cybersecurity researchers identified a hacker-for-hire group working for several Gulf states that used tactics that resembled those used against Otaiba.
+
+Read the complaint below:
+
+Broidy Complaint by Jessica Schulberg on Scribd

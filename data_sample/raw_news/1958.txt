@@ -1,0 +1,27 @@
+CAPE CANAVERAL, Fla. (Reuters) - A Falcon 9 rocket blasted off from Florida on Wednesday on SpaceX’s first high-priority science mission for NASA, a planet-hunting orbital telescope designed to detect worlds beyond our solar system that might be capable of harboring life.
+
+The Transit Exoplanet Survey Satellite, or TESS, lifted off on schedule from the Cape Canaveral Air Force Station at 6:51 p.m. EDT, following a two-day postponement forced by a technical glitch found on Monday in the rocket’s guidance-control system.
+
+Within minutes of the launch, the main-stage booster separated from the upper part of the rocket and flew itself back to Earth for a successful touchdown on an unmanned landing vessel floating in the Atlantic.
+
+The @NASA_TESS spacecraft is now safely in space after a beautiful launch. It will spend the next 60 days getting to its proper orbit where it will search for unknown worlds beyond our solar system: https://t.co/Q7B7dMs7sM pic.twitter.com/qN4RK3oTLs — Thomas Zurbuchen (@Dr_ThomasZ) April 19, 2018
+
+NASA’s latest astrophysics satellite, meanwhile, soared on toward orbit, starting the clock on a two-year, $337 million quest to expand astronomers’ known catalog of so-called exoplanets, worlds circling distant stars.
+
+Wednesday’s blastoff was a milestone of sorts for Space Exploration Technologies, or SpaceX, the private launch service owned by billionaire entrepreneur Elon Musk.
+
+The California-based company has launched cargo missions and other payloads for NASA before. But TESS marks the first under a special certification SpaceX has obtained to carry one of NASA’s highest-priority science instruments.
+
+TESS is designed to build on the work of its predecessor, the Kepler space telescope, which discovered the bulk of some 3,700 exoplanets documented during the past 20 years and is running out of fuel.
+
+NASA expects to pinpoint thousands more previously unknown worlds, perhaps hundreds of them Earth-sized or “super-Earth” sized - no larger than twice as big as our home planet.
+
+Those are believed the most likely to feature rocky surfaces or oceans and are thus considered the best candidates for life to evolve. Scientists said they hope TESS will ultimately help catalog at least 100 more rocky exoplanets for further study in what has become one of astronomy’s newest fields of exploration.
+
+“TESS is going to dramatically increase the number of planets that we have to study,” TESS principal investigator George Ricker of the Massachusetts Institute of Technology told reporters in a pre-launch briefing on Sunday.
+
+Roughly the size of a refrigerator with solar-panel wings and four special cameras, TESS will take about 60 days to reach a highly elliptical orbit between Earth and the moon to begin its observations.
+
+Like Kepler, TESS will use a detection method called transit photometry, which looks for periodic, repetitive dips in the visible light of stars caused by planets passing, or transiting, in front of them.
+
+TESS will focus on 200,000 pre-selected stars that are relatively nearby and among the brightest as seen from Earth, making them better-suited for sensitive follow-up analysis.

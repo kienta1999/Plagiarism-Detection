@@ -1,0 +1,45 @@
+Sen. Mark Warner co-authored a provision that could upend FICO to the benefit of the three credit reporting firms. Aaron Bernstein / Reuters
+
+WASHINGTON ― On the same day federal prosecutors announced criminal charges against a former Equifax executive, the Senate passed legislation that would benefit the troubled company.
+
+Prosecutors said Wednesday that former Equifax executive Jun Ying engaged in illegal insider trading by selling company stock last year before the company publicly announced a massive data breach in which hackers had stolen millions of Americans’ personal financial information. Ying allegedly saved thousands of dollars by dumping the stock before that announcement.
+
+Also on Wednesday, by a vote of 67-31, the Senate passed a bank deregulation bill containing several sections that affect credit monitoring firms.
+
+The legislation would require Equifax, Experian and TransUnion to allow American consumers to freeze their credit reports at no charge and to provide free credit monitoring to members of the armed services. But consumer advocates have complained that these provisions also pre-empt more favorable state laws and limit the ability of customers to sue the companies.
+
+Another provision gives Equifax and its peers an advantage in the housing finance industry.
+
+Fannie Mae and Freddie Mac, the government-backed companies that purchase mortgages from lenders, currently use the Fair Isaac Corporation’s FICO score as part of their evaluation of borrowers’ ability to repay loans. The scores are based on credit reports compiled by the three credit monitoring firms.
+
+The Senate bill would require Fannie and Freddie to solicit applications for new credit scoring models that would be evaluated according to a public process. Financial industry experts say the only viable competition to FICO is VantageScore, a product created by a subsidiary of Equifax, Experian and TransUnion.
+
+“These are the incumbent players in a highly consolidated industry,” said Chris Whalen, an investment banker focused on mortgage finance.
+
+Consumer advocates note that the Federal Housing Finance Agency has already been considering alternatives to FICO, which is just one part of a broader evaluation that also looks at borrowers’ pay stubs and bank accounts. It’s unclear how the agency’s decision-making process will be affected if the bank bill is signed into law, as is expected to happen.
+
+“The FHFA still needs to do that, continue with that process, but we pointed out there are other tools that are out there in the marketplace,” Sen. Mark Warner (D-Va.), who co-authored the provision with Sen. Tim Scott (R-S.C.), told HuffPost.
+
+Scott has argued that FICO scores disadvantage minorities and people with limited credit histories because they ignore data on rent, utility and phone payments. In a press release earlier this month, he said the provision would “help credit-invisible Americans be more competitive for mortgage lending and homeownership.”
+
+The housing finance agency declined to comment.
+
+A Republican aide told The Wall Street Journal on Wednesday that the provision was added specifically out of concern that the agency would stick with FICO. “We are now trying to enact a law that dictates what path” the agency takes, the aide said.
+
+The Federal Housing Finance Agency had noted in a December request for public comment that switching from FICO would have limited benefits for potential homebuyers with weak credit histories, but potentially major consequences for everybody else. “The entire mortgage finance industry will incur operational and transition costs that could result in higher borrowing costs for consumers,” it said.
+
+The provision could “bottleneck the mortgage market,” Americans for Financial Reform, a coalition of liberal groups, wrote in a letter opposing the broader bill.
+
+“I know it’s popular and cool to talk about disrupting markets, but it was disruption and innovation that led to the mortgage meltdown,” said Chi Chi Wu, a staff attorney at the National Consumer Law Center, which is part of the coalition.
+
+It’s not just liberal groups that are skeptical of opening up credit score competition in the mortgage market. The conservative National Taxpayers Union opposes the provision and has said letting VantageScore into the process would increase the risk of subprime government lending. The organization argued in a letter to the housing finance agency that “introducing competition into this complex space has the potential to create a ‘race to the bottom’ effect on our nation’s housing finance system.”
+
+The letter also said that because VantageScore is owned by the three firms that already control credit monitoring, using it to evaluate borrowers would present “a direct conflict of interest.”
+
+VantageScore spokesman Jeff Richardson said actually the status quo unfairly boosts the Fair Isaac Corporation. “The only company with a built-in competitive advantage is FICO because it currently has and has long enjoyed a government sanctioned monopoly,” he said in an email.
+
+What investors want is a single generally accepted way to evaluate the risk of mortgage-backed securities, so focusing on fostering competition among consumers of credit report information is absurd, according to Whalen, the investment banker.
+
+“There does not seem to be any groundswell of demand from lenders or investors for new credit scores,” Whalen wrote in a letter to the housing finance agency. The main group clamoring for change, he added, is the credit reporting companies.
+
+Before a procedural vote on Wednesday afternoon, Sen. Sherrod Brown (D-Ohio), the top Democrat on the Senate banking committee, called the pro-Equifax provisions “the most awful” part of the bank legislation.

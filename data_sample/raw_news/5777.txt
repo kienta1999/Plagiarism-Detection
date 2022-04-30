@@ -1,0 +1,31 @@
+Olympics officials confirmed on Sunday that a cyberattack during the opening ceremony last week disrupted Wi-Fi and television at Pyeongchang Olympic Stadium and knocked servers offline for about 12 hours.
+
+International Olympic Committee spokesman Mark Adams told Reuters the attack didn’t affect any critical operations, though South Korea’s Yonhap News Agency notes it did prevent some would-be spectators from printing tickets to the games.
+
+Adams declined to comment further on the source of the attack, a decision reached in tandem with the Pyeongchang organizing committee.
+
+“We decided with the IOC we are not going to reveal the source (of the attack),” committee spokesman Sung Baik-you told Reuters. “All issues were resolved and recovered yesterday morning.”
+
+A report on the attack by Cisco’s Talos Intelligence Group concluded the hackers likely compromised the network well ahead of the games, meaning the timing of the attack ― during the opening ceremony ― was intentional and intended to embarrass Olympics organizers.
+
+“The actors behind this were after embarrassment of the Olympic committee during the opening ceremony.”
+
+Also telling: The hackers didn’t attempt to steal information once they’d gained access. Instead, they tried to destroy the system and leave it inoperable.
+
+“Disruption is the clear objective in this type of attack,” the Talos researchers concluded, “and it leaves us confident in thinking that the actors behind this were after embarrassment of the Olympic committee during the opening ceremony.”
+
+Other experts reached similar conclusions.
+
+“It says something sad and frightening that the question of a cyber attack on the Winter Olympics was a matter of when, not if,” Mike Baukes, co-CEO of the cybersecurity firm UpGuard, noted in an email to HuffPost.
+
+“In this instance, the attacker had gained a high degree of familiarity with the Olympic IT infrastructure, extracting technical details such as usernames, domain and server information, and even passwords - a slew of information that would provide any malicious actor with the tools necessary to launch an attack.”
+
+While IOC officials aren’t assigning blame, there’s plenty of speculation that Russia was behind the attacks.
+
+The IOC banned Russia from competing in the Pyeongchang Games in response to a widespread doping program, thus providing a possible motive. (Scores of individual Russian athletes are nonetheless competing in the games under the Olympic flag.) And, as the source of increasingly brazen state-sponsored hacking efforts, Russia certainly has the means.
+
+Amid speculation in the security community that Russia could hack the Winter Olympics, the country professed its innocence in advance, issuing a statement days before the games began.
+
+“We know that Western media are planning pseudo-investigations on the theme of ‘Russian fingerprints’ in hacking attacks on information resources related to the hosting of the Winter Olympic Games in the Republic of Korea,” Russia’s foreign ministry said in a statement obtained by Reuters. “Of course, no evidence will be presented to the world.”
+
+In 2016, the World Anti-Doping Agency said a Russian cyberespionage group had hacked, then leaked athletes’ medical files from the Summer Olympics in Rio, presumably in retaliation for the IOC’s decision to ban 119 Russian athletes from those games for doping. The Kremlin denied responsibility at the time.

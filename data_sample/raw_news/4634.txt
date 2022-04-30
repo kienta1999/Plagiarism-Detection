@@ -1,0 +1,37 @@
+However much you tip your Uber driver, it’s probably not enough. And however much Uber pays its drivers, it’s almost definitely not enough, either.
+
+Those are two big takeaways from a new working paper by a group of researchers led by Stephen Zoepf, executive director of the Center for Automotive Research at Stanford University and a researcher at the MIT Center for Energy and Environmental Policy Research, which found that a substantial percentage of drivers for ride-hailing companies probably earn less than they think they do, though their wages are padded thanks to per-mile tax deductions.
+
+As a working paper, it’s important to note the figures haven’t been peer-reviewed and are subject to change. Nevertheless, it offers interesting insight into an industry where driver pay has been the subject of much scrutiny.
+
+Unlike previous economic analyses that report drivers’ gross profits without factoring in operational costs, the MIT paper takes into account how much drivers spend on things like insurance, maintenance, repairs, fuel and the car’s depreciation in value, using data from Edmunds, Kelley Blue Book and the Environmental Protection Agency.
+
+Once those costs are accounted for, the working paper found, 74 percent of ride-hailing drivers make less than the minimum wage in their states, and 30 percent of drivers actually lose money for every mile they drive.
+
+A graph shows revenue versus expenses per mile by drivers for ride-hailing services. Drivers above the line are losing money for every mile they drive. Zoepf et al.
+
+In the survey of 1,121 drivers, the median driver earned $0.59 per mile and paid out $0.30 per mile in vehicle costs, leading to a median hourly profit of $3.37.
+
+Notably, a choice few drivers with the most efficient vehicles and running the most profitable routes were able to turn out revenue of $1.50 per mile. Zoepf told HuffPost the Toyota Prius, a gas/electric hybrid, was drivers’ vehicle of choice by a factor of two.
+
+More than 80 percent of the drivers surveyed said they work less than 40 hours per week.
+
+It isn’t all bad news for drivers, however. The paper found nearly half of all drivers can declare a loss for tax purposes at the federal tax deduction rate of roughly $0.54 per mile. Per the researchers, that drastically decreases the amount of taxable income drivers need to report, to the extent that an estimated 74 percent of driver profit ― representing billions of dollars ― is going untaxed.
+
+“At an average of $661/month in net profit per driver and with hundreds of thousands of drivers in the U.S. alone, the standard mileage deduction facilitates billions of dollars of untaxed income, and hundreds of millions of unrealized tax revenue,” the paper notes. “This untaxed profit represents a social subsidy for the ride-hailing business model.”
+
+“While the paper is certainly attention grabbing, its methodology and findings are deeply flawed.” - Uber spokesman
+
+Lyft didn’t respond to a request for comment from HuffPost, but a spokesman for Uber vigorously disputed the paper’s methodology and findings.
+
+“While the paper is certainly attention grabbing, its methodology and findings are deeply flawed,” the spokesman said. “We’ve reached out to the paper’s authors to share our concerns and suggest ways we might work together to refine their approach.”
+
+Zoepf didn’t immediately respond to followup questions about his methodology.
+
+Compared to other studies that used different methodology, the MIT paper is indeed an outlier. A National Bureau of Economic Research study in November 2016 found drivers in six major metropolitan areas earned around $18 an hour, not taking into account hourly costs varying from $2.94 to $6.46 per hour depending on the hours they worked and the vehicle they drove.
+
+The paper also received some scrutiny from Harry Campbell, founder of The Rideshare Guy, an industry blog. Campbell’s 2017 Reader Survey provided the hard data the researchers used for their paper.
+
+Using the same data, Campbell came up with an average hourly rate of around $16 an hour, not taking drivers’ operational costs into account. But, he said, even if MIT’s methodology needs to be tweaked ― which is possible, since it’s a working paper ― its fundamental finding is spot on: Drivers aren’t making enough money.
+
+“Many drivers are doing this job part time and really only looking to make a few hundred bucks a week,” Campbell said, “but figuring out how much they are actually earning can be quite challenging.

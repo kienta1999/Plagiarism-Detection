@@ -1,0 +1,33 @@
+WASHINGTON (Reuters) - Mick Mulvaney, head of the Consumer Financial Protection Bureau, has pulled back from a full-scale probe of how Equifax Inc failed to protect the personal data of millions of consumers, according to people familiar with the matter.
+
+Equifax said in September that hackers stole personal data it had collected on some 143 million Americans. Richard Cordray, then the CFPB director, authorized an investigation that month, said former officials familiar with the probe.
+
+But Cordray resigned in November and was replaced by Mulvaney, President Donald Trump’s budget chief. The CFPB effort against Equifax has sputtered since then, said several government and industry sources, raising questions about how Mulvaney will police a data-warehousing industry that has enormous sway over how much consumers pay to borrow money.
+
+The CFPB has the tools to examine a data breach like Equifax, said John Czwartacki, a spokesman, but the agency is not permitted to acknowledge an open investigation. “The bureau has the desire, expertise, and know-how in-house to vigorously pursue hypothetical matters such as these,” he said.
+
+Three sources say, though, Mulvaney, the new CFPB chief, has not ordered subpoenas against Equifax or sought sworn testimony from executives, routine steps when launching a full-scale probe. Meanwhile, the CFPB has shelved plans for on-the-ground tests of how Equifax protects data, an idea backed by Cordray.
+
+The CFPB also recently rebuffed bank regulators at the Federal Reserve, Federal Deposit Insurance Corp and Office of the Comptroller of the Currency when they offered to help with on-site exams of credit bureaus, said two sources familiar with the matter.
+
+Equifax has said it is under investigation by every state attorney general and faces more than 240 class action lawsuits.
+
+The Federal Trade Commission is examining the breach and the company may face financial penalties. The last time the FTC penalized a major credit bureau was in 2012, a $393,000 settlement with Equifax.
+
+In contrast, the CFPB fined credit bureaus more than $25 million just last year for over-marketing its monitoring services, which generated monthly fees.
+
+The FTC confirmed in September it was investigating Equifax but a spokesman declined further comment.
+
+Credit bureaus like Equifax, TransUnion and Experian collect and store personal information on scores of millions of consumers. Banks and other lenders rely on the information to track how consumers spend money and manage debt, then use it to decide what interest rate to charge for loans.
+
+The Equifax breach exposed vulnerabilities in how the companies keep data safe. It also highlighted how credit bureaus exist in a regulatory gray zone where they are partly regulated by several agencies.
+
+Under Cordray, the CFPB and FTC agreed to work together on the Equifax inquiry, sources said. But while the agencies have similar powers to investigate, only the FTC has issued a subpoena.
+
+And while Cordray had asked bank regulators to join in fresh cybersecurity exams of the bureaus, last month the CFPB told the regulators that no on-site exams were planned, so their help was not needed, said three officials, who declined to be identified because they were not authorized to speak publicly.
+
+The banking regulators declined to comment, and the credit bureaus declined to comment on their dealings with regulators.
+
+But TransUnion said the CFPB has no authority to examine the company over cybersecurity concerns. “We believe that it is clear that the CFPB was not given legal authority to supervise any financial institutions with respect to cybersecurity,” the company said in a statement.
+
+The CFPB has come under sustained attack from Republicans during the seven years of its existence.

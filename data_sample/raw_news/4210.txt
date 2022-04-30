@@ -1,0 +1,33 @@
+WASHINGTON ― Companies that are notorious for mistreating U.S. consumers could benefit from a bipartisan Senate bill that is supposed to protect those consumers.
+
+Legislation by Sen. Mike Crapo (R-Idaho) and supported by more than a dozen Democrats would give credit monitoring companies like Equifax a chance to expand their role in the mortgage industry. The bill would require government-backed mortgage companies to solicit applications for credit scoring models for evaluating the creditworthiness of people seeking home loans.
+
+“Guess who is one of the biggest beneficiaries of this change,” Sen. Sherrod Brown (D-Ohio), the top Democrat on the Senate Banking Committee, said Thursday. “Equifax, of course.”
+
+The government’s housing finance apparatus has long used the Fair Isaac Corporation’s proprietary FICO score when it considers the likelihood a borrower will pay off her mortgage. Fair Isaac’s main competition is something called VantageScore, a product jointly created by the three credit monitoring companies: Equifax, Experian and TransUnion.
+
+A spokesman for VantageScore called the bill “a positive development for underserved consumers and those who believe in competition.”
+
+VantageScore would probably have an edge in a credit score competition, since both FICO scores and VantageScore are based on the credit reports produced by VantageScore’s parent companies.
+
+Making the government’s housing finance enterprises consider an alternative credit score will benefit people with limited credit histories, Sen. Tim Scott (R-S.C.) said in a release ― which is similar to how VantageScore markets itself. Scott co-authored the provision with Sen. Mark Warner (D-Va.). A Warner spokeswoman noted the senator has harshly criticized Equifax in the past and lamented that the broader bank bill, which he helped write, doesn’t do more to rein in credit monitoring firms.
+
+A funny thing about this provision of the legislation is that the Federal Housing Finance Agency had already been in the process of considering an alternative to the FICO score. In a December request for input, the agency said its own research so far had “revealed only marginal benefits to requiring a different credit score” than FICO.
+
+The report also said that regardless of which score was used, Fannie Mae and Freddie Mac’s own underwriting systems “more precisely predicted mortgage defaults than third-party credit scores alone.”
+
+The Senate bill, which could pass as soon as Monday, would apparently blow up the agency’s own process for selecting which credit score to use. However, a spokesman for Scott said that the bill would set up a process that would be more transparent than the one FHFA had been following.
+
+Brown said it would be great to have additional ways of helping Americans become homeowners. “But determining creditworthiness and balancing access to credit with the need to make sure we don’t end up with millions of foreclosures is complicated,” he said. “That is why we have FHFA, and that is why we have a process in place.”
+
+In a massive Equifax security breach last year, hackers stole personal financial information pertaining to more than 140 million Americans. Members of both parties skewered the company during hearings that recalled 2009 Congressional hearings when members of both parties skewered the bankers who’d been bailed out after the financial crisis.
+
+Ostensibly, the legislation punishes Equifax as a political counterbalance to the bill’s favorable provisions for banks, which will allow them to hold less capital and engage in riskier practices in the name of making more loans to U.S. consumers.
+
+Provisions in the Crapo bill require the three credit monitoring firms to allow customers to freeze their credit information at no charge and to give free services for members of the military ― though Brown noted Thursday that the bill would also prevent military members from suing the companies. And it would probably be an excellent marketing opportunity for all three firms, which are infamous for offering “free” products that require a credit card up front and later charge fees unless they’re proactively canceled.
+
+Scott has said the credit report competition provision would improve access to credit for African-Americans, who are denied loans at higher rates than white people in similar circumstances. Another part of the Crapo bill, however, would free banks from having to disclose some of the loan application data that has made it possible to detect widespread racial discrimination in mortgages in the first place.
+
+The credit competition part of the bill appears designed to benefit VantageScore, said Mike Litt, a policy expert with the consumer advocacy group U.S. PIRG.
+
+“We think it’s probably an attempt to lay out a better runway to aid them to really take over the credit reporting and credit scoring markets,” Litt said.

@@ -1,0 +1,75 @@
+Bitcoin enthusiasts envision a world in which the entire economy runs on blockchain technology, allowing people to buy their homes, write their wills and even vote without the involvement of a third party.
+
+Workers look over racks of bitcoin data miners during construction of a bitcoin data center in Virginia Beach, Virginia. While some places are shunning mining companies, others are embracing any blockchain-related new businesses. Steve Helber/AP
+
+By Jen Fifield
+
+Things have been kind of crazy in Massena, New York, since the bitcoin miners came to town. So crazy that Steve O’Shaughnessy, the new town supervisor, says he hasn’t unpacked his office since he started his job in January.
+
+O’Shaughnessy says it’s a good thing, though. In the past decade, his town of about 13,000 on the St. Lawrence River has lost much of its main industry — as a powertrain plant closed and an aluminum manufacturing plant downsized. But now, one and possibly two bitcoin mining companies are moving in, and they have promised to create dozens of jobs.
+
+Across the United States, bitcoin miners — who set up computers to solve complex math programs and unlock new bitcoin — are rushing to small towns and wide-open states with cheap rent, land or electricity. Many places are shunning the bitcoin mining companies, saying they suck up too much electricity without producing jobs. But places such as Massena are putting out the welcome mat — not just for bitcoin miners, but for any and all “cryptocurrency” industries.
+
+The idea is to attract entrepreneurs who are developing new uses for blockchain technology, which records agreements and transactions on an open, online ledger. Bitcoin was the original blockchain technology, but enthusiasts envision a world in which the entire economy runs on the technology, allowing people to buy their homes, write their wills and even vote without the involvement of a third party.
+
+While bitcoin mining may not create many jobs, state officials and cryptocurrency advocates believe in the economic potential of the industries created through blockchain technology.
+
+To signal that they’re open for business, states — especially those with small or shrinking populations — are enacting laws that, for example, exempt certain cryptocurrency transactions from the licensing laws that apply to others who transmit money, like banks. At least six states — Kansas, Illinois, New Hampshire, Tennessee, Texas and Wyoming — have enacted laws or issued guidance in the past four years that exempt some digital currencies from money transmitter licenses.
+
+“There is a bit of a battle going on between states to be the next Silicon Valley for open blockchain networks,” said Peter Van Valkenburgh, research director at Coin Center, a nonprofit research and advocacy center based in Washington, D.C., that focuses on issues pertaining to cryptocurrency and related technology.
+
+Enthusiasts in small towns are advertising their cheap electricity, organizing meetups, and trying to get businesses to accept cryptocurrencies — even as the value of bitcoin has declined over the past four months, and despite warnings that the largely unregulated industry is vulnerable to fraudsters, hackers and money launderers.
+
+“We’re seeing a little mini-gold rush of blockchain companies right now,” said Wyoming state Rep. Tyler Lindholm, a Republican. “And I want them all.”
+
+Appearing ‘Crypto-Woke’
+
+Blockchain technology enables people to make agreements and transfer value without a centralized system. Each transaction is secured and recorded through cryptographic functions, or high-tech math, and verified through a network of users. By design, it is meant to regulate itself. Examples include bitcoin, but also applications that allow people to come to contractual agreements without involving banks, courts or lawyers.
+
+Despite the system’s built-in protections, agreements and transactions made with blockchain technology are still susceptible to fraud, hacking and theft. That’s why some states have enacted regulations. New York, for example, in 2015 created a regulatory system, BitLicense, in which anyone doing “virtual currency business activity” must first get a license from the state.
+
+Justin Wales, chairman of the blockchain technology and digital currency practice at Carlton Fields, a law firm, said New York’s law is flawed because it forces nearly everyone in the “tokenized economy” to follow the same financial rules as banks, even though there are many different types of tokens and transactions.
+
+On the other hand, Wales and Van Valkenburgh say, the cryptocurrency-friendly laws that some states are rushing to enact don’t always make sense, either.
+
+Regulators “want to do something just to be seen as doing something,” Wales said. This is a risky approach, he said, because poorly written laws could restrict the technology and stifle innovation.
+
+Wales cites laws enacted by Arizona, Nevada, Tennessee and Vermont in the past two years as examples. The laws clarify that contracts secured on the blockchain are legally binding. The problem, Wales said, is that most states already have laws that verify that digital signatures are legally binding. Enacting new laws that make this technology-specific could have unintended consequences, he said.
+
+“That’s an example of states wanting to appear ‘crypto-woke,’” Wales said.
+
+Defining Cryptocurrency
+
+Van Valkenburgh and Wales say states need to clarify when a license is needed to exchange tokens for dollars or tokens for other tokens.
+
+“It could be good to get rid of the ambiguities,” Van Valkenburgh said, “a positive signal to the industry.”
+
+Wyoming is trying to lead the way in defining the new market as it tries to diversify its economy with new technology innovation, said Lindholm. Wyoming lawmakers last month approved five cryptocurrency-friendly bills cosponsored by Lindholm, including one that makes it clear that the state distinguishes digital tokens from typical currencies and securities. Another exempts cryptocurrencies from state securities regulations.
+
+“I don’t think hard regulations ever produced something that changed the world,” Lindholm said. “That’s what we are looking for and what everyone is looking for across the world.”
+
+But it may be too late for U.S. states to compete with other countries that have far fewer regulations, said New Hampshire state Rep. Keith Ammon, a Republican who cosponsored a money transmitter bill last year.
+
+Ammon thinks blockchain technology will transform human interactions.
+
+“It’s akin to Christopher Columbus discovering a new continent,” he said.
+
+Mining Moratoriums
+
+In Massena, there’s an advocacy group working to attract blockchain technology entrepreneurs, said Nancy Smith-Weller, a member of this group and a cryptocurrency enthusiast. But not everything is in the hands of local advocates.
+
+The Massena Electric Department recently put a hold on new mining projects until it can figure out how to meet the demand for power. The town has a limited capacity of cheap electricity, and according to one estimate, each bitcoin transaction consumes as much electricity as a U.S. homeowner uses in a month, about 900 kilowatt-hours.
+
+Also, in March, the New York Power Authority, which provides some of the town’s electricity, adopted a moratorium on approving cheap power rates for cryptocurrency businesses. After the announcement, Blockchain Industries, a large company that was considering locating in Massena, scrapped its plan, according to Smith-Weller. She says the company hired her to act as a liaison with the town.
+
+Not everyone in Massena is so sure that the benefits of having the cryptocurrency industry in town will outweigh the costs.
+
+Timmy Currier, the mayor of the village of Massena, which is located within the town, said he is worried that the increased demand for power will raise electric rates and make the power less reliable.
+
+Bitcoin companies promise jobs, he said, but there is no guarantee.
+
+“They just expect us to believe them,” he said.
+
+Despite the moratoriums, O’Shaughnessy wants the companies to come. He said there is plenty of power available from other sources, and the town has no qualms about attracting an industry that may not pan out.
+
+Smith-Weller said the businesses will help the town reinvent itself.

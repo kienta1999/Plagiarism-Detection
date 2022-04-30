@@ -1,0 +1,25 @@
+A NBC News report this week raised considerable concern when it said that intelligence officials had gathered “substantial evidence” that Russian operatives “compromised” systems in seven states leading up to the 2016 election.
+
+Equally alarming was a subsequent dispute over whether that was true.
+
+Six of the seven states in the report denied that their election systems had been compromised. The U.S. Department of Homeland Security released a caustic statement denying that it had evidence seven states were compromised and accusing NBC of inaccurate reporting. Current and former government officials told Reuters they were perplexed by the network’s report.
+
+This dispute underscores a broader confusion about how the Russians targeted different states’ electoral systems ahead of the 2016 vote and what exactly they did to try to access those systems. This is deeply alarming, cybersecurity experts say, because without the facts, states can’t adequately secure their systems and block hackers from entering again.
+
+Since early 2017, federal and state officials have been unanimous in insisting that Russian hackers did not succeed in changing any voter information or votes.
+
+But Candice Hoke, a co-founder of the Center for Cybersecurity and Privacy Protection at Cleveland-Marshall College of Law, said those assurances aren’t very comforting given that state officials, the Homeland Security Department and election system vendors all have an incentive to say the systems are secure. Instead of undertaking their own deep audits, she said state officials often turn to the vendors responsible for running the election machines, who then produce an “exculpatory” report.
+
+“The proper response to those platitudes, which is what they are, is to ask ‘What steps were taken to assure that the data wasn’t changed?’” Hoke said. “It’s a very comforting statement to make and I think that public officials want to comfort the public, but we should be asking ‘Where’s the proof? What actually did you do and on whose recommendation?’”
+
+Cybersecurity experts note that the term “compromised” can cover a range of possibilities, but say that it generally means someone had access to a system. Many election officials believe their specific systems can’t be hacked because they aren’t connected to the internet, Hoke said. Experts warn, however, that hackers could have exploited vulnerabilities in other government systems that are connected to the internet to gain access to election systems or election information.
+
+The level of computer security is such that it would be “kind of shocking” if at least some government data weren’t accessible to hackers, said Brian Nussbaum, a former intelligence analyst and a professor at SUNY Albany.
+
+President Donald Trump’s intelligence chiefs are warning that Russia will likely attempt to interfere in the midterm elections this year, while Democratic lawmakers say the Trump administration isn’t doing enough to prevent that. Legislation in Congress has gone nowhere so far. The Department of Homeland Security has taken small steps to improve communication and coordination with states and is offering assistance in evaluating the security of state systems.
+
+But since 2016, communication between Homeland Security and state officials has not been good. It wasn’t until September 2017 that the department notified 21 states they had been targeted by Russian hackers. And it wasn’t until this February that Homeland Security held its first classified briefing for state officials on election threats in 2018. The department has blamed the delay on the need to get security clearances for election officials, but California Secretary of State Alex Padilla told NBC that’s not an acceptable excuse.
+
+Hoke and Nussbaum both said that state election officials need to more fully understand the severity of their vulnerabilities so they can better allocate resources toward improving their systems.
+
+James Norton, a former Homeland Security deputy assistant secretary for legislative affairs in the George W. Bush administration, said the focus should be broadened to securing all state government systems, not just election ones.
