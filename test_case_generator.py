@@ -12,7 +12,7 @@ def get_random_database_file():
 # can mutate the sentence here
 def get_random_text(database_file, num_sentence):
     f = open(database_file, 'r')
-    content = f.read().split('.')
+    content = f.read().decode('utf-8').split('.')
     index = random.randint(0, max(len(content) - num_sentence, 0))
     f.close()
     return content[index:index+num_sentence]
@@ -22,7 +22,7 @@ def word_count(text_from_db):
 
 def mutate_origin_pattern(original_pattern_file):
     f = open(original_pattern_file, 'r')
-    original_pattern = f.read().split('.')
+    original_pattern = f.read().decode('utf-8').split('.')
     f.close()
     # insert from 5 different file in database
     chosen_files = []

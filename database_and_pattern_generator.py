@@ -6,7 +6,7 @@ def generate_file(word_count, origins, target_folder):
     content = ""
     for raw_news in origins:
         raw_news_path = os.path.join(PATH_SAMPLE["RAW"], raw_news)
-        curr_content = open(raw_news_path, 'r').read()
+        curr_content = open(raw_news_path, 'r').read().decode('utf-8')
         if len(content.split()) < word_count:
             content += curr_content
         else:
