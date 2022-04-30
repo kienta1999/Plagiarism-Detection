@@ -51,6 +51,7 @@ def main():
     output_file.write("],")
     duration = time.perf_counter() - start_time
     output_file.write(f'"time_in_second": {duration},')
+    output_file.write(f'"time_in_minute": {duration / 60},')
     output_file.write(f'"time_in_hour": {duration / 3600}')
     output_file.write("}")
     output_file.close()
