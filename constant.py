@@ -14,7 +14,7 @@ PATH_SAMPLE = {
     "MODIFIED_PATTERN": './data_sample/news_modified_pattern'
 }
 
-PATH = {
+PATH_MAIN = {
     "ROOT": "./data",
     "RAW": "./data/raw_news",
     "DATABASE": './data/news_database',
@@ -31,3 +31,5 @@ def create_path(paths):
     for path in paths.values():
         if not os.path.exists(path):
             os.makedirs(path)
+
+PATH = PATH_SAMPLE

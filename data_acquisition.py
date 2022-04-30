@@ -4,7 +4,7 @@ import os
 from constant import *
 
 # Create directory to store data file
-path = PATH["RAW"]
+path = PATH_MAIN["RAW"]
 
 isExist = os.path.exists(path)
 if not isExist:

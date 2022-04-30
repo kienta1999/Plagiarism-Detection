@@ -1,5 +1,5 @@
 from word_preprocessing import TextPresprocessing
-from constant import NUM_SHINGLES, PATH_SAMPLE, NUM_TOP_JACCARD_SIMILARITY, DATABASE_WORD_COUNT
+from constant import NUM_SHINGLES, PATH, NUM_TOP_JACCARD_SIMILARITY, DATABASE_WORD_COUNT
 import os
 import heapq
 
@@ -31,8 +31,8 @@ class TopSimilarityCalculator:
         processed_pattern = TextPresprocessing(open(self.pattern_path, 'rb').read().decode('utf-8')).preprocess()
         shingle_pattern = get_shingles(processed_pattern, k=NUM_SHINGLES)
         jaccard_similarity_scores = []
-        for database_file in os.listdir(PATH_SAMPLE["DATABASE"]):
-            database_file_path = os.path.join(PATH_SAMPLE["DATABASE"], database_file)
+        for database_file in os.listdir(PATH["DATABASE"]):
+            database_file_path = os.path.join(PATH["DATABASE"], database_file)
             processed_database = TextPresprocessing(open(database_file_path, 'rb').read().decode('utf-8')).preprocess()
             shingle_database = get_shingles(processed_database, k=NUM_SHINGLES, sketch_size=DATABASE_WORD_COUNT / 4)
             jaccard_similarity_score = {"file": database_file, "score": jaccard_similarity(shingle_pattern, shingle_database)}
