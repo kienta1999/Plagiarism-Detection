@@ -1,1 +1,2192 @@
-[{"name": "0.txt", "copy_from": [{"file": "123.txt", "num_sentence": 15, "word_count": 258}, {"file": "254.txt", "num_sentence": 8, "word_count": 132}, {"file": "80.txt", "num_sentence": 6, "word_count": 117}, {"file": "114.txt", "num_sentence": 3, "word_count": 49}, {"file": "194.txt", "num_sentence": 1, "word_count": 18}]},{"name": "1.txt", "copy_from": [{"file": "193.txt", "num_sentence": 14, "word_count": 115}, {"file": "292.txt", "num_sentence": 4, "word_count": 109}, {"file": "279.txt", "num_sentence": 5, "word_count": 97}, {"file": "242.txt", "num_sentence": 4, "word_count": 78}, {"file": "323.txt", "num_sentence": 2, "word_count": 31}]},{"name": "10.txt", "copy_from": [{"file": "178.txt", "num_sentence": 10, "word_count": 203}, {"file": "264.txt", "num_sentence": 8, "word_count": 197}, {"file": "305.txt", "num_sentence": 7, "word_count": 134}, {"file": "106.txt", "num_sentence": 4, "word_count": 113}, {"file": "342.txt", "num_sentence": 8, "word_count": 59}]},{"name": "100.txt", "copy_from": [{"file": "283.txt", "num_sentence": 15, "word_count": 302}, {"file": "180.txt", "num_sentence": 9, "word_count": 191}, {"file": "313.txt", "num_sentence": 12, "word_count": 185}, {"file": "151.txt", "num_sentence": 7, "word_count": 166}, {"file": "134.txt", "num_sentence": 4, "word_count": 53}]},{"name": "101.txt", "copy_from": [{"file": "277.txt", "num_sentence": 15, "word_count": 384}, {"file": "301.txt", "num_sentence": 13, "word_count": 233}, {"file": "174.txt", "num_sentence": 14, "word_count": 190}, {"file": "72.txt", "num_sentence": 8, "word_count": 172}, {"file": "223.txt", "num_sentence": 8, "word_count": 104}]},{"name": "102.txt", "copy_from": [{"file": "32.txt", "num_sentence": 14, "word_count": 337}, {"file": "305.txt", "num_sentence": 15, "word_count": 281}, {"file": "171.txt", "num_sentence": 14, "word_count": 281}, {"file": "104.txt", "num_sentence": 14, "word_count": 179}, {"file": "140.txt", "num_sentence": 5, "word_count": 102}]},{"name": "103.txt", "copy_from": [{"file": "6.txt", "num_sentence": 14, "word_count": 215}, {"file": "135.txt", "num_sentence": 10, "word_count": 212}, {"file": "371.txt", "num_sentence": 8, "word_count": 105}, {"file": "329.txt", "num_sentence": 1, "word_count": 48}, {"file": "41.txt", "num_sentence": 1, "word_count": 30}]},{"name": "104.txt", "copy_from": [{"file": "104.txt", "num_sentence": 15, "word_count": 286}, {"file": "277.txt", "num_sentence": 15, "word_count": 259}, {"file": "297.txt", "num_sentence": 15, "word_count": 245}, {"file": "303.txt", "num_sentence": 5, "word_count": 129}, {"file": "258.txt", "num_sentence": 1, "word_count": 5}]},{"name": "105.txt", "copy_from": [{"file": "125.txt", "num_sentence": 14, "word_count": 213}, {"file": "243.txt", "num_sentence": 8, "word_count": 177}, {"file": "39.txt", "num_sentence": 6, "word_count": 131}, {"file": "213.txt", "num_sentence": 4, "word_count": 88}, {"file": "250.txt", "num_sentence": 6, "word_count": 68}]},{"name": "106.txt", "copy_from": [{"file": "330.txt", "num_sentence": 12, "word_count": 269}, {"file": "28.txt", "num_sentence": 15, "word_count": 239}, {"file": "43.txt", "num_sentence": 9, "word_count": 228}, {"file": "143.txt", "num_sentence": 6, "word_count": 107}, {"file": "282.txt", "num_sentence": 6, "word_count": 89}]},{"name": "107.txt", "copy_from": [{"file": "45.txt", "num_sentence": 13, "word_count": 336}, {"file": "17.txt", "num_sentence": 12, "word_count": 197}, {"file": "151.txt", "num_sentence": 9, "word_count": 145}, {"file": "62.txt", "num_sentence": 4, "word_count": 69}, {"file": "285.txt", "num_sentence": 4, "word_count": 44}]},{"name": "108.txt", "copy_from": [{"file": "312.txt", "num_sentence": 15, "word_count": 1624}, {"file": "223.txt", "num_sentence": 6, "word_count": 215}, {"file": "87.txt", "num_sentence": 11, "word_count": 165}, {"file": "223.txt", "num_sentence": 6, "word_count": 162}, {"file": "39.txt", "num_sentence": 10, "word_count": 140}]},{"name": "109.txt", "copy_from": [{"file": "170.txt", "num_sentence": 10, "word_count": 170}, {"file": "345.txt", "num_sentence": 3, "word_count": 112}, {"file": "291.txt", "num_sentence": 4, "word_count": 71}, {"file": "72.txt", "num_sentence": 2, "word_count": 52}, {"file": "143.txt", "num_sentence": 2, "word_count": 18}]},{"name": "11.txt", "copy_from": [{"file": "211.txt", "num_sentence": 11, "word_count": 229}, {"file": "27.txt", "num_sentence": 13, "word_count": 185}, {"file": "13.txt", "num_sentence": 7, "word_count": 120}, {"file": "313.txt", "num_sentence": 8, "word_count": 94}, {"file": "329.txt", "num_sentence": 3, "word_count": 51}]},{"name": "110.txt", "copy_from": [{"file": "69.txt", "num_sentence": 10, "word_count": 138}, {"file": "72.txt", "num_sentence": 8, "word_count": 136}, {"file": "251.txt", "num_sentence": 7, "word_count": 113}, {"file": "219.txt", "num_sentence": 7, "word_count": 108}, {"file": "253.txt", "num_sentence": 8, "word_count": 99}]},{"name": "111.txt", "copy_from": [{"file": "285.txt", "num_sentence": 12, "word_count": 196}, {"file": "177.txt", "num_sentence": 13, "word_count": 120}, {"file": "319.txt", "num_sentence": 6, "word_count": 91}, {"file": "155.txt", "num_sentence": 3, "word_count": 62}, {"file": "338.txt", "num_sentence": 2, "word_count": 26}]},{"name": "112.txt", "copy_from": [{"file": "282.txt", "num_sentence": 11, "word_count": 194}, {"file": "305.txt", "num_sentence": 5, "word_count": 151}, {"file": "282.txt", "num_sentence": 11, "word_count": 149}, {"file": "78.txt", "num_sentence": 4, "word_count": 69}, {"file": "29.txt", "num_sentence": 2, "word_count": 17}]},{"name": "113.txt", "copy_from": [{"file": "304.txt", "num_sentence": 11, "word_count": 187}, {"file": "363.txt", "num_sentence": 5, "word_count": 115}, {"file": "167.txt", "num_sentence": 8, "word_count": 91}, {"file": "62.txt", "num_sentence": 4, "word_count": 74}, {"file": "296.txt", "num_sentence": 4, "word_count": 19}]},{"name": "114.txt", "copy_from": [{"file": "25.txt", "num_sentence": 11, "word_count": 245}, {"file": "314.txt", "num_sentence": 13, "word_count": 162}, {"file": "83.txt", "num_sentence": 11, "word_count": 137}, {"file": "159.txt", "num_sentence": 8, "word_count": 97}, {"file": "274.txt", "num_sentence": 6, "word_count": 72}]},{"name": "115.txt", "copy_from": [{"file": "325.txt", "num_sentence": 14, "word_count": 300}, {"file": "206.txt", "num_sentence": 14, "word_count": 281}, {"file": "8.txt", "num_sentence": 9, "word_count": 247}, {"file": "202.txt", "num_sentence": 10, "word_count": 131}, {"file": "198.txt", "num_sentence": 4, "word_count": 122}]},{"name": "116.txt", "copy_from": [{"file": "172.txt", "num_sentence": 15, "word_count": 294}, {"file": "52.txt", "num_sentence": 13, "word_count": 236}, {"file": "15.txt", "num_sentence": 13, "word_count": 219}, {"file": "64.txt", "num_sentence": 4, "word_count": 140}, {"file": "125.txt", "num_sentence": 4, "word_count": 86}]},{"name": "117.txt", "copy_from": [{"file": "28.txt", "num_sentence": 6, "word_count": 193}, {"file": "264.txt", "num_sentence": 7, "word_count": 174}, {"file": "370.txt", "num_sentence": 11, "word_count": 168}, {"file": "202.txt", "num_sentence": 7, "word_count": 99}, {"file": "317.txt", "num_sentence": 15, "word_count": 61}]},{"name": "118.txt", "copy_from": [{"file": "38.txt", "num_sentence": 9, "word_count": 125}, {"file": "169.txt", "num_sentence": 4, "word_count": 75}, {"file": "48.txt", "num_sentence": 2, "word_count": 42}, {"file": "3.txt", "num_sentence": 3, "word_count": 34}, {"file": "162.txt", "num_sentence": 1, "word_count": 1}]},{"name": "119.txt", "copy_from": [{"file": "218.txt", "num_sentence": 15, "word_count": 267}, {"file": "12.txt", "num_sentence": 8, "word_count": 191}, {"file": "176.txt", "num_sentence": 9, "word_count": 167}, {"file": "32.txt", "num_sentence": 4, "word_count": 33}, {"file": "165.txt", "num_sentence": 1, "word_count": 0}]},{"name": "12.txt", "copy_from": [{"file": "153.txt", "num_sentence": 13, "word_count": 275}, {"file": "250.txt", "num_sentence": 11, "word_count": 261}, {"file": "281.txt", "num_sentence": 15, "word_count": 185}, {"file": "92.txt", "num_sentence": 4, "word_count": 47}, {"file": "5.txt", "num_sentence": 2, "word_count": 20}]},{"name": "120.txt", "copy_from": [{"file": "20.txt", "num_sentence": 11, "word_count": 140}, {"file": "302.txt", "num_sentence": 3, "word_count": 52}, {"file": "51.txt", "num_sentence": 2, "word_count": 42}, {"file": "46.txt", "num_sentence": 6, "word_count": 27}, {"file": "336.txt", "num_sentence": 1, "word_count": 7}]},{"name": "121.txt", "copy_from": [{"file": "159.txt", "num_sentence": 15, "word_count": 318}, {"file": "212.txt", "num_sentence": 12, "word_count": 173}, {"file": "268.txt", "num_sentence": 11, "word_count": 164}, {"file": "189.txt", "num_sentence": 2, "word_count": 45}, {"file": "298.txt", "num_sentence": 3, "word_count": 45}]},{"name": "122.txt", "copy_from": [{"file": "336.txt", "num_sentence": 11, "word_count": 283}, {"file": "321.txt", "num_sentence": 11, "word_count": 206}, {"file": "251.txt", "num_sentence": 10, "word_count": 162}, {"file": "270.txt", "num_sentence": 7, "word_count": 105}, {"file": "357.txt", "num_sentence": 1, "word_count": 16}]},{"name": "123.txt", "copy_from": [{"file": "74.txt", "num_sentence": 15, "word_count": 291}, {"file": "365.txt", "num_sentence": 15, "word_count": 196}, {"file": "78.txt", "num_sentence": 6, "word_count": 75}, {"file": "39.txt", "num_sentence": 3, "word_count": 35}, {"file": "272.txt", "num_sentence": 2, "word_count": 34}]},{"name": "124.txt", "copy_from": [{"file": "350.txt", "num_sentence": 12, "word_count": 216}, {"file": "97.txt", "num_sentence": 7, "word_count": 163}, {"file": "298.txt", "num_sentence": 6, "word_count": 155}, {"file": "285.txt", "num_sentence": 4, "word_count": 90}, {"file": "154.txt", "num_sentence": 2, "word_count": 43}]},{"name": "125.txt", "copy_from": [{"file": "36.txt", "num_sentence": 13, "word_count": 385}, {"file": "288.txt", "num_sentence": 12, "word_count": 233}, {"file": "100.txt", "num_sentence": 3, "word_count": 66}, {"file": "319.txt", "num_sentence": 6, "word_count": 59}, {"file": "349.txt", "num_sentence": 1, "word_count": 5}]},{"name": "126.txt", "copy_from": [{"file": "41.txt", "num_sentence": 9, "word_count": 142}, {"file": "167.txt", "num_sentence": 5, "word_count": 132}, {"file": "325.txt", "num_sentence": 5, "word_count": 101}, {"file": "239.txt", "num_sentence": 6, "word_count": 72}, {"file": "277.txt", "num_sentence": 3, "word_count": 52}]},{"name": "127.txt", "copy_from": [{"file": "348.txt", "num_sentence": 14, "word_count": 236}, {"file": "270.txt", "num_sentence": 11, "word_count": 221}, {"file": "302.txt", "num_sentence": 5, "word_count": 150}, {"file": "223.txt", "num_sentence": 9, "word_count": 132}, {"file": "268.txt", "num_sentence": 7, "word_count": 84}]},{"name": "128.txt", "copy_from": [{"file": "126.txt", "num_sentence": 11, "word_count": 260}, {"file": "205.txt", "num_sentence": 15, "word_count": 197}, {"file": "112.txt", "num_sentence": 11, "word_count": 169}, {"file": "101.txt", "num_sentence": 3, "word_count": 36}, {"file": "102.txt", "num_sentence": 4, "word_count": 24}]},{"name": "129.txt", "copy_from": [{"file": "215.txt", "num_sentence": 15, "word_count": 214}, {"file": "202.txt", "num_sentence": 10, "word_count": 146}, {"file": "54.txt", "num_sentence": 3, "word_count": 38}, {"file": "244.txt", "num_sentence": 2, "word_count": 24}, {"file": "108.txt", "num_sentence": 3, "word_count": 0}]},{"name": "13.txt", "copy_from": [{"file": "100.txt", "num_sentence": 12, "word_count": 314}, {"file": "100.txt", "num_sentence": 9, "word_count": 257}, {"file": "330.txt", "num_sentence": 13, "word_count": 210}, {"file": "335.txt", "num_sentence": 4, "word_count": 120}, {"file": "187.txt", "num_sentence": 7, "word_count": 86}]},{"name": "130.txt", "copy_from": [{"file": "170.txt", "num_sentence": 15, "word_count": 295}, {"file": "340.txt", "num_sentence": 10, "word_count": 260}, {"file": "139.txt", "num_sentence": 9, "word_count": 246}, {"file": "27.txt", "num_sentence": 12, "word_count": 156}, {"file": "369.txt", "num_sentence": 3, "word_count": 26}]},{"name": "131.txt", "copy_from": [{"file": "149.txt", "num_sentence": 13, "word_count": 351}, {"file": "122.txt", "num_sentence": 11, "word_count": 258}, {"file": "225.txt", "num_sentence": 13, "word_count": 242}, {"file": "178.txt", "num_sentence": 10, "word_count": 127}, {"file": "177.txt", "num_sentence": 9, "word_count": 77}]},{"name": "132.txt", "copy_from": [{"file": "88.txt", "num_sentence": 8, "word_count": 215}, {"file": "131.txt", "num_sentence": 12, "word_count": 212}, {"file": "215.txt", "num_sentence": 10, "word_count": 149}, {"file": "351.txt", "num_sentence": 10, "word_count": 133}, {"file": "203.txt", "num_sentence": 7, "word_count": 70}]},{"name": "133.txt", "copy_from": [{"file": "295.txt", "num_sentence": 14, "word_count": 230}, {"file": "374.txt", "num_sentence": 8, "word_count": 175}, {"file": "324.txt", "num_sentence": 6, "word_count": 168}, {"file": "227.txt", "num_sentence": 10, "word_count": 155}, {"file": "304.txt", "num_sentence": 4, "word_count": 56}]},{"name": "134.txt", "copy_from": [{"file": "252.txt", "num_sentence": 10, "word_count": 287}, {"file": "62.txt", "num_sentence": 10, "word_count": 227}, {"file": "218.txt", "num_sentence": 10, "word_count": 202}, {"file": "27.txt", "num_sentence": 7, "word_count": 118}, {"file": "214.txt", "num_sentence": 5, "word_count": 84}]},{"name": "135.txt", "copy_from": [{"file": "270.txt", "num_sentence": 13, "word_count": 279}, {"file": "31.txt", "num_sentence": 6, "word_count": 134}, {"file": "53.txt", "num_sentence": 8, "word_count": 116}, {"file": "30.txt", "num_sentence": 4, "word_count": 109}, {"file": "133.txt", "num_sentence": 3, "word_count": 61}]},{"name": "136.txt", "copy_from": [{"file": "135.txt", "num_sentence": 13, "word_count": 250}, {"file": "6.txt", "num_sentence": 12, "word_count": 163}, {"file": "46.txt", "num_sentence": 6, "word_count": 99}, {"file": "117.txt", "num_sentence": 3, "word_count": 70}, {"file": "147.txt", "num_sentence": 8, "word_count": 53}]},{"name": "137.txt", "copy_from": [{"file": "109.txt", "num_sentence": 11, "word_count": 220}, {"file": "157.txt", "num_sentence": 5, "word_count": 116}, {"file": "130.txt", "num_sentence": 3, "word_count": 64}, {"file": "164.txt", "num_sentence": 2, "word_count": 40}, {"file": "373.txt", "num_sentence": 3, "word_count": 30}]},{"name": "138.txt", "copy_from": [{"file": "260.txt", "num_sentence": 11, "word_count": 176}, {"file": "244.txt", "num_sentence": 10, "word_count": 173}, {"file": "103.txt", "num_sentence": 8, "word_count": 169}, {"file": "331.txt", "num_sentence": 8, "word_count": 159}, {"file": "122.txt", "num_sentence": 15, "word_count": 144}]},{"name": "139.txt", "copy_from": [{"file": "350.txt", "num_sentence": 15, "word_count": 375}, {"file": "128.txt", "num_sentence": 12, "word_count": 222}, {"file": "134.txt", "num_sentence": 12, "word_count": 219}, {"file": "235.txt", "num_sentence": 9, "word_count": 133}, {"file": "132.txt", "num_sentence": 1, "word_count": 13}]},{"name": "14.txt", "copy_from": [{"file": "301.txt", "num_sentence": 13, "word_count": 315}, {"file": "318.txt", "num_sentence": 11, "word_count": 293}, {"file": "260.txt", "num_sentence": 10, "word_count": 186}, {"file": "330.txt", "num_sentence": 3, "word_count": 32}, {"file": "55.txt", "num_sentence": 3, "word_count": 24}]},{"name": "140.txt", "copy_from": [{"file": "282.txt", "num_sentence": 8, "word_count": 162}, {"file": "282.txt", "num_sentence": 5, "word_count": 139}, {"file": "240.txt", "num_sentence": 5, "word_count": 112}, {"file": "51.txt", "num_sentence": 7, "word_count": 94}, {"file": "218.txt", "num_sentence": 2, "word_count": 30}]},{"name": "141.txt", "copy_from": [{"file": "294.txt", "num_sentence": 15, "word_count": 208}, {"file": "107.txt", "num_sentence": 13, "word_count": 166}, {"file": "283.txt", "num_sentence": 10, "word_count": 164}, {"file": "159.txt", "num_sentence": 11, "word_count": 145}, {"file": "202.txt", "num_sentence": 5, "word_count": 117}]},{"name": "142.txt", "copy_from": [{"file": "212.txt", "num_sentence": 13, "word_count": 318}, {"file": "76.txt", "num_sentence": 7, "word_count": 187}, {"file": "332.txt", "num_sentence": 10, "word_count": 168}, {"file": "124.txt", "num_sentence": 3, "word_count": 53}, {"file": "39.txt", "num_sentence": 1, "word_count": 18}]},{"name": "143.txt", "copy_from": [{"file": "193.txt", "num_sentence": 14, "word_count": 180}, {"file": "319.txt", "num_sentence": 4, "word_count": 81}, {"file": "40.txt", "num_sentence": 11, "word_count": 76}, {"file": "294.txt", "num_sentence": 4, "word_count": 67}, {"file": "199.txt", "num_sentence": 1, "word_count": 10}]},{"name": "144.txt", "copy_from": [{"file": "43.txt", "num_sentence": 8, "word_count": 186}, {"file": "198.txt", "num_sentence": 15, "word_count": 170}, {"file": "189.txt", "num_sentence": 9, "word_count": 168}, {"file": "20.txt", "num_sentence": 7, "word_count": 133}, {"file": "135.txt", "num_sentence": 1, "word_count": 20}]},{"name": "145.txt", "copy_from": [{"file": "185.txt", "num_sentence": 9, "word_count": 156}, {"file": "351.txt", "num_sentence": 9, "word_count": 122}, {"file": "325.txt", "num_sentence": 6, "word_count": 96}, {"file": "115.txt", "num_sentence": 5, "word_count": 76}, {"file": "336.txt", "num_sentence": 1, "word_count": 23}]},{"name": "146.txt", "copy_from": [{"file": "191.txt", "num_sentence": 14, "word_count": 331}, {"file": "321.txt", "num_sentence": 8, "word_count": 152}, {"file": "328.txt", "num_sentence": 8, "word_count": 136}, {"file": "84.txt", "num_sentence": 7, "word_count": 71}, {"file": "325.txt", "num_sentence": 2, "word_count": 0}]},{"name": "147.txt", "copy_from": [{"file": "338.txt", "num_sentence": 13, "word_count": 188}, {"file": "322.txt", "num_sentence": 8, "word_count": 162}, {"file": "339.txt", "num_sentence": 7, "word_count": 108}, {"file": "355.txt", "num_sentence": 4, "word_count": 76}, {"file": "337.txt", "num_sentence": 3, "word_count": 56}]},{"name": "148.txt", "copy_from": [{"file": "119.txt", "num_sentence": 14, "word_count": 346}, {"file": "279.txt", "num_sentence": 7, "word_count": 206}, {"file": "328.txt", "num_sentence": 5, "word_count": 123}, {"file": "235.txt", "num_sentence": 5, "word_count": 102}, {"file": "273.txt", "num_sentence": 2, "word_count": 44}]},{"name": "149.txt", "copy_from": [{"file": "43.txt", "num_sentence": 13, "word_count": 173}, {"file": "304.txt", "num_sentence": 5, "word_count": 100}, {"file": "117.txt", "num_sentence": 4, "word_count": 87}, {"file": "340.txt", "num_sentence": 3, "word_count": 67}, {"file": "84.txt", "num_sentence": 11, "word_count": 61}]},{"name": "15.txt", "copy_from": [{"file": "171.txt", "num_sentence": 8, "word_count": 170}, {"file": "53.txt", "num_sentence": 5, "word_count": 117}, {"file": "157.txt", "num_sentence": 6, "word_count": 100}, {"file": "24.txt", "num_sentence": 4, "word_count": 93}, {"file": "356.txt", "num_sentence": 1, "word_count": 4}]},{"name": "150.txt", "copy_from": [{"file": "144.txt", "num_sentence": 15, "word_count": 324}, {"file": "6.txt", "num_sentence": 9, "word_count": 180}, {"file": "347.txt", "num_sentence": 11, "word_count": 148}, {"file": "180.txt", "num_sentence": 5, "word_count": 87}, {"file": "94.txt", "num_sentence": 6, "word_count": 83}]},{"name": "151.txt", "copy_from": [{"file": "375.txt", "num_sentence": 7, "word_count": 221}, {"file": "114.txt", "num_sentence": 6, "word_count": 112}, {"file": "216.txt", "num_sentence": 11, "word_count": 110}, {"file": "132.txt", "num_sentence": 5, "word_count": 88}, {"file": "55.txt", "num_sentence": 1, "word_count": 17}]},{"name": "152.txt", "copy_from": [{"file": "156.txt", "num_sentence": 12, "word_count": 324}, {"file": "299.txt", "num_sentence": 10, "word_count": 186}, {"file": "150.txt", "num_sentence": 6, "word_count": 158}, {"file": "74.txt", "num_sentence": 11, "word_count": 145}, {"file": "161.txt", "num_sentence": 3, "word_count": 59}]},{"name": "153.txt", "copy_from": [{"file": "180.txt", "num_sentence": 10, "word_count": 213}, {"file": "175.txt", "num_sentence": 9, "word_count": 199}, {"file": "321.txt", "num_sentence": 9, "word_count": 150}, {"file": "349.txt", "num_sentence": 9, "word_count": 123}, {"file": "157.txt", "num_sentence": 5, "word_count": 97}]},{"name": "154.txt", "copy_from": [{"file": "164.txt", "num_sentence": 13, "word_count": 367}, {"file": "152.txt", "num_sentence": 15, "word_count": 313}, {"file": "328.txt", "num_sentence": 15, "word_count": 200}, {"file": "84.txt", "num_sentence": 12, "word_count": 149}, {"file": "258.txt", "num_sentence": 9, "word_count": 134}]},{"name": "155.txt", "copy_from": [{"file": "59.txt", "num_sentence": 14, "word_count": 255}, {"file": "168.txt", "num_sentence": 15, "word_count": 234}, {"file": "25.txt", "num_sentence": 10, "word_count": 231}, {"file": "229.txt", "num_sentence": 13, "word_count": 226}, {"file": "158.txt", "num_sentence": 4, "word_count": 54}]},{"name": "156.txt", "copy_from": [{"file": "315.txt", "num_sentence": 13, "word_count": 353}, {"file": "200.txt", "num_sentence": 9, "word_count": 228}, {"file": "185.txt", "num_sentence": 11, "word_count": 139}, {"file": "108.txt", "num_sentence": 11, "word_count": 137}, {"file": "77.txt", "num_sentence": 1, "word_count": 1}]},{"name": "157.txt", "copy_from": [{"file": "1.txt", "num_sentence": 14, "word_count": 271}, {"file": "368.txt", "num_sentence": 15, "word_count": 263}, {"file": "172.txt", "num_sentence": 10, "word_count": 165}, {"file": "309.txt", "num_sentence": 3, "word_count": 75}, {"file": "108.txt", "num_sentence": 6, "word_count": 70}]},{"name": "158.txt", "copy_from": [{"file": "140.txt", "num_sentence": 13, "word_count": 275}, {"file": "215.txt", "num_sentence": 5, "word_count": 153}, {"file": "69.txt", "num_sentence": 9, "word_count": 130}, {"file": "131.txt", "num_sentence": 2, "word_count": 55}, {"file": "210.txt", "num_sentence": 2, "word_count": 50}]},{"name": "159.txt", "copy_from": [{"file": "223.txt", "num_sentence": 15, "word_count": 301}, {"file": "99.txt", "num_sentence": 7, "word_count": 74}, {"file": "66.txt", "num_sentence": 6, "word_count": 49}, {"file": "8.txt", "num_sentence": 1, "word_count": 12}, {"file": "22.txt", "num_sentence": 1, "word_count": 0}]},{"name": "16.txt", "copy_from": [{"file": "75.txt", "num_sentence": 15, "word_count": 267}, {"file": "95.txt", "num_sentence": 12, "word_count": 243}, {"file": "317.txt", "num_sentence": 10, "word_count": 169}, {"file": "330.txt", "num_sentence": 4, "word_count": 80}, {"file": "103.txt", "num_sentence": 3, "word_count": 36}]},{"name": "160.txt", "copy_from": [{"file": "123.txt", "num_sentence": 11, "word_count": 119}, {"file": "196.txt", "num_sentence": 10, "word_count": 114}, {"file": "44.txt", "num_sentence": 4, "word_count": 103}, {"file": "32.txt", "num_sentence": 4, "word_count": 83}, {"file": "354.txt", "num_sentence": 4, "word_count": 68}]},{"name": "161.txt", "copy_from": [{"file": "137.txt", "num_sentence": 10, "word_count": 166}, {"file": "72.txt", "num_sentence": 5, "word_count": 123}, {"file": "264.txt", "num_sentence": 11, "word_count": 97}, {"file": "339.txt", "num_sentence": 4, "word_count": 84}, {"file": "143.txt", "num_sentence": 7, "word_count": 50}]},{"name": "162.txt", "copy_from": [{"file": "149.txt", "num_sentence": 9, "word_count": 157}, {"file": "308.txt", "num_sentence": 10, "word_count": 133}, {"file": "91.txt", "num_sentence": 4, "word_count": 130}, {"file": "203.txt", "num_sentence": 7, "word_count": 113}, {"file": "365.txt", "num_sentence": 3, "word_count": 35}]},{"name": "163.txt", "copy_from": [{"file": "220.txt", "num_sentence": 15, "word_count": 337}, {"file": "77.txt", "num_sentence": 10, "word_count": 197}, {"file": "269.txt", "num_sentence": 4, "word_count": 122}, {"file": "300.txt", "num_sentence": 4, "word_count": 96}, {"file": "70.txt", "num_sentence": 2, "word_count": 27}]},{"name": "164.txt", "copy_from": [{"file": "155.txt", "num_sentence": 8, "word_count": 251}, {"file": "198.txt", "num_sentence": 12, "word_count": 210}, {"file": "242.txt", "num_sentence": 11, "word_count": 108}, {"file": "144.txt", "num_sentence": 8, "word_count": 101}, {"file": "95.txt", "num_sentence": 3, "word_count": 24}]},{"name": "165.txt", "copy_from": [{"file": "192.txt", "num_sentence": 14, "word_count": 275}, {"file": "303.txt", "num_sentence": 14, "word_count": 249}, {"file": "120.txt", "num_sentence": 10, "word_count": 223}, {"file": "125.txt", "num_sentence": 3, "word_count": 67}, {"file": "108.txt", "num_sentence": 1, "word_count": 21}]},{"name": "166.txt", "copy_from": [{"file": "315.txt", "num_sentence": 5, "word_count": 110}, {"file": "170.txt", "num_sentence": 5, "word_count": 98}, {"file": "257.txt", "num_sentence": 4, "word_count": 91}, {"file": "247.txt", "num_sentence": 2, "word_count": 49}, {"file": "314.txt", "num_sentence": 1, "word_count": 19}]},{"name": "167.txt", "copy_from": [{"file": "290.txt", "num_sentence": 15, "word_count": 254}, {"file": "68.txt", "num_sentence": 11, "word_count": 215}, {"file": "188.txt", "num_sentence": 5, "word_count": 176}, {"file": "260.txt", "num_sentence": 5, "word_count": 63}, {"file": "216.txt", "num_sentence": 4, "word_count": 56}]},{"name": "168.txt", "copy_from": [{"file": "88.txt", "num_sentence": 12, "word_count": 356}, {"file": "307.txt", "num_sentence": 13, "word_count": 261}, {"file": "117.txt", "num_sentence": 7, "word_count": 164}, {"file": "259.txt", "num_sentence": 5, "word_count": 83}, {"file": "118.txt", "num_sentence": 5, "word_count": 69}]},{"name": "169.txt", "copy_from": [{"file": "297.txt", "num_sentence": 15, "word_count": 313}, {"file": "220.txt", "num_sentence": 15, "word_count": 292}, {"file": "247.txt", "num_sentence": 10, "word_count": 224}, {"file": "103.txt", "num_sentence": 8, "word_count": 151}, {"file": "83.txt", "num_sentence": 6, "word_count": 94}]},{"name": "17.txt", "copy_from": [{"file": "279.txt", "num_sentence": 8, "word_count": 275}, {"file": "100.txt", "num_sentence": 14, "word_count": 263}, {"file": "310.txt", "num_sentence": 9, "word_count": 200}, {"file": "220.txt", "num_sentence": 11, "word_count": 149}, {"file": "253.txt", "num_sentence": 6, "word_count": 125}]},{"name": "170.txt", "copy_from": [{"file": "347.txt", "num_sentence": 10, "word_count": 196}, {"file": "100.txt", "num_sentence": 8, "word_count": 132}, {"file": "372.txt", "num_sentence": 8, "word_count": 113}, {"file": "299.txt", "num_sentence": 4, "word_count": 47}, {"file": "241.txt", "num_sentence": 1, "word_count": 28}]},{"name": "171.txt", "copy_from": [{"file": "17.txt", "num_sentence": 10, "word_count": 228}, {"file": "257.txt", "num_sentence": 2, "word_count": 70}, {"file": "101.txt", "num_sentence": 5, "word_count": 36}, {"file": "154.txt", "num_sentence": 2, "word_count": 33}, {"file": "5.txt", "num_sentence": 1, "word_count": 20}]},{"name": "172.txt", "copy_from": [{"file": "291.txt", "num_sentence": 14, "word_count": 317}, {"file": "178.txt", "num_sentence": 13, "word_count": 222}, {"file": "69.txt", "num_sentence": 6, "word_count": 147}, {"file": "22.txt", "num_sentence": 4, "word_count": 95}, {"file": "177.txt", "num_sentence": 2, "word_count": 9}]},{"name": "173.txt", "copy_from": [{"file": "82.txt", "num_sentence": 12, "word_count": 307}, {"file": "26.txt", "num_sentence": 8, "word_count": 171}, {"file": "191.txt", "num_sentence": 5, "word_count": 130}, {"file": "329.txt", "num_sentence": 5, "word_count": 97}, {"file": "1.txt", "num_sentence": 2, "word_count": 42}]},{"name": "174.txt", "copy_from": [{"file": "145.txt", "num_sentence": 13, "word_count": 286}, {"file": "161.txt", "num_sentence": 8, "word_count": 282}, {"file": "223.txt", "num_sentence": 14, "word_count": 231}, {"file": "28.txt", "num_sentence": 11, "word_count": 102}, {"file": "253.txt", "num_sentence": 1, "word_count": 22}]},{"name": "175.txt", "copy_from": [{"file": "149.txt", "num_sentence": 15, "word_count": 320}, {"file": "167.txt", "num_sentence": 12, "word_count": 154}, {"file": "227.txt", "num_sentence": 6, "word_count": 115}, {"file": "132.txt", "num_sentence": 8, "word_count": 112}, {"file": "288.txt", "num_sentence": 11, "word_count": 95}]},{"name": "176.txt", "copy_from": [{"file": "2.txt", "num_sentence": 14, "word_count": 269}, {"file": "52.txt", "num_sentence": 7, "word_count": 226}, {"file": "204.txt", "num_sentence": 8, "word_count": 193}, {"file": "289.txt", "num_sentence": 12, "word_count": 184}, {"file": "207.txt", "num_sentence": 6, "word_count": 100}]},{"name": "177.txt", "copy_from": [{"file": "36.txt", "num_sentence": 15, "word_count": 309}, {"file": "135.txt", "num_sentence": 14, "word_count": 273}, {"file": "209.txt", "num_sentence": 15, "word_count": 241}, {"file": "180.txt", "num_sentence": 10, "word_count": 193}, {"file": "4.txt", "num_sentence": 9, "word_count": 100}]},{"name": "178.txt", "copy_from": [{"file": "288.txt", "num_sentence": 9, "word_count": 237}, {"file": "305.txt", "num_sentence": 9, "word_count": 208}, {"file": "166.txt", "num_sentence": 6, "word_count": 179}, {"file": "288.txt", "num_sentence": 7, "word_count": 140}, {"file": "33.txt", "num_sentence": 5, "word_count": 112}]},{"name": "179.txt", "copy_from": [{"file": "102.txt", "num_sentence": 12, "word_count": 305}, {"file": "322.txt", "num_sentence": 11, "word_count": 188}, {"file": "177.txt", "num_sentence": 14, "word_count": 143}, {"file": "202.txt", "num_sentence": 5, "word_count": 108}, {"file": "334.txt", "num_sentence": 4, "word_count": 68}]},{"name": "18.txt", "copy_from": [{"file": "16.txt", "num_sentence": 7, "word_count": 152}, {"file": "233.txt", "num_sentence": 4, "word_count": 79}, {"file": "167.txt", "num_sentence": 2, "word_count": 52}, {"file": "315.txt", "num_sentence": 2, "word_count": 49}, {"file": "179.txt", "num_sentence": 1, "word_count": 3}]},{"name": "180.txt", "copy_from": [{"file": "61.txt", "num_sentence": 9, "word_count": 221}, {"file": "322.txt", "num_sentence": 13, "word_count": 173}, {"file": "224.txt", "num_sentence": 7, "word_count": 135}, {"file": "276.txt", "num_sentence": 9, "word_count": 119}, {"file": "128.txt", "num_sentence": 5, "word_count": 107}]},{"name": "181.txt", "copy_from": [{"file": "56.txt", "num_sentence": 13, "word_count": 243}, {"file": "259.txt", "num_sentence": 9, "word_count": 180}, {"file": "139.txt", "num_sentence": 14, "word_count": 153}, {"file": "53.txt", "num_sentence": 7, "word_count": 36}, {"file": "83.txt", "num_sentence": 4, "word_count": 32}]},{"name": "182.txt", "copy_from": [{"file": "60.txt", "num_sentence": 14, "word_count": 300}, {"file": "287.txt", "num_sentence": 11, "word_count": 208}, {"file": "338.txt", "num_sentence": 8, "word_count": 172}, {"file": "59.txt", "num_sentence": 4, "word_count": 116}, {"file": "228.txt", "num_sentence": 4, "word_count": 61}]},{"name": "183.txt", "copy_from": [{"file": "97.txt", "num_sentence": 15, "word_count": 298}, {"file": "18.txt", "num_sentence": 12, "word_count": 271}, {"file": "295.txt", "num_sentence": 10, "word_count": 232}, {"file": "329.txt", "num_sentence": 5, "word_count": 108}, {"file": "296.txt", "num_sentence": 8, "word_count": 89}]},{"name": "184.txt", "copy_from": [{"file": "65.txt", "num_sentence": 15, "word_count": 223}, {"file": "103.txt", "num_sentence": 6, "word_count": 170}, {"file": "364.txt", "num_sentence": 6, "word_count": 134}, {"file": "56.txt", "num_sentence": 6, "word_count": 124}, {"file": "227.txt", "num_sentence": 8, "word_count": 98}]},{"name": "185.txt", "copy_from": [{"file": "161.txt", "num_sentence": 13, "word_count": 265}, {"file": "309.txt", "num_sentence": 14, "word_count": 232}, {"file": "269.txt", "num_sentence": 6, "word_count": 216}, {"file": "56.txt", "num_sentence": 7, "word_count": 180}, {"file": "54.txt", "num_sentence": 1, "word_count": 34}]},{"name": "186.txt", "copy_from": [{"file": "222.txt", "num_sentence": 13, "word_count": 283}, {"file": "7.txt", "num_sentence": 14, "word_count": 235}, {"file": "130.txt", "num_sentence": 9, "word_count": 157}, {"file": "251.txt", "num_sentence": 4, "word_count": 46}, {"file": "270.txt", "num_sentence": 3, "word_count": 3}]},{"name": "187.txt", "copy_from": [{"file": "10.txt", "num_sentence": 15, "word_count": 294}, {"file": "256.txt", "num_sentence": 9, "word_count": 174}, {"file": "62.txt", "num_sentence": 8, "word_count": 134}, {"file": "356.txt", "num_sentence": 8, "word_count": 97}, {"file": "200.txt", "num_sentence": 3, "word_count": 20}]},{"name": "188.txt", "copy_from": [{"file": "155.txt", "num_sentence": 13, "word_count": 337}, {"file": "15.txt", "num_sentence": 8, "word_count": 156}, {"file": "56.txt", "num_sentence": 8, "word_count": 112}, {"file": "244.txt", "num_sentence": 4, "word_count": 67}, {"file": "199.txt", "num_sentence": 2, "word_count": 37}]},{"name": "189.txt", "copy_from": [{"file": "341.txt", "num_sentence": 14, "word_count": 280}, {"file": "295.txt", "num_sentence": 14, "word_count": 276}, {"file": "111.txt", "num_sentence": 7, "word_count": 211}, {"file": "326.txt", "num_sentence": 11, "word_count": 168}, {"file": "163.txt", "num_sentence": 3, "word_count": 5}]},{"name": "19.txt", "copy_from": [{"file": "349.txt", "num_sentence": 11, "word_count": 274}, {"file": "182.txt", "num_sentence": 8, "word_count": 182}, {"file": "371.txt", "num_sentence": 7, "word_count": 97}, {"file": "347.txt", "num_sentence": 2, "word_count": 49}, {"file": "325.txt", "num_sentence": 5, "word_count": 46}]},{"name": "190.txt", "copy_from": [{"file": "333.txt", "num_sentence": 12, "word_count": 416}, {"file": "346.txt", "num_sentence": 11, "word_count": 243}, {"file": "332.txt", "num_sentence": 12, "word_count": 211}, {"file": "179.txt", "num_sentence": 9, "word_count": 125}, {"file": "174.txt", "num_sentence": 4, "word_count": 51}]},{"name": "191.txt", "copy_from": [{"file": "77.txt", "num_sentence": 13, "word_count": 253}, {"file": "33.txt", "num_sentence": 9, "word_count": 206}, {"file": "245.txt", "num_sentence": 9, "word_count": 182}, {"file": "18.txt", "num_sentence": 15, "word_count": 132}, {"file": "75.txt", "num_sentence": 6, "word_count": 70}]},{"name": "192.txt", "copy_from": [{"file": "74.txt", "num_sentence": 12, "word_count": 318}, {"file": "150.txt", "num_sentence": 12, "word_count": 197}, {"file": "362.txt", "num_sentence": 3, "word_count": 95}, {"file": "249.txt", "num_sentence": 6, "word_count": 57}, {"file": "257.txt", "num_sentence": 1, "word_count": 32}]},{"name": "193.txt", "copy_from": [{"file": "224.txt", "num_sentence": 15, "word_count": 222}, {"file": "226.txt", "num_sentence": 7, "word_count": 176}, {"file": "158.txt", "num_sentence": 7, "word_count": 136}, {"file": "80.txt", "num_sentence": 7, "word_count": 106}, {"file": "69.txt", "num_sentence": 4, "word_count": 52}]},{"name": "194.txt", "copy_from": [{"file": "170.txt", "num_sentence": 12, "word_count": 153}, {"file": "185.txt", "num_sentence": 14, "word_count": 102}, {"file": "210.txt", "num_sentence": 1, "word_count": 37}, {"file": "189.txt", "num_sentence": 1, "word_count": 17}, {"file": "173.txt", "num_sentence": 1, "word_count": 15}]},{"name": "195.txt", "copy_from": [{"file": "230.txt", "num_sentence": 14, "word_count": 306}, {"file": "60.txt", "num_sentence": 15, "word_count": 304}, {"file": "162.txt", "num_sentence": 15, "word_count": 278}, {"file": "364.txt", "num_sentence": 9, "word_count": 164}, {"file": "124.txt", "num_sentence": 5, "word_count": 150}]},{"name": "196.txt", "copy_from": [{"file": "264.txt", "num_sentence": 8, "word_count": 214}, {"file": "188.txt", "num_sentence": 4, "word_count": 97}, {"file": "31.txt", "num_sentence": 7, "word_count": 80}, {"file": "33.txt", "num_sentence": 1, "word_count": 15}, {"file": "268.txt", "num_sentence": 4, "word_count": 3}]},{"name": "197.txt", "copy_from": [{"file": "215.txt", "num_sentence": 15, "word_count": 308}, {"file": "116.txt", "num_sentence": 14, "word_count": 157}, {"file": "288.txt", "num_sentence": 5, "word_count": 111}, {"file": "325.txt", "num_sentence": 5, "word_count": 83}, {"file": "170.txt", "num_sentence": 1, "word_count": 23}]},{"name": "198.txt", "copy_from": [{"file": "159.txt", "num_sentence": 15, "word_count": 346}, {"file": "360.txt", "num_sentence": 13, "word_count": 306}, {"file": "201.txt", "num_sentence": 15, "word_count": 255}, {"file": "165.txt", "num_sentence": 8, "word_count": 182}, {"file": "304.txt", "num_sentence": 9, "word_count": 136}]},{"name": "199.txt", "copy_from": [{"file": "183.txt", "num_sentence": 11, "word_count": 196}, {"file": "80.txt", "num_sentence": 8, "word_count": 164}, {"file": "47.txt", "num_sentence": 11, "word_count": 102}, {"file": "195.txt", "num_sentence": 2, "word_count": 35}, {"file": "242.txt", "num_sentence": 2, "word_count": 26}]},{"name": "2.txt", "copy_from": [{"file": "232.txt", "num_sentence": 10, "word_count": 298}, {"file": "318.txt", "num_sentence": 15, "word_count": 126}, {"file": "322.txt", "num_sentence": 7, "word_count": 116}, {"file": "365.txt", "num_sentence": 6, "word_count": 58}, {"file": "76.txt", "num_sentence": 3, "word_count": 54}]},{"name": "20.txt", "copy_from": [{"file": "23.txt", "num_sentence": 12, "word_count": 180}, {"file": "177.txt", "num_sentence": 12, "word_count": 152}, {"file": "30.txt", "num_sentence": 8, "word_count": 144}, {"file": "84.txt", "num_sentence": 5, "word_count": 77}, {"file": "368.txt", "num_sentence": 6, "word_count": 40}]},{"name": "200.txt", "copy_from": [{"file": "357.txt", "num_sentence": 12, "word_count": 337}, {"file": "80.txt", "num_sentence": 13, "word_count": 180}, {"file": "305.txt", "num_sentence": 9, "word_count": 163}, {"file": "185.txt", "num_sentence": 10, "word_count": 143}, {"file": "124.txt", "num_sentence": 8, "word_count": 110}]},{"name": "201.txt", "copy_from": [{"file": "334.txt", "num_sentence": 5, "word_count": 132}, {"file": "123.txt", "num_sentence": 8, "word_count": 106}, {"file": "152.txt", "num_sentence": 7, "word_count": 98}, {"file": "86.txt", "num_sentence": 4, "word_count": 37}, {"file": "286.txt", "num_sentence": 2, "word_count": 11}]},{"name": "202.txt", "copy_from": [{"file": "340.txt", "num_sentence": 13, "word_count": 289}, {"file": "341.txt", "num_sentence": 11, "word_count": 208}, {"file": "286.txt", "num_sentence": 6, "word_count": 107}, {"file": "337.txt", "num_sentence": 5, "word_count": 50}, {"file": "204.txt", "num_sentence": 2, "word_count": 39}]},{"name": "203.txt", "copy_from": [{"file": "173.txt", "num_sentence": 7, "word_count": 149}, {"file": "208.txt", "num_sentence": 6, "word_count": 133}, {"file": "374.txt", "num_sentence": 13, "word_count": 104}, {"file": "113.txt", "num_sentence": 6, "word_count": 87}, {"file": "47.txt", "num_sentence": 1, "word_count": 25}]},{"name": "204.txt", "copy_from": [{"file": "48.txt", "num_sentence": 15, "word_count": 319}, {"file": "3.txt", "num_sentence": 14, "word_count": 299}, {"file": "22.txt", "num_sentence": 3, "word_count": 31}, {"file": "332.txt", "num_sentence": 1, "word_count": 31}, {"file": "114.txt", "num_sentence": 1, "word_count": 14}]},{"name": "205.txt", "copy_from": [{"file": "23.txt", "num_sentence": 14, "word_count": 279}, {"file": "105.txt", "num_sentence": 5, "word_count": 146}, {"file": "79.txt", "num_sentence": 3, "word_count": 67}, {"file": "112.txt", "num_sentence": 3, "word_count": 44}, {"file": "242.txt", "num_sentence": 5, "word_count": 33}]},{"name": "206.txt", "copy_from": [{"file": "235.txt", "num_sentence": 11, "word_count": 267}, {"file": "316.txt", "num_sentence": 6, "word_count": 105}, {"file": "288.txt", "num_sentence": 4, "word_count": 40}, {"file": "266.txt", "num_sentence": 3, "word_count": 29}, {"file": "226.txt", "num_sentence": 1, "word_count": 23}]},{"name": "207.txt", "copy_from": [{"file": "97.txt", "num_sentence": 14, "word_count": 263}, {"file": "126.txt", "num_sentence": 11, "word_count": 242}, {"file": "85.txt", "num_sentence": 13, "word_count": 210}, {"file": "282.txt", "num_sentence": 10, "word_count": 193}, {"file": "201.txt", "num_sentence": 8, "word_count": 118}]},{"name": "208.txt", "copy_from": [{"file": "257.txt", "num_sentence": 12, "word_count": 243}, {"file": "92.txt", "num_sentence": 7, "word_count": 166}, {"file": "45.txt", "num_sentence": 7, "word_count": 137}, {"file": "176.txt", "num_sentence": 6, "word_count": 112}, {"file": "249.txt", "num_sentence": 3, "word_count": 41}]},{"name": "209.txt", "copy_from": [{"file": "336.txt", "num_sentence": 11, "word_count": 178}, {"file": "211.txt", "num_sentence": 15, "word_count": 173}, {"file": "194.txt", "num_sentence": 8, "word_count": 135}, {"file": "261.txt", "num_sentence": 5, "word_count": 122}, {"file": "268.txt", "num_sentence": 8, "word_count": 109}]},{"name": "21.txt", "copy_from": [{"file": "87.txt", "num_sentence": 15, "word_count": 238}, {"file": "312.txt", "num_sentence": 9, "word_count": 146}, {"file": "259.txt", "num_sentence": 6, "word_count": 110}, {"file": "374.txt", "num_sentence": 6, "word_count": 81}, {"file": "145.txt", "num_sentence": 5, "word_count": 71}]},{"name": "210.txt", "copy_from": [{"file": "292.txt", "num_sentence": 14, "word_count": 249}, {"file": "197.txt", "num_sentence": 10, "word_count": 184}, {"file": "176.txt", "num_sentence": 7, "word_count": 118}, {"file": "319.txt", "num_sentence": 3, "word_count": 63}, {"file": "209.txt", "num_sentence": 1, "word_count": 28}]},{"name": "211.txt", "copy_from": [{"file": "156.txt", "num_sentence": 12, "word_count": 198}, {"file": "205.txt", "num_sentence": 11, "word_count": 192}, {"file": "370.txt", "num_sentence": 6, "word_count": 71}, {"file": "181.txt", "num_sentence": 3, "word_count": 67}, {"file": "213.txt", "num_sentence": 4, "word_count": 43}]},{"name": "212.txt", "copy_from": [{"file": "49.txt", "num_sentence": 14, "word_count": 329}, {"file": "102.txt", "num_sentence": 9, "word_count": 267}, {"file": "206.txt", "num_sentence": 5, "word_count": 118}, {"file": "251.txt", "num_sentence": 3, "word_count": 58}, {"file": "138.txt", "num_sentence": 2, "word_count": 35}]},{"name": "213.txt", "copy_from": [{"file": "241.txt", "num_sentence": 10, "word_count": 281}, {"file": "142.txt", "num_sentence": 14, "word_count": 217}, {"file": "281.txt", "num_sentence": 10, "word_count": 166}, {"file": "104.txt", "num_sentence": 4, "word_count": 58}, {"file": "136.txt", "num_sentence": 3, "word_count": 56}]},{"name": "214.txt", "copy_from": [{"file": "164.txt", "num_sentence": 15, "word_count": 269}, {"file": "326.txt", "num_sentence": 10, "word_count": 191}, {"file": "194.txt", "num_sentence": 6, "word_count": 137}, {"file": "331.txt", "num_sentence": 9, "word_count": 58}, {"file": "231.txt", "num_sentence": 4, "word_count": 27}]},{"name": "215.txt", "copy_from": [{"file": "234.txt", "num_sentence": 14, "word_count": 359}, {"file": "190.txt", "num_sentence": 12, "word_count": 249}, {"file": "14.txt", "num_sentence": 11, "word_count": 219}, {"file": "375.txt", "num_sentence": 6, "word_count": 131}, {"file": "285.txt", "num_sentence": 5, "word_count": 100}]},{"name": "216.txt", "copy_from": [{"file": "279.txt", "num_sentence": 14, "word_count": 365}, {"file": "293.txt", "num_sentence": 12, "word_count": 198}, {"file": "0.txt", "num_sentence": 2, "word_count": 51}, {"file": "29.txt", "num_sentence": 4, "word_count": 36}, {"file": "207.txt", "num_sentence": 1, "word_count": 22}]},{"name": "217.txt", "copy_from": [{"file": "69.txt", "num_sentence": 15, "word_count": 457}, {"file": "29.txt", "num_sentence": 11, "word_count": 259}, {"file": "295.txt", "num_sentence": 12, "word_count": 233}, {"file": "192.txt", "num_sentence": 5, "word_count": 95}, {"file": "367.txt", "num_sentence": 8, "word_count": 71}]},{"name": "218.txt", "copy_from": [{"file": "167.txt", "num_sentence": 12, "word_count": 278}, {"file": "156.txt", "num_sentence": 15, "word_count": 242}, {"file": "64.txt", "num_sentence": 7, "word_count": 213}, {"file": "264.txt", "num_sentence": 7, "word_count": 136}, {"file": "118.txt", "num_sentence": 5, "word_count": 93}]},{"name": "22.txt", "copy_from": [{"file": "279.txt", "num_sentence": 7, "word_count": 102}, {"file": "122.txt", "num_sentence": 4, "word_count": 68}, {"file": "141.txt", "num_sentence": 3, "word_count": 56}, {"file": "12.txt", "num_sentence": 3, "word_count": 33}, {"file": "339.txt", "num_sentence": 3, "word_count": 31}]},{"name": "23.txt", "copy_from": [{"file": "249.txt", "num_sentence": 7, "word_count": 124}, {"file": "261.txt", "num_sentence": 8, "word_count": 95}, {"file": "268.txt", "num_sentence": 3, "word_count": 53}, {"file": "11.txt", "num_sentence": 2, "word_count": 52}, {"file": "12.txt", "num_sentence": 2, "word_count": 25}]},{"name": "24.txt", "copy_from": [{"file": "348.txt", "num_sentence": 8, "word_count": 167}, {"file": "291.txt", "num_sentence": 9, "word_count": 149}, {"file": "246.txt", "num_sentence": 5, "word_count": 57}, {"file": "272.txt", "num_sentence": 3, "word_count": 41}, {"file": "282.txt", "num_sentence": 1, "word_count": 18}]},{"name": "25.txt", "copy_from": [{"file": "112.txt", "num_sentence": 13, "word_count": 354}, {"file": "364.txt", "num_sentence": 8, "word_count": 94}, {"file": "107.txt", "num_sentence": 4, "word_count": 92}, {"file": "258.txt", "num_sentence": 4, "word_count": 48}, {"file": "364.txt", "num_sentence": 1, "word_count": 22}]},{"name": "26.txt", "copy_from": [{"file": "359.txt", "num_sentence": 13, "word_count": 176}, {"file": "78.txt", "num_sentence": 9, "word_count": 137}, {"file": "133.txt", "num_sentence": 4, "word_count": 78}, {"file": "200.txt", "num_sentence": 4, "word_count": 71}, {"file": "250.txt", "num_sentence": 1, "word_count": 8}]},{"name": "27.txt", "copy_from": [{"file": "219.txt", "num_sentence": 15, "word_count": 317}, {"file": "219.txt", "num_sentence": 15, "word_count": 279}, {"file": "323.txt", "num_sentence": 13, "word_count": 278}, {"file": "191.txt", "num_sentence": 8, "word_count": 143}, {"file": "74.txt", "num_sentence": 5, "word_count": 78}]},{"name": "28.txt", "copy_from": [{"file": "107.txt", "num_sentence": 9, "word_count": 198}, {"file": "37.txt", "num_sentence": 7, "word_count": 172}, {"file": "261.txt", "num_sentence": 6, "word_count": 130}, {"file": "331.txt", "num_sentence": 4, "word_count": 63}, {"file": "8.txt", "num_sentence": 7, "word_count": 54}]},{"name": "29.txt", "copy_from": [{"file": "304.txt", "num_sentence": 9, "word_count": 227}, {"file": "49.txt", "num_sentence": 12, "word_count": 211}, {"file": "1.txt", "num_sentence": 8, "word_count": 175}, {"file": "323.txt", "num_sentence": 9, "word_count": 162}, {"file": "270.txt", "num_sentence": 7, "word_count": 103}]},{"name": "3.txt", "copy_from": [{"file": "154.txt", "num_sentence": 15, "word_count": 325}, {"file": "345.txt", "num_sentence": 13, "word_count": 248}, {"file": "178.txt", "num_sentence": 10, "word_count": 211}, {"file": "320.txt", "num_sentence": 14, "word_count": 211}, {"file": "92.txt", "num_sentence": 12, "word_count": 167}]},{"name": "30.txt", "copy_from": [{"file": "279.txt", "num_sentence": 12, "word_count": 274}, {"file": "92.txt", "num_sentence": 5, "word_count": 154}, {"file": "5.txt", "num_sentence": 6, "word_count": 133}, {"file": "166.txt", "num_sentence": 15, "word_count": 128}, {"file": "272.txt", "num_sentence": 5, "word_count": 67}]},{"name": "31.txt", "copy_from": [{"file": "301.txt", "num_sentence": 15, "word_count": 250}, {"file": "275.txt", "num_sentence": 7, "word_count": 143}, {"file": "333.txt", "num_sentence": 4, "word_count": 114}, {"file": "295.txt", "num_sentence": 5, "word_count": 103}, {"file": "232.txt", "num_sentence": 4, "word_count": 51}]},{"name": "32.txt", "copy_from": [{"file": "161.txt", "num_sentence": 13, "word_count": 281}, {"file": "90.txt", "num_sentence": 9, "word_count": 227}, {"file": "196.txt", "num_sentence": 11, "word_count": 175}, {"file": "332.txt", "num_sentence": 1, "word_count": 15}, {"file": "78.txt", "num_sentence": 1, "word_count": 3}]},{"name": "33.txt", "copy_from": [{"file": "88.txt", "num_sentence": 11, "word_count": 287}, {"file": "172.txt", "num_sentence": 14, "word_count": 156}, {"file": "162.txt", "num_sentence": 14, "word_count": 148}, {"file": "316.txt", "num_sentence": 7, "word_count": 130}, {"file": "189.txt", "num_sentence": 7, "word_count": 119}]},{"name": "34.txt", "copy_from": [{"file": "74.txt", "num_sentence": 15, "word_count": 345}, {"file": "104.txt", "num_sentence": 13, "word_count": 268}, {"file": "368.txt", "num_sentence": 8, "word_count": 195}, {"file": "309.txt", "num_sentence": 9, "word_count": 68}, {"file": "295.txt", "num_sentence": 7, "word_count": 64}]},{"name": "35.txt", "copy_from": [{"file": "28.txt", "num_sentence": 15, "word_count": 366}, {"file": "78.txt", "num_sentence": 12, "word_count": 201}, {"file": "273.txt", "num_sentence": 10, "word_count": 148}, {"file": "207.txt", "num_sentence": 3, "word_count": 95}, {"file": "122.txt", "num_sentence": 7, "word_count": 92}]},{"name": "36.txt", "copy_from": [{"file": "190.txt", "num_sentence": 14, "word_count": 245}, {"file": "196.txt", "num_sentence": 10, "word_count": 171}, {"file": "338.txt", "num_sentence": 8, "word_count": 143}, {"file": "168.txt", "num_sentence": 7, "word_count": 96}, {"file": "166.txt", "num_sentence": 3, "word_count": 56}]},{"name": "37.txt", "copy_from": [{"file": "210.txt", "num_sentence": 12, "word_count": 251}, {"file": "324.txt", "num_sentence": 12, "word_count": 248}, {"file": "181.txt", "num_sentence": 10, "word_count": 183}, {"file": "110.txt", "num_sentence": 7, "word_count": 172}, {"file": "205.txt", "num_sentence": 10, "word_count": 131}]},{"name": "38.txt", "copy_from": [{"file": "12.txt", "num_sentence": 8, "word_count": 170}, {"file": "366.txt", "num_sentence": 6, "word_count": 115}, {"file": "260.txt", "num_sentence": 6, "word_count": 113}, {"file": "43.txt", "num_sentence": 5, "word_count": 100}, {"file": "279.txt", "num_sentence": 2, "word_count": 56}]},{"name": "39.txt", "copy_from": [{"file": "163.txt", "num_sentence": 13, "word_count": 250}, {"file": "358.txt", "num_sentence": 10, "word_count": 240}, {"file": "36.txt", "num_sentence": 8, "word_count": 163}, {"file": "283.txt", "num_sentence": 7, "word_count": 83}, {"file": "150.txt", "num_sentence": 2, "word_count": 15}]},{"name": "4.txt", "copy_from": [{"file": "107.txt", "num_sentence": 11, "word_count": 140}, {"file": "228.txt", "num_sentence": 7, "word_count": 135}, {"file": "27.txt", "num_sentence": 6, "word_count": 97}, {"file": "2.txt", "num_sentence": 12, "word_count": 88}, {"file": "47.txt", "num_sentence": 2, "word_count": 56}]},{"name": "40.txt", "copy_from": [{"file": "72.txt", "num_sentence": 11, "word_count": 188}, {"file": "140.txt", "num_sentence": 6, "word_count": 94}, {"file": "374.txt", "num_sentence": 3, "word_count": 66}, {"file": "59.txt", "num_sentence": 1, "word_count": 37}, {"file": "179.txt", "num_sentence": 1, "word_count": 28}]},{"name": "41.txt", "copy_from": [{"file": "25.txt", "num_sentence": 14, "word_count": 297}, {"file": "352.txt", "num_sentence": 10, "word_count": 187}, {"file": "141.txt", "num_sentence": 3, "word_count": 70}, {"file": "98.txt", "num_sentence": 3, "word_count": 68}, {"file": "29.txt", "num_sentence": 7, "word_count": 63}]},{"name": "42.txt", "copy_from": [{"file": "118.txt", "num_sentence": 12, "word_count": 328}, {"file": "98.txt", "num_sentence": 6, "word_count": 197}, {"file": "73.txt", "num_sentence": 9, "word_count": 174}, {"file": "7.txt", "num_sentence": 5, "word_count": 161}, {"file": "321.txt", "num_sentence": 9, "word_count": 148}]},{"name": "43.txt", "copy_from": [{"file": "89.txt", "num_sentence": 14, "word_count": 232}, {"file": "47.txt", "num_sentence": 9, "word_count": 195}, {"file": "348.txt", "num_sentence": 14, "word_count": 172}, {"file": "217.txt", "num_sentence": 13, "word_count": 156}, {"file": "73.txt", "num_sentence": 11, "word_count": 151}]},{"name": "44.txt", "copy_from": [{"file": "10.txt", "num_sentence": 11, "word_count": 318}, {"file": "101.txt", "num_sentence": 9, "word_count": 174}, {"file": "104.txt", "num_sentence": 10, "word_count": 101}, {"file": "32.txt", "num_sentence": 4, "word_count": 81}, {"file": "31.txt", "num_sentence": 2, "word_count": 49}]},{"name": "45.txt", "copy_from": [{"file": "333.txt", "num_sentence": 11, "word_count": 248}, {"file": "85.txt", "num_sentence": 15, "word_count": 88}, {"file": "257.txt", "num_sentence": 4, "word_count": 70}, {"file": "295.txt", "num_sentence": 4, "word_count": 33}, {"file": "194.txt", "num_sentence": 3, "word_count": 25}]},{"name": "46.txt", "copy_from": [{"file": "272.txt", "num_sentence": 14, "word_count": 313}, {"file": "190.txt", "num_sentence": 15, "word_count": 294}, {"file": "340.txt", "num_sentence": 15, "word_count": 249}, {"file": "75.txt", "num_sentence": 12, "word_count": 163}, {"file": "198.txt", "num_sentence": 1, "word_count": 1}]},{"name": "47.txt", "copy_from": [{"file": "5.txt", "num_sentence": 6, "word_count": 105}, {"file": "238.txt", "num_sentence": 7, "word_count": 82}, {"file": "120.txt", "num_sentence": 4, "word_count": 53}, {"file": "74.txt", "num_sentence": 1, "word_count": 35}, {"file": "209.txt", "num_sentence": 1, "word_count": 1}]},{"name": "48.txt", "copy_from": [{"file": "53.txt", "num_sentence": 10, "word_count": 208}, {"file": "181.txt", "num_sentence": 8, "word_count": 173}, {"file": "262.txt", "num_sentence": 7, "word_count": 100}, {"file": "129.txt", "num_sentence": 3, "word_count": 71}, {"file": "234.txt", "num_sentence": 6, "word_count": 41}]},{"name": "49.txt", "copy_from": [{"file": "285.txt", "num_sentence": 15, "word_count": 218}, {"file": "249.txt", "num_sentence": 9, "word_count": 115}, {"file": "76.txt", "num_sentence": 6, "word_count": 102}, {"file": "247.txt", "num_sentence": 6, "word_count": 75}, {"file": "173.txt", "num_sentence": 1, "word_count": 26}]},{"name": "5.txt", "copy_from": [{"file": "104.txt", "num_sentence": 11, "word_count": 186}, {"file": "347.txt", "num_sentence": 9, "word_count": 147}, {"file": "271.txt", "num_sentence": 6, "word_count": 140}, {"file": "16.txt", "num_sentence": 8, "word_count": 64}, {"file": "169.txt", "num_sentence": 2, "word_count": 5}]},{"name": "50.txt", "copy_from": [{"file": "130.txt", "num_sentence": 13, "word_count": 256}, {"file": "320.txt", "num_sentence": 13, "word_count": 207}, {"file": "311.txt", "num_sentence": 6, "word_count": 128}, {"file": "124.txt", "num_sentence": 14, "word_count": 127}, {"file": "221.txt", "num_sentence": 1, "word_count": 18}]},{"name": "51.txt", "copy_from": [{"file": "250.txt", "num_sentence": 12, "word_count": 248}, {"file": "273.txt", "num_sentence": 12, "word_count": 196}, {"file": "103.txt", "num_sentence": 3, "word_count": 53}, {"file": "265.txt", "num_sentence": 1, "word_count": 24}, {"file": "275.txt", "num_sentence": 1, "word_count": 16}]},{"name": "52.txt", "copy_from": [{"file": "39.txt", "num_sentence": 15, "word_count": 206}, {"file": "250.txt", "num_sentence": 11, "word_count": 187}, {"file": "90.txt", "num_sentence": 13, "word_count": 152}, {"file": "103.txt", "num_sentence": 5, "word_count": 126}, {"file": "237.txt", "num_sentence": 2, "word_count": 21}]},{"name": "53.txt", "copy_from": [{"file": "101.txt", "num_sentence": 13, "word_count": 282}, {"file": "3.txt", "num_sentence": 13, "word_count": 255}, {"file": "240.txt", "num_sentence": 11, "word_count": 222}, {"file": "176.txt", "num_sentence": 11, "word_count": 214}, {"file": "339.txt", "num_sentence": 11, "word_count": 212}]},{"name": "54.txt", "copy_from": [{"file": "113.txt", "num_sentence": 11, "word_count": 189}, {"file": "29.txt", "num_sentence": 5, "word_count": 115}, {"file": "70.txt", "num_sentence": 6, "word_count": 112}, {"file": "277.txt", "num_sentence": 2, "word_count": 75}, {"file": "178.txt", "num_sentence": 6, "word_count": 63}]},{"name": "55.txt", "copy_from": [{"file": "191.txt", "num_sentence": 10, "word_count": 317}, {"file": "132.txt", "num_sentence": 13, "word_count": 267}, {"file": "150.txt", "num_sentence": 6, "word_count": 121}, {"file": "228.txt", "num_sentence": 3, "word_count": 22}, {"file": "302.txt", "num_sentence": 1, "word_count": 19}]},{"name": "56.txt", "copy_from": [{"file": "176.txt", "num_sentence": 14, "word_count": 284}, {"file": "195.txt", "num_sentence": 8, "word_count": 173}, {"file": "260.txt", "num_sentence": 10, "word_count": 145}, {"file": "352.txt", "num_sentence": 5, "word_count": 86}, {"file": "179.txt", "num_sentence": 3, "word_count": 35}]},{"name": "57.txt", "copy_from": [{"file": "169.txt", "num_sentence": 13, "word_count": 244}, {"file": "76.txt", "num_sentence": 12, "word_count": 192}, {"file": "200.txt", "num_sentence": 12, "word_count": 151}, {"file": "232.txt", "num_sentence": 1, "word_count": 12}, {"file": "3.txt", "num_sentence": 2, "word_count": 8}]},{"name": "58.txt", "copy_from": [{"file": "175.txt", "num_sentence": 15, "word_count": 316}, {"file": "43.txt", "num_sentence": 13, "word_count": 253}, {"file": "247.txt", "num_sentence": 8, "word_count": 170}, {"file": "305.txt", "num_sentence": 10, "word_count": 152}, {"file": "314.txt", "num_sentence": 4, "word_count": 49}]},{"name": "59.txt", "copy_from": [{"file": "7.txt", "num_sentence": 14, "word_count": 184}, {"file": "65.txt", "num_sentence": 8, "word_count": 169}, {"file": "52.txt", "num_sentence": 6, "word_count": 157}, {"file": "290.txt", "num_sentence": 5, "word_count": 108}, {"file": "8.txt", "num_sentence": 2, "word_count": 21}]},{"name": "6.txt", "copy_from": [{"file": "226.txt", "num_sentence": 14, "word_count": 430}, {"file": "84.txt", "num_sentence": 14, "word_count": 238}, {"file": "131.txt", "num_sentence": 11, "word_count": 219}, {"file": "73.txt", "num_sentence": 13, "word_count": 176}, {"file": "348.txt", "num_sentence": 15, "word_count": 156}]},{"name": "60.txt", "copy_from": [{"file": "161.txt", "num_sentence": 6, "word_count": 127}, {"file": "297.txt", "num_sentence": 6, "word_count": 118}, {"file": "152.txt", "num_sentence": 5, "word_count": 108}, {"file": "203.txt", "num_sentence": 3, "word_count": 57}, {"file": "283.txt", "num_sentence": 3, "word_count": 46}]},{"name": "61.txt", "copy_from": [{"file": "278.txt", "num_sentence": 11, "word_count": 272}, {"file": "335.txt", "num_sentence": 14, "word_count": 217}, {"file": "34.txt", "num_sentence": 7, "word_count": 167}, {"file": "130.txt", "num_sentence": 11, "word_count": 160}, {"file": "209.txt", "num_sentence": 3, "word_count": 75}]},{"name": "62.txt", "copy_from": [{"file": "356.txt", "num_sentence": 9, "word_count": 251}, {"file": "312.txt", "num_sentence": 13, "word_count": 216}, {"file": "272.txt", "num_sentence": 6, "word_count": 176}, {"file": "72.txt", "num_sentence": 2, "word_count": 26}, {"file": "62.txt", "num_sentence": 1, "word_count": 1}]},{"name": "63.txt", "copy_from": [{"file": "270.txt", "num_sentence": 11, "word_count": 191}, {"file": "112.txt", "num_sentence": 12, "word_count": 163}, {"file": "309.txt", "num_sentence": 9, "word_count": 107}, {"file": "265.txt", "num_sentence": 5, "word_count": 75}, {"file": "221.txt", "num_sentence": 3, "word_count": 47}]},{"name": "64.txt", "copy_from": [{"file": "205.txt", "num_sentence": 14, "word_count": 263}, {"file": "314.txt", "num_sentence": 7, "word_count": 171}, {"file": "9.txt", "num_sentence": 12, "word_count": 169}, {"file": "182.txt", "num_sentence": 8, "word_count": 168}, {"file": "108.txt", "num_sentence": 6, "word_count": 127}]},{"name": "65.txt", "copy_from": [{"file": "38.txt", "num_sentence": 15, "word_count": 300}, {"file": "131.txt", "num_sentence": 11, "word_count": 222}, {"file": "281.txt", "num_sentence": 8, "word_count": 105}, {"file": "212.txt", "num_sentence": 3, "word_count": 50}, {"file": "183.txt", "num_sentence": 4, "word_count": 2}]},{"name": "66.txt", "copy_from": [{"file": "30.txt", "num_sentence": 14, "word_count": 219}, {"file": "305.txt", "num_sentence": 7, "word_count": 206}, {"file": "135.txt", "num_sentence": 8, "word_count": 169}, {"file": "142.txt", "num_sentence": 5, "word_count": 88}, {"file": "137.txt", "num_sentence": 6, "word_count": 27}]},{"name": "67.txt", "copy_from": [{"file": "168.txt", "num_sentence": 14, "word_count": 367}, {"file": "169.txt", "num_sentence": 9, "word_count": 182}, {"file": "374.txt", "num_sentence": 8, "word_count": 114}, {"file": "153.txt", "num_sentence": 2, "word_count": 61}, {"file": "256.txt", "num_sentence": 2, "word_count": 46}]},{"name": "68.txt", "copy_from": [{"file": "7.txt", "num_sentence": 11, "word_count": 223}, {"file": "124.txt", "num_sentence": 9, "word_count": 191}, {"file": "314.txt", "num_sentence": 7, "word_count": 129}, {"file": "29.txt", "num_sentence": 12, "word_count": 92}, {"file": "353.txt", "num_sentence": 4, "word_count": 46}]},{"name": "69.txt", "copy_from": [{"file": "55.txt", "num_sentence": 14, "word_count": 311}, {"file": "3.txt", "num_sentence": 12, "word_count": 298}, {"file": "87.txt", "num_sentence": 8, "word_count": 193}, {"file": "372.txt", "num_sentence": 9, "word_count": 162}, {"file": "194.txt", "num_sentence": 8, "word_count": 161}]},{"name": "7.txt", "copy_from": [{"file": "108.txt", "num_sentence": 9, "word_count": 231}, {"file": "279.txt", "num_sentence": 7, "word_count": 127}, {"file": "205.txt", "num_sentence": 6, "word_count": 107}, {"file": "181.txt", "num_sentence": 7, "word_count": 94}, {"file": "192.txt", "num_sentence": 4, "word_count": 35}]},{"name": "70.txt", "copy_from": [{"file": "106.txt", "num_sentence": 12, "word_count": 199}, {"file": "29.txt", "num_sentence": 10, "word_count": 196}, {"file": "29.txt", "num_sentence": 9, "word_count": 178}, {"file": "221.txt", "num_sentence": 7, "word_count": 116}, {"file": "92.txt", "num_sentence": 3, "word_count": 54}]},{"name": "71.txt", "copy_from": [{"file": "301.txt", "num_sentence": 10, "word_count": 192}, {"file": "121.txt", "num_sentence": 8, "word_count": 133}, {"file": "324.txt", "num_sentence": 6, "word_count": 96}, {"file": "230.txt", "num_sentence": 2, "word_count": 73}, {"file": "38.txt", "num_sentence": 4, "word_count": 55}]},{"name": "72.txt", "copy_from": [{"file": "171.txt", "num_sentence": 13, "word_count": 269}, {"file": "44.txt", "num_sentence": 15, "word_count": 262}, {"file": "231.txt", "num_sentence": 14, "word_count": 243}, {"file": "79.txt", "num_sentence": 15, "word_count": 226}, {"file": "174.txt", "num_sentence": 4, "word_count": 67}]},{"name": "73.txt", "copy_from": [{"file": "68.txt", "num_sentence": 7, "word_count": 153}, {"file": "239.txt", "num_sentence": 4, "word_count": 137}, {"file": "11.txt", "num_sentence": 7, "word_count": 101}, {"file": "230.txt", "num_sentence": 3, "word_count": 78}, {"file": "167.txt", "num_sentence": 1, "word_count": 27}]},{"name": "74.txt", "copy_from": [{"file": "94.txt", "num_sentence": 10, "word_count": 262}, {"file": "360.txt", "num_sentence": 14, "word_count": 224}, {"file": "184.txt", "num_sentence": 13, "word_count": 173}, {"file": "350.txt", "num_sentence": 5, "word_count": 116}, {"file": "109.txt", "num_sentence": 4, "word_count": 27}]},{"name": "75.txt", "copy_from": [{"file": "249.txt", "num_sentence": 13, "word_count": 173}, {"file": "116.txt", "num_sentence": 11, "word_count": 158}, {"file": "261.txt", "num_sentence": 4, "word_count": 39}, {"file": "20.txt", "num_sentence": 2, "word_count": 29}, {"file": "75.txt", "num_sentence": 1, "word_count": 7}]},{"name": "76.txt", "copy_from": [{"file": "93.txt", "num_sentence": 9, "word_count": 198}, {"file": "211.txt", "num_sentence": 4, "word_count": 108}, {"file": "178.txt", "num_sentence": 4, "word_count": 69}, {"file": "4.txt", "num_sentence": 4, "word_count": 42}, {"file": "166.txt", "num_sentence": 1, "word_count": 7}]},{"name": "77.txt", "copy_from": [{"file": "115.txt", "num_sentence": 12, "word_count": 146}, {"file": "208.txt", "num_sentence": 6, "word_count": 98}, {"file": "183.txt", "num_sentence": 3, "word_count": 70}, {"file": "223.txt", "num_sentence": 3, "word_count": 37}, {"file": "353.txt", "num_sentence": 2, "word_count": 16}]},{"name": "78.txt", "copy_from": [{"file": "71.txt", "num_sentence": 13, "word_count": 317}, {"file": "65.txt", "num_sentence": 13, "word_count": 242}, {"file": "177.txt", "num_sentence": 6, "word_count": 172}, {"file": "141.txt", "num_sentence": 6, "word_count": 122}, {"file": "114.txt", "num_sentence": 6, "word_count": 37}]},{"name": "79.txt", "copy_from": [{"file": "32.txt", "num_sentence": 13, "word_count": 238}, {"file": "89.txt", "num_sentence": 13, "word_count": 173}, {"file": "329.txt", "num_sentence": 7, "word_count": 161}, {"file": "179.txt", "num_sentence": 6, "word_count": 120}, {"file": "151.txt", "num_sentence": 3, "word_count": 61}]},{"name": "8.txt", "copy_from": [{"file": "71.txt", "num_sentence": 14, "word_count": 300}, {"file": "234.txt", "num_sentence": 10, "word_count": 286}, {"file": "241.txt", "num_sentence": 9, "word_count": 206}, {"file": "225.txt", "num_sentence": 9, "word_count": 198}, {"file": "356.txt", "num_sentence": 10, "word_count": 126}]},{"name": "80.txt", "copy_from": [{"file": "128.txt", "num_sentence": 13, "word_count": 270}, {"file": "303.txt", "num_sentence": 13, "word_count": 257}, {"file": "317.txt", "num_sentence": 12, "word_count": 194}, {"file": "173.txt", "num_sentence": 3, "word_count": 82}, {"file": "247.txt", "num_sentence": 4, "word_count": 48}]},{"name": "81.txt", "copy_from": [{"file": "215.txt", "num_sentence": 11, "word_count": 221}, {"file": "190.txt", "num_sentence": 7, "word_count": 203}, {"file": "340.txt", "num_sentence": 11, "word_count": 153}, {"file": "311.txt", "num_sentence": 10, "word_count": 153}, {"file": "79.txt", "num_sentence": 6, "word_count": 106}]},{"name": "82.txt", "copy_from": [{"file": "324.txt", "num_sentence": 13, "word_count": 325}, {"file": "213.txt", "num_sentence": 8, "word_count": 99}, {"file": "56.txt", "num_sentence": 5, "word_count": 80}, {"file": "249.txt", "num_sentence": 8, "word_count": 65}, {"file": "161.txt", "num_sentence": 4, "word_count": 36}]},{"name": "83.txt", "copy_from": [{"file": "362.txt", "num_sentence": 11, "word_count": 262}, {"file": "77.txt", "num_sentence": 12, "word_count": 258}, {"file": "129.txt", "num_sentence": 10, "word_count": 178}, {"file": "341.txt", "num_sentence": 2, "word_count": 66}, {"file": "341.txt", "num_sentence": 1, "word_count": 13}]},{"name": "84.txt", "copy_from": [{"file": "260.txt", "num_sentence": 11, "word_count": 153}, {"file": "72.txt", "num_sentence": 6, "word_count": 116}, {"file": "309.txt", "num_sentence": 5, "word_count": 109}, {"file": "327.txt", "num_sentence": 5, "word_count": 83}, {"file": "320.txt", "num_sentence": 2, "word_count": 43}]},{"name": "85.txt", "copy_from": [{"file": "227.txt", "num_sentence": 6, "word_count": 199}, {"file": "274.txt", "num_sentence": 15, "word_count": 197}, {"file": "284.txt", "num_sentence": 4, "word_count": 114}, {"file": "117.txt", "num_sentence": 5, "word_count": 106}, {"file": "315.txt", "num_sentence": 5, "word_count": 106}]},{"name": "86.txt", "copy_from": [{"file": "125.txt", "num_sentence": 15, "word_count": 278}, {"file": "211.txt", "num_sentence": 12, "word_count": 252}, {"file": "76.txt", "num_sentence": 10, "word_count": 199}, {"file": "191.txt", "num_sentence": 12, "word_count": 45}, {"file": "184.txt", "num_sentence": 4, "word_count": 44}]},{"name": "87.txt", "copy_from": [{"file": "181.txt", "num_sentence": 13, "word_count": 261}, {"file": "287.txt", "num_sentence": 12, "word_count": 217}, {"file": "134.txt", "num_sentence": 14, "word_count": 204}, {"file": "37.txt", "num_sentence": 4, "word_count": 52}, {"file": "199.txt", "num_sentence": 5, "word_count": 50}]},{"name": "88.txt", "copy_from": [{"file": "292.txt", "num_sentence": 9, "word_count": 246}, {"file": "176.txt", "num_sentence": 13, "word_count": 220}, {"file": "196.txt", "num_sentence": 8, "word_count": 215}, {"file": "133.txt", "num_sentence": 6, "word_count": 93}, {"file": "41.txt", "num_sentence": 4, "word_count": 91}]},{"name": "89.txt", "copy_from": [{"file": "210.txt", "num_sentence": 15, "word_count": 281}, {"file": "225.txt", "num_sentence": 12, "word_count": 227}, {"file": "267.txt", "num_sentence": 7, "word_count": 149}, {"file": "364.txt", "num_sentence": 5, "word_count": 105}, {"file": "192.txt", "num_sentence": 4, "word_count": 64}]},{"name": "9.txt", "copy_from": [{"file": "224.txt", "num_sentence": 7, "word_count": 173}, {"file": "341.txt", "num_sentence": 13, "word_count": 147}, {"file": "144.txt", "num_sentence": 7, "word_count": 132}, {"file": "91.txt", "num_sentence": 7, "word_count": 125}, {"file": "133.txt", "num_sentence": 2, "word_count": 24}]},{"name": "90.txt", "copy_from": [{"file": "360.txt", "num_sentence": 10, "word_count": 230}, {"file": "146.txt", "num_sentence": 13, "word_count": 211}, {"file": "76.txt", "num_sentence": 14, "word_count": 211}, {"file": "210.txt", "num_sentence": 5, "word_count": 39}, {"file": "253.txt", "num_sentence": 3, "word_count": 36}]},{"name": "91.txt", "copy_from": [{"file": "27.txt", "num_sentence": 13, "word_count": 265}, {"file": "47.txt", "num_sentence": 15, "word_count": 241}, {"file": "368.txt", "num_sentence": 9, "word_count": 211}, {"file": "188.txt", "num_sentence": 2, "word_count": 44}, {"file": "226.txt", "num_sentence": 2, "word_count": 33}]},{"name": "92.txt", "copy_from": [{"file": "68.txt", "num_sentence": 7, "word_count": 126}, {"file": "240.txt", "num_sentence": 4, "word_count": 106}, {"file": "137.txt", "num_sentence": 3, "word_count": 42}, {"file": "369.txt", "num_sentence": 5, "word_count": 38}, {"file": "356.txt", "num_sentence": 1, "word_count": 18}]},{"name": "93.txt", "copy_from": [{"file": "169.txt", "num_sentence": 10, "word_count": 241}, {"file": "263.txt", "num_sentence": 5, "word_count": 73}, {"file": "308.txt", "num_sentence": 3, "word_count": 46}, {"file": "233.txt", "num_sentence": 1, "word_count": 19}, {"file": "41.txt", "num_sentence": 1, "word_count": 6}]},{"name": "94.txt", "copy_from": [{"file": "109.txt", "num_sentence": 15, "word_count": 277}, {"file": "111.txt", "num_sentence": 13, "word_count": 192}, {"file": "224.txt", "num_sentence": 6, "word_count": 108}, {"file": "21.txt", "num_sentence": 3, "word_count": 106}, {"file": "359.txt", "num_sentence": 2, "word_count": 23}]},{"name": "95.txt", "copy_from": [{"file": "104.txt", "num_sentence": 15, "word_count": 347}, {"file": "157.txt", "num_sentence": 12, "word_count": 209}, {"file": "373.txt", "num_sentence": 12, "word_count": 194}, {"file": "203.txt", "num_sentence": 8, "word_count": 122}, {"file": "141.txt", "num_sentence": 2, "word_count": 41}]},{"name": "96.txt", "copy_from": [{"file": "104.txt", "num_sentence": 14, "word_count": 272}, {"file": "337.txt", "num_sentence": 13, "word_count": 213}, {"file": "262.txt", "num_sentence": 12, "word_count": 186}, {"file": "72.txt", "num_sentence": 7, "word_count": 99}, {"file": "3.txt", "num_sentence": 2, "word_count": 4}]},{"name": "97.txt", "copy_from": [{"file": "249.txt", "num_sentence": 13, "word_count": 248}, {"file": "21.txt", "num_sentence": 5, "word_count": 150}, {"file": "242.txt", "num_sentence": 3, "word_count": 59}, {"file": "25.txt", "num_sentence": 2, "word_count": 27}, {"file": "322.txt", "num_sentence": 1, "word_count": 11}]},{"name": "98.txt", "copy_from": [{"file": "232.txt", "num_sentence": 11, "word_count": 326}, {"file": "52.txt", "num_sentence": 7, "word_count": 170}, {"file": "23.txt", "num_sentence": 10, "word_count": 123}, {"file": "16.txt", "num_sentence": 7, "word_count": 92}, {"file": "108.txt", "num_sentence": 5, "word_count": 55}]},{"name": "99.txt", "copy_from": [{"file": "245.txt", "num_sentence": 10, "word_count": 143}, {"file": "371.txt", "num_sentence": 10, "word_count": 135}, {"file": "231.txt", "num_sentence": 8, "word_count": 114}, {"file": "104.txt", "num_sentence": 3, "word_count": 83}, {"file": "116.txt", "num_sentence": 6, "word_count": 35}]}]
+[
+    {
+        "name": "0.txt",
+        "copy_from": [
+            { "file": "123.txt", "num_sentence": 15, "word_count": 258 },
+            { "file": "254.txt", "num_sentence": 8, "word_count": 132 },
+            { "file": "80.txt", "num_sentence": 6, "word_count": 117 },
+            { "file": "114.txt", "num_sentence": 3, "word_count": 49 },
+            { "file": "194.txt", "num_sentence": 1, "word_count": 18 }
+        ]
+    },
+    {
+        "name": "1.txt",
+        "copy_from": [
+            { "file": "193.txt", "num_sentence": 14, "word_count": 115 },
+            { "file": "292.txt", "num_sentence": 4, "word_count": 109 },
+            { "file": "279.txt", "num_sentence": 5, "word_count": 97 },
+            { "file": "242.txt", "num_sentence": 4, "word_count": 78 },
+            { "file": "323.txt", "num_sentence": 2, "word_count": 31 }
+        ]
+    },
+    {
+        "name": "10.txt",
+        "copy_from": [
+            { "file": "178.txt", "num_sentence": 10, "word_count": 203 },
+            { "file": "264.txt", "num_sentence": 8, "word_count": 197 },
+            { "file": "305.txt", "num_sentence": 7, "word_count": 134 },
+            { "file": "106.txt", "num_sentence": 4, "word_count": 113 },
+            { "file": "342.txt", "num_sentence": 8, "word_count": 59 }
+        ]
+    },
+    {
+        "name": "100.txt",
+        "copy_from": [
+            { "file": "283.txt", "num_sentence": 15, "word_count": 302 },
+            { "file": "180.txt", "num_sentence": 9, "word_count": 191 },
+            { "file": "313.txt", "num_sentence": 12, "word_count": 185 },
+            { "file": "151.txt", "num_sentence": 7, "word_count": 166 },
+            { "file": "134.txt", "num_sentence": 4, "word_count": 53 }
+        ]
+    },
+    {
+        "name": "101.txt",
+        "copy_from": [
+            { "file": "277.txt", "num_sentence": 15, "word_count": 384 },
+            { "file": "301.txt", "num_sentence": 13, "word_count": 233 },
+            { "file": "174.txt", "num_sentence": 14, "word_count": 190 },
+            { "file": "72.txt", "num_sentence": 8, "word_count": 172 },
+            { "file": "223.txt", "num_sentence": 8, "word_count": 104 }
+        ]
+    },
+    {
+        "name": "102.txt",
+        "copy_from": [
+            { "file": "32.txt", "num_sentence": 14, "word_count": 337 },
+            { "file": "305.txt", "num_sentence": 15, "word_count": 281 },
+            { "file": "171.txt", "num_sentence": 14, "word_count": 281 },
+            { "file": "104.txt", "num_sentence": 14, "word_count": 179 },
+            { "file": "140.txt", "num_sentence": 5, "word_count": 102 }
+        ]
+    },
+    {
+        "name": "103.txt",
+        "copy_from": [
+            { "file": "6.txt", "num_sentence": 14, "word_count": 215 },
+            { "file": "135.txt", "num_sentence": 10, "word_count": 212 },
+            { "file": "371.txt", "num_sentence": 8, "word_count": 105 },
+            { "file": "329.txt", "num_sentence": 1, "word_count": 48 },
+            { "file": "41.txt", "num_sentence": 1, "word_count": 30 }
+        ]
+    },
+    {
+        "name": "104.txt",
+        "copy_from": [
+            { "file": "104.txt", "num_sentence": 15, "word_count": 286 },
+            { "file": "277.txt", "num_sentence": 15, "word_count": 259 },
+            { "file": "297.txt", "num_sentence": 15, "word_count": 245 },
+            { "file": "303.txt", "num_sentence": 5, "word_count": 129 },
+            { "file": "258.txt", "num_sentence": 1, "word_count": 5 }
+        ]
+    },
+    {
+        "name": "105.txt",
+        "copy_from": [
+            { "file": "125.txt", "num_sentence": 14, "word_count": 213 },
+            { "file": "243.txt", "num_sentence": 8, "word_count": 177 },
+            { "file": "39.txt", "num_sentence": 6, "word_count": 131 },
+            { "file": "213.txt", "num_sentence": 4, "word_count": 88 },
+            { "file": "250.txt", "num_sentence": 6, "word_count": 68 }
+        ]
+    },
+    {
+        "name": "106.txt",
+        "copy_from": [
+            { "file": "330.txt", "num_sentence": 12, "word_count": 269 },
+            { "file": "28.txt", "num_sentence": 15, "word_count": 239 },
+            { "file": "43.txt", "num_sentence": 9, "word_count": 228 },
+            { "file": "143.txt", "num_sentence": 6, "word_count": 107 },
+            { "file": "282.txt", "num_sentence": 6, "word_count": 89 }
+        ]
+    },
+    {
+        "name": "107.txt",
+        "copy_from": [
+            { "file": "45.txt", "num_sentence": 13, "word_count": 336 },
+            { "file": "17.txt", "num_sentence": 12, "word_count": 197 },
+            { "file": "151.txt", "num_sentence": 9, "word_count": 145 },
+            { "file": "62.txt", "num_sentence": 4, "word_count": 69 },
+            { "file": "285.txt", "num_sentence": 4, "word_count": 44 }
+        ]
+    },
+    {
+        "name": "108.txt",
+        "copy_from": [
+            { "file": "312.txt", "num_sentence": 15, "word_count": 1624 },
+            { "file": "223.txt", "num_sentence": 6, "word_count": 215 },
+            { "file": "87.txt", "num_sentence": 11, "word_count": 165 },
+            { "file": "223.txt", "num_sentence": 6, "word_count": 162 },
+            { "file": "39.txt", "num_sentence": 10, "word_count": 140 }
+        ]
+    },
+    {
+        "name": "109.txt",
+        "copy_from": [
+            { "file": "170.txt", "num_sentence": 10, "word_count": 170 },
+            { "file": "345.txt", "num_sentence": 3, "word_count": 112 },
+            { "file": "291.txt", "num_sentence": 4, "word_count": 71 },
+            { "file": "72.txt", "num_sentence": 2, "word_count": 52 },
+            { "file": "143.txt", "num_sentence": 2, "word_count": 18 }
+        ]
+    },
+    {
+        "name": "11.txt",
+        "copy_from": [
+            { "file": "211.txt", "num_sentence": 11, "word_count": 229 },
+            { "file": "27.txt", "num_sentence": 13, "word_count": 185 },
+            { "file": "13.txt", "num_sentence": 7, "word_count": 120 },
+            { "file": "313.txt", "num_sentence": 8, "word_count": 94 },
+            { "file": "329.txt", "num_sentence": 3, "word_count": 51 }
+        ]
+    },
+    {
+        "name": "110.txt",
+        "copy_from": [
+            { "file": "69.txt", "num_sentence": 10, "word_count": 138 },
+            { "file": "72.txt", "num_sentence": 8, "word_count": 136 },
+            { "file": "251.txt", "num_sentence": 7, "word_count": 113 },
+            { "file": "219.txt", "num_sentence": 7, "word_count": 108 },
+            { "file": "253.txt", "num_sentence": 8, "word_count": 99 }
+        ]
+    },
+    {
+        "name": "111.txt",
+        "copy_from": [
+            { "file": "285.txt", "num_sentence": 12, "word_count": 196 },
+            { "file": "177.txt", "num_sentence": 13, "word_count": 120 },
+            { "file": "319.txt", "num_sentence": 6, "word_count": 91 },
+            { "file": "155.txt", "num_sentence": 3, "word_count": 62 },
+            { "file": "338.txt", "num_sentence": 2, "word_count": 26 }
+        ]
+    },
+    {
+        "name": "112.txt",
+        "copy_from": [
+            { "file": "282.txt", "num_sentence": 11, "word_count": 194 },
+            { "file": "305.txt", "num_sentence": 5, "word_count": 151 },
+            { "file": "282.txt", "num_sentence": 11, "word_count": 149 },
+            { "file": "78.txt", "num_sentence": 4, "word_count": 69 },
+            { "file": "29.txt", "num_sentence": 2, "word_count": 17 }
+        ]
+    },
+    {
+        "name": "113.txt",
+        "copy_from": [
+            { "file": "304.txt", "num_sentence": 11, "word_count": 187 },
+            { "file": "363.txt", "num_sentence": 5, "word_count": 115 },
+            { "file": "167.txt", "num_sentence": 8, "word_count": 91 },
+            { "file": "62.txt", "num_sentence": 4, "word_count": 74 },
+            { "file": "296.txt", "num_sentence": 4, "word_count": 19 }
+        ]
+    },
+    {
+        "name": "114.txt",
+        "copy_from": [
+            { "file": "25.txt", "num_sentence": 11, "word_count": 245 },
+            { "file": "314.txt", "num_sentence": 13, "word_count": 162 },
+            { "file": "83.txt", "num_sentence": 11, "word_count": 137 },
+            { "file": "159.txt", "num_sentence": 8, "word_count": 97 },
+            { "file": "274.txt", "num_sentence": 6, "word_count": 72 }
+        ]
+    },
+    {
+        "name": "115.txt",
+        "copy_from": [
+            { "file": "325.txt", "num_sentence": 14, "word_count": 300 },
+            { "file": "206.txt", "num_sentence": 14, "word_count": 281 },
+            { "file": "8.txt", "num_sentence": 9, "word_count": 247 },
+            { "file": "202.txt", "num_sentence": 10, "word_count": 131 },
+            { "file": "198.txt", "num_sentence": 4, "word_count": 122 }
+        ]
+    },
+    {
+        "name": "116.txt",
+        "copy_from": [
+            { "file": "172.txt", "num_sentence": 15, "word_count": 294 },
+            { "file": "52.txt", "num_sentence": 13, "word_count": 236 },
+            { "file": "15.txt", "num_sentence": 13, "word_count": 219 },
+            { "file": "64.txt", "num_sentence": 4, "word_count": 140 },
+            { "file": "125.txt", "num_sentence": 4, "word_count": 86 }
+        ]
+    },
+    {
+        "name": "117.txt",
+        "copy_from": [
+            { "file": "28.txt", "num_sentence": 6, "word_count": 193 },
+            { "file": "264.txt", "num_sentence": 7, "word_count": 174 },
+            { "file": "370.txt", "num_sentence": 11, "word_count": 168 },
+            { "file": "202.txt", "num_sentence": 7, "word_count": 99 },
+            { "file": "317.txt", "num_sentence": 15, "word_count": 61 }
+        ]
+    },
+    {
+        "name": "118.txt",
+        "copy_from": [
+            { "file": "38.txt", "num_sentence": 9, "word_count": 125 },
+            { "file": "169.txt", "num_sentence": 4, "word_count": 75 },
+            { "file": "48.txt", "num_sentence": 2, "word_count": 42 },
+            { "file": "3.txt", "num_sentence": 3, "word_count": 34 },
+            { "file": "162.txt", "num_sentence": 1, "word_count": 1 }
+        ]
+    },
+    {
+        "name": "119.txt",
+        "copy_from": [
+            { "file": "218.txt", "num_sentence": 15, "word_count": 267 },
+            { "file": "12.txt", "num_sentence": 8, "word_count": 191 },
+            { "file": "176.txt", "num_sentence": 9, "word_count": 167 },
+            { "file": "32.txt", "num_sentence": 4, "word_count": 33 },
+            { "file": "165.txt", "num_sentence": 1, "word_count": 0 }
+        ]
+    },
+    {
+        "name": "12.txt",
+        "copy_from": [
+            { "file": "153.txt", "num_sentence": 13, "word_count": 275 },
+            { "file": "250.txt", "num_sentence": 11, "word_count": 261 },
+            { "file": "281.txt", "num_sentence": 15, "word_count": 185 },
+            { "file": "92.txt", "num_sentence": 4, "word_count": 47 },
+            { "file": "5.txt", "num_sentence": 2, "word_count": 20 }
+        ]
+    },
+    {
+        "name": "120.txt",
+        "copy_from": [
+            { "file": "20.txt", "num_sentence": 11, "word_count": 140 },
+            { "file": "302.txt", "num_sentence": 3, "word_count": 52 },
+            { "file": "51.txt", "num_sentence": 2, "word_count": 42 },
+            { "file": "46.txt", "num_sentence": 6, "word_count": 27 },
+            { "file": "336.txt", "num_sentence": 1, "word_count": 7 }
+        ]
+    },
+    {
+        "name": "121.txt",
+        "copy_from": [
+            { "file": "159.txt", "num_sentence": 15, "word_count": 318 },
+            { "file": "212.txt", "num_sentence": 12, "word_count": 173 },
+            { "file": "268.txt", "num_sentence": 11, "word_count": 164 },
+            { "file": "189.txt", "num_sentence": 2, "word_count": 45 },
+            { "file": "298.txt", "num_sentence": 3, "word_count": 45 }
+        ]
+    },
+    {
+        "name": "122.txt",
+        "copy_from": [
+            { "file": "336.txt", "num_sentence": 11, "word_count": 283 },
+            { "file": "321.txt", "num_sentence": 11, "word_count": 206 },
+            { "file": "251.txt", "num_sentence": 10, "word_count": 162 },
+            { "file": "270.txt", "num_sentence": 7, "word_count": 105 },
+            { "file": "357.txt", "num_sentence": 1, "word_count": 16 }
+        ]
+    },
+    {
+        "name": "123.txt",
+        "copy_from": [
+            { "file": "74.txt", "num_sentence": 15, "word_count": 291 },
+            { "file": "365.txt", "num_sentence": 15, "word_count": 196 },
+            { "file": "78.txt", "num_sentence": 6, "word_count": 75 },
+            { "file": "39.txt", "num_sentence": 3, "word_count": 35 },
+            { "file": "272.txt", "num_sentence": 2, "word_count": 34 }
+        ]
+    },
+    {
+        "name": "124.txt",
+        "copy_from": [
+            { "file": "350.txt", "num_sentence": 12, "word_count": 216 },
+            { "file": "97.txt", "num_sentence": 7, "word_count": 163 },
+            { "file": "298.txt", "num_sentence": 6, "word_count": 155 },
+            { "file": "285.txt", "num_sentence": 4, "word_count": 90 },
+            { "file": "154.txt", "num_sentence": 2, "word_count": 43 }
+        ]
+    },
+    {
+        "name": "125.txt",
+        "copy_from": [
+            { "file": "36.txt", "num_sentence": 13, "word_count": 385 },
+            { "file": "288.txt", "num_sentence": 12, "word_count": 233 },
+            { "file": "100.txt", "num_sentence": 3, "word_count": 66 },
+            { "file": "319.txt", "num_sentence": 6, "word_count": 59 },
+            { "file": "349.txt", "num_sentence": 1, "word_count": 5 }
+        ]
+    },
+    {
+        "name": "126.txt",
+        "copy_from": [
+            { "file": "41.txt", "num_sentence": 9, "word_count": 142 },
+            { "file": "167.txt", "num_sentence": 5, "word_count": 132 },
+            { "file": "325.txt", "num_sentence": 5, "word_count": 101 },
+            { "file": "239.txt", "num_sentence": 6, "word_count": 72 },
+            { "file": "277.txt", "num_sentence": 3, "word_count": 52 }
+        ]
+    },
+    {
+        "name": "127.txt",
+        "copy_from": [
+            { "file": "348.txt", "num_sentence": 14, "word_count": 236 },
+            { "file": "270.txt", "num_sentence": 11, "word_count": 221 },
+            { "file": "302.txt", "num_sentence": 5, "word_count": 150 },
+            { "file": "223.txt", "num_sentence": 9, "word_count": 132 },
+            { "file": "268.txt", "num_sentence": 7, "word_count": 84 }
+        ]
+    },
+    {
+        "name": "128.txt",
+        "copy_from": [
+            { "file": "126.txt", "num_sentence": 11, "word_count": 260 },
+            { "file": "205.txt", "num_sentence": 15, "word_count": 197 },
+            { "file": "112.txt", "num_sentence": 11, "word_count": 169 },
+            { "file": "101.txt", "num_sentence": 3, "word_count": 36 },
+            { "file": "102.txt", "num_sentence": 4, "word_count": 24 }
+        ]
+    },
+    {
+        "name": "129.txt",
+        "copy_from": [
+            { "file": "215.txt", "num_sentence": 15, "word_count": 214 },
+            { "file": "202.txt", "num_sentence": 10, "word_count": 146 },
+            { "file": "54.txt", "num_sentence": 3, "word_count": 38 },
+            { "file": "244.txt", "num_sentence": 2, "word_count": 24 },
+            { "file": "108.txt", "num_sentence": 3, "word_count": 0 }
+        ]
+    },
+    {
+        "name": "13.txt",
+        "copy_from": [
+            { "file": "100.txt", "num_sentence": 12, "word_count": 314 },
+            { "file": "100.txt", "num_sentence": 9, "word_count": 257 },
+            { "file": "330.txt", "num_sentence": 13, "word_count": 210 },
+            { "file": "335.txt", "num_sentence": 4, "word_count": 120 },
+            { "file": "187.txt", "num_sentence": 7, "word_count": 86 }
+        ]
+    },
+    {
+        "name": "130.txt",
+        "copy_from": [
+            { "file": "170.txt", "num_sentence": 15, "word_count": 295 },
+            { "file": "340.txt", "num_sentence": 10, "word_count": 260 },
+            { "file": "139.txt", "num_sentence": 9, "word_count": 246 },
+            { "file": "27.txt", "num_sentence": 12, "word_count": 156 },
+            { "file": "369.txt", "num_sentence": 3, "word_count": 26 }
+        ]
+    },
+    {
+        "name": "131.txt",
+        "copy_from": [
+            { "file": "149.txt", "num_sentence": 13, "word_count": 351 },
+            { "file": "122.txt", "num_sentence": 11, "word_count": 258 },
+            { "file": "225.txt", "num_sentence": 13, "word_count": 242 },
+            { "file": "178.txt", "num_sentence": 10, "word_count": 127 },
+            { "file": "177.txt", "num_sentence": 9, "word_count": 77 }
+        ]
+    },
+    {
+        "name": "132.txt",
+        "copy_from": [
+            { "file": "88.txt", "num_sentence": 8, "word_count": 215 },
+            { "file": "131.txt", "num_sentence": 12, "word_count": 212 },
+            { "file": "215.txt", "num_sentence": 10, "word_count": 149 },
+            { "file": "351.txt", "num_sentence": 10, "word_count": 133 },
+            { "file": "203.txt", "num_sentence": 7, "word_count": 70 }
+        ]
+    },
+    {
+        "name": "133.txt",
+        "copy_from": [
+            { "file": "295.txt", "num_sentence": 14, "word_count": 230 },
+            { "file": "374.txt", "num_sentence": 8, "word_count": 175 },
+            { "file": "324.txt", "num_sentence": 6, "word_count": 168 },
+            { "file": "227.txt", "num_sentence": 10, "word_count": 155 },
+            { "file": "304.txt", "num_sentence": 4, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "134.txt",
+        "copy_from": [
+            { "file": "252.txt", "num_sentence": 10, "word_count": 287 },
+            { "file": "62.txt", "num_sentence": 10, "word_count": 227 },
+            { "file": "218.txt", "num_sentence": 10, "word_count": 202 },
+            { "file": "27.txt", "num_sentence": 7, "word_count": 118 },
+            { "file": "214.txt", "num_sentence": 5, "word_count": 84 }
+        ]
+    },
+    {
+        "name": "135.txt",
+        "copy_from": [
+            { "file": "270.txt", "num_sentence": 13, "word_count": 279 },
+            { "file": "31.txt", "num_sentence": 6, "word_count": 134 },
+            { "file": "53.txt", "num_sentence": 8, "word_count": 116 },
+            { "file": "30.txt", "num_sentence": 4, "word_count": 109 },
+            { "file": "133.txt", "num_sentence": 3, "word_count": 61 }
+        ]
+    },
+    {
+        "name": "136.txt",
+        "copy_from": [
+            { "file": "135.txt", "num_sentence": 13, "word_count": 250 },
+            { "file": "6.txt", "num_sentence": 12, "word_count": 163 },
+            { "file": "46.txt", "num_sentence": 6, "word_count": 99 },
+            { "file": "117.txt", "num_sentence": 3, "word_count": 70 },
+            { "file": "147.txt", "num_sentence": 8, "word_count": 53 }
+        ]
+    },
+    {
+        "name": "137.txt",
+        "copy_from": [
+            { "file": "109.txt", "num_sentence": 11, "word_count": 220 },
+            { "file": "157.txt", "num_sentence": 5, "word_count": 116 },
+            { "file": "130.txt", "num_sentence": 3, "word_count": 64 },
+            { "file": "164.txt", "num_sentence": 2, "word_count": 40 },
+            { "file": "373.txt", "num_sentence": 3, "word_count": 30 }
+        ]
+    },
+    {
+        "name": "138.txt",
+        "copy_from": [
+            { "file": "260.txt", "num_sentence": 11, "word_count": 176 },
+            { "file": "244.txt", "num_sentence": 10, "word_count": 173 },
+            { "file": "103.txt", "num_sentence": 8, "word_count": 169 },
+            { "file": "331.txt", "num_sentence": 8, "word_count": 159 },
+            { "file": "122.txt", "num_sentence": 15, "word_count": 144 }
+        ]
+    },
+    {
+        "name": "139.txt",
+        "copy_from": [
+            { "file": "350.txt", "num_sentence": 15, "word_count": 375 },
+            { "file": "128.txt", "num_sentence": 12, "word_count": 222 },
+            { "file": "134.txt", "num_sentence": 12, "word_count": 219 },
+            { "file": "235.txt", "num_sentence": 9, "word_count": 133 },
+            { "file": "132.txt", "num_sentence": 1, "word_count": 13 }
+        ]
+    },
+    {
+        "name": "14.txt",
+        "copy_from": [
+            { "file": "301.txt", "num_sentence": 13, "word_count": 315 },
+            { "file": "318.txt", "num_sentence": 11, "word_count": 293 },
+            { "file": "260.txt", "num_sentence": 10, "word_count": 186 },
+            { "file": "330.txt", "num_sentence": 3, "word_count": 32 },
+            { "file": "55.txt", "num_sentence": 3, "word_count": 24 }
+        ]
+    },
+    {
+        "name": "140.txt",
+        "copy_from": [
+            { "file": "282.txt", "num_sentence": 8, "word_count": 162 },
+            { "file": "282.txt", "num_sentence": 5, "word_count": 139 },
+            { "file": "240.txt", "num_sentence": 5, "word_count": 112 },
+            { "file": "51.txt", "num_sentence": 7, "word_count": 94 },
+            { "file": "218.txt", "num_sentence": 2, "word_count": 30 }
+        ]
+    },
+    {
+        "name": "141.txt",
+        "copy_from": [
+            { "file": "294.txt", "num_sentence": 15, "word_count": 208 },
+            { "file": "107.txt", "num_sentence": 13, "word_count": 166 },
+            { "file": "283.txt", "num_sentence": 10, "word_count": 164 },
+            { "file": "159.txt", "num_sentence": 11, "word_count": 145 },
+            { "file": "202.txt", "num_sentence": 5, "word_count": 117 }
+        ]
+    },
+    {
+        "name": "142.txt",
+        "copy_from": [
+            { "file": "212.txt", "num_sentence": 13, "word_count": 318 },
+            { "file": "76.txt", "num_sentence": 7, "word_count": 187 },
+            { "file": "332.txt", "num_sentence": 10, "word_count": 168 },
+            { "file": "124.txt", "num_sentence": 3, "word_count": 53 },
+            { "file": "39.txt", "num_sentence": 1, "word_count": 18 }
+        ]
+    },
+    {
+        "name": "143.txt",
+        "copy_from": [
+            { "file": "193.txt", "num_sentence": 14, "word_count": 180 },
+            { "file": "319.txt", "num_sentence": 4, "word_count": 81 },
+            { "file": "40.txt", "num_sentence": 11, "word_count": 76 },
+            { "file": "294.txt", "num_sentence": 4, "word_count": 67 },
+            { "file": "199.txt", "num_sentence": 1, "word_count": 10 }
+        ]
+    },
+    {
+        "name": "144.txt",
+        "copy_from": [
+            { "file": "43.txt", "num_sentence": 8, "word_count": 186 },
+            { "file": "198.txt", "num_sentence": 15, "word_count": 170 },
+            { "file": "189.txt", "num_sentence": 9, "word_count": 168 },
+            { "file": "20.txt", "num_sentence": 7, "word_count": 133 },
+            { "file": "135.txt", "num_sentence": 1, "word_count": 20 }
+        ]
+    },
+    {
+        "name": "145.txt",
+        "copy_from": [
+            { "file": "185.txt", "num_sentence": 9, "word_count": 156 },
+            { "file": "351.txt", "num_sentence": 9, "word_count": 122 },
+            { "file": "325.txt", "num_sentence": 6, "word_count": 96 },
+            { "file": "115.txt", "num_sentence": 5, "word_count": 76 },
+            { "file": "336.txt", "num_sentence": 1, "word_count": 23 }
+        ]
+    },
+    {
+        "name": "146.txt",
+        "copy_from": [
+            { "file": "191.txt", "num_sentence": 14, "word_count": 331 },
+            { "file": "321.txt", "num_sentence": 8, "word_count": 152 },
+            { "file": "328.txt", "num_sentence": 8, "word_count": 136 },
+            { "file": "84.txt", "num_sentence": 7, "word_count": 71 },
+            { "file": "325.txt", "num_sentence": 2, "word_count": 0 }
+        ]
+    },
+    {
+        "name": "147.txt",
+        "copy_from": [
+            { "file": "338.txt", "num_sentence": 13, "word_count": 188 },
+            { "file": "322.txt", "num_sentence": 8, "word_count": 162 },
+            { "file": "339.txt", "num_sentence": 7, "word_count": 108 },
+            { "file": "355.txt", "num_sentence": 4, "word_count": 76 },
+            { "file": "337.txt", "num_sentence": 3, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "148.txt",
+        "copy_from": [
+            { "file": "119.txt", "num_sentence": 14, "word_count": 346 },
+            { "file": "279.txt", "num_sentence": 7, "word_count": 206 },
+            { "file": "328.txt", "num_sentence": 5, "word_count": 123 },
+            { "file": "235.txt", "num_sentence": 5, "word_count": 102 },
+            { "file": "273.txt", "num_sentence": 2, "word_count": 44 }
+        ]
+    },
+    {
+        "name": "149.txt",
+        "copy_from": [
+            { "file": "43.txt", "num_sentence": 13, "word_count": 173 },
+            { "file": "304.txt", "num_sentence": 5, "word_count": 100 },
+            { "file": "117.txt", "num_sentence": 4, "word_count": 87 },
+            { "file": "340.txt", "num_sentence": 3, "word_count": 67 },
+            { "file": "84.txt", "num_sentence": 11, "word_count": 61 }
+        ]
+    },
+    {
+        "name": "15.txt",
+        "copy_from": [
+            { "file": "171.txt", "num_sentence": 8, "word_count": 170 },
+            { "file": "53.txt", "num_sentence": 5, "word_count": 117 },
+            { "file": "157.txt", "num_sentence": 6, "word_count": 100 },
+            { "file": "24.txt", "num_sentence": 4, "word_count": 93 },
+            { "file": "356.txt", "num_sentence": 1, "word_count": 4 }
+        ]
+    },
+    {
+        "name": "150.txt",
+        "copy_from": [
+            { "file": "144.txt", "num_sentence": 15, "word_count": 324 },
+            { "file": "6.txt", "num_sentence": 9, "word_count": 180 },
+            { "file": "347.txt", "num_sentence": 11, "word_count": 148 },
+            { "file": "180.txt", "num_sentence": 5, "word_count": 87 },
+            { "file": "94.txt", "num_sentence": 6, "word_count": 83 }
+        ]
+    },
+    {
+        "name": "151.txt",
+        "copy_from": [
+            { "file": "375.txt", "num_sentence": 7, "word_count": 221 },
+            { "file": "114.txt", "num_sentence": 6, "word_count": 112 },
+            { "file": "216.txt", "num_sentence": 11, "word_count": 110 },
+            { "file": "132.txt", "num_sentence": 5, "word_count": 88 },
+            { "file": "55.txt", "num_sentence": 1, "word_count": 17 }
+        ]
+    },
+    {
+        "name": "152.txt",
+        "copy_from": [
+            { "file": "156.txt", "num_sentence": 12, "word_count": 324 },
+            { "file": "299.txt", "num_sentence": 10, "word_count": 186 },
+            { "file": "150.txt", "num_sentence": 6, "word_count": 158 },
+            { "file": "74.txt", "num_sentence": 11, "word_count": 145 },
+            { "file": "161.txt", "num_sentence": 3, "word_count": 59 }
+        ]
+    },
+    {
+        "name": "153.txt",
+        "copy_from": [
+            { "file": "180.txt", "num_sentence": 10, "word_count": 213 },
+            { "file": "175.txt", "num_sentence": 9, "word_count": 199 },
+            { "file": "321.txt", "num_sentence": 9, "word_count": 150 },
+            { "file": "349.txt", "num_sentence": 9, "word_count": 123 },
+            { "file": "157.txt", "num_sentence": 5, "word_count": 97 }
+        ]
+    },
+    {
+        "name": "154.txt",
+        "copy_from": [
+            { "file": "164.txt", "num_sentence": 13, "word_count": 367 },
+            { "file": "152.txt", "num_sentence": 15, "word_count": 313 },
+            { "file": "328.txt", "num_sentence": 15, "word_count": 200 },
+            { "file": "84.txt", "num_sentence": 12, "word_count": 149 },
+            { "file": "258.txt", "num_sentence": 9, "word_count": 134 }
+        ]
+    },
+    {
+        "name": "155.txt",
+        "copy_from": [
+            { "file": "59.txt", "num_sentence": 14, "word_count": 255 },
+            { "file": "168.txt", "num_sentence": 15, "word_count": 234 },
+            { "file": "25.txt", "num_sentence": 10, "word_count": 231 },
+            { "file": "229.txt", "num_sentence": 13, "word_count": 226 },
+            { "file": "158.txt", "num_sentence": 4, "word_count": 54 }
+        ]
+    },
+    {
+        "name": "156.txt",
+        "copy_from": [
+            { "file": "315.txt", "num_sentence": 13, "word_count": 353 },
+            { "file": "200.txt", "num_sentence": 9, "word_count": 228 },
+            { "file": "185.txt", "num_sentence": 11, "word_count": 139 },
+            { "file": "108.txt", "num_sentence": 11, "word_count": 137 },
+            { "file": "77.txt", "num_sentence": 1, "word_count": 1 }
+        ]
+    },
+    {
+        "name": "157.txt",
+        "copy_from": [
+            { "file": "1.txt", "num_sentence": 14, "word_count": 271 },
+            { "file": "368.txt", "num_sentence": 15, "word_count": 263 },
+            { "file": "172.txt", "num_sentence": 10, "word_count": 165 },
+            { "file": "309.txt", "num_sentence": 3, "word_count": 75 },
+            { "file": "108.txt", "num_sentence": 6, "word_count": 70 }
+        ]
+    },
+    {
+        "name": "158.txt",
+        "copy_from": [
+            { "file": "140.txt", "num_sentence": 13, "word_count": 275 },
+            { "file": "215.txt", "num_sentence": 5, "word_count": 153 },
+            { "file": "69.txt", "num_sentence": 9, "word_count": 130 },
+            { "file": "131.txt", "num_sentence": 2, "word_count": 55 },
+            { "file": "210.txt", "num_sentence": 2, "word_count": 50 }
+        ]
+    },
+    {
+        "name": "159.txt",
+        "copy_from": [
+            { "file": "223.txt", "num_sentence": 15, "word_count": 301 },
+            { "file": "99.txt", "num_sentence": 7, "word_count": 74 },
+            { "file": "66.txt", "num_sentence": 6, "word_count": 49 },
+            { "file": "8.txt", "num_sentence": 1, "word_count": 12 },
+            { "file": "22.txt", "num_sentence": 1, "word_count": 0 }
+        ]
+    },
+    {
+        "name": "16.txt",
+        "copy_from": [
+            { "file": "75.txt", "num_sentence": 15, "word_count": 267 },
+            { "file": "95.txt", "num_sentence": 12, "word_count": 243 },
+            { "file": "317.txt", "num_sentence": 10, "word_count": 169 },
+            { "file": "330.txt", "num_sentence": 4, "word_count": 80 },
+            { "file": "103.txt", "num_sentence": 3, "word_count": 36 }
+        ]
+    },
+    {
+        "name": "160.txt",
+        "copy_from": [
+            { "file": "123.txt", "num_sentence": 11, "word_count": 119 },
+            { "file": "196.txt", "num_sentence": 10, "word_count": 114 },
+            { "file": "44.txt", "num_sentence": 4, "word_count": 103 },
+            { "file": "32.txt", "num_sentence": 4, "word_count": 83 },
+            { "file": "354.txt", "num_sentence": 4, "word_count": 68 }
+        ]
+    },
+    {
+        "name": "161.txt",
+        "copy_from": [
+            { "file": "137.txt", "num_sentence": 10, "word_count": 166 },
+            { "file": "72.txt", "num_sentence": 5, "word_count": 123 },
+            { "file": "264.txt", "num_sentence": 11, "word_count": 97 },
+            { "file": "339.txt", "num_sentence": 4, "word_count": 84 },
+            { "file": "143.txt", "num_sentence": 7, "word_count": 50 }
+        ]
+    },
+    {
+        "name": "162.txt",
+        "copy_from": [
+            { "file": "149.txt", "num_sentence": 9, "word_count": 157 },
+            { "file": "308.txt", "num_sentence": 10, "word_count": 133 },
+            { "file": "91.txt", "num_sentence": 4, "word_count": 130 },
+            { "file": "203.txt", "num_sentence": 7, "word_count": 113 },
+            { "file": "365.txt", "num_sentence": 3, "word_count": 35 }
+        ]
+    },
+    {
+        "name": "163.txt",
+        "copy_from": [
+            { "file": "220.txt", "num_sentence": 15, "word_count": 337 },
+            { "file": "77.txt", "num_sentence": 10, "word_count": 197 },
+            { "file": "269.txt", "num_sentence": 4, "word_count": 122 },
+            { "file": "300.txt", "num_sentence": 4, "word_count": 96 },
+            { "file": "70.txt", "num_sentence": 2, "word_count": 27 }
+        ]
+    },
+    {
+        "name": "164.txt",
+        "copy_from": [
+            { "file": "155.txt", "num_sentence": 8, "word_count": 251 },
+            { "file": "198.txt", "num_sentence": 12, "word_count": 210 },
+            { "file": "242.txt", "num_sentence": 11, "word_count": 108 },
+            { "file": "144.txt", "num_sentence": 8, "word_count": 101 },
+            { "file": "95.txt", "num_sentence": 3, "word_count": 24 }
+        ]
+    },
+    {
+        "name": "165.txt",
+        "copy_from": [
+            { "file": "192.txt", "num_sentence": 14, "word_count": 275 },
+            { "file": "303.txt", "num_sentence": 14, "word_count": 249 },
+            { "file": "120.txt", "num_sentence": 10, "word_count": 223 },
+            { "file": "125.txt", "num_sentence": 3, "word_count": 67 },
+            { "file": "108.txt", "num_sentence": 1, "word_count": 21 }
+        ]
+    },
+    {
+        "name": "166.txt",
+        "copy_from": [
+            { "file": "315.txt", "num_sentence": 5, "word_count": 110 },
+            { "file": "170.txt", "num_sentence": 5, "word_count": 98 },
+            { "file": "257.txt", "num_sentence": 4, "word_count": 91 },
+            { "file": "247.txt", "num_sentence": 2, "word_count": 49 },
+            { "file": "314.txt", "num_sentence": 1, "word_count": 19 }
+        ]
+    },
+    {
+        "name": "167.txt",
+        "copy_from": [
+            { "file": "290.txt", "num_sentence": 15, "word_count": 254 },
+            { "file": "68.txt", "num_sentence": 11, "word_count": 215 },
+            { "file": "188.txt", "num_sentence": 5, "word_count": 176 },
+            { "file": "260.txt", "num_sentence": 5, "word_count": 63 },
+            { "file": "216.txt", "num_sentence": 4, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "168.txt",
+        "copy_from": [
+            { "file": "88.txt", "num_sentence": 12, "word_count": 356 },
+            { "file": "307.txt", "num_sentence": 13, "word_count": 261 },
+            { "file": "117.txt", "num_sentence": 7, "word_count": 164 },
+            { "file": "259.txt", "num_sentence": 5, "word_count": 83 },
+            { "file": "118.txt", "num_sentence": 5, "word_count": 69 }
+        ]
+    },
+    {
+        "name": "169.txt",
+        "copy_from": [
+            { "file": "297.txt", "num_sentence": 15, "word_count": 313 },
+            { "file": "220.txt", "num_sentence": 15, "word_count": 292 },
+            { "file": "247.txt", "num_sentence": 10, "word_count": 224 },
+            { "file": "103.txt", "num_sentence": 8, "word_count": 151 },
+            { "file": "83.txt", "num_sentence": 6, "word_count": 94 }
+        ]
+    },
+    {
+        "name": "17.txt",
+        "copy_from": [
+            { "file": "279.txt", "num_sentence": 8, "word_count": 275 },
+            { "file": "100.txt", "num_sentence": 14, "word_count": 263 },
+            { "file": "310.txt", "num_sentence": 9, "word_count": 200 },
+            { "file": "220.txt", "num_sentence": 11, "word_count": 149 },
+            { "file": "253.txt", "num_sentence": 6, "word_count": 125 }
+        ]
+    },
+    {
+        "name": "170.txt",
+        "copy_from": [
+            { "file": "347.txt", "num_sentence": 10, "word_count": 196 },
+            { "file": "100.txt", "num_sentence": 8, "word_count": 132 },
+            { "file": "372.txt", "num_sentence": 8, "word_count": 113 },
+            { "file": "299.txt", "num_sentence": 4, "word_count": 47 },
+            { "file": "241.txt", "num_sentence": 1, "word_count": 28 }
+        ]
+    },
+    {
+        "name": "171.txt",
+        "copy_from": [
+            { "file": "17.txt", "num_sentence": 10, "word_count": 228 },
+            { "file": "257.txt", "num_sentence": 2, "word_count": 70 },
+            { "file": "101.txt", "num_sentence": 5, "word_count": 36 },
+            { "file": "154.txt", "num_sentence": 2, "word_count": 33 },
+            { "file": "5.txt", "num_sentence": 1, "word_count": 20 }
+        ]
+    },
+    {
+        "name": "172.txt",
+        "copy_from": [
+            { "file": "291.txt", "num_sentence": 14, "word_count": 317 },
+            { "file": "178.txt", "num_sentence": 13, "word_count": 222 },
+            { "file": "69.txt", "num_sentence": 6, "word_count": 147 },
+            { "file": "22.txt", "num_sentence": 4, "word_count": 95 },
+            { "file": "177.txt", "num_sentence": 2, "word_count": 9 }
+        ]
+    },
+    {
+        "name": "173.txt",
+        "copy_from": [
+            { "file": "82.txt", "num_sentence": 12, "word_count": 307 },
+            { "file": "26.txt", "num_sentence": 8, "word_count": 171 },
+            { "file": "191.txt", "num_sentence": 5, "word_count": 130 },
+            { "file": "329.txt", "num_sentence": 5, "word_count": 97 },
+            { "file": "1.txt", "num_sentence": 2, "word_count": 42 }
+        ]
+    },
+    {
+        "name": "174.txt",
+        "copy_from": [
+            { "file": "145.txt", "num_sentence": 13, "word_count": 286 },
+            { "file": "161.txt", "num_sentence": 8, "word_count": 282 },
+            { "file": "223.txt", "num_sentence": 14, "word_count": 231 },
+            { "file": "28.txt", "num_sentence": 11, "word_count": 102 },
+            { "file": "253.txt", "num_sentence": 1, "word_count": 22 }
+        ]
+    },
+    {
+        "name": "175.txt",
+        "copy_from": [
+            { "file": "149.txt", "num_sentence": 15, "word_count": 320 },
+            { "file": "167.txt", "num_sentence": 12, "word_count": 154 },
+            { "file": "227.txt", "num_sentence": 6, "word_count": 115 },
+            { "file": "132.txt", "num_sentence": 8, "word_count": 112 },
+            { "file": "288.txt", "num_sentence": 11, "word_count": 95 }
+        ]
+    },
+    {
+        "name": "176.txt",
+        "copy_from": [
+            { "file": "2.txt", "num_sentence": 14, "word_count": 269 },
+            { "file": "52.txt", "num_sentence": 7, "word_count": 226 },
+            { "file": "204.txt", "num_sentence": 8, "word_count": 193 },
+            { "file": "289.txt", "num_sentence": 12, "word_count": 184 },
+            { "file": "207.txt", "num_sentence": 6, "word_count": 100 }
+        ]
+    },
+    {
+        "name": "177.txt",
+        "copy_from": [
+            { "file": "36.txt", "num_sentence": 15, "word_count": 309 },
+            { "file": "135.txt", "num_sentence": 14, "word_count": 273 },
+            { "file": "209.txt", "num_sentence": 15, "word_count": 241 },
+            { "file": "180.txt", "num_sentence": 10, "word_count": 193 },
+            { "file": "4.txt", "num_sentence": 9, "word_count": 100 }
+        ]
+    },
+    {
+        "name": "178.txt",
+        "copy_from": [
+            { "file": "288.txt", "num_sentence": 9, "word_count": 237 },
+            { "file": "305.txt", "num_sentence": 9, "word_count": 208 },
+            { "file": "166.txt", "num_sentence": 6, "word_count": 179 },
+            { "file": "288.txt", "num_sentence": 7, "word_count": 140 },
+            { "file": "33.txt", "num_sentence": 5, "word_count": 112 }
+        ]
+    },
+    {
+        "name": "179.txt",
+        "copy_from": [
+            { "file": "102.txt", "num_sentence": 12, "word_count": 305 },
+            { "file": "322.txt", "num_sentence": 11, "word_count": 188 },
+            { "file": "177.txt", "num_sentence": 14, "word_count": 143 },
+            { "file": "202.txt", "num_sentence": 5, "word_count": 108 },
+            { "file": "334.txt", "num_sentence": 4, "word_count": 68 }
+        ]
+    },
+    {
+        "name": "18.txt",
+        "copy_from": [
+            { "file": "16.txt", "num_sentence": 7, "word_count": 152 },
+            { "file": "233.txt", "num_sentence": 4, "word_count": 79 },
+            { "file": "167.txt", "num_sentence": 2, "word_count": 52 },
+            { "file": "315.txt", "num_sentence": 2, "word_count": 49 },
+            { "file": "179.txt", "num_sentence": 1, "word_count": 3 }
+        ]
+    },
+    {
+        "name": "180.txt",
+        "copy_from": [
+            { "file": "61.txt", "num_sentence": 9, "word_count": 221 },
+            { "file": "322.txt", "num_sentence": 13, "word_count": 173 },
+            { "file": "224.txt", "num_sentence": 7, "word_count": 135 },
+            { "file": "276.txt", "num_sentence": 9, "word_count": 119 },
+            { "file": "128.txt", "num_sentence": 5, "word_count": 107 }
+        ]
+    },
+    {
+        "name": "181.txt",
+        "copy_from": [
+            { "file": "56.txt", "num_sentence": 13, "word_count": 243 },
+            { "file": "259.txt", "num_sentence": 9, "word_count": 180 },
+            { "file": "139.txt", "num_sentence": 14, "word_count": 153 },
+            { "file": "53.txt", "num_sentence": 7, "word_count": 36 },
+            { "file": "83.txt", "num_sentence": 4, "word_count": 32 }
+        ]
+    },
+    {
+        "name": "182.txt",
+        "copy_from": [
+            { "file": "60.txt", "num_sentence": 14, "word_count": 300 },
+            { "file": "287.txt", "num_sentence": 11, "word_count": 208 },
+            { "file": "338.txt", "num_sentence": 8, "word_count": 172 },
+            { "file": "59.txt", "num_sentence": 4, "word_count": 116 },
+            { "file": "228.txt", "num_sentence": 4, "word_count": 61 }
+        ]
+    },
+    {
+        "name": "183.txt",
+        "copy_from": [
+            { "file": "97.txt", "num_sentence": 15, "word_count": 298 },
+            { "file": "18.txt", "num_sentence": 12, "word_count": 271 },
+            { "file": "295.txt", "num_sentence": 10, "word_count": 232 },
+            { "file": "329.txt", "num_sentence": 5, "word_count": 108 },
+            { "file": "296.txt", "num_sentence": 8, "word_count": 89 }
+        ]
+    },
+    {
+        "name": "184.txt",
+        "copy_from": [
+            { "file": "65.txt", "num_sentence": 15, "word_count": 223 },
+            { "file": "103.txt", "num_sentence": 6, "word_count": 170 },
+            { "file": "364.txt", "num_sentence": 6, "word_count": 134 },
+            { "file": "56.txt", "num_sentence": 6, "word_count": 124 },
+            { "file": "227.txt", "num_sentence": 8, "word_count": 98 }
+        ]
+    },
+    {
+        "name": "185.txt",
+        "copy_from": [
+            { "file": "161.txt", "num_sentence": 13, "word_count": 265 },
+            { "file": "309.txt", "num_sentence": 14, "word_count": 232 },
+            { "file": "269.txt", "num_sentence": 6, "word_count": 216 },
+            { "file": "56.txt", "num_sentence": 7, "word_count": 180 },
+            { "file": "54.txt", "num_sentence": 1, "word_count": 34 }
+        ]
+    },
+    {
+        "name": "186.txt",
+        "copy_from": [
+            { "file": "222.txt", "num_sentence": 13, "word_count": 283 },
+            { "file": "7.txt", "num_sentence": 14, "word_count": 235 },
+            { "file": "130.txt", "num_sentence": 9, "word_count": 157 },
+            { "file": "251.txt", "num_sentence": 4, "word_count": 46 },
+            { "file": "270.txt", "num_sentence": 3, "word_count": 3 }
+        ]
+    },
+    {
+        "name": "187.txt",
+        "copy_from": [
+            { "file": "10.txt", "num_sentence": 15, "word_count": 294 },
+            { "file": "256.txt", "num_sentence": 9, "word_count": 174 },
+            { "file": "62.txt", "num_sentence": 8, "word_count": 134 },
+            { "file": "356.txt", "num_sentence": 8, "word_count": 97 },
+            { "file": "200.txt", "num_sentence": 3, "word_count": 20 }
+        ]
+    },
+    {
+        "name": "188.txt",
+        "copy_from": [
+            { "file": "155.txt", "num_sentence": 13, "word_count": 337 },
+            { "file": "15.txt", "num_sentence": 8, "word_count": 156 },
+            { "file": "56.txt", "num_sentence": 8, "word_count": 112 },
+            { "file": "244.txt", "num_sentence": 4, "word_count": 67 },
+            { "file": "199.txt", "num_sentence": 2, "word_count": 37 }
+        ]
+    },
+    {
+        "name": "189.txt",
+        "copy_from": [
+            { "file": "341.txt", "num_sentence": 14, "word_count": 280 },
+            { "file": "295.txt", "num_sentence": 14, "word_count": 276 },
+            { "file": "111.txt", "num_sentence": 7, "word_count": 211 },
+            { "file": "326.txt", "num_sentence": 11, "word_count": 168 },
+            { "file": "163.txt", "num_sentence": 3, "word_count": 5 }
+        ]
+    },
+    {
+        "name": "19.txt",
+        "copy_from": [
+            { "file": "349.txt", "num_sentence": 11, "word_count": 274 },
+            { "file": "182.txt", "num_sentence": 8, "word_count": 182 },
+            { "file": "371.txt", "num_sentence": 7, "word_count": 97 },
+            { "file": "347.txt", "num_sentence": 2, "word_count": 49 },
+            { "file": "325.txt", "num_sentence": 5, "word_count": 46 }
+        ]
+    },
+    {
+        "name": "190.txt",
+        "copy_from": [
+            { "file": "333.txt", "num_sentence": 12, "word_count": 416 },
+            { "file": "346.txt", "num_sentence": 11, "word_count": 243 },
+            { "file": "332.txt", "num_sentence": 12, "word_count": 211 },
+            { "file": "179.txt", "num_sentence": 9, "word_count": 125 },
+            { "file": "174.txt", "num_sentence": 4, "word_count": 51 }
+        ]
+    },
+    {
+        "name": "191.txt",
+        "copy_from": [
+            { "file": "77.txt", "num_sentence": 13, "word_count": 253 },
+            { "file": "33.txt", "num_sentence": 9, "word_count": 206 },
+            { "file": "245.txt", "num_sentence": 9, "word_count": 182 },
+            { "file": "18.txt", "num_sentence": 15, "word_count": 132 },
+            { "file": "75.txt", "num_sentence": 6, "word_count": 70 }
+        ]
+    },
+    {
+        "name": "192.txt",
+        "copy_from": [
+            { "file": "74.txt", "num_sentence": 12, "word_count": 318 },
+            { "file": "150.txt", "num_sentence": 12, "word_count": 197 },
+            { "file": "362.txt", "num_sentence": 3, "word_count": 95 },
+            { "file": "249.txt", "num_sentence": 6, "word_count": 57 },
+            { "file": "257.txt", "num_sentence": 1, "word_count": 32 }
+        ]
+    },
+    {
+        "name": "193.txt",
+        "copy_from": [
+            { "file": "224.txt", "num_sentence": 15, "word_count": 222 },
+            { "file": "226.txt", "num_sentence": 7, "word_count": 176 },
+            { "file": "158.txt", "num_sentence": 7, "word_count": 136 },
+            { "file": "80.txt", "num_sentence": 7, "word_count": 106 },
+            { "file": "69.txt", "num_sentence": 4, "word_count": 52 }
+        ]
+    },
+    {
+        "name": "194.txt",
+        "copy_from": [
+            { "file": "170.txt", "num_sentence": 12, "word_count": 153 },
+            { "file": "185.txt", "num_sentence": 14, "word_count": 102 },
+            { "file": "210.txt", "num_sentence": 1, "word_count": 37 },
+            { "file": "189.txt", "num_sentence": 1, "word_count": 17 },
+            { "file": "173.txt", "num_sentence": 1, "word_count": 15 }
+        ]
+    },
+    {
+        "name": "195.txt",
+        "copy_from": [
+            { "file": "230.txt", "num_sentence": 14, "word_count": 306 },
+            { "file": "60.txt", "num_sentence": 15, "word_count": 304 },
+            { "file": "162.txt", "num_sentence": 15, "word_count": 278 },
+            { "file": "364.txt", "num_sentence": 9, "word_count": 164 },
+            { "file": "124.txt", "num_sentence": 5, "word_count": 150 }
+        ]
+    },
+    {
+        "name": "196.txt",
+        "copy_from": [
+            { "file": "264.txt", "num_sentence": 8, "word_count": 214 },
+            { "file": "188.txt", "num_sentence": 4, "word_count": 97 },
+            { "file": "31.txt", "num_sentence": 7, "word_count": 80 },
+            { "file": "33.txt", "num_sentence": 1, "word_count": 15 },
+            { "file": "268.txt", "num_sentence": 4, "word_count": 3 }
+        ]
+    },
+    {
+        "name": "197.txt",
+        "copy_from": [
+            { "file": "215.txt", "num_sentence": 15, "word_count": 308 },
+            { "file": "116.txt", "num_sentence": 14, "word_count": 157 },
+            { "file": "288.txt", "num_sentence": 5, "word_count": 111 },
+            { "file": "325.txt", "num_sentence": 5, "word_count": 83 },
+            { "file": "170.txt", "num_sentence": 1, "word_count": 23 }
+        ]
+    },
+    {
+        "name": "198.txt",
+        "copy_from": [
+            { "file": "159.txt", "num_sentence": 15, "word_count": 346 },
+            { "file": "360.txt", "num_sentence": 13, "word_count": 306 },
+            { "file": "201.txt", "num_sentence": 15, "word_count": 255 },
+            { "file": "165.txt", "num_sentence": 8, "word_count": 182 },
+            { "file": "304.txt", "num_sentence": 9, "word_count": 136 }
+        ]
+    },
+    {
+        "name": "199.txt",
+        "copy_from": [
+            { "file": "183.txt", "num_sentence": 11, "word_count": 196 },
+            { "file": "80.txt", "num_sentence": 8, "word_count": 164 },
+            { "file": "47.txt", "num_sentence": 11, "word_count": 102 },
+            { "file": "195.txt", "num_sentence": 2, "word_count": 35 },
+            { "file": "242.txt", "num_sentence": 2, "word_count": 26 }
+        ]
+    },
+    {
+        "name": "2.txt",
+        "copy_from": [
+            { "file": "232.txt", "num_sentence": 10, "word_count": 298 },
+            { "file": "318.txt", "num_sentence": 15, "word_count": 126 },
+            { "file": "322.txt", "num_sentence": 7, "word_count": 116 },
+            { "file": "365.txt", "num_sentence": 6, "word_count": 58 },
+            { "file": "76.txt", "num_sentence": 3, "word_count": 54 }
+        ]
+    },
+    {
+        "name": "20.txt",
+        "copy_from": [
+            { "file": "23.txt", "num_sentence": 12, "word_count": 180 },
+            { "file": "177.txt", "num_sentence": 12, "word_count": 152 },
+            { "file": "30.txt", "num_sentence": 8, "word_count": 144 },
+            { "file": "84.txt", "num_sentence": 5, "word_count": 77 },
+            { "file": "368.txt", "num_sentence": 6, "word_count": 40 }
+        ]
+    },
+    {
+        "name": "200.txt",
+        "copy_from": [
+            { "file": "357.txt", "num_sentence": 12, "word_count": 337 },
+            { "file": "80.txt", "num_sentence": 13, "word_count": 180 },
+            { "file": "305.txt", "num_sentence": 9, "word_count": 163 },
+            { "file": "185.txt", "num_sentence": 10, "word_count": 143 },
+            { "file": "124.txt", "num_sentence": 8, "word_count": 110 }
+        ]
+    },
+    {
+        "name": "201.txt",
+        "copy_from": [
+            { "file": "334.txt", "num_sentence": 5, "word_count": 132 },
+            { "file": "123.txt", "num_sentence": 8, "word_count": 106 },
+            { "file": "152.txt", "num_sentence": 7, "word_count": 98 },
+            { "file": "86.txt", "num_sentence": 4, "word_count": 37 },
+            { "file": "286.txt", "num_sentence": 2, "word_count": 11 }
+        ]
+    },
+    {
+        "name": "202.txt",
+        "copy_from": [
+            { "file": "340.txt", "num_sentence": 13, "word_count": 289 },
+            { "file": "341.txt", "num_sentence": 11, "word_count": 208 },
+            { "file": "286.txt", "num_sentence": 6, "word_count": 107 },
+            { "file": "337.txt", "num_sentence": 5, "word_count": 50 },
+            { "file": "204.txt", "num_sentence": 2, "word_count": 39 }
+        ]
+    },
+    {
+        "name": "203.txt",
+        "copy_from": [
+            { "file": "173.txt", "num_sentence": 7, "word_count": 149 },
+            { "file": "208.txt", "num_sentence": 6, "word_count": 133 },
+            { "file": "374.txt", "num_sentence": 13, "word_count": 104 },
+            { "file": "113.txt", "num_sentence": 6, "word_count": 87 },
+            { "file": "47.txt", "num_sentence": 1, "word_count": 25 }
+        ]
+    },
+    {
+        "name": "204.txt",
+        "copy_from": [
+            { "file": "48.txt", "num_sentence": 15, "word_count": 319 },
+            { "file": "3.txt", "num_sentence": 14, "word_count": 299 },
+            { "file": "22.txt", "num_sentence": 3, "word_count": 31 },
+            { "file": "332.txt", "num_sentence": 1, "word_count": 31 },
+            { "file": "114.txt", "num_sentence": 1, "word_count": 14 }
+        ]
+    },
+    {
+        "name": "205.txt",
+        "copy_from": [
+            { "file": "23.txt", "num_sentence": 14, "word_count": 279 },
+            { "file": "105.txt", "num_sentence": 5, "word_count": 146 },
+            { "file": "79.txt", "num_sentence": 3, "word_count": 67 },
+            { "file": "112.txt", "num_sentence": 3, "word_count": 44 },
+            { "file": "242.txt", "num_sentence": 5, "word_count": 33 }
+        ]
+    },
+    {
+        "name": "206.txt",
+        "copy_from": [
+            { "file": "235.txt", "num_sentence": 11, "word_count": 267 },
+            { "file": "316.txt", "num_sentence": 6, "word_count": 105 },
+            { "file": "288.txt", "num_sentence": 4, "word_count": 40 },
+            { "file": "266.txt", "num_sentence": 3, "word_count": 29 },
+            { "file": "226.txt", "num_sentence": 1, "word_count": 23 }
+        ]
+    },
+    {
+        "name": "207.txt",
+        "copy_from": [
+            { "file": "97.txt", "num_sentence": 14, "word_count": 263 },
+            { "file": "126.txt", "num_sentence": 11, "word_count": 242 },
+            { "file": "85.txt", "num_sentence": 13, "word_count": 210 },
+            { "file": "282.txt", "num_sentence": 10, "word_count": 193 },
+            { "file": "201.txt", "num_sentence": 8, "word_count": 118 }
+        ]
+    },
+    {
+        "name": "208.txt",
+        "copy_from": [
+            { "file": "257.txt", "num_sentence": 12, "word_count": 243 },
+            { "file": "92.txt", "num_sentence": 7, "word_count": 166 },
+            { "file": "45.txt", "num_sentence": 7, "word_count": 137 },
+            { "file": "176.txt", "num_sentence": 6, "word_count": 112 },
+            { "file": "249.txt", "num_sentence": 3, "word_count": 41 }
+        ]
+    },
+    {
+        "name": "209.txt",
+        "copy_from": [
+            { "file": "336.txt", "num_sentence": 11, "word_count": 178 },
+            { "file": "211.txt", "num_sentence": 15, "word_count": 173 },
+            { "file": "194.txt", "num_sentence": 8, "word_count": 135 },
+            { "file": "261.txt", "num_sentence": 5, "word_count": 122 },
+            { "file": "268.txt", "num_sentence": 8, "word_count": 109 }
+        ]
+    },
+    {
+        "name": "21.txt",
+        "copy_from": [
+            { "file": "87.txt", "num_sentence": 15, "word_count": 238 },
+            { "file": "312.txt", "num_sentence": 9, "word_count": 146 },
+            { "file": "259.txt", "num_sentence": 6, "word_count": 110 },
+            { "file": "374.txt", "num_sentence": 6, "word_count": 81 },
+            { "file": "145.txt", "num_sentence": 5, "word_count": 71 }
+        ]
+    },
+    {
+        "name": "210.txt",
+        "copy_from": [
+            { "file": "292.txt", "num_sentence": 14, "word_count": 249 },
+            { "file": "197.txt", "num_sentence": 10, "word_count": 184 },
+            { "file": "176.txt", "num_sentence": 7, "word_count": 118 },
+            { "file": "319.txt", "num_sentence": 3, "word_count": 63 },
+            { "file": "209.txt", "num_sentence": 1, "word_count": 28 }
+        ]
+    },
+    {
+        "name": "211.txt",
+        "copy_from": [
+            { "file": "156.txt", "num_sentence": 12, "word_count": 198 },
+            { "file": "205.txt", "num_sentence": 11, "word_count": 192 },
+            { "file": "370.txt", "num_sentence": 6, "word_count": 71 },
+            { "file": "181.txt", "num_sentence": 3, "word_count": 67 },
+            { "file": "213.txt", "num_sentence": 4, "word_count": 43 }
+        ]
+    },
+    {
+        "name": "212.txt",
+        "copy_from": [
+            { "file": "49.txt", "num_sentence": 14, "word_count": 329 },
+            { "file": "102.txt", "num_sentence": 9, "word_count": 267 },
+            { "file": "206.txt", "num_sentence": 5, "word_count": 118 },
+            { "file": "251.txt", "num_sentence": 3, "word_count": 58 },
+            { "file": "138.txt", "num_sentence": 2, "word_count": 35 }
+        ]
+    },
+    {
+        "name": "213.txt",
+        "copy_from": [
+            { "file": "241.txt", "num_sentence": 10, "word_count": 281 },
+            { "file": "142.txt", "num_sentence": 14, "word_count": 217 },
+            { "file": "281.txt", "num_sentence": 10, "word_count": 166 },
+            { "file": "104.txt", "num_sentence": 4, "word_count": 58 },
+            { "file": "136.txt", "num_sentence": 3, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "214.txt",
+        "copy_from": [
+            { "file": "164.txt", "num_sentence": 15, "word_count": 269 },
+            { "file": "326.txt", "num_sentence": 10, "word_count": 191 },
+            { "file": "194.txt", "num_sentence": 6, "word_count": 137 },
+            { "file": "331.txt", "num_sentence": 9, "word_count": 58 },
+            { "file": "231.txt", "num_sentence": 4, "word_count": 27 }
+        ]
+    },
+    {
+        "name": "215.txt",
+        "copy_from": [
+            { "file": "234.txt", "num_sentence": 14, "word_count": 359 },
+            { "file": "190.txt", "num_sentence": 12, "word_count": 249 },
+            { "file": "14.txt", "num_sentence": 11, "word_count": 219 },
+            { "file": "375.txt", "num_sentence": 6, "word_count": 131 },
+            { "file": "285.txt", "num_sentence": 5, "word_count": 100 }
+        ]
+    },
+    {
+        "name": "216.txt",
+        "copy_from": [
+            { "file": "279.txt", "num_sentence": 14, "word_count": 365 },
+            { "file": "293.txt", "num_sentence": 12, "word_count": 198 },
+            { "file": "0.txt", "num_sentence": 2, "word_count": 51 },
+            { "file": "29.txt", "num_sentence": 4, "word_count": 36 },
+            { "file": "207.txt", "num_sentence": 1, "word_count": 22 }
+        ]
+    },
+    {
+        "name": "217.txt",
+        "copy_from": [
+            { "file": "69.txt", "num_sentence": 15, "word_count": 457 },
+            { "file": "29.txt", "num_sentence": 11, "word_count": 259 },
+            { "file": "295.txt", "num_sentence": 12, "word_count": 233 },
+            { "file": "192.txt", "num_sentence": 5, "word_count": 95 },
+            { "file": "367.txt", "num_sentence": 8, "word_count": 71 }
+        ]
+    },
+    {
+        "name": "218.txt",
+        "copy_from": [
+            { "file": "167.txt", "num_sentence": 12, "word_count": 278 },
+            { "file": "156.txt", "num_sentence": 15, "word_count": 242 },
+            { "file": "64.txt", "num_sentence": 7, "word_count": 213 },
+            { "file": "264.txt", "num_sentence": 7, "word_count": 136 },
+            { "file": "118.txt", "num_sentence": 5, "word_count": 93 }
+        ]
+    },
+    {
+        "name": "22.txt",
+        "copy_from": [
+            { "file": "279.txt", "num_sentence": 7, "word_count": 102 },
+            { "file": "122.txt", "num_sentence": 4, "word_count": 68 },
+            { "file": "141.txt", "num_sentence": 3, "word_count": 56 },
+            { "file": "12.txt", "num_sentence": 3, "word_count": 33 },
+            { "file": "339.txt", "num_sentence": 3, "word_count": 31 }
+        ]
+    },
+    {
+        "name": "23.txt",
+        "copy_from": [
+            { "file": "249.txt", "num_sentence": 7, "word_count": 124 },
+            { "file": "261.txt", "num_sentence": 8, "word_count": 95 },
+            { "file": "268.txt", "num_sentence": 3, "word_count": 53 },
+            { "file": "11.txt", "num_sentence": 2, "word_count": 52 },
+            { "file": "12.txt", "num_sentence": 2, "word_count": 25 }
+        ]
+    },
+    {
+        "name": "24.txt",
+        "copy_from": [
+            { "file": "348.txt", "num_sentence": 8, "word_count": 167 },
+            { "file": "291.txt", "num_sentence": 9, "word_count": 149 },
+            { "file": "246.txt", "num_sentence": 5, "word_count": 57 },
+            { "file": "272.txt", "num_sentence": 3, "word_count": 41 },
+            { "file": "282.txt", "num_sentence": 1, "word_count": 18 }
+        ]
+    },
+    {
+        "name": "25.txt",
+        "copy_from": [
+            { "file": "112.txt", "num_sentence": 13, "word_count": 354 },
+            { "file": "364.txt", "num_sentence": 8, "word_count": 94 },
+            { "file": "107.txt", "num_sentence": 4, "word_count": 92 },
+            { "file": "258.txt", "num_sentence": 4, "word_count": 48 },
+            { "file": "364.txt", "num_sentence": 1, "word_count": 22 }
+        ]
+    },
+    {
+        "name": "26.txt",
+        "copy_from": [
+            { "file": "359.txt", "num_sentence": 13, "word_count": 176 },
+            { "file": "78.txt", "num_sentence": 9, "word_count": 137 },
+            { "file": "133.txt", "num_sentence": 4, "word_count": 78 },
+            { "file": "200.txt", "num_sentence": 4, "word_count": 71 },
+            { "file": "250.txt", "num_sentence": 1, "word_count": 8 }
+        ]
+    },
+    {
+        "name": "27.txt",
+        "copy_from": [
+            { "file": "219.txt", "num_sentence": 15, "word_count": 317 },
+            { "file": "219.txt", "num_sentence": 15, "word_count": 279 },
+            { "file": "323.txt", "num_sentence": 13, "word_count": 278 },
+            { "file": "191.txt", "num_sentence": 8, "word_count": 143 },
+            { "file": "74.txt", "num_sentence": 5, "word_count": 78 }
+        ]
+    },
+    {
+        "name": "28.txt",
+        "copy_from": [
+            { "file": "107.txt", "num_sentence": 9, "word_count": 198 },
+            { "file": "37.txt", "num_sentence": 7, "word_count": 172 },
+            { "file": "261.txt", "num_sentence": 6, "word_count": 130 },
+            { "file": "331.txt", "num_sentence": 4, "word_count": 63 },
+            { "file": "8.txt", "num_sentence": 7, "word_count": 54 }
+        ]
+    },
+    {
+        "name": "29.txt",
+        "copy_from": [
+            { "file": "304.txt", "num_sentence": 9, "word_count": 227 },
+            { "file": "49.txt", "num_sentence": 12, "word_count": 211 },
+            { "file": "1.txt", "num_sentence": 8, "word_count": 175 },
+            { "file": "323.txt", "num_sentence": 9, "word_count": 162 },
+            { "file": "270.txt", "num_sentence": 7, "word_count": 103 }
+        ]
+    },
+    {
+        "name": "3.txt",
+        "copy_from": [
+            { "file": "154.txt", "num_sentence": 15, "word_count": 325 },
+            { "file": "345.txt", "num_sentence": 13, "word_count": 248 },
+            { "file": "178.txt", "num_sentence": 10, "word_count": 211 },
+            { "file": "320.txt", "num_sentence": 14, "word_count": 211 },
+            { "file": "92.txt", "num_sentence": 12, "word_count": 167 }
+        ]
+    },
+    {
+        "name": "30.txt",
+        "copy_from": [
+            { "file": "279.txt", "num_sentence": 12, "word_count": 274 },
+            { "file": "92.txt", "num_sentence": 5, "word_count": 154 },
+            { "file": "5.txt", "num_sentence": 6, "word_count": 133 },
+            { "file": "166.txt", "num_sentence": 15, "word_count": 128 },
+            { "file": "272.txt", "num_sentence": 5, "word_count": 67 }
+        ]
+    },
+    {
+        "name": "31.txt",
+        "copy_from": [
+            { "file": "301.txt", "num_sentence": 15, "word_count": 250 },
+            { "file": "275.txt", "num_sentence": 7, "word_count": 143 },
+            { "file": "333.txt", "num_sentence": 4, "word_count": 114 },
+            { "file": "295.txt", "num_sentence": 5, "word_count": 103 },
+            { "file": "232.txt", "num_sentence": 4, "word_count": 51 }
+        ]
+    },
+    {
+        "name": "32.txt",
+        "copy_from": [
+            { "file": "161.txt", "num_sentence": 13, "word_count": 281 },
+            { "file": "90.txt", "num_sentence": 9, "word_count": 227 },
+            { "file": "196.txt", "num_sentence": 11, "word_count": 175 },
+            { "file": "332.txt", "num_sentence": 1, "word_count": 15 },
+            { "file": "78.txt", "num_sentence": 1, "word_count": 3 }
+        ]
+    },
+    {
+        "name": "33.txt",
+        "copy_from": [
+            { "file": "88.txt", "num_sentence": 11, "word_count": 287 },
+            { "file": "172.txt", "num_sentence": 14, "word_count": 156 },
+            { "file": "162.txt", "num_sentence": 14, "word_count": 148 },
+            { "file": "316.txt", "num_sentence": 7, "word_count": 130 },
+            { "file": "189.txt", "num_sentence": 7, "word_count": 119 }
+        ]
+    },
+    {
+        "name": "34.txt",
+        "copy_from": [
+            { "file": "74.txt", "num_sentence": 15, "word_count": 345 },
+            { "file": "104.txt", "num_sentence": 13, "word_count": 268 },
+            { "file": "368.txt", "num_sentence": 8, "word_count": 195 },
+            { "file": "309.txt", "num_sentence": 9, "word_count": 68 },
+            { "file": "295.txt", "num_sentence": 7, "word_count": 64 }
+        ]
+    },
+    {
+        "name": "35.txt",
+        "copy_from": [
+            { "file": "28.txt", "num_sentence": 15, "word_count": 366 },
+            { "file": "78.txt", "num_sentence": 12, "word_count": 201 },
+            { "file": "273.txt", "num_sentence": 10, "word_count": 148 },
+            { "file": "207.txt", "num_sentence": 3, "word_count": 95 },
+            { "file": "122.txt", "num_sentence": 7, "word_count": 92 }
+        ]
+    },
+    {
+        "name": "36.txt",
+        "copy_from": [
+            { "file": "190.txt", "num_sentence": 14, "word_count": 245 },
+            { "file": "196.txt", "num_sentence": 10, "word_count": 171 },
+            { "file": "338.txt", "num_sentence": 8, "word_count": 143 },
+            { "file": "168.txt", "num_sentence": 7, "word_count": 96 },
+            { "file": "166.txt", "num_sentence": 3, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "37.txt",
+        "copy_from": [
+            { "file": "210.txt", "num_sentence": 12, "word_count": 251 },
+            { "file": "324.txt", "num_sentence": 12, "word_count": 248 },
+            { "file": "181.txt", "num_sentence": 10, "word_count": 183 },
+            { "file": "110.txt", "num_sentence": 7, "word_count": 172 },
+            { "file": "205.txt", "num_sentence": 10, "word_count": 131 }
+        ]
+    },
+    {
+        "name": "38.txt",
+        "copy_from": [
+            { "file": "12.txt", "num_sentence": 8, "word_count": 170 },
+            { "file": "366.txt", "num_sentence": 6, "word_count": 115 },
+            { "file": "260.txt", "num_sentence": 6, "word_count": 113 },
+            { "file": "43.txt", "num_sentence": 5, "word_count": 100 },
+            { "file": "279.txt", "num_sentence": 2, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "39.txt",
+        "copy_from": [
+            { "file": "163.txt", "num_sentence": 13, "word_count": 250 },
+            { "file": "358.txt", "num_sentence": 10, "word_count": 240 },
+            { "file": "36.txt", "num_sentence": 8, "word_count": 163 },
+            { "file": "283.txt", "num_sentence": 7, "word_count": 83 },
+            { "file": "150.txt", "num_sentence": 2, "word_count": 15 }
+        ]
+    },
+    {
+        "name": "4.txt",
+        "copy_from": [
+            { "file": "107.txt", "num_sentence": 11, "word_count": 140 },
+            { "file": "228.txt", "num_sentence": 7, "word_count": 135 },
+            { "file": "27.txt", "num_sentence": 6, "word_count": 97 },
+            { "file": "2.txt", "num_sentence": 12, "word_count": 88 },
+            { "file": "47.txt", "num_sentence": 2, "word_count": 56 }
+        ]
+    },
+    {
+        "name": "40.txt",
+        "copy_from": [
+            { "file": "72.txt", "num_sentence": 11, "word_count": 188 },
+            { "file": "140.txt", "num_sentence": 6, "word_count": 94 },
+            { "file": "374.txt", "num_sentence": 3, "word_count": 66 },
+            { "file": "59.txt", "num_sentence": 1, "word_count": 37 },
+            { "file": "179.txt", "num_sentence": 1, "word_count": 28 }
+        ]
+    },
+    {
+        "name": "41.txt",
+        "copy_from": [
+            { "file": "25.txt", "num_sentence": 14, "word_count": 297 },
+            { "file": "352.txt", "num_sentence": 10, "word_count": 187 },
+            { "file": "141.txt", "num_sentence": 3, "word_count": 70 },
+            { "file": "98.txt", "num_sentence": 3, "word_count": 68 },
+            { "file": "29.txt", "num_sentence": 7, "word_count": 63 }
+        ]
+    },
+    {
+        "name": "42.txt",
+        "copy_from": [
+            { "file": "118.txt", "num_sentence": 12, "word_count": 328 },
+            { "file": "98.txt", "num_sentence": 6, "word_count": 197 },
+            { "file": "73.txt", "num_sentence": 9, "word_count": 174 },
+            { "file": "7.txt", "num_sentence": 5, "word_count": 161 },
+            { "file": "321.txt", "num_sentence": 9, "word_count": 148 }
+        ]
+    },
+    {
+        "name": "43.txt",
+        "copy_from": [
+            { "file": "89.txt", "num_sentence": 14, "word_count": 232 },
+            { "file": "47.txt", "num_sentence": 9, "word_count": 195 },
+            { "file": "348.txt", "num_sentence": 14, "word_count": 172 },
+            { "file": "217.txt", "num_sentence": 13, "word_count": 156 },
+            { "file": "73.txt", "num_sentence": 11, "word_count": 151 }
+        ]
+    },
+    {
+        "name": "44.txt",
+        "copy_from": [
+            { "file": "10.txt", "num_sentence": 11, "word_count": 318 },
+            { "file": "101.txt", "num_sentence": 9, "word_count": 174 },
+            { "file": "104.txt", "num_sentence": 10, "word_count": 101 },
+            { "file": "32.txt", "num_sentence": 4, "word_count": 81 },
+            { "file": "31.txt", "num_sentence": 2, "word_count": 49 }
+        ]
+    },
+    {
+        "name": "45.txt",
+        "copy_from": [
+            { "file": "333.txt", "num_sentence": 11, "word_count": 248 },
+            { "file": "85.txt", "num_sentence": 15, "word_count": 88 },
+            { "file": "257.txt", "num_sentence": 4, "word_count": 70 },
+            { "file": "295.txt", "num_sentence": 4, "word_count": 33 },
+            { "file": "194.txt", "num_sentence": 3, "word_count": 25 }
+        ]
+    },
+    {
+        "name": "46.txt",
+        "copy_from": [
+            { "file": "272.txt", "num_sentence": 14, "word_count": 313 },
+            { "file": "190.txt", "num_sentence": 15, "word_count": 294 },
+            { "file": "340.txt", "num_sentence": 15, "word_count": 249 },
+            { "file": "75.txt", "num_sentence": 12, "word_count": 163 },
+            { "file": "198.txt", "num_sentence": 1, "word_count": 1 }
+        ]
+    },
+    {
+        "name": "47.txt",
+        "copy_from": [
+            { "file": "5.txt", "num_sentence": 6, "word_count": 105 },
+            { "file": "238.txt", "num_sentence": 7, "word_count": 82 },
+            { "file": "120.txt", "num_sentence": 4, "word_count": 53 },
+            { "file": "74.txt", "num_sentence": 1, "word_count": 35 },
+            { "file": "209.txt", "num_sentence": 1, "word_count": 1 }
+        ]
+    },
+    {
+        "name": "48.txt",
+        "copy_from": [
+            { "file": "53.txt", "num_sentence": 10, "word_count": 208 },
+            { "file": "181.txt", "num_sentence": 8, "word_count": 173 },
+            { "file": "262.txt", "num_sentence": 7, "word_count": 100 },
+            { "file": "129.txt", "num_sentence": 3, "word_count": 71 },
+            { "file": "234.txt", "num_sentence": 6, "word_count": 41 }
+        ]
+    },
+    {
+        "name": "49.txt",
+        "copy_from": [
+            { "file": "285.txt", "num_sentence": 15, "word_count": 218 },
+            { "file": "249.txt", "num_sentence": 9, "word_count": 115 },
+            { "file": "76.txt", "num_sentence": 6, "word_count": 102 },
+            { "file": "247.txt", "num_sentence": 6, "word_count": 75 },
+            { "file": "173.txt", "num_sentence": 1, "word_count": 26 }
+        ]
+    },
+    {
+        "name": "5.txt",
+        "copy_from": [
+            { "file": "104.txt", "num_sentence": 11, "word_count": 186 },
+            { "file": "347.txt", "num_sentence": 9, "word_count": 147 },
+            { "file": "271.txt", "num_sentence": 6, "word_count": 140 },
+            { "file": "16.txt", "num_sentence": 8, "word_count": 64 },
+            { "file": "169.txt", "num_sentence": 2, "word_count": 5 }
+        ]
+    },
+    {
+        "name": "50.txt",
+        "copy_from": [
+            { "file": "130.txt", "num_sentence": 13, "word_count": 256 },
+            { "file": "320.txt", "num_sentence": 13, "word_count": 207 },
+            { "file": "311.txt", "num_sentence": 6, "word_count": 128 },
+            { "file": "124.txt", "num_sentence": 14, "word_count": 127 },
+            { "file": "221.txt", "num_sentence": 1, "word_count": 18 }
+        ]
+    },
+    {
+        "name": "51.txt",
+        "copy_from": [
+            { "file": "250.txt", "num_sentence": 12, "word_count": 248 },
+            { "file": "273.txt", "num_sentence": 12, "word_count": 196 },
+            { "file": "103.txt", "num_sentence": 3, "word_count": 53 },
+            { "file": "265.txt", "num_sentence": 1, "word_count": 24 },
+            { "file": "275.txt", "num_sentence": 1, "word_count": 16 }
+        ]
+    },
+    {
+        "name": "52.txt",
+        "copy_from": [
+            { "file": "39.txt", "num_sentence": 15, "word_count": 206 },
+            { "file": "250.txt", "num_sentence": 11, "word_count": 187 },
+            { "file": "90.txt", "num_sentence": 13, "word_count": 152 },
+            { "file": "103.txt", "num_sentence": 5, "word_count": 126 },
+            { "file": "237.txt", "num_sentence": 2, "word_count": 21 }
+        ]
+    },
+    {
+        "name": "53.txt",
+        "copy_from": [
+            { "file": "101.txt", "num_sentence": 13, "word_count": 282 },
+            { "file": "3.txt", "num_sentence": 13, "word_count": 255 },
+            { "file": "240.txt", "num_sentence": 11, "word_count": 222 },
+            { "file": "176.txt", "num_sentence": 11, "word_count": 214 },
+            { "file": "339.txt", "num_sentence": 11, "word_count": 212 }
+        ]
+    },
+    {
+        "name": "54.txt",
+        "copy_from": [
+            { "file": "113.txt", "num_sentence": 11, "word_count": 189 },
+            { "file": "29.txt", "num_sentence": 5, "word_count": 115 },
+            { "file": "70.txt", "num_sentence": 6, "word_count": 112 },
+            { "file": "277.txt", "num_sentence": 2, "word_count": 75 },
+            { "file": "178.txt", "num_sentence": 6, "word_count": 63 }
+        ]
+    },
+    {
+        "name": "55.txt",
+        "copy_from": [
+            { "file": "191.txt", "num_sentence": 10, "word_count": 317 },
+            { "file": "132.txt", "num_sentence": 13, "word_count": 267 },
+            { "file": "150.txt", "num_sentence": 6, "word_count": 121 },
+            { "file": "228.txt", "num_sentence": 3, "word_count": 22 },
+            { "file": "302.txt", "num_sentence": 1, "word_count": 19 }
+        ]
+    },
+    {
+        "name": "56.txt",
+        "copy_from": [
+            { "file": "176.txt", "num_sentence": 14, "word_count": 284 },
+            { "file": "195.txt", "num_sentence": 8, "word_count": 173 },
+            { "file": "260.txt", "num_sentence": 10, "word_count": 145 },
+            { "file": "352.txt", "num_sentence": 5, "word_count": 86 },
+            { "file": "179.txt", "num_sentence": 3, "word_count": 35 }
+        ]
+    },
+    {
+        "name": "57.txt",
+        "copy_from": [
+            { "file": "169.txt", "num_sentence": 13, "word_count": 244 },
+            { "file": "76.txt", "num_sentence": 12, "word_count": 192 },
+            { "file": "200.txt", "num_sentence": 12, "word_count": 151 },
+            { "file": "232.txt", "num_sentence": 1, "word_count": 12 },
+            { "file": "3.txt", "num_sentence": 2, "word_count": 8 }
+        ]
+    },
+    {
+        "name": "58.txt",
+        "copy_from": [
+            { "file": "175.txt", "num_sentence": 15, "word_count": 316 },
+            { "file": "43.txt", "num_sentence": 13, "word_count": 253 },
+            { "file": "247.txt", "num_sentence": 8, "word_count": 170 },
+            { "file": "305.txt", "num_sentence": 10, "word_count": 152 },
+            { "file": "314.txt", "num_sentence": 4, "word_count": 49 }
+        ]
+    },
+    {
+        "name": "59.txt",
+        "copy_from": [
+            { "file": "7.txt", "num_sentence": 14, "word_count": 184 },
+            { "file": "65.txt", "num_sentence": 8, "word_count": 169 },
+            { "file": "52.txt", "num_sentence": 6, "word_count": 157 },
+            { "file": "290.txt", "num_sentence": 5, "word_count": 108 },
+            { "file": "8.txt", "num_sentence": 2, "word_count": 21 }
+        ]
+    },
+    {
+        "name": "6.txt",
+        "copy_from": [
+            { "file": "226.txt", "num_sentence": 14, "word_count": 430 },
+            { "file": "84.txt", "num_sentence": 14, "word_count": 238 },
+            { "file": "131.txt", "num_sentence": 11, "word_count": 219 },
+            { "file": "73.txt", "num_sentence": 13, "word_count": 176 },
+            { "file": "348.txt", "num_sentence": 15, "word_count": 156 }
+        ]
+    },
+    {
+        "name": "60.txt",
+        "copy_from": [
+            { "file": "161.txt", "num_sentence": 6, "word_count": 127 },
+            { "file": "297.txt", "num_sentence": 6, "word_count": 118 },
+            { "file": "152.txt", "num_sentence": 5, "word_count": 108 },
+            { "file": "203.txt", "num_sentence": 3, "word_count": 57 },
+            { "file": "283.txt", "num_sentence": 3, "word_count": 46 }
+        ]
+    },
+    {
+        "name": "61.txt",
+        "copy_from": [
+            { "file": "278.txt", "num_sentence": 11, "word_count": 272 },
+            { "file": "335.txt", "num_sentence": 14, "word_count": 217 },
+            { "file": "34.txt", "num_sentence": 7, "word_count": 167 },
+            { "file": "130.txt", "num_sentence": 11, "word_count": 160 },
+            { "file": "209.txt", "num_sentence": 3, "word_count": 75 }
+        ]
+    },
+    {
+        "name": "62.txt",
+        "copy_from": [
+            { "file": "356.txt", "num_sentence": 9, "word_count": 251 },
+            { "file": "312.txt", "num_sentence": 13, "word_count": 216 },
+            { "file": "272.txt", "num_sentence": 6, "word_count": 176 },
+            { "file": "72.txt", "num_sentence": 2, "word_count": 26 },
+            { "file": "62.txt", "num_sentence": 1, "word_count": 1 }
+        ]
+    },
+    {
+        "name": "63.txt",
+        "copy_from": [
+            { "file": "270.txt", "num_sentence": 11, "word_count": 191 },
+            { "file": "112.txt", "num_sentence": 12, "word_count": 163 },
+            { "file": "309.txt", "num_sentence": 9, "word_count": 107 },
+            { "file": "265.txt", "num_sentence": 5, "word_count": 75 },
+            { "file": "221.txt", "num_sentence": 3, "word_count": 47 }
+        ]
+    },
+    {
+        "name": "64.txt",
+        "copy_from": [
+            { "file": "205.txt", "num_sentence": 14, "word_count": 263 },
+            { "file": "314.txt", "num_sentence": 7, "word_count": 171 },
+            { "file": "9.txt", "num_sentence": 12, "word_count": 169 },
+            { "file": "182.txt", "num_sentence": 8, "word_count": 168 },
+            { "file": "108.txt", "num_sentence": 6, "word_count": 127 }
+        ]
+    },
+    {
+        "name": "65.txt",
+        "copy_from": [
+            { "file": "38.txt", "num_sentence": 15, "word_count": 300 },
+            { "file": "131.txt", "num_sentence": 11, "word_count": 222 },
+            { "file": "281.txt", "num_sentence": 8, "word_count": 105 },
+            { "file": "212.txt", "num_sentence": 3, "word_count": 50 },
+            { "file": "183.txt", "num_sentence": 4, "word_count": 2 }
+        ]
+    },
+    {
+        "name": "66.txt",
+        "copy_from": [
+            { "file": "30.txt", "num_sentence": 14, "word_count": 219 },
+            { "file": "305.txt", "num_sentence": 7, "word_count": 206 },
+            { "file": "135.txt", "num_sentence": 8, "word_count": 169 },
+            { "file": "142.txt", "num_sentence": 5, "word_count": 88 },
+            { "file": "137.txt", "num_sentence": 6, "word_count": 27 }
+        ]
+    },
+    {
+        "name": "67.txt",
+        "copy_from": [
+            { "file": "168.txt", "num_sentence": 14, "word_count": 367 },
+            { "file": "169.txt", "num_sentence": 9, "word_count": 182 },
+            { "file": "374.txt", "num_sentence": 8, "word_count": 114 },
+            { "file": "153.txt", "num_sentence": 2, "word_count": 61 },
+            { "file": "256.txt", "num_sentence": 2, "word_count": 46 }
+        ]
+    },
+    {
+        "name": "68.txt",
+        "copy_from": [
+            { "file": "7.txt", "num_sentence": 11, "word_count": 223 },
+            { "file": "124.txt", "num_sentence": 9, "word_count": 191 },
+            { "file": "314.txt", "num_sentence": 7, "word_count": 129 },
+            { "file": "29.txt", "num_sentence": 12, "word_count": 92 },
+            { "file": "353.txt", "num_sentence": 4, "word_count": 46 }
+        ]
+    },
+    {
+        "name": "69.txt",
+        "copy_from": [
+            { "file": "55.txt", "num_sentence": 14, "word_count": 311 },
+            { "file": "3.txt", "num_sentence": 12, "word_count": 298 },
+            { "file": "87.txt", "num_sentence": 8, "word_count": 193 },
+            { "file": "372.txt", "num_sentence": 9, "word_count": 162 },
+            { "file": "194.txt", "num_sentence": 8, "word_count": 161 }
+        ]
+    },
+    {
+        "name": "7.txt",
+        "copy_from": [
+            { "file": "108.txt", "num_sentence": 9, "word_count": 231 },
+            { "file": "279.txt", "num_sentence": 7, "word_count": 127 },
+            { "file": "205.txt", "num_sentence": 6, "word_count": 107 },
+            { "file": "181.txt", "num_sentence": 7, "word_count": 94 },
+            { "file": "192.txt", "num_sentence": 4, "word_count": 35 }
+        ]
+    },
+    {
+        "name": "70.txt",
+        "copy_from": [
+            { "file": "106.txt", "num_sentence": 12, "word_count": 199 },
+            { "file": "29.txt", "num_sentence": 10, "word_count": 196 },
+            { "file": "29.txt", "num_sentence": 9, "word_count": 178 },
+            { "file": "221.txt", "num_sentence": 7, "word_count": 116 },
+            { "file": "92.txt", "num_sentence": 3, "word_count": 54 }
+        ]
+    },
+    {
+        "name": "71.txt",
+        "copy_from": [
+            { "file": "301.txt", "num_sentence": 10, "word_count": 192 },
+            { "file": "121.txt", "num_sentence": 8, "word_count": 133 },
+            { "file": "324.txt", "num_sentence": 6, "word_count": 96 },
+            { "file": "230.txt", "num_sentence": 2, "word_count": 73 },
+            { "file": "38.txt", "num_sentence": 4, "word_count": 55 }
+        ]
+    },
+    {
+        "name": "72.txt",
+        "copy_from": [
+            { "file": "171.txt", "num_sentence": 13, "word_count": 269 },
+            { "file": "44.txt", "num_sentence": 15, "word_count": 262 },
+            { "file": "231.txt", "num_sentence": 14, "word_count": 243 },
+            { "file": "79.txt", "num_sentence": 15, "word_count": 226 },
+            { "file": "174.txt", "num_sentence": 4, "word_count": 67 }
+        ]
+    },
+    {
+        "name": "73.txt",
+        "copy_from": [
+            { "file": "68.txt", "num_sentence": 7, "word_count": 153 },
+            { "file": "239.txt", "num_sentence": 4, "word_count": 137 },
+            { "file": "11.txt", "num_sentence": 7, "word_count": 101 },
+            { "file": "230.txt", "num_sentence": 3, "word_count": 78 },
+            { "file": "167.txt", "num_sentence": 1, "word_count": 27 }
+        ]
+    },
+    {
+        "name": "74.txt",
+        "copy_from": [
+            { "file": "94.txt", "num_sentence": 10, "word_count": 262 },
+            { "file": "360.txt", "num_sentence": 14, "word_count": 224 },
+            { "file": "184.txt", "num_sentence": 13, "word_count": 173 },
+            { "file": "350.txt", "num_sentence": 5, "word_count": 116 },
+            { "file": "109.txt", "num_sentence": 4, "word_count": 27 }
+        ]
+    },
+    {
+        "name": "75.txt",
+        "copy_from": [
+            { "file": "249.txt", "num_sentence": 13, "word_count": 173 },
+            { "file": "116.txt", "num_sentence": 11, "word_count": 158 },
+            { "file": "261.txt", "num_sentence": 4, "word_count": 39 },
+            { "file": "20.txt", "num_sentence": 2, "word_count": 29 },
+            { "file": "75.txt", "num_sentence": 1, "word_count": 7 }
+        ]
+    },
+    {
+        "name": "76.txt",
+        "copy_from": [
+            { "file": "93.txt", "num_sentence": 9, "word_count": 198 },
+            { "file": "211.txt", "num_sentence": 4, "word_count": 108 },
+            { "file": "178.txt", "num_sentence": 4, "word_count": 69 },
+            { "file": "4.txt", "num_sentence": 4, "word_count": 42 },
+            { "file": "166.txt", "num_sentence": 1, "word_count": 7 }
+        ]
+    },
+    {
+        "name": "77.txt",
+        "copy_from": [
+            { "file": "115.txt", "num_sentence": 12, "word_count": 146 },
+            { "file": "208.txt", "num_sentence": 6, "word_count": 98 },
+            { "file": "183.txt", "num_sentence": 3, "word_count": 70 },
+            { "file": "223.txt", "num_sentence": 3, "word_count": 37 },
+            { "file": "353.txt", "num_sentence": 2, "word_count": 16 }
+        ]
+    },
+    {
+        "name": "78.txt",
+        "copy_from": [
+            { "file": "71.txt", "num_sentence": 13, "word_count": 317 },
+            { "file": "65.txt", "num_sentence": 13, "word_count": 242 },
+            { "file": "177.txt", "num_sentence": 6, "word_count": 172 },
+            { "file": "141.txt", "num_sentence": 6, "word_count": 122 },
+            { "file": "114.txt", "num_sentence": 6, "word_count": 37 }
+        ]
+    },
+    {
+        "name": "79.txt",
+        "copy_from": [
+            { "file": "32.txt", "num_sentence": 13, "word_count": 238 },
+            { "file": "89.txt", "num_sentence": 13, "word_count": 173 },
+            { "file": "329.txt", "num_sentence": 7, "word_count": 161 },
+            { "file": "179.txt", "num_sentence": 6, "word_count": 120 },
+            { "file": "151.txt", "num_sentence": 3, "word_count": 61 }
+        ]
+    },
+    {
+        "name": "8.txt",
+        "copy_from": [
+            { "file": "71.txt", "num_sentence": 14, "word_count": 300 },
+            { "file": "234.txt", "num_sentence": 10, "word_count": 286 },
+            { "file": "241.txt", "num_sentence": 9, "word_count": 206 },
+            { "file": "225.txt", "num_sentence": 9, "word_count": 198 },
+            { "file": "356.txt", "num_sentence": 10, "word_count": 126 }
+        ]
+    },
+    {
+        "name": "80.txt",
+        "copy_from": [
+            { "file": "128.txt", "num_sentence": 13, "word_count": 270 },
+            { "file": "303.txt", "num_sentence": 13, "word_count": 257 },
+            { "file": "317.txt", "num_sentence": 12, "word_count": 194 },
+            { "file": "173.txt", "num_sentence": 3, "word_count": 82 },
+            { "file": "247.txt", "num_sentence": 4, "word_count": 48 }
+        ]
+    },
+    {
+        "name": "81.txt",
+        "copy_from": [
+            { "file": "215.txt", "num_sentence": 11, "word_count": 221 },
+            { "file": "190.txt", "num_sentence": 7, "word_count": 203 },
+            { "file": "340.txt", "num_sentence": 11, "word_count": 153 },
+            { "file": "311.txt", "num_sentence": 10, "word_count": 153 },
+            { "file": "79.txt", "num_sentence": 6, "word_count": 106 }
+        ]
+    },
+    {
+        "name": "82.txt",
+        "copy_from": [
+            { "file": "324.txt", "num_sentence": 13, "word_count": 325 },
+            { "file": "213.txt", "num_sentence": 8, "word_count": 99 },
+            { "file": "56.txt", "num_sentence": 5, "word_count": 80 },
+            { "file": "249.txt", "num_sentence": 8, "word_count": 65 },
+            { "file": "161.txt", "num_sentence": 4, "word_count": 36 }
+        ]
+    },
+    {
+        "name": "83.txt",
+        "copy_from": [
+            { "file": "362.txt", "num_sentence": 11, "word_count": 262 },
+            { "file": "77.txt", "num_sentence": 12, "word_count": 258 },
+            { "file": "129.txt", "num_sentence": 10, "word_count": 178 },
+            { "file": "341.txt", "num_sentence": 2, "word_count": 66 },
+            { "file": "341.txt", "num_sentence": 1, "word_count": 13 }
+        ]
+    },
+    {
+        "name": "84.txt",
+        "copy_from": [
+            { "file": "260.txt", "num_sentence": 11, "word_count": 153 },
+            { "file": "72.txt", "num_sentence": 6, "word_count": 116 },
+            { "file": "309.txt", "num_sentence": 5, "word_count": 109 },
+            { "file": "327.txt", "num_sentence": 5, "word_count": 83 },
+            { "file": "320.txt", "num_sentence": 2, "word_count": 43 }
+        ]
+    },
+    {
+        "name": "85.txt",
+        "copy_from": [
+            { "file": "227.txt", "num_sentence": 6, "word_count": 199 },
+            { "file": "274.txt", "num_sentence": 15, "word_count": 197 },
+            { "file": "284.txt", "num_sentence": 4, "word_count": 114 },
+            { "file": "117.txt", "num_sentence": 5, "word_count": 106 },
+            { "file": "315.txt", "num_sentence": 5, "word_count": 106 }
+        ]
+    },
+    {
+        "name": "86.txt",
+        "copy_from": [
+            { "file": "125.txt", "num_sentence": 15, "word_count": 278 },
+            { "file": "211.txt", "num_sentence": 12, "word_count": 252 },
+            { "file": "76.txt", "num_sentence": 10, "word_count": 199 },
+            { "file": "191.txt", "num_sentence": 12, "word_count": 45 },
+            { "file": "184.txt", "num_sentence": 4, "word_count": 44 }
+        ]
+    },
+    {
+        "name": "87.txt",
+        "copy_from": [
+            { "file": "181.txt", "num_sentence": 13, "word_count": 261 },
+            { "file": "287.txt", "num_sentence": 12, "word_count": 217 },
+            { "file": "134.txt", "num_sentence": 14, "word_count": 204 },
+            { "file": "37.txt", "num_sentence": 4, "word_count": 52 },
+            { "file": "199.txt", "num_sentence": 5, "word_count": 50 }
+        ]
+    },
+    {
+        "name": "88.txt",
+        "copy_from": [
+            { "file": "292.txt", "num_sentence": 9, "word_count": 246 },
+            { "file": "176.txt", "num_sentence": 13, "word_count": 220 },
+            { "file": "196.txt", "num_sentence": 8, "word_count": 215 },
+            { "file": "133.txt", "num_sentence": 6, "word_count": 93 },
+            { "file": "41.txt", "num_sentence": 4, "word_count": 91 }
+        ]
+    },
+    {
+        "name": "89.txt",
+        "copy_from": [
+            { "file": "210.txt", "num_sentence": 15, "word_count": 281 },
+            { "file": "225.txt", "num_sentence": 12, "word_count": 227 },
+            { "file": "267.txt", "num_sentence": 7, "word_count": 149 },
+            { "file": "364.txt", "num_sentence": 5, "word_count": 105 },
+            { "file": "192.txt", "num_sentence": 4, "word_count": 64 }
+        ]
+    },
+    {
+        "name": "9.txt",
+        "copy_from": [
+            { "file": "224.txt", "num_sentence": 7, "word_count": 173 },
+            { "file": "341.txt", "num_sentence": 13, "word_count": 147 },
+            { "file": "144.txt", "num_sentence": 7, "word_count": 132 },
+            { "file": "91.txt", "num_sentence": 7, "word_count": 125 },
+            { "file": "133.txt", "num_sentence": 2, "word_count": 24 }
+        ]
+    },
+    {
+        "name": "90.txt",
+        "copy_from": [
+            { "file": "360.txt", "num_sentence": 10, "word_count": 230 },
+            { "file": "146.txt", "num_sentence": 13, "word_count": 211 },
+            { "file": "76.txt", "num_sentence": 14, "word_count": 211 },
+            { "file": "210.txt", "num_sentence": 5, "word_count": 39 },
+            { "file": "253.txt", "num_sentence": 3, "word_count": 36 }
+        ]
+    },
+    {
+        "name": "91.txt",
+        "copy_from": [
+            { "file": "27.txt", "num_sentence": 13, "word_count": 265 },
+            { "file": "47.txt", "num_sentence": 15, "word_count": 241 },
+            { "file": "368.txt", "num_sentence": 9, "word_count": 211 },
+            { "file": "188.txt", "num_sentence": 2, "word_count": 44 },
+            { "file": "226.txt", "num_sentence": 2, "word_count": 33 }
+        ]
+    },
+    {
+        "name": "92.txt",
+        "copy_from": [
+            { "file": "68.txt", "num_sentence": 7, "word_count": 126 },
+            { "file": "240.txt", "num_sentence": 4, "word_count": 106 },
+            { "file": "137.txt", "num_sentence": 3, "word_count": 42 },
+            { "file": "369.txt", "num_sentence": 5, "word_count": 38 },
+            { "file": "356.txt", "num_sentence": 1, "word_count": 18 }
+        ]
+    },
+    {
+        "name": "93.txt",
+        "copy_from": [
+            { "file": "169.txt", "num_sentence": 10, "word_count": 241 },
+            { "file": "263.txt", "num_sentence": 5, "word_count": 73 },
+            { "file": "308.txt", "num_sentence": 3, "word_count": 46 },
+            { "file": "233.txt", "num_sentence": 1, "word_count": 19 },
+            { "file": "41.txt", "num_sentence": 1, "word_count": 6 }
+        ]
+    },
+    {
+        "name": "94.txt",
+        "copy_from": [
+            { "file": "109.txt", "num_sentence": 15, "word_count": 277 },
+            { "file": "111.txt", "num_sentence": 13, "word_count": 192 },
+            { "file": "224.txt", "num_sentence": 6, "word_count": 108 },
+            { "file": "21.txt", "num_sentence": 3, "word_count": 106 },
+            { "file": "359.txt", "num_sentence": 2, "word_count": 23 }
+        ]
+    },
+    {
+        "name": "95.txt",
+        "copy_from": [
+            { "file": "104.txt", "num_sentence": 15, "word_count": 347 },
+            { "file": "157.txt", "num_sentence": 12, "word_count": 209 },
+            { "file": "373.txt", "num_sentence": 12, "word_count": 194 },
+            { "file": "203.txt", "num_sentence": 8, "word_count": 122 },
+            { "file": "141.txt", "num_sentence": 2, "word_count": 41 }
+        ]
+    },
+    {
+        "name": "96.txt",
+        "copy_from": [
+            { "file": "104.txt", "num_sentence": 14, "word_count": 272 },
+            { "file": "337.txt", "num_sentence": 13, "word_count": 213 },
+            { "file": "262.txt", "num_sentence": 12, "word_count": 186 },
+            { "file": "72.txt", "num_sentence": 7, "word_count": 99 },
+            { "file": "3.txt", "num_sentence": 2, "word_count": 4 }
+        ]
+    },
+    {
+        "name": "97.txt",
+        "copy_from": [
+            { "file": "249.txt", "num_sentence": 13, "word_count": 248 },
+            { "file": "21.txt", "num_sentence": 5, "word_count": 150 },
+            { "file": "242.txt", "num_sentence": 3, "word_count": 59 },
+            { "file": "25.txt", "num_sentence": 2, "word_count": 27 },
+            { "file": "322.txt", "num_sentence": 1, "word_count": 11 }
+        ]
+    },
+    {
+        "name": "98.txt",
+        "copy_from": [
+            { "file": "232.txt", "num_sentence": 11, "word_count": 326 },
+            { "file": "52.txt", "num_sentence": 7, "word_count": 170 },
+            { "file": "23.txt", "num_sentence": 10, "word_count": 123 },
+            { "file": "16.txt", "num_sentence": 7, "word_count": 92 },
+            { "file": "108.txt", "num_sentence": 5, "word_count": 55 }
+        ]
+    },
+    {
+        "name": "99.txt",
+        "copy_from": [
+            { "file": "245.txt", "num_sentence": 10, "word_count": 143 },
+            { "file": "371.txt", "num_sentence": 10, "word_count": 135 },
+            { "file": "231.txt", "num_sentence": 8, "word_count": 114 },
+            { "file": "104.txt", "num_sentence": 3, "word_count": 83 },
+            { "file": "116.txt", "num_sentence": 6, "word_count": 35 }
+        ]
+    }
+]
