@@ -28,9 +28,9 @@ def compare_similarity_error(prediction0, actual0):
         score_actual = list(filter(lambda s: s["file"] == score_pred["file"], scores_actual))
         if score_actual and len(score_actual) > 0:
             score = score_actual[0]["score"]
-            error += abs(score - score_pred["score"]) / 2
+            error += abs(score - score_pred["score"]) / 2.5
         else:
-            error += abs(score_pred["score"]) / 2
+            error += abs(score_pred["score"]) / 2.5
     return pattern,error
 
     # prediction0 = np.array([p['score'] for p in prediction0])    
