@@ -48,6 +48,7 @@ def main():
         pattern, error = compare_similarity_error(prediction0, actual0)
         errors.append(error)
     errors.sort()
+    print("avg error", sum(errors) / len(errors))
     X = np.linspace(0, 1, len(errors))
     Y = errors
     # plotting using plt.pyplot() Figure 2
